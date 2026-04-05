@@ -28,7 +28,7 @@ import anthropic
 
 # ── 定数 ─────────────────────────────────────────────────────────────────
 JST = timezone(timedelta(hours=9))
-DATA_FILE = Path(__file__).parent.parent / "data" / "news.json"
+DATA_FILE = Path(__file__).parent.parent / "docs" / "data" / "news.json"
 MAX_RETRIES = 3
 RETRY_DELAY = 5
 
