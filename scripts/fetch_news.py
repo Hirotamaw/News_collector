@@ -1,7 +1,8 @@
 """
-暗号資産ニュース 自動取得・要約スクリプト v3.1
+暗号資産ニュース 自動取得・要約スクリプト v4
 """
 
+import html
 import json
 import os
 import re
@@ -22,42 +23,58 @@ RETRY_DELAY = 5
 
 # ── カテゴリ定義 ──────────────────────────────────────────────────────────
 #
-# 【技術系】
-#   ブロックチェーン・アップデート : チェーンのアップデート、EIP/BIP等の改善提案、フォーク
-#   障害・攻撃                     : ネットワーク障害、ハック、流出、詐欺、セキュリティ事故
+# 技術系:
+#   アップデート       : ブロックチェーンやDeFiのアップデート、改善提案(EIP/BIP等)、フォーク
+#   障害・攻撃         : ネットワーク障害、ハック・攻撃、取引所での流出事例、詐欺
 #
-# 【アセット系】
-#   ステーブルコイン       : USDT/USDC/JPYC/CBDC等の安定価値通貨
-#   NFT                    : NFT、デジタルアート、ゲームアイテム
-#   トークン化預金         : Tokenized Deposit、預金トークン
-#   セキュリティトークン   : Security Token、株式/国債/MMFのトークン化
-#   暗号資産ETF            : ビットコインETF、イーサリアムETF等の上場商品
+# アセット系ビジネス:
+#   ステーブルコイン   : USDT/USDC/JPYC/CBDC等の安定価値通貨に関するビジネス
+#   NFT                : NFT、デジタルアート、ゲームアイテムに関するビジネス
+#   トークン化預金     : Tokenized Deposit、預金トークンに関するビジネス
+#   セキュリティトークン : ST、トークン化MMF/株式/国債、セキュリティトークンに関するビジネス
+#   暗号資産ETF        : BTC/ETH ETFなど上場投資商品に関するビジネス
 #
-# 【市場・規制】
-#   マーケット   : 価格変動、相場分析、市場動向、トレード
-#   規制・法律   : 各国規制、当局動向、法整備
-#
-# 【その他ビジネス】
-#   ビジネス   : 上記に当てはまらない企業活動、提携、資金調達、経営
-#   分析・レポート : 調査レポート、アナリスト分析、統計データ
-#   イベント・人事 : カンファレンス、展示会、人事異動
-#   その他         : 上記のどれにも該当しない記事
+# その他:
+#   ビジネス       : 上記アセット区分に当てはまらない企業・業界のビジネスニュース
+#   分析・レポート : 調査レポート、アナリスト分析、統計・データ
+#   マーケット     : 価格変動・相場・市場動向（ビジネスや分析を含まない純粋な相場情報）
+#   規制・法律     : 各国の規制動向、当局の発表、法整備
+#   イベント・人事 : カンファレンス、展示会、人事異動、提携発表
+#   その他         : 上記のどれにも当てはまらないニュース
 #
 CATEGORY_CHOICES = (
-    "ブロックチェーン・アップデート"
+    "アップデート"
     " / 障害・攻撃"
     " / ステーブルコイン"
     " / NFT"
     " / トークン化預金"
     " / セキュリティトークン"
     " / 暗号資産ETF"
-    " / マーケット"
-    " / 規制・法律"
     " / ビジネス"
     " / 分析・レポート"
+    " / マーケット"
+    " / 規制・法律"
     " / イベント・人事"
     " / その他"
 )
+
+# カテゴリ判定の補助説明（プロンプトに埋め込む）
+CATEGORY_GUIDE = """
+カテゴリの選び方:
+- アップデート: ブロックチェーン・DeFiのプロトコル更新、EIP/BIP提案、ハードフォーク/ソフトフォーク
+- 障害・攻撃: ハック被害、資金流出、DDoS、バグによる障害、詐欺・フィッシング
+- ステーブルコイン: USDT/USDC/JPYC/CBDC等の発行・運用・規制に関するビジネス
+- NFT: NFTの発行・売買・マーケットプレイス・ゲームアイテムに関するビジネス
+- トークン化預金: Tokenized Deposit・預金トークンの発行・実証実験・導入
+- セキュリティトークン: ST・トークン化MMF/株式/国債/不動産の発行・取引・制度
+- 暗号資産ETF: ビットコインETF・イーサリアムETF等の申請・承認・運用
+- ビジネス: 上記アセット区分に当てはまらない企業の資金調達・提携・経営・M&A
+- 分析・レポート: 調査会社・アナリストのレポート、オンチェーンデータ分析
+- マーケット: 価格・相場・出来高など純粋な市場動向（企業ニュースでなく相場情報）
+- 規制・法律: 各国当局の規制・法整備・ライセンス・訴訟
+- イベント・人事: カンファレンス・展示会・人事異動・コミュニティイベント
+- その他: 上記のどれにも当てはまらない場合のみ選択
+"""
 
 # ── 取得対象ソース ────────────────────────────────────────────────────────
 SOURCES = [
@@ -68,9 +85,31 @@ SOURCES = [
 ]
 
 
+def clean_text(raw: str) -> str:
+    """
+    RSSのテキストをクリーニングする。
+    - HTMLタグ除去
+    - HTMLエンティティをデコード（&amp; → & , &#8230; → … 等）
+    - 省略記号（…）と [&hellip;] 類似表現を除去
+    - 連続空白・改行を正規化
+    """
+    # HTMLタグ除去
+    text = re.sub(r"<[^>]+>", "", raw)
+    # HTMLエンティティをデコード（&#8230; → … など）
+    text = html.unescape(text)
+    # 省略記号や「[…]」「[&hellip;]」「&#8230;」の残渣を除去
+    text = re.sub(r"\[…\]|\[&#8230;\]|\[&hellip;\]|\[\.{3}\]", "", text)
+    text = re.sub(r"…+", "", text)
+    text = re.sub(r"\.{3,}", "", text)
+    # 連続空白・改行を正規化
+    text = re.sub(r"[\r\n\t]+", " ", text)
+    text = re.sub(r"\s{2,}", " ", text)
+    return text.strip()
+
+
 # ── RSS 取得 ──────────────────────────────────────────────────────────────
 def fetch_rss(source: dict) -> list[dict]:
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/3.1)"}
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/4.0)"}
     resp = None
     for attempt in range(MAX_RETRIES):
         try:
@@ -79,30 +118,30 @@ def fetch_rss(source: dict) -> list[dict]:
             break
         except requests.RequestException as e:
             if attempt == MAX_RETRIES - 1:
-                print(f"  ✗ [{source['name']}] RSS 取得失敗: {e}")
+                print(f"  ✗ [{source['name']}] RSS取得失敗: {e}")
                 return []
             time.sleep(RETRY_DELAY)
 
     try:
         root = ET.fromstring(resp.content)
     except ET.ParseError as e:
-        print(f"  ✗ [{source['name']}] XML パースエラー: {e}")
+        print(f"  ✗ [{source['name']}] XMLパースエラー: {e}")
         return []
 
     items = []
     for item in root.findall(".//item"):
-        title           = (item.findtext("title") or "").strip()
-        link            = (item.findtext("link")  or "").strip()
+        title_raw       = item.findtext("title") or ""
+        link            = (item.findtext("link") or "").strip()
         pub_date_str    = (item.findtext("pubDate") or "").strip()
-        description_raw = (item.findtext("description") or "").strip()
+        description_raw = item.findtext("description") or ""
         cats            = [el.text.strip() for el in item.findall("category") if el.text]
         category_raw    = cats[0] if cats else ""
 
-        # HTMLタグ除去・空白正規化
-        description = re.sub(r"<[^>]+>", "", description_raw).strip()
-        description = re.sub(r"\s+", " ", description).strip()
-        # 要約に使えるよう十分な文字数を確保（1000字まで）
-        description = description[:1000]
+        title       = clean_text(title_raw)
+        description = clean_text(description_raw)
+
+        # 要約に十分な文字数を確保（1200字まで）
+        description = description[:1200]
 
         pub_date_jst = None
         if pub_date_str:
@@ -140,8 +179,7 @@ def filter_recent(items: list[dict], hours: int = 24) -> list[dict]:
 
 # ── AI分析プロンプト ──────────────────────────────────────────────────────
 ANALYSIS_PROMPT = """\
-以下の暗号資産ニュース記事を分析してください。
-結果はJSONのみで返答してください（説明文・コードブロック記号は不要）。
+以下の暗号資産ニュース記事を分析し、JSONのみで返答してください（説明文・コードブロック記号は一切不要）。
 
 【タイトル】
 {title}
@@ -149,20 +187,22 @@ ANALYSIS_PROMPT = """\
 【本文・リード文】
 {description}
 
-【出力フォーマット】
+{category_guide}
+
+【出力JSON】
 {{
-  "summary": "【記事要約】ここに記事の内容を250〜350字程度で詳しく要約してください。何が起きたのか、誰が関与しているか、どのような影響があるか、具体的な数値・固有名詞を含め、この要約だけで記事の内容が把握できるように書いてください。省略せず文章として完結させてください。",
-  "category": "次の選択肢から最も適切な1つだけ選んでください: {categories}",
-  "main_entities": ["記事の主語・主体となっている企業・団体名を1〜3件（最重要のみ、個人名は除く）"],
-  "related_entities": ["記事中に登場するその他の企業・団体・プロトコル名（main_entitiesに含めたものは除く、最大10件、個人名は除く）"]
+  "summary": "ここに記事の要約を150〜200字で書く。何が起きたか・誰が関与しているか・どんな影響があるかを具体的に。省略記号(…)は絶対に使わない。必ず文章を完結させる。",
+  "category": "上記カテゴリの選び方を参考に最も適切な1つを選択: {categories}",
+  "main_entities": ["記事の主語・主体となっている企業・団体名（1〜3件、個人名は除外）"],
+  "related_entities": ["記事中に登場するその他の企業・団体・プロトコル名（最大8件、個人名は除外、main_entitiesと重複不可）"]
 }}
 
-【重要な注意事項】
-- summaryは必ず250字以上で書いてください。途中で終わらせず、完結した文章にしてください
-- summaryには具体的な数値（金額、枚数、割合等）や固有名詞を必ず含めてください
-- categoryは必ず上記の選択肢の中から1つだけ選んでください
-- main_entitiesは記事で主役となっている組織・企業のみ（1〜3件）
-- related_entitiesは記事に登場する関連組織（main_entitiesは除外）
+【必須ルール】
+- summaryは必ず150字以上200字以内で書くこと
+- summaryに省略記号（…や...）を使わないこと
+- summaryは完結した文章で終わること（途中で切らない）
+- categoryは選択肢の中から必ず1つだけ選ぶこと
+- JSONのみ返答し、前後に説明文を付けないこと
 """
 
 
@@ -171,19 +211,23 @@ def analyze_article(
     title: str,
     description: str,
 ) -> dict:
-    """要約・カテゴリ・企業名を一括で取得する"""
+    """要約・カテゴリ・企業名を一括取得する"""
 
-    # descriptionが短すぎる場合はtitleから補完
-    content = description if len(description) > 50 else f"{title}。{description}"
+    # descriptionが短すぎる場合はtitleを補完
+    if len(description) < 30:
+        content = f"{title}"
+    else:
+        content = description
 
     prompt = ANALYSIS_PROMPT.format(
         title=title,
         description=content,
+        category_guide=CATEGORY_GUIDE,
         categories=CATEGORY_CHOICES,
     )
 
     fallback = {
-        "summary":          "",
+        "summary":          description[:200] if len(description) >= 30 else title,
         "category":         "その他",
         "main_entities":    [],
         "related_entities": [],
@@ -193,22 +237,26 @@ def analyze_article(
         try:
             msg = client.messages.create(
                 model="claude-haiku-4-5-20251001",
-                max_tokens=800,   # 要約に十分なトークン数を確保
+                max_tokens=900,
                 messages=[{"role": "user", "content": prompt}],
             )
             raw = msg.content[0].text.strip()
 
             # コードブロック除去
-            raw = re.sub(r"^```(?:json)?\s*", "", raw, flags=re.IGNORECASE)
-            raw = re.sub(r"\s*```$", "", raw)
+            raw = re.sub(r"^```(?:json)?\s*\n?", "", raw, flags=re.IGNORECASE)
+            raw = re.sub(r"\n?```\s*$", "", raw)
             raw = raw.strip()
 
             data = json.loads(raw)
 
-            summary = str(data.get("summary", "")).strip()
-            # summaryが短すぎる場合はdescriptionで補完
+            summary = clean_text(str(data.get("summary", ""))).strip()
+
+            # summaryが短すぎる・省略されている場合はdescriptionで代替
             if len(summary) < 50:
-                summary = description[:300] if description else title
+                summary = description[:200] if len(description) >= 50 else title
+
+            # 万が一残っている省略記号を除去
+            summary = re.sub(r"…+|\.{3,}", "", summary).strip()
 
             return {
                 "summary":          summary,
@@ -218,10 +266,10 @@ def analyze_article(
             }
 
         except json.JSONDecodeError:
-            # JSONパース失敗 → raw全体をsummaryとして利用
-            print(f"    JSONパースエラー。rawテキストをsummaryに使用。")
-            fallback["summary"] = raw[:400] if raw else description[:300]
-            return fallback
+            print(f"    JSONパースエラー（attempt {attempt+1}）")
+            if attempt == MAX_RETRIES - 1:
+                return fallback
+            time.sleep(RETRY_DELAY)
 
         except anthropic.RateLimitError:
             wait = RETRY_DELAY * (attempt + 2)
@@ -229,20 +277,17 @@ def analyze_article(
             time.sleep(wait)
 
         except anthropic.APIStatusError as e:
-            print(f"    API ステータスエラー({e.status_code}): {e.message}")
+            print(f"    APIエラー({e.status_code}): {e.message}")
             if attempt == MAX_RETRIES - 1:
-                fallback["summary"] = description[:300] if description else title
                 return fallback
             time.sleep(RETRY_DELAY)
 
         except Exception as e:
-            print(f"    予期しないエラー: {type(e).__name__}: {e}")
+            print(f"    エラー: {type(e).__name__}: {e}")
             if attempt == MAX_RETRIES - 1:
-                fallback["summary"] = description[:300] if description else title
                 return fallback
             time.sleep(RETRY_DELAY)
 
-    fallback["summary"] = description[:300] if description else title
     return fallback
 
 
@@ -329,7 +374,8 @@ def main():
             item["main_entities"]    = result["main_entities"]
             item["related_entities"] = result["related_entities"]
             item["fetched_at"]       = now_jst.isoformat()
-            print(f"       → カテゴリ: {result['category']} / 主体: {result['main_entities']}")
+            print(f"       カテゴリ: {result['category']} | 主体: {result['main_entities']}")
+            print(f"       要約({len(result['summary'])}字): {result['summary'][:60]}...")
             time.sleep(0.5)
         print()
     else:
