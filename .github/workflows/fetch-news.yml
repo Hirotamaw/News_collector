@@ -38,3 +38,8 @@ jobs:
           git add docs/data/news.json
           git diff --cached --quiet || git commit -m "chore: update news digest $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')"
           git push
+
+      - name: Reclassify existing articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/reclassify_existing.py
