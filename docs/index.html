@@ -7,295 +7,106 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <title>Crypto News Digest</title>
 <style>
-:root {
-  --bg:      #0a0a0f;
-  --bg2:     #13131c;
-  --bg3:     #1c1c28;
-  --bg4:     #232334;
-  --border:  rgba(255,255,255,0.07);
-  --border2: rgba(255,255,255,0.13);
-  --text1:   #eeedf8;
-  --text2:   #9998b8;
-  --text3:   #56556e;
-  --accent:  #7c6fff;
-  --accent2: #a89bff;
-  --green:   #22c55e;
-  --amber:   #f59e0b;
-  --red:     #ef4444;
-  --r-sm:    6px;
-  --r-md:    10px;
-  --r-lg:    16px;
-  --safe-b:  env(safe-area-inset-bottom,0px);
-}
+:root{--bg:#0a0a0f;--bg2:#13131c;--bg3:#1c1c28;--bg4:#232334;--border:rgba(255,255,255,0.07);--border2:rgba(255,255,255,0.13);--text1:#eeedf8;--text2:#9998b8;--text3:#56556e;--accent:#7c6fff;--accent2:#a89bff;--green:#22c55e;--amber:#f59e0b;--red:#ef4444;--r-sm:6px;--r-md:10px;--r-lg:16px;--safe-b:env(safe-area-inset-bottom,0px)}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 html{scroll-behavior:smooth}
-body{
-  font-family:'Hiragino Kaku Gothic ProN','Noto Sans JP',-apple-system,sans-serif;
-  background:var(--bg);color:var(--text1);min-height:100vh;
-  -webkit-text-size-adjust:100%;
-}
-
-/* ─── HEADER ─── */
-.header{
-  position:sticky;top:0;z-index:200;
-  background:rgba(10,10,15,0.94);
-  backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
-  border-bottom:1px solid var(--border);
-  padding:12px 15px 0;
-  padding-top:calc(12px + env(safe-area-inset-top,0px));
-}
+body{font-family:'Hiragino Kaku Gothic ProN','Noto Sans JP',-apple-system,sans-serif;background:var(--bg);color:var(--text1);min-height:100vh;-webkit-text-size-adjust:100%}
+.header{position:sticky;top:0;z-index:200;background:rgba(10,10,15,0.94);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-bottom:1px solid var(--border);padding:12px 15px 0;padding-top:calc(12px + env(safe-area-inset-top,0px))}
 .header-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
 .logo{display:flex;align-items:center;gap:9px}
-.logo-mark{
-  width:34px;height:34px;border-radius:9px;flex-shrink:0;
-  background:linear-gradient(135deg,#7c6fff,#b39dff);
-  display:flex;align-items:center;justify-content:center;
-  font-size:17px;font-weight:700;color:#fff;
-}
+.logo-mark{width:34px;height:34px;border-radius:9px;flex-shrink:0;background:linear-gradient(135deg,#7c6fff,#b39dff);display:flex;align-items:center;justify-content:center;font-size:17px;font-weight:700;color:#fff}
 .logo-name{font-size:15px;font-weight:700;letter-spacing:-.3px}
 .logo-desc{font-size:11px;color:var(--text3);margin-top:1px}
-.refresh-btn{
-  display:flex;align-items:center;gap:5px;flex-shrink:0;
-  padding:7px 13px;border-radius:20px;
-  border:1px solid var(--border2);background:var(--bg3);
-  font-size:12px;font-weight:600;color:var(--text2);
-  cursor:pointer;transition:all .15s;white-space:nowrap;
-}
+.refresh-btn{display:flex;align-items:center;gap:5px;flex-shrink:0;padding:7px 13px;border-radius:20px;border:1px solid var(--border2);background:var(--bg3);font-size:12px;font-weight:600;color:var(--text2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .refresh-btn:active{opacity:.6}
 .refresh-btn.loading{opacity:.4;pointer-events:none}
 .spin{display:inline-block}
 .spin.go{animation:spin .7s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
-
-/* 検索 */
 .search-wrap{position:relative;margin-bottom:10px}
-.search-icon{
-  position:absolute;left:11px;top:50%;transform:translateY(-50%);
-  font-size:13px;color:var(--text3);pointer-events:none;
-}
-.search-input{
-  width:100%;padding:9px 36px 9px 34px;
-  background:var(--bg3);border:1px solid var(--border);border-radius:var(--r-md);
-  color:var(--text1);font-size:14px;outline:none;transition:border-color .15s;
-  font-family:inherit;
-}
+.search-icon{position:absolute;left:11px;top:50%;transform:translateY(-50%);font-size:13px;color:var(--text3);pointer-events:none}
+.search-input{width:100%;padding:9px 36px 9px 34px;background:var(--bg3);border:1px solid var(--border);border-radius:var(--r-md);color:var(--text1);font-size:14px;outline:none;transition:border-color .15s;font-family:inherit}
 .search-input::placeholder{color:var(--text3)}
 .search-input:focus{border-color:var(--accent)}
-.search-clear{
-  position:absolute;right:9px;top:50%;transform:translateY(-50%);
-  width:20px;height:20px;border-radius:50%;
-  background:var(--bg4);border:1px solid var(--border2);
-  color:var(--text3);cursor:pointer;font-size:11px;
-  display:none;align-items:center;justify-content:center;
-}
+.search-clear{position:absolute;right:9px;top:50%;transform:translateY(-50%);width:20px;height:20px;border-radius:50%;background:var(--bg4);border:1px solid var(--border2);color:var(--text3);cursor:pointer;font-size:11px;display:none;align-items:center;justify-content:center}
 .search-clear.show{display:flex}
-
-/* 期間タブ */
 .tabs-row{display:flex;gap:5px;overflow-x:auto;scrollbar-width:none;padding-bottom:10px}
 .tabs-row::-webkit-scrollbar{display:none}
-.tab{
-  padding:5px 12px;border-radius:20px;
-  font-size:12px;font-weight:600;white-space:nowrap;
-  cursor:pointer;flex-shrink:0;
-  border:1px solid var(--border);background:transparent;color:var(--text3);
-  transition:all .15s;
-}
+.tab{padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600;white-space:nowrap;cursor:pointer;flex-shrink:0;border:1px solid var(--border);background:transparent;color:var(--text3);transition:all .15s}
 .tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
-
-/* ─── フィルターバー ─── */
-.filter-bar{
-  background:var(--bg2);border-bottom:1px solid var(--border);
-  padding:10px 15px;display:flex;flex-direction:column;gap:9px;
-}
-.filter-section{}
-.filter-label{
-  font-size:10px;font-weight:700;color:var(--text3);
-  letter-spacing:.6px;text-transform:uppercase;margin-bottom:6px;
-}
+.filter-bar{background:var(--bg2);border-bottom:1px solid var(--border);padding:10px 15px;display:flex;flex-direction:column;gap:9px}
+.filter-label{font-size:10px;font-weight:700;color:var(--text3);letter-spacing:.6px;text-transform:uppercase;margin-bottom:6px}
 .chips-row{display:flex;gap:5px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
 .chips-row::-webkit-scrollbar{display:none}
-.chip{
-  padding:4px 10px;border-radius:20px;
-  font-size:11px;font-weight:600;white-space:nowrap;flex-shrink:0;
-  border:1px solid var(--border2);background:transparent;color:var(--text3);
-  cursor:pointer;transition:all .15s;
-}
-.chip.active{color:#fff}
-.chip[data-source="NADA NEWS"].active       {background:#0f6e56;border-color:#0f6e56}
-.chip[data-source="CoinPost"].active        {background:#1d4ed8;border-color:#1d4ed8}
-.chip[data-source="あたらしい経済"].active  {background:#7c3aed;border-color:#7c3aed}
-.chip[data-source="CoinTelegraph JP"].active{background:#b45309;border-color:#b45309}
-.chip[data-cat].active{background:var(--accent);border-color:var(--accent)}
 
-/* ─── MAIN ─── */
+/* ── チップ共通（非active: 文字はソースカラーまたはグレー）── */
+.chip{padding:4px 10px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap;flex-shrink:0;border:1px solid var(--border2);background:transparent;cursor:pointer;transition:all .15s;color:var(--text3)}
+
+/* ── ソースチップ: active時は背景をソースカラー・文字を強制白 ── */
+.chip[data-source].active{color:#fff}
+.chip[data-source="NADA NEWS"]       {color:#0f6e56;border-color:rgba(15,110,86,.4)}
+.chip[data-source="NADA NEWS"].active{background:#0f6e56;border-color:#0f6e56;color:#fff}
+.chip[data-source="CoinPost"]        {color:#1d4ed8;border-color:rgba(29,78,216,.4)}
+.chip[data-source="CoinPost"].active {background:#1d4ed8;border-color:#1d4ed8;color:#fff}
+.chip[data-source="あたらしい経済"]        {color:#7c3aed;border-color:rgba(124,58,237,.4)}
+.chip[data-source="あたらしい経済"].active {background:#7c3aed;border-color:#7c3aed;color:#fff}
+.chip[data-source="CoinTelegraph JP"]        {color:#b45309;border-color:rgba(180,83,9,.4)}
+.chip[data-source="CoinTelegraph JP"].active {background:#b45309;border-color:#b45309;color:#fff}
+
+/* ── カテゴリチップ ── */
+.chip[data-cat]{color:var(--text2)}
+.chip[data-cat].active{background:var(--accent);border-color:var(--accent);color:#fff}
+
 .main{padding:12px 12px calc(72px + var(--safe-b));max-width:720px;margin:0 auto}
-
-/* ステータスバー */
-.status-bar{
-  display:flex;align-items:center;gap:8px;
-  padding:8px 12px;border-radius:var(--r-sm);
-  background:var(--bg2);border:1px solid var(--border);
-  font-size:12px;color:var(--text3);margin-bottom:12px;min-height:36px;
-}
+.status-bar{display:flex;align-items:center;gap:8px;padding:8px 12px;border-radius:var(--r-sm);background:var(--bg2);border:1px solid var(--border);font-size:12px;color:var(--text3);margin-bottom:12px;min-height:36px}
 .dot{width:6px;height:6px;border-radius:50%;background:var(--green);flex-shrink:0}
 .dot.loading{background:var(--amber);animation:pulse 1s infinite}
 .dot.error{background:var(--red)}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
-
-/* カウント */
 .count-bar{font-size:12px;color:var(--text3);margin-bottom:10px;padding:0 2px}
 .count-bar strong{color:var(--text1);font-weight:700}
-
-/* ─── ニュースカード ─── */
 .news-list{display:flex;flex-direction:column;gap:12px}
-
-.card{
-  background:var(--bg2);
-  border:1px solid var(--border);
-  border-radius:var(--r-lg);
-  overflow:hidden;
-  transition:border-color .15s;
-}
+.card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r-lg);overflow:hidden;transition:border-color .15s}
 .card:active{border-color:var(--border2)}
-
-/* ソースカラーライン */
 .card-color-bar{height:3px;width:100%}
-
 .card-body{padding:14px 15px}
-
-/* タグ行 */
 .card-tags{display:flex;align-items:center;gap:6px;margin-bottom:9px;flex-wrap:wrap}
-
-.source-badge{
-  font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;
-  white-space:nowrap;border:1px solid;letter-spacing:.2px;
-}
-.cat-badge{
-  font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px;
-  background:rgba(124,111,255,.15);color:var(--accent2);
-  border:1px solid rgba(124,111,255,.25);white-space:nowrap;
-}
-
-/* タイトル */
-.card-title{
-  font-size:15px;font-weight:700;line-height:1.55;
-  color:var(--text1);text-decoration:none;display:block;
-  margin-bottom:6px;letter-spacing:-.2px;
-}
+.source-badge{font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;white-space:nowrap;border:1px solid;letter-spacing:.2px}
+.cat-badge{font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(124,111,255,.15);color:var(--accent2);border:1px solid rgba(124,111,255,.25);white-space:nowrap}
+.card-title{font-size:15px;font-weight:700;line-height:1.55;color:var(--text1);text-decoration:none;display:block;margin-bottom:6px;letter-spacing:-.2px}
 .card-title:visited{color:var(--text2)}
-
-/* メタ */
-.card-meta{
-  font-size:11px;color:var(--text3);
-  display:flex;align-items:center;gap:5px;flex-wrap:wrap;
-  margin-bottom:12px;
-}
+.card-meta{font-size:11px;color:var(--text3);display:flex;align-items:center;gap:5px;flex-wrap:wrap;margin-bottom:12px}
 .sep{opacity:.3}
-
-/* ─── 要約セクション ─── */
-.summary-section{
-  background:var(--bg3);
-  border-radius:var(--r-md);
-  padding:12px 13px;
-  margin-bottom:12px;
-}
-.summary-section-label{
-  font-size:10px;font-weight:700;color:var(--text3);
-  letter-spacing:.5px;text-transform:uppercase;margin-bottom:7px;
-}
-.summary-text{
-  font-size:13.5px;line-height:1.85;color:var(--text2);
-}
-
-/* ─── 企業名セクション ─── */
-.entities-section{
-  background:var(--bg3);
-  border-radius:var(--r-md);
-  padding:12px 13px;
-  margin-bottom:12px;
-  display:flex;flex-direction:column;gap:8px;
-}
-.entities-section-label{
-  font-size:10px;font-weight:700;color:var(--text3);
-  letter-spacing:.5px;text-transform:uppercase;
-}
+.summary-section{background:var(--bg3);border-radius:var(--r-md);padding:12px 13px;margin-bottom:12px}
+.summary-section-label{font-size:10px;font-weight:700;color:var(--text3);letter-spacing:.5px;text-transform:uppercase;margin-bottom:7px}
+.summary-text{font-size:13.5px;line-height:1.85;color:var(--text2)}
+.entities-section{background:var(--bg3);border-radius:var(--r-md);padding:12px 13px;margin-bottom:12px;display:flex;flex-direction:column;gap:8px}
+.entities-section-label{font-size:10px;font-weight:700;color:var(--text3);letter-spacing:.5px;text-transform:uppercase}
 .entity-row{display:flex;align-items:flex-start;gap:8px}
-.entity-type-label{
-  font-size:10px;font-weight:700;color:var(--text3);
-  white-space:nowrap;padding-top:3px;min-width:36px;
-  flex-shrink:0;
-}
+.entity-type-label{font-size:10px;font-weight:700;color:var(--text3);white-space:nowrap;padding-top:3px;min-width:36px;flex-shrink:0}
 .entity-tags{display:flex;flex-wrap:wrap;gap:4px}
-.entity-tag{
-  font-size:11px;font-weight:500;padding:3px 8px;border-radius:5px;
-  white-space:nowrap;
-}
-.entity-tag.main{
-  background:rgba(245,158,11,.15);
-  border:1px solid rgba(245,158,11,.35);
-  color:#fbbf24;
-  font-weight:700;
-}
-.entity-tag.related{
-  background:var(--bg4);
-  border:1px solid var(--border2);
-  color:var(--text2);
-}
-
-/* 記事リンク */
+.entity-tag{font-size:11px;font-weight:500;padding:3px 8px;border-radius:5px;white-space:nowrap}
+.entity-tag.main{background:rgba(245,158,11,.15);border:1px solid rgba(245,158,11,.35);color:#fbbf24;font-weight:700}
+.entity-tag.related{background:var(--bg4);border:1px solid var(--border2);color:var(--text2)}
 .card-footer{display:flex;justify-content:flex-end}
-.read-link{
-  font-size:12px;font-weight:600;color:var(--accent2);
-  text-decoration:none;display:inline-flex;align-items:center;gap:3px;
-}
-
-/* ─── スケルトン ─── */
+.read-link{font-size:12px;font-weight:600;color:var(--accent2);text-decoration:none;display:inline-flex;align-items:center;gap:3px}
 .skel-list{display:flex;flex-direction:column;gap:12px;margin-bottom:12px}
-.skel-card{
-  background:var(--bg2);border:1px solid var(--border);
-  border-radius:var(--r-lg);padding:14px 15px;
-}
-.skel{
-  background:linear-gradient(90deg,var(--bg3) 25%,rgba(255,255,255,.04) 50%,var(--bg3) 75%);
-  background-size:200% 100%;animation:shimmer 1.5s infinite;border-radius:4px;
-}
+.skel-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r-lg);padding:14px 15px}
+.skel{background:linear-gradient(90deg,var(--bg3) 25%,rgba(255,255,255,.04) 50%,var(--bg3) 75%);background-size:200% 100%;animation:shimmer 1.5s infinite;border-radius:4px}
 @keyframes shimmer{to{background-position:-200% 0}}
-
-/* 空・エラー */
 .empty{text-align:center;padding:60px 20px;color:var(--text3)}
 .empty-icon{font-size:40px;margin-bottom:10px}
 .empty-ttl{font-size:15px;font-weight:700;color:var(--text2);margin-bottom:5px}
 .empty-sub{font-size:13px;line-height:1.6}
-.err-card{
-  padding:12px 14px;border-radius:var(--r-md);
-  background:rgba(239,68,68,.1);border:1px solid rgba(239,68,68,.3);
-  color:#fca5a5;font-size:13px;margin-bottom:12px;line-height:1.6;
-}
-
-/* フッター */
-.footer{
-  text-align:center;font-size:11px;color:var(--text3);
-  margin-top:20px;padding-top:16px;border-top:1px solid var(--border);line-height:1.8;
-}
+.err-card{padding:12px 14px;border-radius:var(--r-md);background:rgba(239,68,68,.1);border:1px solid rgba(239,68,68,.3);color:#fca5a5;font-size:13px;margin-bottom:12px;line-height:1.6}
+.footer{text-align:center;font-size:11px;color:var(--text3);margin-top:20px;padding-top:16px;border-top:1px solid var(--border);line-height:1.8}
 .footer a{color:var(--accent2);text-decoration:none}
-
-/* トップボタン */
-.to-top{
-  position:fixed;bottom:calc(20px + var(--safe-b));right:15px;
-  width:42px;height:42px;border-radius:50%;
-  background:var(--bg3);border:1px solid var(--border2);
-  display:flex;align-items:center;justify-content:center;
-  font-size:16px;cursor:pointer;
-  opacity:0;pointer-events:none;transition:opacity .2s;z-index:100;
-}
+.to-top{position:fixed;bottom:calc(20px + var(--safe-b));right:15px;width:42px;height:42px;border-radius:50%;background:var(--bg3);border:1px solid var(--border2);display:flex;align-items:center;justify-content:center;font-size:16px;cursor:pointer;opacity:0;pointer-events:none;transition:opacity .2s;z-index:100}
 .to-top.show{opacity:1;pointer-events:auto}
-
-/* 検索ハイライト */
 mark{background:rgba(124,111,255,.3);color:var(--text1);border-radius:2px;padding:0 1px}
 </style>
 </head>
 <body>
-
 <div class="header">
   <div class="header-top">
     <div class="logo">
@@ -309,14 +120,11 @@ mark{background:rgba(124,111,255,.3);color:var(--text1);border-radius:2px;paddin
       <span class="spin" id="spinIcon">↻</span> 更新
     </button>
   </div>
-
   <div class="search-wrap">
     <span class="search-icon">🔍</span>
-    <input class="search-input" id="searchInput" type="search"
-      placeholder="企業名・記事タイトルで検索..." oninput="onSearch()" autocomplete="off">
+    <input class="search-input" id="searchInput" type="search" placeholder="企業名・記事タイトルで検索..." oninput="onSearch()" autocomplete="off">
     <button class="search-clear" id="searchClear" onclick="clearSearch()">✕</button>
   </div>
-
   <div class="tabs-row">
     <div class="tab active" data-period="24h"   onclick="setPeriod('24h')">過去24時間</div>
     <div class="tab"        data-period="today"  onclick="setPeriod('today')">今日</div>
@@ -326,11 +134,11 @@ mark{background:rgba(124,111,255,.3);color:var(--text1);border-radius:2px;paddin
 </div>
 
 <div class="filter-bar">
-  <div class="filter-section">
+  <div>
     <div class="filter-label">ソース</div>
     <div class="chips-row" id="sourceChips"></div>
   </div>
-  <div class="filter-section">
+  <div>
     <div class="filter-label">カテゴリ</div>
     <div class="chips-row" id="catChips"></div>
   </div>
@@ -341,27 +149,22 @@ mark{background:rgba(124,111,255,.3);color:var(--text1);border-radius:2px;paddin
     <div class="dot loading" id="statusDot"></div>
     <span id="statusText">データを読み込んでいます...</span>
   </div>
-
   <div id="errorArea"></div>
-
   <div class="skel-list" id="skeletons">
     <div class="skel-card">
       <div class="skel" style="width:130px;height:18px;margin-bottom:10px"></div>
       <div class="skel" style="width:100%;height:17px;margin-bottom:5px"></div>
       <div class="skel" style="width:72%;height:17px;margin-bottom:14px"></div>
       <div class="skel" style="width:100%;height:13px;margin-bottom:4px"></div>
-      <div class="skel" style="width:90%;height:13px;margin-bottom:4px"></div>
-      <div class="skel" style="width:80%;height:13px"></div>
+      <div class="skel" style="width:90%;height:13px"></div>
     </div>
     <div class="skel-card">
       <div class="skel" style="width:110px;height:18px;margin-bottom:10px"></div>
       <div class="skel" style="width:100%;height:17px;margin-bottom:5px"></div>
       <div class="skel" style="width:65%;height:17px;margin-bottom:14px"></div>
-      <div class="skel" style="width:100%;height:13px;margin-bottom:4px"></div>
-      <div class="skel" style="width:85%;height:13px"></div>
+      <div class="skel" style="width:100%;height:13px"></div>
     </div>
   </div>
-
   <div class="count-bar" id="countBar" style="display:none"></div>
   <div class="news-list" id="newsList"></div>
   <div class="footer" id="footer" style="display:none"></div>
@@ -370,312 +173,103 @@ mark{background:rgba(124,111,255,.3);color:var(--text1);border-radius:2px;paddin
 <div class="to-top" id="toTop" onclick="scrollTo({top:0,behavior:'smooth'})">↑</div>
 
 <script>
-const NEWS_JSON  = './data/news.json';
-const REPO_URL   = 'https://github.com/Hirotamaw/News_collector';
-const JST_OFFSET = 9 * 3600 * 1000;
+const NEWS_JSON='./data/news.json',REPO_URL='https://github.com/Hirotamaw/News_collector',JST_OFFSET=9*3600*1000;
+const SOURCE_COLORS={'NADA NEWS':'#0f6e56','CoinPost':'#1d4ed8','あたらしい経済':'#7c3aed','CoinTelegraph JP':'#b45309'};
+let allArticles=[],currentPeriod='24h',activeSource=null,activeCat=null,searchQuery='';
 
-const SOURCE_COLORS = {
-  'NADA NEWS':        '#0f6e56',
-  'CoinPost':         '#1d4ed8',
-  'あたらしい経済':   '#7c3aed',
-  'CoinTelegraph JP': '#b45309',
-};
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+function toDate(s){return s?new Date(s):null}
+function fmtFull(d){return d?d.toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',year:'numeric',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'不明'}
+function fmtRel(d){if(!d)return '';const diff=Date.now()-d.getTime(),m=Math.floor(diff/60000),h=Math.floor(diff/3600000);if(m<1)return 'たった今';if(m<60)return `${m}分前`;if(h<24)return `${h}時間前`;return d.toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})}
+function highlight(t,q){if(!q)return esc(t);return esc(t).replace(new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi'),m=>`<mark>${m}</mark>`)}
 
-let allArticles   = [];
-let currentPeriod = '24h';
-let activeSource  = null;
-let activeCat     = null;
-let searchQuery   = '';
-
-// ─── ユーティリティ ──────────────────────────────────────────────────────
-function esc(s){
-  return String(s||'')
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
-    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-function toDate(s){ return s ? new Date(s) : null }
-
-function fmtFull(d){
-  if(!d) return '不明';
-  return d.toLocaleString('ja-JP',{
-    timeZone:'Asia/Tokyo',year:'numeric',month:'numeric',
-    day:'numeric',hour:'2-digit',minute:'2-digit'
-  });
-}
-function fmtRel(d){
-  if(!d) return '';
-  const diff=Date.now()-d.getTime(), m=Math.floor(diff/60000), h=Math.floor(diff/3600000);
-  if(m<1) return 'たった今';
-  if(m<60) return `${m}分前`;
-  if(h<24) return `${h}時間前`;
-  return d.toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
-}
-
-function highlight(text, query){
-  if(!query) return esc(text);
-  const e = esc(text);
-  const q = query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
-  return e.replace(new RegExp(q,'gi'), m=>`<mark>${m}</mark>`);
-}
-
-// ─── フィルタ ────────────────────────────────────────────────────────────
-function filterByPeriod(arts, period){
-  const now = Date.now();
-  if(period==='24h')  return arts.filter(a=>toDate(a.pub_date)>=new Date(now-86400000));
-  if(period==='today'){
-    const jn=new Date(now+JST_OFFSET);
-    const s=new Date(Date.UTC(jn.getUTCFullYear(),jn.getUTCMonth(),jn.getUTCDate())-JST_OFFSET);
-    return arts.filter(a=>toDate(a.pub_date)>=s);
-  }
-  if(period==='week') return arts.filter(a=>toDate(a.pub_date)>=new Date(now-7*86400000));
+function filterByPeriod(arts,p){
+  const now=Date.now();
+  if(p==='24h')return arts.filter(a=>toDate(a.pub_date)>=new Date(now-86400000));
+  if(p==='today'){const jn=new Date(now+JST_OFFSET),s=new Date(Date.UTC(jn.getUTCFullYear(),jn.getUTCMonth(),jn.getUTCDate())-JST_OFFSET);return arts.filter(a=>toDate(a.pub_date)>=s)}
+  if(p==='week')return arts.filter(a=>toDate(a.pub_date)>=new Date(now-7*86400000));
   return arts;
 }
-
 function applyFilters(){
-  let arts = filterByPeriod(allArticles, currentPeriod);
-  if(activeSource) arts = arts.filter(a=>a.source_name===activeSource);
-  if(activeCat)    arts = arts.filter(a=>a.category===activeCat);
-  if(searchQuery){
-    const q = searchQuery.toLowerCase();
-    arts = arts.filter(a=>{
-      return [
-        a.title||'', a.summary||'', a.description||'',
-        ...(a.main_entities||[]),
-        ...(a.related_entities||[]),
-      ].join(' ').toLowerCase().includes(q);
-    });
-  }
+  let arts=filterByPeriod(allArticles,currentPeriod);
+  if(activeSource)arts=arts.filter(a=>a.source_name===activeSource);
+  if(activeCat)arts=arts.filter(a=>a.category===activeCat);
+  if(searchQuery){const q=searchQuery.toLowerCase();arts=arts.filter(a=>[a.title||'',a.summary||'',a.description||'',...(a.main_entities||[]),...(a.related_entities||[])].join(' ').toLowerCase().includes(q))}
   return arts;
 }
 
-// ─── 状態変更 ────────────────────────────────────────────────────────────
-function setPeriod(p){
-  currentPeriod=p;
-  document.querySelectorAll('[data-period]').forEach(t=>
-    t.classList.toggle('active',t.dataset.period===p));
-  render();
-}
-
+function setPeriod(p){currentPeriod=p;document.querySelectorAll('[data-period]').forEach(t=>t.classList.toggle('active',t.dataset.period===p));render()}
 function toggleSource(name){
-  activeSource = activeSource===name ? null : name;
-  document.querySelectorAll('[data-source]').forEach(c=>
-    c.classList.toggle('active', activeSource===null ? true : c.dataset.source===activeSource));
-  // activeがnullなら全チップをactive
-  if(activeSource===null){
-    document.querySelectorAll('[data-source]').forEach(c=>c.classList.add('active'));
-  }
+  activeSource=activeSource===name?null:name;
+  document.querySelectorAll('[data-source]').forEach(c=>c.classList.toggle('active',activeSource===null||c.dataset.source===activeSource));
   render();
 }
+function toggleCat(cat){activeCat=activeCat===cat?null:cat;document.querySelectorAll('[data-cat]').forEach(c=>c.classList.toggle('active',c.dataset.cat===activeCat));render()}
+function onSearch(){searchQuery=document.getElementById('searchInput').value.trim();document.getElementById('searchClear').classList.toggle('show',searchQuery.length>0);render()}
+function clearSearch(){document.getElementById('searchInput').value='';searchQuery='';document.getElementById('searchClear').classList.remove('show');render()}
 
-function toggleCat(cat){
-  activeCat = activeCat===cat ? null : cat;
-  document.querySelectorAll('[data-cat]').forEach(c=>
-    c.classList.toggle('active', c.dataset.cat===activeCat));
-  render();
-}
-
-function onSearch(){
-  searchQuery = document.getElementById('searchInput').value.trim();
-  document.getElementById('searchClear').classList.toggle('show', searchQuery.length>0);
-  render();
-}
-function clearSearch(){
-  document.getElementById('searchInput').value='';
-  searchQuery='';
-  document.getElementById('searchClear').classList.remove('show');
-  render();
-}
-
-// ─── チップ構築 ──────────────────────────────────────────────────────────
 function buildSourceChips(sources){
-  document.getElementById('sourceChips').innerHTML = sources.map(name=>{
-    const c = SOURCE_COLORS[name]||'#888';
-    return `<div class="chip active" data-source="${esc(name)}"
-      onclick="toggleSource('${esc(name)}')"
-      style="color:${c};border-color:${c}44">${esc(name)}</div>`;
-  }).join('');
+  // ソースチップはCSSのdata-source属性セレクタで色が決まる（active時=白文字+背景色）
+  document.getElementById('sourceChips').innerHTML=sources.map(name=>
+    `<div class="chip active" data-source="${esc(name)}" onclick="toggleSource('${esc(name)}')">${esc(name)}</div>`
+  ).join('');
 }
-
 function buildCatChips(articles){
-  // 全記事からカテゴリを収集し、件数順に並べる
-  const countMap = {};
-  articles.forEach(a=>{ if(a.category){ countMap[a.category]=(countMap[a.category]||0)+1; } });
-  const cats = Object.entries(countMap).sort((a,b)=>b[1]-a[1]).map(e=>e[0]);
-  document.getElementById('catChips').innerHTML = cats.map(cat=>
+  const cm={};articles.forEach(a=>{if(a.category)cm[a.category]=(cm[a.category]||0)+1});
+  const cats=Object.entries(cm).sort((a,b)=>b[1]-a[1]).map(e=>e[0]);
+  document.getElementById('catChips').innerHTML=cats.map(cat=>
     `<div class="chip" data-cat="${esc(cat)}" onclick="toggleCat('${esc(cat)}')">${esc(cat)}</div>`
   ).join('');
 }
 
-// ─── カード生成 ──────────────────────────────────────────────────────────
-function buildCard(a, q){
-  const pub     = toDate(a.pub_date);
-  const color   = SOURCE_COLORS[a.source_name]||'#7c6fff';
-  const badgeBg = color+'28';
-
-  // ── 要約セクション ──
-  let summaryText = '';
-  if(a.summary && a.summary.length > 20 && a.summary !== '要約を生成できませんでした。'){
-    summaryText = a.summary;
-  } else if(a.description && a.description.length > 20){
-    summaryText = a.description;
-  } else {
-    summaryText = '（要約情報なし）';
+function buildCard(a,q){
+  const pub=toDate(a.pub_date),color=SOURCE_COLORS[a.source_name]||'#7c6fff',bb=color+'28';
+  const st=(a.summary&&a.summary.length>20&&a.summary!=='要約を生成できませんでした。')?a.summary:(a.description&&a.description.length>20?a.description:'（要約情報なし）');
+  const sH=`<div class="summary-section"><div class="summary-section-label">要約</div><div class="summary-text">${highlight(st,q)}</div></div>`;
+  const me=(a.main_entities||[]).filter(e=>e&&e.trim()),re=(a.related_entities||[]).filter(e=>e&&e.trim());
+  let eH='';
+  if(me.length||re.length){
+    const mT=me.length?`<div class="entity-row"><span class="entity-type-label">主体</span><div class="entity-tags">${me.map(e=>`<span class="entity-tag main">${highlight(e,q)}</span>`).join('')}</div></div>`:'';
+    const rT=re.length?`<div class="entity-row"><span class="entity-type-label">関連</span><div class="entity-tags">${re.map(e=>`<span class="entity-tag related">${highlight(e,q)}</span>`).join('')}</div></div>`:'';
+    eH=`<div class="entities-section"><div class="entities-section-label">登場企業・団体</div>${mT}${rT}</div>`;
   }
-  const summaryHtml = `
-    <div class="summary-section">
-      <div class="summary-section-label">要約</div>
-      <div class="summary-text">${highlight(summaryText, q)}</div>
-    </div>`;
-
-  // ── 企業名セクション ──
-  const mainEnts    = (a.main_entities    || []).filter(e=>e && e.trim());
-  const relatedEnts = (a.related_entities || []).filter(e=>e && e.trim());
-  let entitiesHtml  = '';
-
-  if(mainEnts.length > 0 || relatedEnts.length > 0){
-    const mainTagsHtml = mainEnts.length > 0
-      ? `<div class="entity-row">
-          <span class="entity-type-label">主体</span>
-          <div class="entity-tags">
-            ${mainEnts.map(e=>`<span class="entity-tag main">${highlight(e,q)}</span>`).join('')}
-          </div>
-        </div>` : '';
-
-    const relTagsHtml = relatedEnts.length > 0
-      ? `<div class="entity-row">
-          <span class="entity-type-label">関連</span>
-          <div class="entity-tags">
-            ${relatedEnts.map(e=>`<span class="entity-tag related">${highlight(e,q)}</span>`).join('')}
-          </div>
-        </div>` : '';
-
-    entitiesHtml = `
-      <div class="entities-section">
-        <div class="entities-section-label">登場企業・団体</div>
-        ${mainTagsHtml}
-        ${relTagsHtml}
-      </div>`;
-  }
-
-  return `
-    <div class="card">
-      <div class="card-color-bar" style="background:${color}"></div>
-      <div class="card-body">
-        <div class="card-tags">
-          <span class="source-badge" style="color:${color};background:${badgeBg};border-color:${color}44">
-            ${esc(a.source_name)}
-          </span>
-          ${a.category ? `<span class="cat-badge">${esc(a.category)}</span>` : ''}
-        </div>
-        <a class="card-title" href="${esc(a.link)}" target="_blank" rel="noopener">
-          ${highlight(a.title||'', q)}
-        </a>
-        <div class="card-meta">
-          <span title="${fmtFull(pub)}">${fmtRel(pub)}</span>
-          <span class="sep">·</span>
-          <span>${fmtFull(pub)}</span>
-        </div>
-        ${summaryHtml}
-        ${entitiesHtml}
-        <div class="card-footer">
-          <a class="read-link" href="${esc(a.link)}" target="_blank" rel="noopener">
-            元記事を読む →
-          </a>
-        </div>
-      </div>
-    </div>`;
+  return `<div class="card"><div class="card-color-bar" style="background:${color}"></div><div class="card-body"><div class="card-tags"><span class="source-badge" style="color:${color};background:${bb};border-color:${color}44">${esc(a.source_name)}</span>${a.category?`<span class="cat-badge">${esc(a.category)}</span>`:''}</div><a class="card-title" href="${esc(a.link)}" target="_blank" rel="noopener">${highlight(a.title||'',q)}</a><div class="card-meta"><span title="${fmtFull(pub)}">${fmtRel(pub)}</span><span class="sep">·</span><span>${fmtFull(pub)}</span></div>${sH}${eH}<div class="card-footer"><a class="read-link" href="${esc(a.link)}" target="_blank" rel="noopener">元記事を読む →</a></div></div></div>`;
 }
 
-// ─── レンダリング ────────────────────────────────────────────────────────
 function render(){
-  const arts     = applyFilters();
-  const list     = document.getElementById('newsList');
-  const countBar = document.getElementById('countBar');
-  const q        = searchQuery;
-
-  const labels = {
-    period: {'24h':'過去24時間','today':'今日','week':'今週','all':'すべて'}[currentPeriod],
-    source: activeSource ? ` · ${activeSource}` : '',
-    cat:    activeCat    ? ` · ${activeCat}`    : '',
-    query:  q            ? ` · 「${q}」`        : '',
-  };
-
-  if(arts.length===0){
-    countBar.style.display='none';
-    list.innerHTML=`
-      <div class="empty">
-        <div class="empty-icon">📭</div>
-        <div class="empty-ttl">該当する記事がありません</div>
-        <div class="empty-sub">別の期間・フィルタ・検索ワードをお試しください</div>
-      </div>`;
-    return;
-  }
-
-  countBar.style.display='block';
-  countBar.innerHTML = `${labels.period}${labels.source}${labels.cat}${labels.query}：<strong>${arts.length}件</strong>`;
-  list.innerHTML = arts.map(a=>buildCard(a,q)).join('');
+  const arts=applyFilters(),list=document.getElementById('newsList'),cb=document.getElementById('countBar'),q=searchQuery;
+  const pl={'24h':'過去24時間','today':'今日','week':'今週','all':'すべて'}[currentPeriod];
+  if(!arts.length){cb.style.display='none';list.innerHTML=`<div class="empty"><div class="empty-icon">📭</div><div class="empty-ttl">該当する記事がありません</div><div class="empty-sub">別の期間・フィルタ・検索ワードをお試しください</div></div>`;return}
+  cb.style.display='block';
+  cb.innerHTML=`${pl}${activeSource?' · '+activeSource:''}${activeCat?' · '+activeCat:''}${q?' · 「'+q+'」':''}：<strong>${arts.length}件</strong>`;
+  list.innerHTML=arts.map(a=>buildCard(a,q)).join('');
 }
 
-// ─── データ取得 ──────────────────────────────────────────────────────────
 async function loadNews(){
-  const btn    = document.getElementById('refreshBtn');
-  const icon   = document.getElementById('spinIcon');
-  const dot    = document.getElementById('statusDot');
-  const stTxt  = document.getElementById('statusText');
-  const errArea= document.getElementById('errorArea');
-  const skels  = document.getElementById('skeletons');
-
-  btn.classList.add('loading');
-  icon.classList.add('go');
-  dot.className     = 'dot loading';
-  stTxt.textContent = 'データを取得中...';
-  errArea.innerHTML = '';
-  skels.style.display='block';
-
+  const btn=document.getElementById('refreshBtn'),icon=document.getElementById('spinIcon'),dot=document.getElementById('statusDot'),st=document.getElementById('statusText'),ea=document.getElementById('errorArea'),sk=document.getElementById('skeletons');
+  btn.classList.add('loading');icon.classList.add('go');dot.className='dot loading';st.textContent='データを取得中...';ea.innerHTML='';sk.style.display='block';
   try{
-    const res = await fetch(NEWS_JSON + '?t=' + Date.now());
-    if(!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
-    const db = await res.json();
-
-    allArticles = db.articles || [];
-    const total  = db.total_count || allArticles.length;
-    const lastUpd= db.last_updated ? fmtFull(new Date(db.last_updated)) : '不明';
-    const sources= db.sources || [...new Set(allArticles.map(a=>a.source_name))];
-
-    skels.style.display='none';
+    const res=await fetch(NEWS_JSON+'?t='+Date.now());
+    if(!res.ok)throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+    const db=await res.json();
+    allArticles=db.articles||[];
+    const total=db.total_count||allArticles.length,lu=db.last_updated?fmtFull(new Date(db.last_updated)):'不明',srcs=db.sources||[...new Set(allArticles.map(a=>a.source_name))];
+    sk.style.display='none';
     document.getElementById('countBar').style.display='block';
     document.getElementById('footer').style.display='block';
-
-    buildSourceChips(sources);
-    buildCatChips(allArticles);
-
-    dot.className     = 'dot';
-    stTxt.textContent = `最終更新: ${lastUpd} ／ 蓄積: ${total}件`;
-    document.getElementById('headerSub').textContent = `${sources.length}メディア · ${total}件蓄積`;
-    document.getElementById('footer').innerHTML = `
-      最終データ更新: ${lastUpd}<br>
-      参照元: ${sources.map(s=>`<a href="#" target="_blank">${esc(s)}</a>`).join(' / ')}<br>
-      <a href="${REPO_URL}" target="_blank" rel="noopener">GitHub</a> · 毎朝9:00 JST 自動更新
-    `;
-
+    buildSourceChips(srcs);buildCatChips(allArticles);
+    dot.className='dot';st.textContent=`最終更新: ${lu} ／ 蓄積: ${total}件`;
+    document.getElementById('headerSub').textContent=`${srcs.length}メディア · ${total}件蓄積`;
+    document.getElementById('footer').innerHTML=`最終データ更新: ${lu}<br>参照元: ${srcs.map(s=>`<a href="#" target="_blank">${esc(s)}</a>`).join(' / ')}<br><a href="${REPO_URL}" target="_blank" rel="noopener">GitHub</a> · 毎朝9:00 JST 自動更新`;
     render();
-  } catch(e){
-    skels.style.display='none';
-    dot.className     = 'dot error';
-    stTxt.textContent = 'データの取得に失敗しました';
-    errArea.innerHTML = `<div class="err-card">⚠ ${esc(e.message)}<br>
-      GitHub Actionsの初回実行後にデータが表示されます。</div>`;
+  }catch(e){
+    sk.style.display='none';dot.className='dot error';st.textContent='データの取得に失敗しました';
+    ea.innerHTML=`<div class="err-card">⚠ ${esc(e.message)}<br>GitHub Actionsの初回実行後にデータが表示されます。</div>`;
     document.getElementById('newsList').innerHTML='';
   }
-
-  btn.classList.remove('loading');
-  icon.classList.remove('go');
+  btn.classList.remove('loading');icon.classList.remove('go');
 }
-
-window.addEventListener('scroll',()=>{
-  document.getElementById('toTop').classList.toggle('show',scrollY>300);
-},{passive:true});
-
+window.addEventListener('scroll',()=>{document.getElementById('toTop').classList.toggle('show',scrollY>300)},{passive:true});
 loadNews();
 </script>
 </body>
