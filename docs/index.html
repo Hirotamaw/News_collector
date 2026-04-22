@@ -8,23 +8,24 @@
 <title>Crypto News Digest</title>
 <style>
 :root {
-  --bg:        #0a0a0f;
-  --bg2:       #12121a;
-  --bg3:       #1a1a26;
-  --border:    rgba(255,255,255,0.07);
-  --border2:   rgba(255,255,255,0.14);
-  --text1:     #f0eff8;
-  --text2:     #9b9ab0;
-  --text3:     #5c5b70;
-  --accent:    #6c63ff;
-  --accent2:   #9d96ff;
-  --green:     #22c55e;
-  --amber:     #f59e0b;
-  --red:       #ef4444;
-  --r-sm:      6px;
-  --r-md:      10px;
-  --r-lg:      16px;
-  --safe-b:    env(safe-area-inset-bottom,0px);
+  --bg:      #0a0a0f;
+  --bg2:     #13131c;
+  --bg3:     #1c1c28;
+  --bg4:     #232334;
+  --border:  rgba(255,255,255,0.07);
+  --border2: rgba(255,255,255,0.13);
+  --text1:   #eeedf8;
+  --text2:   #9998b8;
+  --text3:   #56556e;
+  --accent:  #7c6fff;
+  --accent2: #a89bff;
+  --green:   #22c55e;
+  --amber:   #f59e0b;
+  --red:     #ef4444;
+  --r-sm:    6px;
+  --r-md:    10px;
+  --r-lg:    16px;
+  --safe-b:  env(safe-area-inset-bottom,0px);
 }
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 html{scroll-behavior:smooth}
@@ -37,40 +38,43 @@ body{
 /* ─── HEADER ─── */
 .header{
   position:sticky;top:0;z-index:200;
-  background:rgba(10,10,15,0.92);
+  background:rgba(10,10,15,0.94);
   backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
   border-bottom:1px solid var(--border);
-  padding:14px 16px 0;
-  padding-top:calc(14px + env(safe-area-inset-top,0px));
+  padding:12px 15px 0;
+  padding-top:calc(12px + env(safe-area-inset-top,0px));
 }
-.header-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px}
-.logo{display:flex;align-items:center;gap:8px}
-.logo-icon{
-  width:32px;height:32px;border-radius:8px;
-  background:linear-gradient(135deg,var(--accent),#a78bfa);
+.header-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
+.logo{display:flex;align-items:center;gap:9px}
+.logo-mark{
+  width:34px;height:34px;border-radius:9px;flex-shrink:0;
+  background:linear-gradient(135deg,#7c6fff,#b39dff);
   display:flex;align-items:center;justify-content:center;
-  font-size:16px;flex-shrink:0;
+  font-size:17px;font-weight:700;color:#fff;
 }
-.logo-text{font-size:15px;font-weight:700;letter-spacing:-.3px;color:var(--text1)}
-.logo-sub{font-size:11px;color:var(--text3);margin-top:1px}
+.logo-name{font-size:15px;font-weight:700;letter-spacing:-.3px}
+.logo-desc{font-size:11px;color:var(--text3);margin-top:1px}
 .refresh-btn{
-  display:flex;align-items:center;gap:5px;
+  display:flex;align-items:center;gap:5px;flex-shrink:0;
   padding:7px 13px;border-radius:20px;
   border:1px solid var(--border2);background:var(--bg3);
-  font-size:12px;font-weight:600;color:var(--text2);cursor:pointer;
-  transition:all .15s;white-space:nowrap;flex-shrink:0;
+  font-size:12px;font-weight:600;color:var(--text2);
+  cursor:pointer;transition:all .15s;white-space:nowrap;
 }
 .refresh-btn:active{opacity:.6}
 .refresh-btn.loading{opacity:.4;pointer-events:none}
-.spin{display:inline-block;font-size:13px}
+.spin{display:inline-block}
 .spin.go{animation:spin .7s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 
 /* 検索 */
 .search-wrap{position:relative;margin-bottom:10px}
-.search-icon{position:absolute;left:12px;top:50%;transform:translateY(-50%);font-size:14px;color:var(--text3);pointer-events:none}
+.search-icon{
+  position:absolute;left:11px;top:50%;transform:translateY(-50%);
+  font-size:13px;color:var(--text3);pointer-events:none;
+}
 .search-input{
-  width:100%;padding:9px 12px 9px 36px;
+  width:100%;padding:9px 36px 9px 34px;
   background:var(--bg3);border:1px solid var(--border);border-radius:var(--r-md);
   color:var(--text1);font-size:14px;outline:none;transition:border-color .15s;
   font-family:inherit;
@@ -78,52 +82,55 @@ body{
 .search-input::placeholder{color:var(--text3)}
 .search-input:focus{border-color:var(--accent)}
 .search-clear{
-  position:absolute;right:10px;top:50%;transform:translateY(-50%);
-  width:20px;height:20px;border-radius:50%;background:var(--bg3);
-  border:1px solid var(--border2);color:var(--text3);cursor:pointer;
-  display:none;align-items:center;justify-content:center;font-size:11px;
+  position:absolute;right:9px;top:50%;transform:translateY(-50%);
+  width:20px;height:20px;border-radius:50%;
+  background:var(--bg4);border:1px solid var(--border2);
+  color:var(--text3);cursor:pointer;font-size:11px;
+  display:none;align-items:center;justify-content:center;
 }
 .search-clear.show{display:flex}
 
 /* 期間タブ */
-.tabs-row{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding-bottom:10px}
+.tabs-row{display:flex;gap:5px;overflow-x:auto;scrollbar-width:none;padding-bottom:10px}
 .tabs-row::-webkit-scrollbar{display:none}
 .tab{
-  padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600;
-  white-space:nowrap;cursor:pointer;flex-shrink:0;
+  padding:5px 12px;border-radius:20px;
+  font-size:12px;font-weight:600;white-space:nowrap;
+  cursor:pointer;flex-shrink:0;
   border:1px solid var(--border);background:transparent;color:var(--text3);
   transition:all .15s;
 }
 .tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
 
-/* ─── FILTER BAR ─── */
+/* ─── フィルターバー ─── */
 .filter-bar{
-  padding:10px 16px;background:var(--bg2);
-  border-bottom:1px solid var(--border);
-  display:flex;flex-direction:column;gap:8px;
+  background:var(--bg2);border-bottom:1px solid var(--border);
+  padding:10px 15px;display:flex;flex-direction:column;gap:9px;
 }
-.filter-label{font-size:11px;color:var(--text3);font-weight:600;letter-spacing:.5px;text-transform:uppercase}
+.filter-section{}
+.filter-label{
+  font-size:10px;font-weight:700;color:var(--text3);
+  letter-spacing:.6px;text-transform:uppercase;margin-bottom:6px;
+}
 .chips-row{display:flex;gap:5px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
 .chips-row::-webkit-scrollbar{display:none}
 .chip{
-  padding:4px 10px;border-radius:20px;font-size:11px;font-weight:600;
-  white-space:nowrap;cursor:pointer;flex-shrink:0;
-  border:1px solid var(--border2);background:transparent;color:var(--text2);
-  transition:all .15s;
+  padding:4px 10px;border-radius:20px;
+  font-size:11px;font-weight:600;white-space:nowrap;flex-shrink:0;
+  border:1px solid var(--border2);background:transparent;color:var(--text3);
+  cursor:pointer;transition:all .15s;
 }
 .chip.active{color:#fff}
-/* ソース別カラー（activeのみ背景を付ける） */
-.chip[data-source="NADA NEWS"].active      {background:#0f6e56;border-color:#0f6e56}
-.chip[data-source="CoinPost"].active       {background:#1d4ed8;border-color:#1d4ed8}
-.chip[data-source="あたらしい経済"].active {background:#7c3aed;border-color:#7c3aed}
+.chip[data-source="NADA NEWS"].active       {background:#0f6e56;border-color:#0f6e56}
+.chip[data-source="CoinPost"].active        {background:#1d4ed8;border-color:#1d4ed8}
+.chip[data-source="あたらしい経済"].active  {background:#7c3aed;border-color:#7c3aed}
 .chip[data-source="CoinTelegraph JP"].active{background:#b45309;border-color:#b45309}
-/* カテゴリchipのactive */
 .chip[data-cat].active{background:var(--accent);border-color:var(--accent)}
 
 /* ─── MAIN ─── */
 .main{padding:12px 12px calc(72px + var(--safe-b));max-width:720px;margin:0 auto}
 
-/* ステータス */
+/* ステータスバー */
 .status-bar{
   display:flex;align-items:center;gap:8px;
   padding:8px 12px;border-radius:var(--r-sm);
@@ -139,94 +146,118 @@ body{
 .count-bar{font-size:12px;color:var(--text3);margin-bottom:10px;padding:0 2px}
 .count-bar strong{color:var(--text1);font-weight:700}
 
-/* ─── CARDS ─── */
-.news-list{display:flex;flex-direction:column;gap:10px}
+/* ─── ニュースカード ─── */
+.news-list{display:flex;flex-direction:column;gap:12px}
 
 .card{
   background:var(--bg2);
   border:1px solid var(--border);
   border-radius:var(--r-lg);
-  padding:14px 15px;
+  overflow:hidden;
   transition:border-color .15s;
-  position:relative;overflow:hidden;
-}
-.card::before{
-  content:'';position:absolute;left:0;top:0;bottom:0;width:3px;
-  background:var(--source-color,var(--accent));
-  border-radius:var(--r-lg) 0 0 var(--r-lg);
 }
 .card:active{border-color:var(--border2)}
 
+/* ソースカラーライン */
+.card-color-bar{height:3px;width:100%}
+
+.card-body{padding:14px 15px}
+
 /* タグ行 */
-.card-tags{display:flex;align-items:center;gap:6px;margin-bottom:8px;flex-wrap:wrap}
+.card-tags{display:flex;align-items:center;gap:6px;margin-bottom:9px;flex-wrap:wrap}
+
 .source-badge{
   font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;
-  white-space:nowrap;border:1px solid;letter-spacing:.3px;
+  white-space:nowrap;border:1px solid;letter-spacing:.2px;
 }
 .cat-badge{
   font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px;
-  background:rgba(108,99,255,.15);color:var(--accent2);border:1px solid rgba(108,99,255,.25);
-  white-space:nowrap;
+  background:rgba(124,111,255,.15);color:var(--accent2);
+  border:1px solid rgba(124,111,255,.25);white-space:nowrap;
 }
 
+/* タイトル */
 .card-title{
-  font-size:15px;font-weight:700;line-height:1.5;
+  font-size:15px;font-weight:700;line-height:1.55;
   color:var(--text1);text-decoration:none;display:block;
   margin-bottom:6px;letter-spacing:-.2px;
 }
 .card-title:visited{color:var(--text2)}
 
+/* メタ */
 .card-meta{
   font-size:11px;color:var(--text3);
-  margin-bottom:10px;display:flex;align-items:center;gap:5px;flex-wrap:wrap;
+  display:flex;align-items:center;gap:5px;flex-wrap:wrap;
+  margin-bottom:12px;
 }
 .sep{opacity:.3}
 
-/* 要約 */
-.card-summary{
-  font-size:13.5px;line-height:1.8;color:var(--text2);
-  margin-bottom:10px;
+/* ─── 要約セクション ─── */
+.summary-section{
+  background:var(--bg3);
+  border-radius:var(--r-md);
+  padding:12px 13px;
+  margin-bottom:12px;
 }
-.summary-placeholder{
-  font-size:13px;color:var(--text3);font-style:italic;
-  margin-bottom:10px;
+.summary-section-label{
+  font-size:10px;font-weight:700;color:var(--text3);
+  letter-spacing:.5px;text-transform:uppercase;margin-bottom:7px;
+}
+.summary-text{
+  font-size:13.5px;line-height:1.85;color:var(--text2);
 }
 
-/* 企業名セクション */
+/* ─── 企業名セクション ─── */
 .entities-section{
-  margin-top:10px;padding-top:10px;
-  border-top:1px solid var(--border);
-  display:flex;flex-direction:column;gap:6px;
+  background:var(--bg3);
+  border-radius:var(--r-md);
+  padding:12px 13px;
+  margin-bottom:12px;
+  display:flex;flex-direction:column;gap:8px;
 }
-.entity-row{display:flex;align-items:flex-start;gap:8px;flex-wrap:wrap}
-.entity-label{
+.entities-section-label{
   font-size:10px;font-weight:700;color:var(--text3);
-  text-transform:uppercase;letter-spacing:.5px;
-  white-space:nowrap;padding-top:2px;min-width:52px;
+  letter-spacing:.5px;text-transform:uppercase;
+}
+.entity-row{display:flex;align-items:flex-start;gap:8px}
+.entity-type-label{
+  font-size:10px;font-weight:700;color:var(--text3);
+  white-space:nowrap;padding-top:3px;min-width:36px;
+  flex-shrink:0;
 }
 .entity-tags{display:flex;flex-wrap:wrap;gap:4px}
 .entity-tag{
-  font-size:11px;padding:2px 7px;border-radius:4px;
-  background:var(--bg3);border:1px solid var(--border2);color:var(--text2);
+  font-size:11px;font-weight:500;padding:3px 8px;border-radius:5px;
+  white-space:nowrap;
 }
 .entity-tag.main{
-  background:rgba(245,158,11,.12);border-color:rgba(245,158,11,.3);
-  color:#fbbf24;font-weight:600;
+  background:rgba(245,158,11,.15);
+  border:1px solid rgba(245,158,11,.35);
+  color:#fbbf24;
+  font-weight:700;
+}
+.entity-tag.related{
+  background:var(--bg4);
+  border:1px solid var(--border2);
+  color:var(--text2);
 }
 
+/* 記事リンク */
+.card-footer{display:flex;justify-content:flex-end}
 .read-link{
-  display:inline-flex;align-items:center;gap:3px;
-  font-size:12px;font-weight:600;color:var(--accent2);text-decoration:none;
+  font-size:12px;font-weight:600;color:var(--accent2);
+  text-decoration:none;display:inline-flex;align-items:center;gap:3px;
 }
 
 /* ─── スケルトン ─── */
+.skel-list{display:flex;flex-direction:column;gap:12px;margin-bottom:12px}
 .skel-card{
   background:var(--bg2);border:1px solid var(--border);
-  border-radius:var(--r-lg);padding:14px 15px;margin-bottom:10px;
+  border-radius:var(--r-lg);padding:14px 15px;
 }
 .skel{
   background:linear-gradient(90deg,var(--bg3) 25%,rgba(255,255,255,.04) 50%,var(--bg3) 75%);
-  background-size:200% 100%;animation:shimmer 1.4s infinite;border-radius:4px;
+  background-size:200% 100%;animation:shimmer 1.5s infinite;border-radius:4px;
 }
 @keyframes shimmer{to{background-position:-200% 0}}
 
@@ -242,12 +273,15 @@ body{
 }
 
 /* フッター */
-.footer{text-align:center;font-size:11px;color:var(--text3);margin-top:20px;padding-top:16px;border-top:1px solid var(--border);line-height:1.8}
+.footer{
+  text-align:center;font-size:11px;color:var(--text3);
+  margin-top:20px;padding-top:16px;border-top:1px solid var(--border);line-height:1.8;
+}
 .footer a{color:var(--accent2);text-decoration:none}
 
 /* トップボタン */
 .to-top{
-  position:fixed;bottom:calc(20px + var(--safe-b));right:16px;
+  position:fixed;bottom:calc(20px + var(--safe-b));right:15px;
   width:42px;height:42px;border-radius:50%;
   background:var(--bg3);border:1px solid var(--border2);
   display:flex;align-items:center;justify-content:center;
@@ -257,7 +291,7 @@ body{
 .to-top.show{opacity:1;pointer-events:auto}
 
 /* 検索ハイライト */
-mark{background:rgba(108,99,255,.3);color:var(--text1);border-radius:2px;padding:0 1px}
+mark{background:rgba(124,111,255,.3);color:var(--text1);border-radius:2px;padding:0 1px}
 </style>
 </head>
 <body>
@@ -265,10 +299,10 @@ mark{background:rgba(108,99,255,.3);color:var(--text1);border-radius:2px;padding
 <div class="header">
   <div class="header-top">
     <div class="logo">
-      <div class="logo-icon">₿</div>
+      <div class="logo-mark">₿</div>
       <div>
-        <div class="logo-text">Crypto News Digest</div>
-        <div class="logo-sub" id="headerSub">読み込み中...</div>
+        <div class="logo-name">Crypto News Digest</div>
+        <div class="logo-desc" id="headerSub">読み込み中...</div>
       </div>
     </div>
     <button class="refresh-btn" id="refreshBtn" onclick="loadNews()">
@@ -276,16 +310,14 @@ mark{background:rgba(108,99,255,.3);color:var(--text1);border-radius:2px;padding
     </button>
   </div>
 
-  <!-- 検索 -->
   <div class="search-wrap">
     <span class="search-icon">🔍</span>
-    <input class="search-input" id="searchInput" type="text"
-      placeholder="企業名・記事タイトルで検索..." oninput="onSearch()">
+    <input class="search-input" id="searchInput" type="search"
+      placeholder="企業名・記事タイトルで検索..." oninput="onSearch()" autocomplete="off">
     <button class="search-clear" id="searchClear" onclick="clearSearch()">✕</button>
   </div>
 
-  <!-- 期間タブ -->
-  <div class="tabs-row" id="periodTabs">
+  <div class="tabs-row">
     <div class="tab active" data-period="24h"   onclick="setPeriod('24h')">過去24時間</div>
     <div class="tab"        data-period="today"  onclick="setPeriod('today')">今日</div>
     <div class="tab"        data-period="week"   onclick="setPeriod('week')">今週</div>
@@ -293,13 +325,12 @@ mark{background:rgba(108,99,255,.3);color:var(--text1);border-radius:2px;padding
   </div>
 </div>
 
-<!-- フィルターバー（ソース & カテゴリ） -->
 <div class="filter-bar">
-  <div>
+  <div class="filter-section">
     <div class="filter-label">ソース</div>
     <div class="chips-row" id="sourceChips"></div>
   </div>
-  <div>
+  <div class="filter-section">
     <div class="filter-label">カテゴリ</div>
     <div class="chips-row" id="catChips"></div>
   </div>
@@ -311,25 +342,26 @@ mark{background:rgba(108,99,255,.3);color:var(--text1);border-radius:2px;padding
     <span id="statusText">データを読み込んでいます...</span>
   </div>
 
-  <!-- スケルトン -->
-  <div id="skeletons">
+  <div id="errorArea"></div>
+
+  <div class="skel-list" id="skeletons">
     <div class="skel-card">
-      <div class="skel" style="width:120px;height:18px;margin-bottom:10px"></div>
-      <div class="skel" style="width:100%;height:16px;margin-bottom:5px"></div>
-      <div class="skel" style="width:75%;height:16px;margin-bottom:12px"></div>
+      <div class="skel" style="width:130px;height:18px;margin-bottom:10px"></div>
+      <div class="skel" style="width:100%;height:17px;margin-bottom:5px"></div>
+      <div class="skel" style="width:72%;height:17px;margin-bottom:14px"></div>
+      <div class="skel" style="width:100%;height:13px;margin-bottom:4px"></div>
+      <div class="skel" style="width:90%;height:13px;margin-bottom:4px"></div>
+      <div class="skel" style="width:80%;height:13px"></div>
+    </div>
+    <div class="skel-card">
+      <div class="skel" style="width:110px;height:18px;margin-bottom:10px"></div>
+      <div class="skel" style="width:100%;height:17px;margin-bottom:5px"></div>
+      <div class="skel" style="width:65%;height:17px;margin-bottom:14px"></div>
       <div class="skel" style="width:100%;height:13px;margin-bottom:4px"></div>
       <div class="skel" style="width:85%;height:13px"></div>
     </div>
-    <div class="skel-card">
-      <div class="skel" style="width:100px;height:18px;margin-bottom:10px"></div>
-      <div class="skel" style="width:100%;height:16px;margin-bottom:5px"></div>
-      <div class="skel" style="width:65%;height:16px;margin-bottom:12px"></div>
-      <div class="skel" style="width:100%;height:13px;margin-bottom:4px"></div>
-      <div class="skel" style="width:70%;height:13px"></div>
-    </div>
   </div>
 
-  <div id="errorArea"></div>
   <div class="count-bar" id="countBar" style="display:none"></div>
   <div class="news-list" id="newsList"></div>
   <div class="footer" id="footer" style="display:none"></div>
@@ -356,12 +388,19 @@ let activeCat     = null;
 let searchQuery   = '';
 
 // ─── ユーティリティ ──────────────────────────────────────────────────────
-function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;') }
+function esc(s){
+  return String(s||'')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
 function toDate(s){ return s ? new Date(s) : null }
 
 function fmtFull(d){
   if(!d) return '不明';
-  return d.toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',year:'numeric',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
+  return d.toLocaleString('ja-JP',{
+    timeZone:'Asia/Tokyo',year:'numeric',month:'numeric',
+    day:'numeric',hour:'2-digit',minute:'2-digit'
+  });
 }
 function fmtRel(d){
   if(!d) return '';
@@ -372,27 +411,24 @@ function fmtRel(d){
   return d.toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
 }
 
-// 検索ハイライト
 function highlight(text, query){
   if(!query) return esc(text);
-  const escaped = esc(text);
-  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
-  return escaped.replace(new RegExp(escapedQuery,'gi'), m=>`<mark>${m}</mark>`);
+  const e = esc(text);
+  const q = query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+  return e.replace(new RegExp(q,'gi'), m=>`<mark>${m}</mark>`);
 }
 
 // ─── フィルタ ────────────────────────────────────────────────────────────
 function filterByPeriod(arts, period){
   const now = Date.now();
-  switch(period){
-    case '24h':  return arts.filter(a=>toDate(a.pub_date) >= new Date(now-86400000));
-    case 'today':{
-      const jn=new Date(now+JST_OFFSET);
-      const s=new Date(Date.UTC(jn.getUTCFullYear(),jn.getUTCMonth(),jn.getUTCDate())-JST_OFFSET);
-      return arts.filter(a=>toDate(a.pub_date)>=s);
-    }
-    case 'week': return arts.filter(a=>toDate(a.pub_date)>=new Date(now-7*86400000));
-    default:     return arts;
+  if(period==='24h')  return arts.filter(a=>toDate(a.pub_date)>=new Date(now-86400000));
+  if(period==='today'){
+    const jn=new Date(now+JST_OFFSET);
+    const s=new Date(Date.UTC(jn.getUTCFullYear(),jn.getUTCMonth(),jn.getUTCDate())-JST_OFFSET);
+    return arts.filter(a=>toDate(a.pub_date)>=s);
   }
+  if(period==='week') return arts.filter(a=>toDate(a.pub_date)>=new Date(now-7*86400000));
+  return arts;
 }
 
 function applyFilters(){
@@ -402,33 +438,39 @@ function applyFilters(){
   if(searchQuery){
     const q = searchQuery.toLowerCase();
     arts = arts.filter(a=>{
-      const haystack = [
-        a.title, a.summary, a.description,
+      return [
+        a.title||'', a.summary||'', a.description||'',
         ...(a.main_entities||[]),
         ...(a.related_entities||[]),
-      ].join(' ').toLowerCase();
-      return haystack.includes(q);
+      ].join(' ').toLowerCase().includes(q);
     });
   }
   return arts;
 }
 
-// ─── タブ・チップ切替 ────────────────────────────────────────────────────
+// ─── 状態変更 ────────────────────────────────────────────────────────────
 function setPeriod(p){
   currentPeriod=p;
-  document.querySelectorAll('[data-period]').forEach(t=>t.classList.toggle('active',t.dataset.period===p));
+  document.querySelectorAll('[data-period]').forEach(t=>
+    t.classList.toggle('active',t.dataset.period===p));
   render();
 }
 
-function setSource(name){
+function toggleSource(name){
   activeSource = activeSource===name ? null : name;
-  document.querySelectorAll('[data-source]').forEach(c=>c.classList.toggle('active',c.dataset.source===activeSource||activeSource===null));
+  document.querySelectorAll('[data-source]').forEach(c=>
+    c.classList.toggle('active', activeSource===null ? true : c.dataset.source===activeSource));
+  // activeがnullなら全チップをactive
+  if(activeSource===null){
+    document.querySelectorAll('[data-source]').forEach(c=>c.classList.add('active'));
+  }
   render();
 }
 
-function setCat(cat){
+function toggleCat(cat){
   activeCat = activeCat===cat ? null : cat;
-  document.querySelectorAll('[data-cat]').forEach(c=>c.classList.toggle('active',c.dataset.cat===activeCat));
+  document.querySelectorAll('[data-cat]').forEach(c=>
+    c.classList.toggle('active', c.dataset.cat===activeCat));
   render();
 }
 
@@ -444,77 +486,103 @@ function clearSearch(){
   render();
 }
 
-// ─── チップ生成 ──────────────────────────────────────────────────────────
+// ─── チップ構築 ──────────────────────────────────────────────────────────
 function buildSourceChips(sources){
-  const area = document.getElementById('sourceChips');
-  area.innerHTML = sources.map(name=>{
-    const c = SOURCE_COLORS[name]||'#555';
-    return `<div class="chip active" data-source="${esc(name)}" onclick="setSource('${esc(name)}')"
-      style="color:${c};border-color:${c}40">${esc(name)}</div>`;
+  document.getElementById('sourceChips').innerHTML = sources.map(name=>{
+    const c = SOURCE_COLORS[name]||'#888';
+    return `<div class="chip active" data-source="${esc(name)}"
+      onclick="toggleSource('${esc(name)}')"
+      style="color:${c};border-color:${c}44">${esc(name)}</div>`;
   }).join('');
 }
 
 function buildCatChips(articles){
-  const cats = [...new Set(articles.map(a=>a.category).filter(Boolean))].sort();
-  const area = document.getElementById('catChips');
-  area.innerHTML = cats.map(cat=>
-    `<div class="chip" data-cat="${esc(cat)}" onclick="setCat('${esc(cat)}')">${esc(cat)}</div>`
+  // 全記事からカテゴリを収集し、件数順に並べる
+  const countMap = {};
+  articles.forEach(a=>{ if(a.category){ countMap[a.category]=(countMap[a.category]||0)+1; } });
+  const cats = Object.entries(countMap).sort((a,b)=>b[1]-a[1]).map(e=>e[0]);
+  document.getElementById('catChips').innerHTML = cats.map(cat=>
+    `<div class="chip" data-cat="${esc(cat)}" onclick="toggleCat('${esc(cat)}')">${esc(cat)}</div>`
   ).join('');
 }
 
 // ─── カード生成 ──────────────────────────────────────────────────────────
 function buildCard(a, q){
-  const pub   = toDate(a.pub_date);
-  const color = SOURCE_COLORS[a.source_name]||'#6c63ff';
-  const badgeBg = color+'22';
+  const pub     = toDate(a.pub_date);
+  const color   = SOURCE_COLORS[a.source_name]||'#7c6fff';
+  const badgeBg = color+'28';
 
-  const mainEnts    = a.main_entities    || [];
-  const relatedEnts = a.related_entities || [];
-  const hasEntities = mainEnts.length>0 || relatedEnts.length>0;
+  // ── 要約セクション ──
+  let summaryText = '';
+  if(a.summary && a.summary.length > 20 && a.summary !== '要約を生成できませんでした。'){
+    summaryText = a.summary;
+  } else if(a.description && a.description.length > 20){
+    summaryText = a.description;
+  } else {
+    summaryText = '（要約情報なし）';
+  }
+  const summaryHtml = `
+    <div class="summary-section">
+      <div class="summary-section-label">要約</div>
+      <div class="summary-text">${highlight(summaryText, q)}</div>
+    </div>`;
 
-  const summaryHtml = (a.summary && a.summary !== '要約を生成できませんでした。')
-    ? `<div class="card-summary">${highlight(a.summary, q)}</div>`
-    : (a.description
-        ? `<div class="card-summary">${highlight(a.description.slice(0,200)+'…', q)}</div>`
-        : `<div class="summary-placeholder">要約なし</div>`);
+  // ── 企業名セクション ──
+  const mainEnts    = (a.main_entities    || []).filter(e=>e && e.trim());
+  const relatedEnts = (a.related_entities || []).filter(e=>e && e.trim());
+  let entitiesHtml  = '';
 
-  const entitiesHtml = hasEntities ? `
-    <div class="entities-section">
-      ${mainEnts.length>0 ? `
-        <div class="entity-row">
-          <span class="entity-label">主体</span>
+  if(mainEnts.length > 0 || relatedEnts.length > 0){
+    const mainTagsHtml = mainEnts.length > 0
+      ? `<div class="entity-row">
+          <span class="entity-type-label">主体</span>
           <div class="entity-tags">
             ${mainEnts.map(e=>`<span class="entity-tag main">${highlight(e,q)}</span>`).join('')}
           </div>
-        </div>` : ''}
-      ${relatedEnts.length>0 ? `
-        <div class="entity-row">
-          <span class="entity-label">関連</span>
+        </div>` : '';
+
+    const relTagsHtml = relatedEnts.length > 0
+      ? `<div class="entity-row">
+          <span class="entity-type-label">関連</span>
           <div class="entity-tags">
-            ${relatedEnts.map(e=>`<span class="entity-tag">${highlight(e,q)}</span>`).join('')}
+            ${relatedEnts.map(e=>`<span class="entity-tag related">${highlight(e,q)}</span>`).join('')}
           </div>
-        </div>` : ''}
-    </div>` : '';
+        </div>` : '';
+
+    entitiesHtml = `
+      <div class="entities-section">
+        <div class="entities-section-label">登場企業・団体</div>
+        ${mainTagsHtml}
+        ${relTagsHtml}
+      </div>`;
+  }
 
   return `
-    <div class="card" style="--source-color:${color}">
-      <div class="card-tags">
-        <span class="source-badge" style="color:${color};background:${badgeBg};border-color:${color}40">
-          ${esc(a.source_name)}
-        </span>
-        ${a.category ? `<span class="cat-badge">${esc(a.category)}</span>` : ''}
+    <div class="card">
+      <div class="card-color-bar" style="background:${color}"></div>
+      <div class="card-body">
+        <div class="card-tags">
+          <span class="source-badge" style="color:${color};background:${badgeBg};border-color:${color}44">
+            ${esc(a.source_name)}
+          </span>
+          ${a.category ? `<span class="cat-badge">${esc(a.category)}</span>` : ''}
+        </div>
+        <a class="card-title" href="${esc(a.link)}" target="_blank" rel="noopener">
+          ${highlight(a.title||'', q)}
+        </a>
+        <div class="card-meta">
+          <span title="${fmtFull(pub)}">${fmtRel(pub)}</span>
+          <span class="sep">·</span>
+          <span>${fmtFull(pub)}</span>
+        </div>
+        ${summaryHtml}
+        ${entitiesHtml}
+        <div class="card-footer">
+          <a class="read-link" href="${esc(a.link)}" target="_blank" rel="noopener">
+            元記事を読む →
+          </a>
+        </div>
       </div>
-      <a class="card-title" href="${esc(a.link)}" target="_blank" rel="noopener">
-        ${highlight(a.title, q)}
-      </a>
-      <div class="card-meta">
-        <span title="${fmtFull(pub)}">${fmtRel(pub)}</span>
-        <span class="sep">·</span>
-        <span>${fmtFull(pub)}</span>
-      </div>
-      ${summaryHtml}
-      ${entitiesHtml}
-      <a class="read-link" href="${esc(a.link)}" target="_blank" rel="noopener">元記事を読む →</a>
     </div>`;
 }
 
@@ -525,27 +593,30 @@ function render(){
   const countBar = document.getElementById('countBar');
   const q        = searchQuery;
 
-  const pLabel = {'24h':'過去24時間','today':'今日','week':'今週','all':'すべて'}[currentPeriod];
-  const sLabel = activeSource ? ` · ${activeSource}` : '';
-  const cLabel = activeCat    ? ` · ${activeCat}`    : '';
-  const qLabel = q            ? ` · "…"検索中`       : '';
+  const labels = {
+    period: {'24h':'過去24時間','today':'今日','week':'今週','all':'すべて'}[currentPeriod],
+    source: activeSource ? ` · ${activeSource}` : '',
+    cat:    activeCat    ? ` · ${activeCat}`    : '',
+    query:  q            ? ` · 「${q}」`        : '',
+  };
 
   if(arts.length===0){
     countBar.style.display='none';
-    list.innerHTML=`<div class="empty">
-      <div class="empty-icon">📭</div>
-      <div class="empty-ttl">該当する記事がありません</div>
-      <div class="empty-sub">別の期間・フィルタ・検索ワードをお試しください</div>
-    </div>`;
+    list.innerHTML=`
+      <div class="empty">
+        <div class="empty-icon">📭</div>
+        <div class="empty-ttl">該当する記事がありません</div>
+        <div class="empty-sub">別の期間・フィルタ・検索ワードをお試しください</div>
+      </div>`;
     return;
   }
 
   countBar.style.display='block';
-  countBar.innerHTML=`${pLabel}${sLabel}${cLabel}${qLabel}：<strong>${arts.length}件</strong>`;
+  countBar.innerHTML = `${labels.period}${labels.source}${labels.cat}${labels.query}：<strong>${arts.length}件</strong>`;
   list.innerHTML = arts.map(a=>buildCard(a,q)).join('');
 }
 
-// ─── データ読み込み ──────────────────────────────────────────────────────
+// ─── データ取得 ──────────────────────────────────────────────────────────
 async function loadNews(){
   const btn    = document.getElementById('refreshBtn');
   const icon   = document.getElementById('spinIcon');
@@ -556,43 +627,44 @@ async function loadNews(){
 
   btn.classList.add('loading');
   icon.classList.add('go');
-  dot.className  = 'dot loading';
+  dot.className     = 'dot loading';
   stTxt.textContent = 'データを取得中...';
   errArea.innerHTML = '';
+  skels.style.display='block';
 
   try{
-    const res = await fetch(NEWS_JSON+'?t='+Date.now());
-    if(!res.ok) throw new Error(`HTTP ${res.status}`);
+    const res = await fetch(NEWS_JSON + '?t=' + Date.now());
+    if(!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
     const db = await res.json();
 
-    allArticles = db.articles||[];
-    const total = db.total_count||allArticles.length;
-    const lastUpd = db.last_updated ? fmtFull(new Date(db.last_updated)) : '不明';
+    allArticles = db.articles || [];
+    const total  = db.total_count || allArticles.length;
+    const lastUpd= db.last_updated ? fmtFull(new Date(db.last_updated)) : '不明';
+    const sources= db.sources || [...new Set(allArticles.map(a=>a.source_name))];
 
     skels.style.display='none';
     document.getElementById('countBar').style.display='block';
     document.getElementById('footer').style.display='block';
 
-    const sources = db.sources||[...new Set(allArticles.map(a=>a.source_name))];
     buildSourceChips(sources);
     buildCatChips(allArticles);
 
-    dot.className    = 'dot';
-    stTxt.textContent= `最終更新: ${lastUpd} ／ 蓄積: ${total}件`;
-    document.getElementById('headerSub').textContent=`${sources.length}メディア · ${total}件蓄積`;
-
-    document.getElementById('footer').innerHTML=`
+    dot.className     = 'dot';
+    stTxt.textContent = `最終更新: ${lastUpd} ／ 蓄積: ${total}件`;
+    document.getElementById('headerSub').textContent = `${sources.length}メディア · ${total}件蓄積`;
+    document.getElementById('footer').innerHTML = `
       最終データ更新: ${lastUpd}<br>
-      参照元: ${sources.map(s=>`<a href="${esc(SOURCE_COLORS[s]?'#':''||'#')}" target="_blank">${esc(s)}</a>`).join(' / ')}<br>
-      <a href="${REPO_URL}" target="_blank" rel="noopener">GitHub</a> · 毎朝9:00 JST に自動更新
+      参照元: ${sources.map(s=>`<a href="#" target="_blank">${esc(s)}</a>`).join(' / ')}<br>
+      <a href="${REPO_URL}" target="_blank" rel="noopener">GitHub</a> · 毎朝9:00 JST 自動更新
     `;
 
     render();
-  }catch(e){
+  } catch(e){
     skels.style.display='none';
-    dot.className    = 'dot error';
-    stTxt.textContent= 'データの取得に失敗しました';
-    errArea.innerHTML= `<div class="err-card">⚠ ${esc(e.message)}<br>GitHub Actionsの初回実行後に表示されます。</div>`;
+    dot.className     = 'dot error';
+    stTxt.textContent = 'データの取得に失敗しました';
+    errArea.innerHTML = `<div class="err-card">⚠ ${esc(e.message)}<br>
+      GitHub Actionsの初回実行後にデータが表示されます。</div>`;
     document.getElementById('newsList').innerHTML='';
   }
 
@@ -600,7 +672,6 @@ async function loadNews(){
   icon.classList.remove('go');
 }
 
-// ─── スクロール ──────────────────────────────────────────────────────────
 window.addEventListener('scroll',()=>{
   document.getElementById('toTop').classList.toggle('show',scrollY>300);
 },{passive:true});
