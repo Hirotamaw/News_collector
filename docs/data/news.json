@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "title": "「ステーブルコインを知らない」前提で活用する——ネットスターズが示した決済実装の現実解【BCCC Collaborative Day】",
+      "link": "https://www.nadanews.com/345600/",
+      "pub_date": "2026-04-22T13:45:43+09:00",
+      "pub_date_utc": "2026-04-22T04:45:43+00:00",
+      "description": "一般社団法人ブロックチェーン推進協会（BCCC）が主催した業界カンファレンス「第9回 BCCC Collaborative Day」が21日、都内で開催された。 ... The post 「ステーブルコインを知らない」前提で活用する——ネットスターズが示した決済実装の現実解【BCCC Collaborative Day】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "一般社団法人ブロックチェーン推進協会（BCCC）が主催した業界カンファレンス「第9回 BCCC Collaborative Day」が21日、都内で開催された。 ... The post 「ステーブルコインを知らない」前提で活用する——ネットスターズが示した決済実装の現実解【BCCC Collaborative Day】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "その他",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-22T13:58:14.335818+09:00"
+    },
+    {
+      "title": "新作ドキュメンタリー映画「サトシを探して」、21世紀最大の金融ミステリーの真相は？",
+      "link": "https://coinpost.jp/?p=704068",
+      "pub_date": "2026-04-22T13:45:02+09:00",
+      "pub_date_utc": "2026-04-22T04:45:02+00:00",
+      "description": "4月22日公開のドキュメンタリー映画「Finding Satoshi」は、ビットコイン創設者サトシ・ナカモトの正体を特定したと主張する。4年間の調査と法医学的分析、20人以上へのインタビューを経て独自の結論に至った。一方、業界では匿名性の意義を主張する動きもある。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "4月22日公開のドキュメンタリー映画「Finding Satoshi」は、ビットコイン創設者サトシ・ナカモトの正体を特定したと主張する。4年間の調査と法医学的分析、20人以上へのインタビューを経て独自の結論に至った。一方、業界では匿名性の意義を主張する動きもある。",
+      "category": "その他",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-22T13:58:14.335818+09:00"
+    },
+    {
       "title": "仏南部で仮想通貨投資家を狙った強盗事件　配達員装い銃で脅迫",
       "link": "https://cointelegraph.jp/news/gunman-posing-delivery-driver-targets-crypto-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pub_date": "2026-04-22T13:04:39+09:00",
@@ -8605,8 +8637,8 @@
       "fetched_at": "2026-04-05T23:48:25.372567+09:00"
     }
   ],
-  "last_updated": "2026-04-22T13:07:55.886884+09:00",
-  "total_count": 613,
+  "last_updated": "2026-04-22T13:58:14.335818+09:00",
+  "total_count": 615,
   "sources": [
     "NADA NEWS",
     "CoinPost",
