@@ -31,6 +31,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/fetch_news.py
 
+      - name: Reclassify existing articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/reclassify_existing.py
+
       - name: Commit and push updated data
         run: |
           git config --global user.name "github-actions[bot]"
