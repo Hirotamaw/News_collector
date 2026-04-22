@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "【4/22話題】ANAPが今月3度目のビットコイン追加購入、Volo Protocolから約3.5Mドルの不正流出、アービトラムが約3万766ETH凍結など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/567447",
+      "pub_date": "2026-04-22T20:28:06+09:00",
+      "pub_date_utc": "2026-04-22T11:28:06+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-22T20:31:40.784338+09:00"
+    },
+    {
       "title": "またもやDeFiプロトコルがハッキング被害──SuiベースのVoloが350万ドル盗まれる",
       "link": "https://www.nadanews.com/345846/",
       "pub_date": "2026-04-22T20:05:00+09:00",
@@ -299,7 +315,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "コア・サイエンティフィックは、米国全土で進めるデータセンター事業の拡張を支えるため、33億ドル規模の資金調達を計画している。",
-      "category": "分析・レポート",
+      "category": "マーケット",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-22T15:42:09.922570+09:00"
@@ -539,7 +555,7 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "仮想通貨採掘企業コア・サイエンティフィックが33億ドルの社債発行を計画。調達資金をAIデータセンター開発資金返済に充当する予定だ。HPCでF1チームとも提携している。",
-      "category": "分析・レポート",
+      "category": "マーケット",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-22T15:42:09.922570+09:00"
@@ -763,7 +779,7 @@
       "source_url": "https://www.nadanews.com/",
       "source_color": "#0f6e56",
       "summary": "予測市場プラットフォームを展開するKalshi（カルシ）のリサーチ部門は、金融リサーチ企業ProCap Financial（プロキャップ・ファイナンシャル）と提 The post KalshiとProCapが提携──予測市場データを活用した新たな投資リサーチ領域を開拓 first appeared on NADA NEWS（ナダ・ニュース）.",
-      "category": "分析・レポート",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-22T15:42:09.922570+09:00"
@@ -945,8 +961,8 @@
       "fetched_at": "2026-04-22T15:42:09.922570+09:00"
     }
   ],
-  "last_updated": "2026-04-22T20:05:29.656900+09:00",
-  "total_count": 59,
+  "last_updated": "2026-04-22T20:31:40.784338+09:00",
+  "total_count": 60,
   "sources": [
     "NADA NEWS",
     "CoinPost",
