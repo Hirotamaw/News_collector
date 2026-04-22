@@ -1,5 +1,5 @@
 """
-暗号資産ニュース 自動取得・要約スクリプト v4
+暗号資産ニュース 自動取得・要約スクリプト v5
 """
 
 import html
@@ -21,61 +21,6 @@ DATA_FILE   = Path(__file__).parent.parent / "docs" / "data" / "news.json"
 MAX_RETRIES = 3
 RETRY_DELAY = 5
 
-# ── カテゴリ定義 ──────────────────────────────────────────────────────────
-#
-# 技術系:
-#   アップデート       : ブロックチェーンやDeFiのアップデート、改善提案(EIP/BIP等)、フォーク
-#   障害・攻撃         : ネットワーク障害、ハック・攻撃、取引所での流出事例、詐欺
-#
-# アセット系ビジネス:
-#   ステーブルコイン   : USDT/USDC/JPYC/CBDC等の安定価値通貨に関するビジネス
-#   NFT                : NFT、デジタルアート、ゲームアイテムに関するビジネス
-#   トークン化預金     : Tokenized Deposit、預金トークンに関するビジネス
-#   セキュリティトークン : ST、トークン化MMF/株式/国債、セキュリティトークンに関するビジネス
-#   暗号資産ETF        : BTC/ETH ETFなど上場投資商品に関するビジネス
-#
-# その他:
-#   ビジネス       : 上記アセット区分に当てはまらない企業・業界のビジネスニュース
-#   分析・レポート : 調査レポート、アナリスト分析、統計・データ
-#   マーケット     : 価格変動・相場・市場動向（ビジネスや分析を含まない純粋な相場情報）
-#   規制・法律     : 各国の規制動向、当局の発表、法整備
-#   イベント・人事 : カンファレンス、展示会、人事異動、提携発表
-#   その他         : 上記のどれにも当てはまらないニュース
-#
-CATEGORY_CHOICES = (
-    "アップデート"
-    " / 障害・攻撃"
-    " / ステーブルコイン"
-    " / NFT"
-    " / トークン化預金"
-    " / セキュリティトークン"
-    " / 暗号資産ETF"
-    " / ビジネス"
-    " / 分析・レポート"
-    " / マーケット"
-    " / 規制・法律"
-    " / イベント・人事"
-    " / その他"
-)
-
-# カテゴリ判定の補助説明（プロンプトに埋め込む）
-CATEGORY_GUIDE = """
-カテゴリの選び方:
-- アップデート: ブロックチェーン・DeFiのプロトコル更新、EIP/BIP提案、ハードフォーク/ソフトフォーク
-- 障害・攻撃: ハック被害、資金流出、DDoS、バグによる障害、詐欺・フィッシング
-- ステーブルコイン: USDT/USDC/JPYC/CBDC等の発行・運用・規制に関するビジネス
-- NFT: NFTの発行・売買・マーケットプレイス・ゲームアイテムに関するビジネス
-- トークン化預金: Tokenized Deposit・預金トークンの発行・実証実験・導入
-- セキュリティトークン: ST・トークン化MMF/株式/国債/不動産の発行・取引・制度
-- 暗号資産ETF: ビットコインETF・イーサリアムETF等の申請・承認・運用
-- ビジネス: 上記アセット区分に当てはまらない企業の資金調達・提携・経営・M&A
-- 分析・レポート: 調査会社・アナリストのレポート、オンチェーンデータ分析
-- マーケット: 価格・相場・出来高など純粋な市場動向（企業ニュースでなく相場情報）
-- 規制・法律: 各国当局の規制・法整備・ライセンス・訴訟
-- イベント・人事: カンファレンス・展示会・人事異動・コミュニティイベント
-- その他: 上記のどれにも当てはまらない場合のみ選択
-"""
-
 # ── 取得対象ソース ────────────────────────────────────────────────────────
 SOURCES = [
     {"name": "NADA NEWS",        "top_url": "https://www.nadanews.com/",   "rss_url": "https://www.nadanews.com/feed/",       "color": "#0f6e56"},
@@ -84,24 +29,64 @@ SOURCES = [
     {"name": "CoinTelegraph JP", "top_url": "https://cointelegraph.jp/",   "rss_url": "https://cointelegraph.jp/rss",         "color": "#b45309"},
 ]
 
+# ── カテゴリ定義（番号付きリスト形式でAIに渡す）────────────────────────
+# AIがこのリストから番号を選択 → カテゴリ名に変換
+CATEGORY_LIST = [
+    ("1", "Blockchain",          "ビットコイン・イーサリアム等のブロックチェーン本体のアップデート、EIP/BIP等の改善提案、ハードフォーク・ソフトフォーク"),
+    ("2", "DeFi",                "Uniswap・Aave・Compound等DeFiプロトコルのアップデート・新機能・ガバナンス提案・TVL動向"),
+    ("3", "障害・攻撃",          "ブロックチェーンのネットワーク障害、取引所・DeFiのハッキング・資金流出、フィッシング・詐欺・51%攻撃"),
+    ("4", "分析・レポート",      "IMF・世界銀行・金融庁・BIS等の国際組織や金融機関による声明・レポート、調査会社・アナリストの市場分析・統計データ"),
+    ("5", "Stablecoin",          "USDT・USDC・JPYC・CBDC等ステーブルコインの発行・運用・規制・採用"),
+    ("6", "NFT",                 "NFTの発行・売買・マーケットプレイス・デジタルアート・ゲームアイテム・メタバース"),
+    ("7", "Tokenized Deposit",   "トークン化預金・預金トークン（Tokenized Deposit）の発行・実証実験・銀行間決済・導入事例"),
+    ("8", "Security Token",      "セキュリティトークン・トークン化株式・トークン化国債・トークン化MMF・不動産トークン化・RWA（現実資産トークン化）"),
+    ("9", "暗号資産ETF",         "ビットコインETF・イーサリアムETF等の暗号資産ETFの申請・承認・運用・資金流入"),
+    ("10", "ビジネス",           "上記のどのアセット区分にも当てはまらない企業活動（資金調達・M&A・提携・新サービス・取引所運営・ウォレット等）"),
+    ("11", "マーケット",         "暗号資産の価格動向・相場分析・出来高・市場センチメント（企業ニュースではなく純粋な相場情報）"),
+    ("12", "規制・法律",         "各国の暗号資産規制・法整備・当局の発表・ライセンス申請・訴訟"),
+    ("13", "イベント・人事",     "カンファレンス・ハッカソン・展示会・人事異動・コミュニティイベント"),
+    ("14", "その他",             "上記のどのカテゴリにも明確に当てはまらない場合のみ"),
+]
+
+# AIへ渡す番号付きリスト文字列
+CATEGORY_PROMPT_LIST = "\n".join(
+    f"{num}. {name}：{desc}" for num, name, desc in CATEGORY_LIST
+)
+
+# 番号→カテゴリ名の変換辞書
+NUM_TO_CATEGORY = {num: name for num, name, _ in CATEGORY_LIST}
+# カテゴリ名→カテゴリ名（正規化用）
+NAME_TO_CATEGORY = {name.lower(): name for _, name, _ in CATEGORY_LIST}
+
+
+def resolve_category(raw: str) -> str:
+    """AIの返答（番号またはカテゴリ名）を正規のカテゴリ名に変換する"""
+    raw = raw.strip()
+    # 番号で返ってきた場合
+    if raw in NUM_TO_CATEGORY:
+        return NUM_TO_CATEGORY[raw]
+    # 「1. Blockchain」「1:Blockchain」のような形式
+    m = re.match(r"^(\d+)[.\s:：]", raw)
+    if m and m.group(1) in NUM_TO_CATEGORY:
+        return NUM_TO_CATEGORY[m.group(1)]
+    # カテゴリ名で返ってきた場合（大小文字・スペース無視）
+    normalized = raw.lower().strip()
+    if normalized in NAME_TO_CATEGORY:
+        return NAME_TO_CATEGORY[normalized]
+    # 部分一致
+    for key, val in NAME_TO_CATEGORY.items():
+        if key in normalized or normalized in key:
+            return val
+    return "その他"
+
 
 def clean_text(raw: str) -> str:
-    """
-    RSSのテキストをクリーニングする。
-    - HTMLタグ除去
-    - HTMLエンティティをデコード（&amp; → & , &#8230; → … 等）
-    - 省略記号（…）と [&hellip;] 類似表現を除去
-    - 連続空白・改行を正規化
-    """
-    # HTMLタグ除去
+    """RSSテキストのクリーニング"""
     text = re.sub(r"<[^>]+>", "", raw)
-    # HTMLエンティティをデコード（&#8230; → … など）
     text = html.unescape(text)
-    # 省略記号や「[…]」「[&hellip;]」「&#8230;」の残渣を除去
     text = re.sub(r"\[…\]|\[&#8230;\]|\[&hellip;\]|\[\.{3}\]", "", text)
     text = re.sub(r"…+", "", text)
     text = re.sub(r"\.{3,}", "", text)
-    # 連続空白・改行を正規化
     text = re.sub(r"[\r\n\t]+", " ", text)
     text = re.sub(r"\s{2,}", " ", text)
     return text.strip()
@@ -109,7 +94,7 @@ def clean_text(raw: str) -> str:
 
 # ── RSS 取得 ──────────────────────────────────────────────────────────────
 def fetch_rss(source: dict) -> list[dict]:
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/4.0)"}
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/5.0)"}
     resp = None
     for attempt in range(MAX_RETRIES):
         try:
@@ -138,10 +123,7 @@ def fetch_rss(source: dict) -> list[dict]:
         category_raw    = cats[0] if cats else ""
 
         title       = clean_text(title_raw)
-        description = clean_text(description_raw)
-
-        # 要約に十分な文字数を確保（1200字まで）
-        description = description[:1200]
+        description = clean_text(description_raw)[:1200]
 
         pub_date_jst = None
         if pub_date_str:
@@ -179,7 +161,8 @@ def filter_recent(items: list[dict], hours: int = 24) -> list[dict]:
 
 # ── AI分析プロンプト ──────────────────────────────────────────────────────
 ANALYSIS_PROMPT = """\
-以下の暗号資産ニュース記事を分析し、JSONのみで返答してください（説明文・コードブロック記号は一切不要）。
+以下の暗号資産ニュース記事を分析してください。
+回答はJSONのみで返してください（説明文・コードブロック記号は一切不要）。
 
 【タイトル】
 {title}
@@ -187,22 +170,21 @@ ANALYSIS_PROMPT = """\
 【本文・リード文】
 {description}
 
-{category_guide}
+【カテゴリ選択肢】（番号で答えること）
+{category_list}
 
 【出力JSON】
 {{
-  "summary": "ここに記事の要約を150〜200字で書く。何が起きたか・誰が関与しているか・どんな影響があるかを具体的に。省略記号(…)は絶対に使わない。必ず文章を完結させる。",
-  "category": "上記カテゴリの選び方を参考に最も適切な1つを選択: {categories}",
-  "main_entities": ["記事の主語・主体となっている企業・団体名（1〜3件、個人名は除外）"],
-  "related_entities": ["記事中に登場するその他の企業・団体・プロトコル名（最大8件、個人名は除外、main_entitiesと重複不可）"]
+  "summary": "150〜200字で記事の要約。何が起きたか・誰が主体か・数値や固有名詞を含めて具体的に。省略記号(…)禁止。文章を完結させること。",
+  "category": "上記リストの番号（1〜14のいずれか1つ）",
+  "main_entities": ["記事の主語・主体の企業・団体名（1〜3件、個人名除外）"],
+  "related_entities": ["記事中に登場するその他の企業・団体・プロトコル名（最大8件、個人名除外）"]
 }}
 
-【必須ルール】
-- summaryは必ず150字以上200字以内で書くこと
-- summaryに省略記号（…や...）を使わないこと
-- summaryは完結した文章で終わること（途中で切らない）
-- categoryは選択肢の中から必ず1つだけ選ぶこと
-- JSONのみ返答し、前後に説明文を付けないこと
+【重要ルール】
+- categoryは必ず1〜14の数字1つだけで答えること（カテゴリ名は不要）
+- summaryは150字以上200字以内で、省略せず完結した文章で書くこと
+- JSONのみ返答すること
 """
 
 
@@ -211,23 +193,16 @@ def analyze_article(
     title: str,
     description: str,
 ) -> dict:
-    """要約・カテゴリ・企業名を一括取得する"""
-
-    # descriptionが短すぎる場合はtitleを補完
-    if len(description) < 30:
-        content = f"{title}"
-    else:
-        content = description
+    content = description if len(description) >= 30 else title
 
     prompt = ANALYSIS_PROMPT.format(
         title=title,
         description=content,
-        category_guide=CATEGORY_GUIDE,
-        categories=CATEGORY_CHOICES,
+        category_list=CATEGORY_PROMPT_LIST,
     )
 
     fallback = {
-        "summary":          description[:200] if len(description) >= 30 else title,
+        "summary":          content[:200] if len(content) >= 30 else title,
         "category":         "その他",
         "main_entities":    [],
         "related_entities": [],
@@ -241,8 +216,6 @@ def analyze_article(
                 messages=[{"role": "user", "content": prompt}],
             )
             raw = msg.content[0].text.strip()
-
-            # コードブロック除去
             raw = re.sub(r"^```(?:json)?\s*\n?", "", raw, flags=re.IGNORECASE)
             raw = re.sub(r"\n?```\s*$", "", raw)
             raw = raw.strip()
@@ -250,23 +223,22 @@ def analyze_article(
             data = json.loads(raw)
 
             summary = clean_text(str(data.get("summary", ""))).strip()
-
-            # summaryが短すぎる・省略されている場合はdescriptionで代替
             if len(summary) < 50:
-                summary = description[:200] if len(description) >= 50 else title
-
-            # 万が一残っている省略記号を除去
+                summary = content[:200] if len(content) >= 50 else title
             summary = re.sub(r"…+|\.{3,}", "", summary).strip()
+
+            category_raw = str(data.get("category", "14")).strip()
+            category = resolve_category(category_raw)
 
             return {
                 "summary":          summary,
-                "category":         str(data.get("category", "その他")).strip(),
+                "category":         category,
                 "main_entities":    [str(e).strip() for e in data.get("main_entities", []) if str(e).strip()],
                 "related_entities": [str(e).strip() for e in data.get("related_entities", []) if str(e).strip()],
             }
 
         except json.JSONDecodeError:
-            print(f"    JSONパースエラー（attempt {attempt+1}）")
+            print(f"    JSONパースエラー（attempt {attempt+1}）raw={raw[:80]}")
             if attempt == MAX_RETRIES - 1:
                 return fallback
             time.sleep(RETRY_DELAY)
@@ -335,7 +307,6 @@ def main():
 
     print(f"=== 暗号資産ニュース取得開始 ({now_jst.strftime('%Y-%m-%d %H:%M JST')}) ===\n")
 
-    # 1. RSS取得
     print("[1/4] RSSフィードを取得中...")
     all_items: list[dict] = []
     for source in SOURCES:
@@ -344,7 +315,6 @@ def main():
         all_items.extend(items)
     print(f"  合計: {len(all_items)} 件\n")
 
-    # 2. 24時間フィルタ
     print("[2/4] 過去24時間以内の記事を抽出中...")
     recent = filter_recent(all_items, hours=24)
     print(f"  対象: {len(recent)} 件\n")
@@ -356,14 +326,12 @@ def main():
         save_db(db)
         return
 
-    # 3. 重複チェック
     print("[3/4] データベースを確認中...")
     db             = load_db()
     existing_links = {a["link"] for a in db["articles"]}
     new_items      = [it for it in recent if it["link"] not in existing_links]
-    print(f"  新規: {len(new_items)} 件 / スキップ(既存): {len(recent)-len(new_items)} 件\n")
+    print(f"  新規: {len(new_items)} 件 / スキップ: {len(recent)-len(new_items)} 件\n")
 
-    # 4. AI分析
     if new_items:
         print(f"[4/4] Claude APIで分析中（{len(new_items)} 件）...")
         for i, item in enumerate(new_items, 1):
@@ -374,14 +342,12 @@ def main():
             item["main_entities"]    = result["main_entities"]
             item["related_entities"] = result["related_entities"]
             item["fetched_at"]       = now_jst.isoformat()
-            print(f"       カテゴリ: {result['category']} | 主体: {result['main_entities']}")
-            print(f"       要約({len(result['summary'])}字): {result['summary'][:60]}...")
+            print(f"       → カテゴリ: {result['category']} | 主体: {result['main_entities']}")
             time.sleep(0.5)
         print()
     else:
         print("[4/4] 新規記事なし。スキップ。\n")
 
-    # 5. 保存
     added              = merge_articles(db, new_items)
     db["last_updated"] = now_jst.isoformat()
     db["total_count"]  = len(db["articles"])
