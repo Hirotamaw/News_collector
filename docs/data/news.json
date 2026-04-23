@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "title": "XRPは「投資対象」で終わるのか──RippleX幹部に聞く、RLUSD始動で問われる実需拡大と日本戦略",
+      "link": "https://www.nadanews.com/344360/",
+      "pub_date": "2026-04-23T10:00:00+09:00",
+      "pub_date_utc": "2026-04-23T01:00:00+00:00",
+      "description": "暗号資産をめぐる関心が、「投資」から「金融インフラ」へと移りつつある。そう語るのは、米リップル（Ripple）が展開するXRPレジャー（XRPL）の開発などを担 The post XRPは「投資対象」で終わるのか──RippleX幹部に聞く、RLUSD始動で問われる実需拡大と日本戦略 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産をめぐる関心が、「投資」から「金融インフラ」へと移りつつある。そう語るのは、米リップル（Ripple）が展開するXRPレジャー（XRPL）の開発などを担 The post XRPは「投資対象」で終わるのか──RippleX幹部に聞く、RLUSD始動で問われる実需拡大と日本戦略 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-23T10:30:08.008825+09:00"
+    },
+    {
+      "title": "暗号資産の分離課税、「歓迎一色」ではない──少額投資家は増税も？ 対象銘柄・実務負担の論点",
+      "link": "https://www.nadanews.com/345885/",
+      "pub_date": "2026-04-23T09:30:00+09:00",
+      "pub_date_utc": "2026-04-23T00:30:00+00:00",
+      "description": "暗号資産（仮想通貨）の分離課税は、必ずしもメリットばかりではない。投資家の属性や利益水準によっては、現行制度より不利になる可能性もある。 4月21日に開催された The post 暗号資産の分離課税、「歓迎一色」ではない──少額投資家は増税も？ 対象銘柄・実務負担の論点 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）の分離課税は、必ずしもメリットばかりではない。投資家の属性や利益水準によっては、現行制度より不利になる可能性もある。 4月21日に開催された The post 暗号資産の分離課税、「歓迎一色」ではない──少額投資家は増税も？ 対象銘柄・実務負担の論点 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "イベント・人事",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-23T10:30:08.008825+09:00"
+    },
+    {
       "title": "カルダノ開発元IOグローバルが2026年の財務提案9件を公開、レイオスで取引処理能力を最大65倍に拡大へ",
       "link": "https://coinpost.jp/?p=704298",
       "pub_date": "2026-04-23T08:45:43+09:00",
@@ -961,8 +993,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-04-23T09:11:48.515717+09:00",
-  "total_count": 60,
+  "last_updated": "2026-04-23T10:30:08.008825+09:00",
+  "total_count": 62,
   "sources": [
     "NADA NEWS",
     "CoinPost",
