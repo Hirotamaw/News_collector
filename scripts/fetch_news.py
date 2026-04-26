@@ -1,9 +1,10 @@
 """
-暗号資産ニュース 自動取得・要約スクリプト v7
-主な修正:
-  - max_tokens 900 → 2000（JSON切断によるentities空・summary途中切れを解消）
-  - summary 200〜400字に拡張
-  - JSONDecodeError時のデバッグログ強化
+暗号資産ニュース 自動取得・要約スクリプト v8
+
+entities取得を独立した関数に分離し、確実に動作するよう修正。
+- summarize_article() : summary + category を取得
+- extract_entities()  : main_entities + related_entities を取得（シンプルなプロンプト）
+- analyze_article()   : 上記2つを呼び出してまとめる
 """
 
 import html
@@ -33,40 +34,28 @@ SOURCES = [
     {"name": "CoinTelegraph JP", "top_url": "https://cointelegraph.jp/",  "rss_url": "https://cointelegraph.jp/rss",        "color": "#b45309"},
 ]
 
-# ── カテゴリ定義 ──────────────────────────────────────────────────────────
+# ── カテゴリ ──────────────────────────────────────────────────────────────
 CATEGORIES = [
-    "Blockchain",
-    "DeFi",
-    "障害・攻撃",
-    "分析・レポート",
-    "Stablecoin",
-    "NFT",
-    "Tokenized Deposit",
-    "Security Token",
-    "暗号資産ETF",
-    "ビジネス",
-    "マーケット",
-    "規制・法律",
-    "イベント・人事",
+    "Blockchain", "DeFi", "障害・攻撃", "分析・レポート",
+    "Stablecoin", "NFT", "Tokenized Deposit", "Security Token",
+    "暗号資産ETF", "ビジネス", "マーケット", "規制・法律", "イベント・人事",
 ]
-
 CATEGORY_PROMPT = "\n".join(f"- {c}" for c in CATEGORIES)
 
-# ── キーワードフォールバック分類器 ──────────────────────────────────────
 KEYWORD_RULES = [
-    ("障害・攻撃",       ["ハック","ハッキング","流出","被害","エクスプロイト","exploit","攻撃","詐欺","フィッシング","障害","盗難","不正","凍結","drain","breach","hack","stolen","scam","vulnerability"]),
-    ("Blockchain",       ["EIP","BIP","ハードフォーク","ソフトフォーク","アップグレード","イーサリアム改善","プロトコル更新","コンセンサス","バリデータ","merge","upgrade","fork","consensus","validator"]),
-    ("DeFi",             ["DeFi","defi","分散型金融","Uniswap","Aave","Compound","Curve","カーブ","MakerDAO","流動性","プール","AMM","DEX","レンディング","イールド","ガバナンス提案"]),
-    ("Stablecoin",       ["ステーブルコイン","stablecoin","USDT","USDC","JPYC","CBDC","デジタル円","円建て","安定通貨","USD Coin","Tether","JPYSC","EURC","PYUSD"]),
-    ("NFT",              ["NFT","nft","非代替","デジタルアート","メタバース","ゲームアイテム","OpenSea","Blur","コレクション"]),
-    ("Tokenized Deposit",["トークン化預金","預金トークン","Tokenized Deposit","tokenized deposit","デジタル預金","銀行間決済","決済トークン"]),
-    ("Security Token",   ["セキュリティトークン","Security Token","STO","RWA","トークン化株式","トークン化国債","トークン化MMF","現実資産","不動産トークン","株式トークン","国債トークン"]),
-    ("暗号資産ETF",      ["ETF","ビットコインETF","イーサリアムETF","上場投資信託","BlackRock","IBIT","FBTC","資金流入","運用残高"]),
-    ("分析・レポート",   ["IMF","BIS","世界銀行","金融庁","FSB","IOSCO","レポート","報告書","声明","調査","分析","統計","オンチェーン","research","report"]),
-    ("規制・法律",       ["規制","法案","法律","ライセンス","当局","SEC","CFTC","財務省","訴訟","逮捕","摘発","禁止","regulation","legal","compliance","enforcement"]),
-    ("マーケット",       ["価格","相場","急騰","急落","上昇","下落","高値","安値","ドル","円","ビットコイン価格","market","price","bull","bear","ATH"]),
-    ("イベント・人事",   ["カンファレンス","イベント","展示会","ハッカソン","人事","CEO","退任","就任","開催","登壇","conference","summit","hackathon"]),
-    ("ビジネス",         ["提携","資金調達","ラウンド","買収","M&A","上場","サービス開始","発表","リリース","パートナー","取引所","ウォレット","決済","ローン"]),
+    ("障害・攻撃",       ["ハック","ハッキング","流出","被害","エクスプロイト","exploit","攻撃","詐欺","フィッシング","障害","盗難","不正","凍結","drain","breach","hack","stolen","scam"]),
+    ("Blockchain",       ["EIP","BIP","ハードフォーク","ソフトフォーク","アップグレード","イーサリアム改善","プロトコル更新","コンセンサス","バリデータ","merge","upgrade","fork"]),
+    ("DeFi",             ["DeFi","defi","分散型金融","Uniswap","Aave","Compound","Curve","カーブ","MakerDAO","流動性","AMM","DEX","レンディング"]),
+    ("Stablecoin",       ["ステーブルコイン","stablecoin","USDT","USDC","JPYC","CBDC","デジタル円","安定通貨","Tether"]),
+    ("NFT",              ["NFT","nft","デジタルアート","メタバース","OpenSea","Blur"]),
+    ("Tokenized Deposit",["トークン化預金","預金トークン","Tokenized Deposit","tokenized deposit","デジタル預金"]),
+    ("Security Token",   ["セキュリティトークン","Security Token","STO","RWA","トークン化株式","トークン化国債","トークン化MMF","現実資産"]),
+    ("暗号資産ETF",      ["ETF","ビットコインETF","イーサリアムETF","上場投資信託","BlackRock","IBIT"]),
+    ("分析・レポート",   ["IMF","BIS","世界銀行","金融庁","FSB","IOSCO","レポート","報告書","声明","オンチェーン"]),
+    ("規制・法律",       ["規制","法案","法律","ライセンス","当局","SEC","CFTC","訴訟","逮捕","禁止","regulation","compliance"]),
+    ("マーケット",       ["価格","相場","急騰","急落","上昇","下落","高値","安値","ビットコイン価格","ATH"]),
+    ("イベント・人事",   ["カンファレンス","イベント","展示会","ハッカソン","人事","退任","就任","conference","summit"]),
+    ("ビジネス",         ["提携","資金調達","ラウンド","買収","上場","サービス開始","リリース","パートナー","取引所","ウォレット","決済"]),
 ]
 
 
@@ -83,15 +72,9 @@ def normalize_category(raw: str) -> str:
     raw = raw.strip()
     if raw in CATEGORIES:
         return raw
-    raw_lower = raw.lower()
+    rl = raw.lower()
     for cat in CATEGORIES:
-        if cat.lower() == raw_lower:
-            return cat
-    for cat in CATEGORIES:
-        if cat.lower() in raw_lower:
-            return cat
-    for cat in CATEGORIES:
-        if raw_lower in cat.lower():
+        if cat.lower() == rl or cat.lower() in rl or rl in cat.lower():
             return cat
     return ""
 
@@ -99,9 +82,7 @@ def normalize_category(raw: str) -> str:
 def clean_text(raw: str) -> str:
     text = re.sub(r"<[^>]+>", "", raw)
     text = html.unescape(text)
-    text = re.sub(r"\[…\]|\[&#8230;\]|\[&hellip;\]|\[\.{3}\]", "", text)
-    text = re.sub(r"…+", "", text)
-    text = re.sub(r"\.{3,}", "", text)
+    text = re.sub(r"\[…\]|\[&#8230;\]|\[&hellip;\]|\[\.{3}\]|…+|\.{3,}", "", text)
     text = re.sub(r"[\r\n\t]+", " ", text)
     text = re.sub(r"\s{2,}", " ", text)
     return text.strip()
@@ -109,7 +90,7 @@ def clean_text(raw: str) -> str:
 
 # ── RSS 取得 ──────────────────────────────────────────────────────────────
 def fetch_rss(source: dict) -> list[dict]:
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/7.0)"}
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/8.0)"}
     resp = None
     for attempt in range(MAX_RETRIES):
         try:
@@ -134,7 +115,6 @@ def fetch_rss(source: dict) -> list[dict]:
         pub_date_str = (item.findtext("pubDate") or "").strip()
         description  = clean_text(item.findtext("description") or "")[:1200]
         cats         = [el.text.strip() for el in item.findall("category") if el.text]
-        category_raw = cats[0] if cats else ""
 
         pub_date_jst = None
         if pub_date_str:
@@ -151,7 +131,7 @@ def fetch_rss(source: dict) -> list[dict]:
             "pub_date":     pub_date_jst.isoformat() if pub_date_jst else None,
             "pub_date_utc": pub_date_jst.astimezone(timezone.utc).isoformat() if pub_date_jst else None,
             "description":  description,
-            "category_raw": category_raw,
+            "category_raw": cats[0] if cats else "",
             "source_name":  source["name"],
             "source_url":   source["top_url"],
             "source_color": source["color"],
@@ -166,142 +146,134 @@ def filter_recent(items: list[dict], hours: int = 24) -> list[dict]:
             if it["pub_date"] and datetime.fromisoformat(it["pub_date"]) >= cutoff]
 
 
-# ── AI分析プロンプト ──────────────────────────────────────────────────────
-# summaryを200〜400字に拡張。entitiesも確実に取得できるようにする。
-ANALYSIS_PROMPT = """\
-暗号資産ニュース記事を分析してください。
-JSONのみを返してください（コードブロック・前後の説明文は一切不要）。
+# ── AI呼び出し①: 要約 + カテゴリ ─────────────────────────────────────────
+SUMMARY_PROMPT = """\
+以下の暗号資産ニュース記事を読んで、JSONのみを返してください（コードブロック不要）。
 
-【タイトル】
-{title}
+タイトル: {title}
+本文: {description}
 
-【本文】
-{description}
-
-【カテゴリ選択肢（この中から1つ選びcategoryにそのまま入れること）】
+カテゴリ選択肢:
 {category_list}
 
-【カテゴリ選び方】
-- Blockchain: ビットコイン・イーサリアム本体のアップグレード、EIP/BIP改善提案、フォーク
-- DeFi: Uniswap・Aave・Curveなどのプロトコル更新・ガバナンス提案
-- 障害・攻撃: ハック・資金流出・エクスプロイト・詐欺・ネットワーク障害
-- 分析・レポート: IMF・BIS・金融庁・調査会社のレポート・声明・オンチェーン分析
-- Stablecoin: USDT・USDC・CBDC・円建てステーブルコインの発行・運用・採用
-- NFT: NFT発行・売買・マーケットプレイス・デジタルアート・ゲーム
-- Tokenized Deposit: 銀行のトークン化預金・預金トークンの実証・導入
-- Security Token: ST・RWA・トークン化株式/国債/MMF/不動産
-- 暗号資産ETF: ビットコインETF・イーサリアムETFの申請・承認・資金動向
-- ビジネス: 企業の資金調達・提携・新サービス・取引所・ウォレット・決済
-- マーケット: 価格動向・相場・市場センチメント（純粋な相場情報）
-- 規制・法律: 各国規制・当局動向・ライセンス・訴訟
-- イベント・人事: カンファレンス・展示会・人事異動
+カテゴリ選び方:
+- Blockchain: ブロックチェーン本体のアップグレード、EIP/BIP改善提案、フォーク
+- DeFi: DeFiプロトコルの更新・ガバナンス提案
+- 障害・攻撃: ハック・資金流出・詐欺・ネットワーク障害
+- 分析・レポート: IMF・BIS・金融庁等の国際機関レポート・調査会社分析
+- Stablecoin: ステーブルコインの発行・運用・採用
+- NFT: NFT発行・売買・マーケットプレイス
+- Tokenized Deposit: トークン化預金・預金トークン
+- Security Token: ST・RWA・トークン化株式/国債/MMF
+- 暗号資産ETF: 暗号資産ETFの申請・承認・資金動向
+- ビジネス: 企業の資金調達・提携・新サービス・取引所・決済
+- マーケット: 価格動向・相場（純粋な市場情報）
+- 規制・法律: 各国規制・当局動向・訴訟
+- イベント・人事: カンファレンス・人事異動
 
-【出力JSON】
-{{
-  "summary": "200〜400字で記事の要約を書く。何が起きたか・誰が主体か・数値や固有名詞を含め具体的に。省略記号(…や...)は使わない。最後まで完結した文章で書ききること。",
-  "category": "カテゴリ名をそのままここに入れる",
-  "main_entities": ["記事の主語・主体となる企業や団体の名称（1〜3件、個人名は除外）"],
-  "related_entities": ["記事中に登場するその他の企業・団体・プロトコル名（最大8件、個人名は除外、main_entitiesと重複しない）"]
-}}
-
-【必須ルール】
-- summaryは200字以上400字以内で書くこと（短すぎたり途中で終わるのは禁止）
-- categoryは上記選択肢から必ず1つだけ選ぶこと
-- main_entitiesには必ず記事の主体となる企業・団体を入れること（空にしない）
-- related_entitiesには記事で言及された関連組織を入れること
-- JSONだけを返し、前後に説明文を書かないこと
-"""
+出力JSON:
+{{"summary": "200〜400字で記事の要約。具体的な数値・固有名詞を含め省略記号なしで完結させる", "category": "カテゴリ名をそのまま"}}"""
 
 
-def analyze_article(client: anthropic.Anthropic, title: str, description: str) -> dict:
+def summarize_article(client: anthropic.Anthropic, title: str, description: str) -> tuple[str, str]:
+    """要約とカテゴリを返す"""
     content = description if len(description) >= 30 else title
-
-    prompt = ANALYSIS_PROMPT.format(
-        title=title,
-        description=content,
-        category_list=CATEGORY_PROMPT,
+    prompt  = SUMMARY_PROMPT.format(
+        title=title, description=content, category_list=CATEGORY_PROMPT
     )
+    for attempt in range(MAX_RETRIES):
+        try:
+            msg = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=1000,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            if msg.stop_reason == "max_tokens":
+                raise ValueError("max_tokens到達")
+            raw  = re.sub(r"^```(?:json)?\s*\n?", "", msg.content[0].text.strip(), flags=re.IGNORECASE)
+            raw  = re.sub(r"\n?```\s*$", "", raw).strip()
+            data = json.loads(raw)
+            summary  = clean_text(str(data.get("summary", ""))).strip()
+            summary  = re.sub(r"…+|\.{3,}", "", summary).strip()
+            if len(summary) < 50:
+                summary = content[:400]
+            cat_raw  = str(data.get("category", "")).strip()
+            category = normalize_category(cat_raw) or keyword_classify(title, content)
+            return summary, category
+        except Exception as e:
+            if attempt == MAX_RETRIES - 1:
+                return content[:400], keyword_classify(title, content)
+            time.sleep(RETRY_DELAY)
+    return content[:400], keyword_classify(title, content)
 
-    fallback = {
-        "summary":          content[:400] if len(content) >= 50 else title,
-        "category":         keyword_classify(title, content),
-        "main_entities":    [],
-        "related_entities": [],
-    }
+
+# ── AI呼び出し②: 企業名抽出（シンプルなプロンプト）─────────────────────
+ENTITY_PROMPT = """\
+以下のニュース記事に登場する企業名・団体名・プロトコル名を抽出してください。
+個人名は含めないでください。JSONのみを返してください（コードブロック不要）。
+
+タイトル: {title}
+本文: {description}
+
+出力JSON（必ずこの形式で）:
+{{"main_entities": ["ニュースの中心となる主要企業・団体名（1〜3件）"], "related_entities": ["記事内に登場するすべての企業・団体・プロトコル名（main_entitiesと重複しない）"]}}
+
+ルール:
+- main_entitiesは記事の主語・主体となっている組織（最重要1〜3件のみ）
+- related_entitiesは記事中で言及されたその他すべての企業・団体・プロトコル名
+- 個人名（人名）は除外する
+- 企業・団体が見つからない場合は空配列 [] にする"""
+
+
+def extract_entities(client: anthropic.Anthropic, title: str, description: str) -> tuple[list, list]:
+    """企業名を抽出してmain/relatedに分けて返す"""
+    content = description if len(description) >= 30 else title
+    prompt  = ENTITY_PROMPT.format(title=title, description=content)
 
     for attempt in range(MAX_RETRIES):
         try:
             msg = client.messages.create(
                 model="claude-haiku-4-5-20251001",
-                max_tokens=2000,   # ← 900 → 2000 に増量（JSON切断防止）
+                max_tokens=600,
                 messages=[{"role": "user", "content": prompt}],
             )
-
-            # stop_reason確認（length=切断）
-            if msg.stop_reason == "max_tokens":
-                print(f"    ⚠ max_tokens到達（レスポンス切断）attempt {attempt+1}")
-                if attempt < MAX_RETRIES - 1:
-                    time.sleep(RETRY_DELAY)
-                    continue
-
-            raw = msg.content[0].text.strip()
-            # コードブロック除去
-            raw = re.sub(r"^```(?:json)?\s*\n?", "", raw, flags=re.IGNORECASE)
-            raw = re.sub(r"\n?```\s*$", "", raw)
-            raw = raw.strip()
-
+            raw  = re.sub(r"^```(?:json)?\s*\n?", "", msg.content[0].text.strip(), flags=re.IGNORECASE)
+            raw  = re.sub(r"\n?```\s*$", "", raw).strip()
             data = json.loads(raw)
 
-            # サマリー処理
-            summary = clean_text(str(data.get("summary", ""))).strip()
-            summary = re.sub(r"…+|\.{3,}", "", summary).strip()
-            if len(summary) < 50:
-                summary = content[:400] if len(content) >= 50 else title
-
-            # カテゴリ処理
-            cat_raw  = str(data.get("category", "")).strip()
-            category = normalize_category(cat_raw)
-            if not category:
-                category = keyword_classify(title, content)
-                print(f"    ⚠ カテゴリ正規化失敗('{cat_raw}') → キーワード分類: {category}")
-
-            main_ents    = [str(e).strip() for e in data.get("main_entities", [])    if str(e).strip()]
+            main_ents    = [str(e).strip() for e in data.get("main_entities",    []) if str(e).strip()]
             related_ents = [str(e).strip() for e in data.get("related_entities", []) if str(e).strip()]
 
-            print(f"       summary={len(summary)}字 / main={main_ents} / related={related_ents[:3]}")
+            # main_entsがrelated_entsに混入していたら除外
+            related_ents = [e for e in related_ents if e not in main_ents]
 
-            return {
-                "summary":          summary,
-                "category":         category,
-                "main_entities":    main_ents,
-                "related_entities": related_ents,
-            }
+            print(f"       entities → main:{main_ents} / related:{related_ents[:4]}")
+            return main_ents, related_ents
 
-        except json.JSONDecodeError as e:
-            print(f"    JSONパースエラー（attempt {attempt+1}）: {e}")
-            print(f"    raw先頭200字: {raw[:200] if 'raw' in dir() else 'N/A'}")
+        except json.JSONDecodeError:
+            print(f"    entities JSONエラー（attempt {attempt+1}）: {msg.content[0].text[:100] if 'msg' in dir() else 'N/A'}")
             if attempt == MAX_RETRIES - 1:
-                return fallback
+                return [], []
             time.sleep(RETRY_DELAY)
-
-        except anthropic.RateLimitError:
-            wait = RETRY_DELAY * (attempt + 2)
-            print(f"    レート制限。{wait}秒待機...")
-            time.sleep(wait)
-
-        except anthropic.APIStatusError as e:
-            print(f"    APIエラー({e.status_code})")
-            if attempt == MAX_RETRIES - 1:
-                return fallback
-            time.sleep(RETRY_DELAY)
-
         except Exception as e:
-            print(f"    エラー: {type(e).__name__}: {e}")
             if attempt == MAX_RETRIES - 1:
-                return fallback
+                print(f"    entities エラー: {e}")
+                return [], []
             time.sleep(RETRY_DELAY)
+    return [], []
 
-    return fallback
+
+# ── まとめて分析 ──────────────────────────────────────────────────────────
+def analyze_article(client: anthropic.Anthropic, title: str, description: str) -> dict:
+    """要約・カテゴリ・企業名を取得してまとめて返す"""
+    summary, category            = summarize_article(client, title, description)
+    main_entities, related_entities = extract_entities(client, title, description)
+    return {
+        "summary":          summary,
+        "category":         category,
+        "main_entities":    main_entities,
+        "related_entities": related_entities,
+    }
 
 
 # ── JSON DB ───────────────────────────────────────────────────────────────
@@ -376,7 +348,7 @@ def main():
             item["main_entities"]    = result["main_entities"]
             item["related_entities"] = result["related_entities"]
             item["fetched_at"]       = now_jst.isoformat()
-            print(f"       → カテゴリ: {result['category']}")
+            print(f"       → カテゴリ:{result['category']} / summary:{len(result['summary'])}字")
             time.sleep(0.5)
         print()
     else:
