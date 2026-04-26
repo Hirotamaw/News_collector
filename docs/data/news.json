@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "title": "米・イラン停戦延長でビットコイン底堅く、今後の鍵は和平交渉とFOMC｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=704976",
+      "pub_date": "2026-04-26T11:30:40+09:00",
+      "pub_date_utc": "2026-04-26T02:30:40+00:00",
+      "description": "今週のビットコイン（BTC）相場は中東情勢の停戦延長を受け、下値を限定しつつも上値も重い展開。28〜29日のFOMCと米・イラン交渉の行方が今後の焦点となる。",
+      "category_raw": "市況・解説",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "今週のビットコイン（BTC）相場は中東情勢の停戦延長を受け、下値を限定しつつも上値も重い展開。28〜29日のFOMCと米・イラン交渉の行方が今後の焦点となる。",
+      "category": "マーケット",
+      "main_entities": [
+        "bitbank"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-26T16:51:28.611780+09:00"
+    },
+    {
+      "title": "金融庁の“守り”と“攻め”──清水課長の講演に見えた次の金融戦略【編集長コラム】",
+      "link": "https://www.nadanews.com/346379/",
+      "pub_date": "2026-04-26T11:30:00+09:00",
+      "pub_date_utc": "2026-04-26T02:30:00+00:00",
+      "description": "金融庁は暗号資産（仮想通貨）の規制整備を進める一方で、ステーブルコインやトークン化預金、金融商品のトークン化を通じた新たな金融インフラの構築も視野に入れている。 The post 金融庁の“守り”と“攻め”──清水課長の講演に見えた次の金融戦略【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Opinion",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "金融庁は暗号資産（仮想通貨）の規制整備を進める一方で、ステーブルコインやトークン化預金、金融商品のトークン化を通じた新たな金融インフラの構築も視野に入れている。 The post 金融庁の“守り”と“攻め”──清水課長の講演に見えた次の金融戦略【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "金融庁"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Infura"
+      ],
+      "fetched_at": "2026-04-26T16:51:28.611780+09:00"
+    },
+    {
       "title": "四谷の東京ビットコインベースが1周年、BTC投げ銭のお笑いライブも──記念イベントで「社会実装」の試み",
       "link": "https://www.nadanews.com/346279/",
       "pub_date": "2026-04-26T10:00:00+09:00",
@@ -12,8 +51,12 @@
       "source_color": "#0f6e56",
       "summary": "ビットコイン（BTC）の普及を目的に、東京・四谷に開業した東京ビットコインベース（TBB）が25日、開業1周年を迎えた。この日は「この碑なんの碑サトシの碑」と題 The post 四谷の東京ビットコインベースが1周年、BTC投げ銭のお笑いライブも──記念イベントで「社会実装」の試み first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "イベント・人事",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-26T10:44:06.411411+09:00"
     },
     {
@@ -28,8 +71,12 @@
       "source_color": "#1d4ed8",
       "summary": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
       "category": "マーケット",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "Solana Foundation"
+      ],
       "fetched_at": "2026-04-26T09:33:14.631659+09:00"
     },
     {
@@ -44,7 +91,9 @@
       "source_color": "#1d4ed8",
       "summary": "今週は、トークン化ポケモンカード市場の活況、仮想通貨の申告分離課税を巡る議論、イーロン・マスク氏が率いるテスラのビットコイン保有継続に関する記事が関心を集めた。",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Tesla"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
@@ -60,7 +109,9 @@
       "source_color": "#0f6e56",
       "summary": "● ビットコインETFは2月下旬以降、週あたり約10億ドル規模の安定した純流入が継続● 直近では9日連続の資金流入を記録し、機関主導の需要が明確化● 一方でデリ The post 機関資金は流入、しかし市場は弱気──ETFとデリバティブの乖離が示す“構造的歪み”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "暗号資産ETF",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
@@ -76,8 +127,12 @@
       "source_color": "#0f6e56",
       "summary": "暗号資産（仮想通貨）専業11年目の墨汁うまい（@bokujyuumai）です。イーサリアム上に展開するレイヤー2の最大手であるアービトラム（Arbitrum: The post 【墨汁うまい氏寄稿】アービトラム113億円相当のイーサリアムをどのようにして凍結したのか？今後のL2課題が浮き彫りに first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Arbitrum"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
     {
@@ -92,8 +147,13 @@
       "source_color": "#0f6e56",
       "summary": "Galaxy Research（ギャラクシー・リサーチ）のリサーチ責任者アレックス・ソーン（Alex Thorn）氏は4月19日、Xの投稿で、2024年4月の半 The post 2024年からのBTCサイクルは過去の半減を「劇的に」下回る：Galaxy Research／JPYC、メタプラネットらから28億円の追加資金調達へ──シリーズB累計調達額は約46億円に【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "日本円ステーブルコイン"
+      ],
+      "related_entities": [
+        "Meta",
+        "Cardano"
+      ],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
     {
@@ -108,7 +168,9 @@
       "source_color": "#b45309",
       "summary": "米商品先物取引委員会（CFTC）は、連邦規制下にある予測市場プラットフォームに州のギャンブル法を適用しようとするニューヨーク州の動きを阻止するため、同州を提訴した。予測市場の監督権を巡る対立が一段と激化している。",
       "category": "規制・法律",
-      "main_entities": [],
+      "main_entities": [
+        "CFTC"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
@@ -140,7 +202,10 @@
       "source_color": "#b45309",
       "summary": "米国のスコット・ベッセント財務長官は、財務省外国資産管理局（OFAC）がイランに関連する複数のウォレットに制裁を科し、約3億4400万ドル相当の仮想通貨を凍結したと発表した。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "財務省",
+        "財務省（米国）"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
@@ -156,7 +221,9 @@
       "source_color": "#b45309",
       "summary": "XRP（XRP）は過去3カ月で約30%上昇しており、新たなテクニカル指標とオンチェーンデータは、XRP/USDにさらなる上昇余地があることを示唆している。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Ripple"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
@@ -172,7 +239,9 @@
       "source_color": "#0f6e56",
       "summary": "予測市場プラットフォームKalshi（カルシ）は、コモディティ関連の新たな取引セクション「Commodities Hub」において、価格決定のデータソースとして The post Kalshi、コモディティ予測市場でPythを価格決定基盤に採用──リアルタイムデータ連携を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "マーケット",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
@@ -220,8 +289,12 @@
       "source_color": "#1d4ed8",
       "summary": "アマゾンAWSマーケットプレイスでチェーンリンクのデータ標準が利用可能になる。トークン化資産向けアプリ開発の効率化や金融機関のブロックチェーン活用を後押しする。",
       "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Amazon"
+      ],
+      "related_entities": [
+        "Chainlink"
+      ],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
     {
@@ -236,7 +309,9 @@
       "source_color": "#1d4ed8",
       "summary": "グーグルは24日、AIスタートアップのアンソロピックに対し最大400億ドルを出資する計画を発表した。セカンダリー市場での企業価値が1兆ドルに迫る中、同社は米中間選挙の安全性強化や日本国内でのNECとの提携など、グローバル展開を加速させている。",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Google"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-26T09:28:36.395789+09:00"
     },
@@ -267,8 +342,10 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "米司法省は24日、FRBのパウエル議長に対する刑事捜査を終結すると発表した。これにより、パウエル氏への捜査継続を理由に反対していた共和党議員の支持が得られる見通しとなり、仮想通貨支持派の次期議長候補ケビン・ウォーシュ氏の指名承認が確実視されている。",
-      "category": "ビジネス",
-      "main_entities": [],
+      "category": "分析・レポート",
+      "main_entities": [
+        "FRB"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -283,8 +360,10 @@
       "source_url": "https://www.nadanews.com/",
       "source_color": "#0f6e56",
       "summary": "・ジーキャッシュ（Zcash）は4月23日木曜日、オンライン証券大手ロビンフッド（Robinhood）への正式上場を受けて8％上昇し、344ドル近辺で取引された The post Zcash、Robinhood上場で9％上昇──米当局による7億ドル超の暗号資産差し押さえも追い風に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-      "category": "分析・レポート",
-      "main_entities": [],
+      "category": "規制・法律",
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -299,9 +378,15 @@
       "source_url": "https://www.nadanews.com/",
       "source_color": "#0f6e56",
       "summary": "米ウィスコンシン州司法省は、スポーツ関連のイベント契約を提供しているとして、Kalshi（カルシ）、Robinhood（ロビンフッド）、Coinbase（コイン The post ウィスコンシン州、KalshiやPolymarketなど5社を提訴──スポーツ予測契約を「違法賭博」と主張 first appeared on NADA NEWS（ナダ・ニュース）.",
-      "category": "マーケット",
-      "main_entities": [],
-      "related_entities": [],
+      "category": "イベント・人事",
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [
+        "Base",
+        "Coinbase",
+        "Cardano"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -315,9 +400,13 @@
       "source_url": "https://www.nadanews.com/",
       "source_color": "#0f6e56",
       "summary": "イーサリアム財団は、運営費や開発活動の資金を確保するため、1万ETHをBitmine Immersion Technologies（ビットマイン・イマージョン・ The post イーサリアム財団、Bitmineに約37億円相当のETHを売却──運営・開発資金に充当 first appeared on NADA NEWS（ナダ・ニュース）.",
-      "category": "マーケット",
-      "main_entities": [],
-      "related_entities": [],
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -331,7 +420,7 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "プロジェクト・イレブンは、独立研究者が一般的にアクセスが可能な量子コンピューターで15ビットの楕円曲線鍵を解読したと発表。報奨金として仮想通貨ビットコインが1BTC与えられた。",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
@@ -348,8 +437,12 @@
       "source_color": "#0f6e56",
       "summary": "今週の市場は、「回復から上昇へ移行しつつも、その持続性が試される1週間」だった。ビットコインは週初の約75,000ドル（約1,190万円前後）から徐々に水準を切 The post 疑念を伴う上昇の持続性が試される局面 ── 供給逼迫と現物需要の“本物性”を見極めるフェーズ【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "マーケット",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -364,7 +457,9 @@
       "source_color": "#0f6e56",
       "summary": "米テネシー州は、州全域で暗号資産（仮想通貨）ATMの設置・運営を禁止する法律を成立させた。暗号資産ATMを全面的に禁止する州は、インディアナ州に続いて米国で2例 The post テネシー州、暗号資産ATMを全面禁止へ──詐欺対策でインディアナ州に続く2例目 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -380,7 +475,9 @@
       "source_color": "#0f6e56",
       "summary": "● ファンディングレートは極端なマイナス圏に到達し、「下がる」と考えるショートポジションが市場全体で優勢● オープンインタレスト（OI）は増加しており、未決済ポ The post 下げに賭けすぎたビットコイン市場──OI増加とマイナスファンディングの意味【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -396,7 +493,9 @@
       "source_color": "#1d4ed8",
       "summary": "ホワイトハウスが4月23日、トランプ大統領が25日にフロリダ州マール・ア・ラゴで開催される仮想通貨会議で講演する予定を発表した。参加はTRUMPミームコイン上位297保有者に限定されており、民主党から利益相反への批判が再燃。",
       "category": "イベント・人事",
-      "main_entities": [],
+      "main_entities": [
+        "ホワイトハウス"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -412,8 +511,12 @@
       "source_color": "#0f6e56",
       "summary": "DeFi最大手レンディングプロトコルAave（アーベ）が主導する業界横断の復興イニシアチブ「DeFi United」に、複数のプロトコルから合計4万3500ET The post DeFiプロトコル、rsETHの裏付けを回復するために合計4万3000ETHを拠出へ first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "DeFi",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Aave"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -428,7 +531,9 @@
       "source_color": "#1d4ed8",
       "summary": "Aave DAOは24日、Kelp DAOのハッキング被害に伴うrsETHの裏付け不足を解消するため、トレジャリーから2万5000ETHを拠出する救済案を公開した。DeFiエコシステムの主要プロジェクトと協力し、4月18日から始まった市場混乱の収束を目指す。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Aave"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -444,7 +549,9 @@
       "source_color": "#0f6e56",
       "summary": "ブロックチェーン分析企業TRM Labsは4月23日、「Q1 2026 Global Crypto Adoption Index」を発表した。2026年第1四半 The post 2026年第1四半期の個人暗号資産取引は11％減少：TRM Labs first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "DeFi",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -492,7 +599,11 @@
       "source_color": "#1d4ed8",
       "summary": "米財務省のスコット・ベッセント長官は25日、イランに関連する複数の仮想通貨ウォレットに制裁を科したと発表した。テザー社は米当局と協力し、イラン革命防衛隊（IRGC）との関連が指摘される550億円相当のUSDTを凍結した。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Tether",
+        "財務省",
+        "財務省（米国）"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -507,8 +618,10 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "イーサリアム財団が平均単価2387ドルで1万ETHをビットマインにOTC売却したと発表した。調達した約2400万ドルはプロトコル研究・エコシステム開発・コミュニティ助成などの運営資金に充当される。",
-      "category": "マーケット",
-      "main_entities": [],
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -524,8 +637,13 @@
       "source_color": "#1d4ed8",
       "summary": "米ウィスコンシン州司法省が4月23日、カルシ、ロビンフッド、コインベース、ポリマーケット、クリプトドットコムを違法スポーツ賭博を理由に提訴した。ニューヨーク州に続く提訴で、州と連邦CFTCの管轄権争いが本格化している。",
       "category": "規制・法律",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Crypto.com",
+        "CFTC"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -539,8 +657,11 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "ビットコインは7万8000ドル周辺で壁に直面した。だが7万4000ドルを上回る限り、再び8万4000ドルを目指す展開となるだろう。",
-      "category": "分析・レポート",
-      "main_entities": [],
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -572,7 +693,9 @@
       "source_color": "#b45309",
       "summary": "ソラナ（SOL）のMACD指標が週足チャートで「買い」シグナルを点灯させた。過去にはこのシグナルの後、放物線的な上昇が発生している。",
       "category": "マーケット",
-      "main_entities": [],
+      "main_entities": [
+        "Solana Foundation"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -587,7 +710,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "ビットコイン（BTC）は金曜日、7万8000ドル付近で推移する状態が続いた。市場は米イラン戦争の行方について「明確な材料待ち」の状態にある。",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
@@ -603,9 +726,14 @@
       "source_url": "https://www.neweconomy.jp/",
       "source_color": "#7c3aed",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
-      "category": "マーケット",
-      "main_entities": [],
-      "related_entities": [],
+      "category": "ビジネス",
+      "main_entities": [
+        "Lido"
+      ],
+      "related_entities": [
+        "Meta",
+        "Apple"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -619,9 +747,13 @@
       "source_url": "https://www.nadanews.com/",
       "source_color": "#0f6e56",
       "summary": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル The post マトリックス法によるテクニカル分析（2026/4/24）本格上昇入りだが、一時的な調整も【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
-      "category": "分析・レポート",
-      "main_entities": [],
-      "related_entities": [],
+      "category": "マーケット",
+      "main_entities": [
+        "楽天ウォレット"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -636,8 +768,12 @@
       "source_color": "#0f6e56",
       "summary": "● 今週のビットコインは、米・イランの和平期待と好調な米企業決算を背景に堅調に推移し、一時BTC=79,000ドル（約1,260万円）付近まで上昇した。 ● 来 The post BTC（ビットコイン）は米イラン停戦延長で買い安心感も、FOMCと米ハイテク決算を前に強弱感交錯か【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "マーケット",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "マネックスグループ"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -667,8 +803,10 @@
       "source_url": "https://www.neweconomy.jp/",
       "source_color": "#7c3aed",
       "summary": "メタプラが80億円の社債発行で資金調達 メタプラネットが、ビットコイン取得目的で、80億円におよぶ社債発行による資金調達を実施する予定だと4月24日に発表した。 メタプラネットは、国内の上場企業で最もビットコイン（BTC",
-      "category": "マーケット",
-      "main_entities": [],
+      "category": "ビジネス",
+      "main_entities": [
+        "Meta"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -700,7 +838,9 @@
       "source_color": "#7c3aed",
       "summary": "緊急対応の仕組みと分散性の関係が論点に reETHの不正流出事案を巡る、アービトラム（Arbitrum）による資産凍結対応を受け、暗号資産（仮想通貨）コミュニティ内で分散性の在り方を巡る議論が広がっている。 同事案は、リ",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Arbitrum"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -716,7 +856,9 @@
       "source_color": "#b45309",
       "summary": "モルガン・スタンレーの資産運用部門は、「ステーブルコイン・リザーブ・ポートフォリオ」を立ち上げた。ステーブルコイン発行体が裏付け資産を同行のマネー・マーケット・ファンド（MMF）に預け入れ、利回りを得られる仕組みだ。",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "Morgan Stanley"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -732,7 +874,9 @@
       "source_color": "#7c3aed",
       "summary": "OP Stack向けプライバシーSDKがリリース オプティミズム（Optimism）のコア開発者であるスニーサイドラボ（Sunnyside Labs）が、OPスタック（OP Stack）チェーンに直接統合可能なプライバシ",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Optimism"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -748,7 +892,9 @@
       "source_color": "#7c3aed",
       "summary": "テザーが米当局と大規模資産凍結を実施 ステーブルコイン発行企業のテザー（Tether）が、約3億4,400万ドル（約549.6億円）のUSDTを凍結したと4月23日に発表した。対象はトロン（TRON）ネットワーク上の2つ",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Tether"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -764,8 +910,12 @@
       "source_color": "#7c3aed",
       "summary": "Lido DAOがrsETH救済の資金拠出を提案 リキッドステーキングプロトコル「ライド（Lido）」のDAOであるライドDAO（Lido DAO）から、「ライドDAOによるrsETH救援活動への貢献：Lido DAO",
       "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Lido"
+      ],
+      "related_entities": [
+        "Liquid"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -780,8 +930,12 @@
       "source_color": "#7c3aed",
       "summary": "プライベートトランザクション実現へ基盤整備 イーサリアム（Ethereum）のレイヤー2ネットワーク「スタークネット（Starknet）」のアップグレード「スタークネットv0.14.2（Starknet v0.14.2）",
       "category": "Blockchain",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -828,8 +982,13 @@
       "source_color": "#1d4ed8",
       "summary": "メタプラネットがステーブルコインJPYCのシリーズBへ最大4億円出資を発表した。メタプラのサイモン・ゲロヴィッチCEOとJPYCの岡部典孝CEOが独占インタビューで明かしたのは、BTCを担保にJPYCを借りる「レンディング経済圏」構想、規制緩和への提言、そして日本が世界のビットコイン金融インフラの中心になるシナリオだ。",
       "category": "DeFi",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "日本円ステーブルコイン"
+      ],
+      "related_entities": [
+        "Meta",
+        "Infura"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -844,7 +1003,9 @@
       "source_color": "#b45309",
       "summary": "仮想通貨取引所OKXは、米国市場での展開を加速させている。米国の機関投資家向けに、取引所外での決済機能を導入した。",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "OKX"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -860,7 +1021,9 @@
       "source_color": "#1d4ed8",
       "summary": "モルガン・スタンレー・インベストメント・マネジメントが、米ジーニアス法（GENIUS Act）に準拠したステーブルコイン準備金運用専用のMMFを新設。機関投資家向けデジタル資産ソリューションを拡充。",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "Morgan Stanley"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -891,7 +1054,7 @@
       "source_url": "https://www.neweconomy.jp/",
       "source_color": "#7c3aed",
       "summary": "リミポがビットコイン追加購入 東証スタンダード上場企業のリミックスポイントが、ビットコインの追加購入を2日連続で報告した。なお同社がビットコインを追加購入するのは昨年11月4日ぶりのこと。 4月23日の発表によると同社は",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
@@ -908,7 +1071,9 @@
       "source_color": "#1d4ed8",
       "summary": "ARKインベストメント・マネジメントが4月23日、2026年Q1のビットコイン四半期レポートを公開。価格22%下落の一方、機関投資家の保有継続や確信型買い手の急増、量子コンピュータリスクなどを詳細に分析した。",
       "category": "分析・レポート",
-      "main_entities": [],
+      "main_entities": [
+        "ARK Invest"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
@@ -972,8 +1137,13 @@
       "source_color": "#1d4ed8",
       "summary": "米財務省がカンボジアの上院議員コック・アン氏らを制裁対象とした。ロマンス詐欺や人身売買と結びついた仮想通貨詐欺拠点に関与した疑いが持たれている。",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "財務省",
+        "財務省（米国）"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
     },
     {
@@ -987,7 +1157,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "米司法省は木曜日、元ベネズエラ大統領のニコラス・マドゥロ氏拘束に関与した米陸軍兵士が、予測市場での賭けにより40万ドル超の利益を得たとして起訴したと発表した。",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-25T10:22:41.711993+09:00"
@@ -1036,7 +1206,9 @@
       "source_color": "#1d4ed8",
       "summary": "英国のビットコイン蓄積企業サツマ・テクノロジーに対し、大手仮想通貨VCのパンテラ・キャピタルが保有する5000万ドル相当のBTC売却と資本返還を要求している。株価はピーク比99%超下落し、時価総額がBTC保有額を下回る状況だ。",
       "category": "マーケット",
-      "main_entities": [],
+      "main_entities": [
+        "Pantera Capital"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1052,7 +1224,9 @@
       "source_color": "#1d4ed8",
       "summary": "米商品先物取引委員会（CFTC）は23日、機密情報を悪用して予測市場「ポリマーケット」でインサイダー取引を行ったとして、現役の米陸軍兵士を提訴した。ベネズエラ大統領の拘束作戦に関する非公開情報を利用し、40万ドル以上の利益を得た疑いが持たれている。",
       "category": "規制・法律",
-      "main_entities": [],
+      "main_entities": [
+        "CFTC"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1084,8 +1258,13 @@
       "source_color": "#0f6e56",
       "summary": "デジタル資産インフラを手がけるFireblocksの共同創業者兼CEO、Michael Shaulov（マイケル・シャウロフ）氏は23日、同社が都内で開催したイ The post デジタル資産市場は次の段階へ──ステーブルコインとRWAが主役に：Fireblocks CEO first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Fireblocks"
+      ],
+      "related_entities": [
+        "Infura",
+        "Cardano"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1100,7 +1279,9 @@
       "source_color": "#0f6e56",
       "summary": "● BTCドミナンスは約59％前後で高止まりし、シェア集中が継続● 市場全体は拡大していない中で、BTCのみが相対的に優位● 本質は「BTCが強い」のではなく「 The post ビットコインドミナンスが示す市場構造──「一人勝ち」の裏にあるものは【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1116,7 +1297,9 @@
       "source_color": "#b45309",
       "summary": "ステーブルコイン発行元であるテザー社は「不法行為に関連した活動」を理由に挙げたが、2つのウォレットアドレスに保持されていた米ドルペッグ通貨の凍結に関する詳細な説明は行わなかった。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Tether"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1132,7 +1315,9 @@
       "source_color": "#b45309",
       "summary": "ビットコインのマイナスの資金調達率（ファンディングレート）と75億ドルのUSDC残高は、トレーダーが弱気トレンドに抗うポジションを取り始める可能性を示唆している。BTC価格の上昇は継続するのか。",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "Circle"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1180,7 +1365,9 @@
       "source_color": "#1d4ed8",
       "summary": "テザー社は、米政府が550億円超相当の米ドルステーブルコインUSDTを凍結することに協力したと発表。このUSDTは仮想通貨トロンのブロックチェーン上のものとみられる。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Tether"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1212,8 +1399,13 @@
       "source_color": "#0f6e56",
       "summary": "米財務省外国資産管理局（OFAC）は、カンボジアの上院議員コック・アン氏と、その関係ネットワークに属する個人および企業計29主体を制裁対象に指定したと発表した。 The post 米財務省、カンボジア上院議員らに制裁──暗号資産詐欺と人身売買関与の疑い first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "財務省",
+        "財務省（米国）"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1228,7 +1420,9 @@
       "source_color": "#1d4ed8",
       "summary": "ブルームバーグのアナリストは23日、現物ビットコインETFの全流入指標が数ヶ月ぶりにプラスに転じたと報告した。現在の累計流入額は580億ドルに達し、過去最高記録である628億ドルの奪還に向け、ブラックロックのIBITを中心に流入が加速中。",
       "category": "暗号資産ETF",
-      "main_entities": [],
+      "main_entities": [
+        "BlackRock"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1244,8 +1438,12 @@
       "source_color": "#0f6e56",
       "summary": "ステーブルコイン最大手Tether（テザー）は、米国政府および法執行機関との連携により、総額3億4400万ドル（約530億円、1ドル＝155円換算）相当のUSD The post Tether、約530億円相当のUSDT凍結を支援──米当局と連携し不正資金対策を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1260,7 +1458,9 @@
       "source_color": "#1d4ed8",
       "summary": "JPモルガンのアナリストがケルプDAOハックを受け、DeFiの機関投資家普及に懸念を示すレポートを発表した。TVLが数日で3兆円以上減少し、相互接続性の脆弱性とETH建てでの成長停滞が浮き彫りになっている。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "JPMorgan"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1276,7 +1476,9 @@
       "source_color": "#0f6e56",
       "summary": "予測市場プラットフォームKalshi（カルシ）は、米議会選挙に出馬している候補者3名が自らの選挙結果に賭けたとして、罰金および利用停止処分を科した。市場の公正性 The post Kalshi、米議員選候補者の自己賭けを処分──インサイダー対策を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1292,7 +1494,10 @@
       "source_color": "#1d4ed8",
       "summary": "Lido DAOは23日、Kelp DAOのハッキングで生じたrsETHの欠損を解消するため、最大2500stETHを共同救済枠組みに拠出する提案を公開した。DeFi全体の流動性危機を回避するための、アーベ（Aave）主導の救済策への参加を検討する。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Aave",
+        "Lido"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1307,7 +1512,7 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "片山さつき財務大臣が24日、アンソロピックの新型AI「クロード・ミトス」のリスクをめぐり3メガバンク幹部や日銀植田総裁と緊急会合を開く。OSの脆弱性を悪用できる能力が金融システムへの脅威として国際的に注目されている。",
-      "category": "ビジネス",
+      "category": "障害・攻撃",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
@@ -1324,8 +1529,12 @@
       "source_color": "#7c3aed",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [
+        "Apple"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1356,8 +1565,12 @@
       "source_color": "#0f6e56",
       "summary": "暗号資産運用会社Bitwise（ビットワイズ）の最高投資責任者（CIO）マット・ホーガン氏は4月21日付のブログ記事で、同社が新たにアバランチ（AVAX）のET The post なぜ、アバランチのETPを発売したのか──Bitwise CIOが語る2つの理由 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Avalanche"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1372,7 +1585,9 @@
       "source_color": "#0f6e56",
       "summary": "4月22日、アメリカ下院軍事委員会の公聴会で、米インド太平洋軍司令官のSamuel Paparo（サミュエル・パパロ）提督がBitcoin（ビットコイン）ネット The post 米軍司令官、下院公聴会で「ビットコインノードを運用している」と証言 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1419,9 +1634,13 @@
       "source_url": "https://www.nadanews.com/",
       "source_color": "#0f6e56",
       "summary": "・OCBC銀行、ライオン・グローバル・インベスターズ、DigiFTは、パブリックブロックチェーン基盤上で展開される東南アジア初のトークン化現物金ファンド「GOL The post 有事下の金需要はアジアが主導──シンガポールのOCBC銀行、EthereumとSolana上で5億2500万ドル規模のトークン化金ファンドを開始【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-      "category": "分析・レポート",
-      "main_entities": [],
-      "related_entities": [],
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1452,7 +1671,9 @@
       "source_color": "#0f6e56",
       "summary": "トランプ一族が関与するビットコイン（BTC）マイニング・トレジャリー企業American Bitcoin（アメリカン・ビットコイン）は4月22日、カナダ・アルバ The post トランプ一族関与のAmerican Bitcoin、カナダ拠点で1万1298台のマイニング機器を稼働開始 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1468,8 +1689,12 @@
       "source_color": "#0f6e56",
       "summary": "「漫画全巻ドットコム」を運営する東証グロース上場のTORICOは23日、100％子会社の株式会社TORICO Ethereumを通じて、円建てステーブルコインの The post TORICO Ethereum、円建てステーブルコイン活用支援サービスを開始──企画から本番稼働まで一気通貫で支援 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "日本円ステーブルコイン"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1499,7 +1724,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "フランスの主要空港に設置された気象観測所の異常な気温データを巡り、予測市場ポリマーケットで約3万7000ドルの利益を得た2つのアカウントに疑惑が浮上している。",
-      "category": "障害・攻撃",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
@@ -1532,8 +1757,12 @@
       "source_color": "#7c3aed",
       "summary": "コインチェックがSUI取扱開始 国内暗号資産（仮想通貨）取引所コインチェック（Coincheck）が、暗号資産スイ（SUI）の取り扱い開始を4月23日に発表した。 SUIは、メタ社（旧フェイスブック社）が開発していたブロ",
       "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [
+        "Meta"
+      ],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
     {
@@ -1547,7 +1776,7 @@
       "source_url": "https://www.neweconomy.jp/",
       "source_color": "#7c3aed",
       "summary": "アライドがデジタル資産運用軸にオンチェーン事業参入へ マーケティング支援事業を展開するアライドアーキテクツが、第三者割当により新株式および新株予約権を発行し、総額31億5,000万円規模の資金調達を実施する。4月21日に",
-      "category": "分析・レポート",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
@@ -1564,7 +1793,9 @@
       "source_color": "#1d4ed8",
       "summary": "BCCC10周年カンファレンスで平野洋一郎氏・岡部典孝氏が議論した、円建てステーブルコインの意義と10年後の姿。AIエージェント決済、トークン化預金との住み分け、上場企業200兆円規模の可能性まで、ステーブルコインが描く次の10年をまとめた。",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "日本円ステーブルコイン"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1580,7 +1811,9 @@
       "source_color": "#7c3aed",
       "summary": "コイントレードがPOLのステーキングサービス提供へ 国内暗号資産（仮想通貨）取引所コイントレード（CoinTrade）提供のステーキングサービス「コイントレードステーク（CoinTradeStake）」にて、暗号資産ポリ",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Polygon"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1644,7 +1877,10 @@
       "source_color": "#1d4ed8",
       "summary": "Aave v3のUSDCプールが利用率ほぼ100%で流動性逼迫。サークルチーフエコノミストがSlope 2最大50%引き上げを提案。KelpDAO rsETH攻撃を機に、Aaveのプール流動性は急激に縮小している。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Aave",
+        "Circle"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1691,7 +1927,7 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
@@ -1708,7 +1944,9 @@
       "source_color": "#1d4ed8",
       "summary": "金融庁が仮想通貨の金商法移行法案の概要を公開。利用者保護を強化する4つの規制と、三メガバンク参加のステーブルコイン実証など進行中の決済高度化プロジェクト3件を紹介。",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "金融庁"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1724,7 +1962,9 @@
       "source_color": "#b45309",
       "summary": "分散型レンディングプロトコルであるアーベ（Aave）は、土曜日に発生したケルプDAO（Kelp DAO）の不正流出事件以降、約150億ドルの預かり資産流出に見舞われた。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Aave"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1755,8 +1995,11 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "ビットコインが8万ドルの抵抗水準に向けて上昇していることは、弱気市場の終焉を示唆している可能性がある。アルトコインは追随するのか。",
-      "category": "分析・レポート",
-      "main_entities": [],
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
     },
@@ -1771,7 +2014,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "ビットコイン（BTC）が7万9000ドルまで上昇し、イーサリアム（ETH）も2400ドルに到達したことを受け、仮想通貨の時価総額は水曜日、11週間ぶりの水準に急伸した。",
-      "category": "DeFi",
+      "category": "暗号資産ETF",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-24T10:29:05.679898+09:00"
@@ -1803,9 +2046,15 @@
       "source_url": "https://www.nadanews.com/",
       "source_color": "#0f6e56",
       "summary": "暗号資産をめぐる関心が、「投資」から「金融インフラ」へと移りつつある。そう語るのは、米リップル（Ripple）が展開するXRPレジャー（XRPL）の開発などを担 The post XRPは「投資対象」で終わるのか──RippleX幹部に聞く、RLUSD始動で問われる実需拡大と日本戦略 first appeared on NADA NEWS（ナダ・ニュース）.",
-      "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "category": "Stablecoin",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Ledger",
+        "Infura"
+      ],
       "fetched_at": "2026-04-23T10:30:08.008825+09:00"
     },
     {
@@ -1820,7 +2069,9 @@
       "source_color": "#0f6e56",
       "summary": "暗号資産（仮想通貨）の分離課税は、必ずしもメリットばかりではない。投資家の属性や利益水準によっては、現行制度より不利になる可能性もある。 4月21日に開催された The post 暗号資産の分離課税、「歓迎一色」ではない──少額投資家は増税も？ 対象銘柄・実務負担の論点 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "イベント・人事",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-23T10:30:08.008825+09:00"
     },
@@ -1836,7 +2087,9 @@
       "source_color": "#1d4ed8",
       "summary": "インプット・アウトプット・グローバルがカルダノの2026年財務提案9件を提出した。予算は前年比約50%減で、ネットワーク拡張アップグレード「レイオス」の年内メインネット稼働を中心に据えた内容となっている。",
       "category": "Blockchain",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
@@ -1851,7 +2104,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "アメリカン・ビットコイン（ABTC）は、2025年第4四半期に5,900万ドルの損失を報告した数週間後の3月に、これらのマイニングリグを購入していた。",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
@@ -1868,7 +2121,9 @@
       "source_color": "#1d4ed8",
       "summary": "イーロン・マスクの自動車企業テスラは22日、保有する約9億ドル相当のビットコインについて、2026年第1四半期も売却せず継続保有したことを確認した。同日発表の決算ではフリーキャッシュフローが予想外の黒字を記録し、時間外取引で株価が上昇した。",
       "category": "マーケット",
-      "main_entities": [],
+      "main_entities": [
+        "Tesla"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
@@ -1884,8 +2139,14 @@
       "source_color": "#0f6e56",
       "summary": "● Kelp DAOの問題をきっかけに、AAVEの資金は約7.2兆円→約4.8兆円へ急減● USDT/USDCの借入金利は約3.4％→14％へ急騰し、流動性不足 The post DeFi流動性ショックの連鎖──rsETH問題が示す「信頼の揺らぎと再構築」【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "DeFi",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [
+        "Aave",
+        "Tether",
+        "Circle"
+      ],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
     {
@@ -1900,7 +2161,9 @@
       "source_color": "#b45309",
       "summary": "タイ証券取引委員会（SEC）は、デジタル資産事業者が既存の法人内でデリバティブを提供できるようにする規則改正について、意見募集を開始した。これにより、市場参入への障壁が低減される見込みである。",
       "category": "規制・法律",
-      "main_entities": [],
+      "main_entities": [
+        "SEC"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
@@ -1948,7 +2211,9 @@
       "source_color": "#0f6e56",
       "summary": "米国の銀行業界団体は、ステーブルコイン規制の枠組みであるGENIUS（ジーニアス）法の実施に関連し、複数の規則案に対するパブリックコメント期間の延長を求める書簡 The post 米銀行団体、ステーブルコイン規制の意見募集延長を要請──GENIUS法実施に遅延圧力 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
@@ -1980,8 +2245,12 @@
       "source_color": "#0f6e56",
       "summary": "AIインフラネットワークを手がけるGensynは、分散型情報市場プラットフォーム「Delphi」を正式にローンチした。クリエイターが独自の市場を構築し収益化でき The post Gensyn、分散型情報市場「Delphi」ローンチ──AIが決済する新たなクリエイター経済モデル first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
     {
@@ -1996,7 +2265,9 @@
       "source_color": "#1d4ed8",
       "summary": "マネーグラムとステラ開発財団が2021年から続いてきた提携を複数年延長した。USDC建てのステーブルコイン残高機能をエルサルバドルに拡大し、中南米全域への展開を進める。送金依存層への金融包摂が加速する。",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "Circle"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
@@ -2012,7 +2283,9 @@
       "source_color": "#1d4ed8",
       "summary": "仮想通貨マーケットメーカーのGSRは22日、ビットコイン、イーサリアム、ソラナを対象としたアクティブ管理型ETF「BESO」をナスダックに上場した。ステーキング報酬を還元する米国初のマルチアセット型商品として投資家の選択肢を拡大させた。",
       "category": "暗号資産ETF",
-      "main_entities": [],
+      "main_entities": [
+        "Solana Foundation"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-23T09:11:48.515717+09:00"
     },
@@ -2060,8 +2333,12 @@
       "source_color": "#7c3aed",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Arbitrum"
+      ],
+      "related_entities": [
+        "Apple"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2076,8 +2353,13 @@
       "source_color": "#0f6e56",
       "summary": "Suiブロックチェーン上のリキッドステーキングプロトコルのVoloは4月22日、セキュリティ侵害により約350万ドル（約5億6000万円、1ドル=160円換算） The post またもやDeFiプロトコルがハッキング被害──SuiベースのVoloが350万ドル盗まれる first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [
+        "Liquid",
+        "Cardano"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2092,8 +2374,12 @@
       "source_color": "#0f6e56",
       "summary": "4月21日、取引高で世界第2位の暗号資産（仮想通貨）取引所Bybit（バイビット）は、同社のセキュリティオペレーションセンター（SOC）が、Anthropic（ The post Bybitのセキュリティチーム、Claude Codeを検索するユーザーを標的としたmacOSマルウェア攻撃を発見 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Bybit"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2108,7 +2394,9 @@
       "source_color": "#1d4ed8",
       "summary": "バイビットのSOCが、Claude Code検索ユーザーを狙うmacOS向け多段階マルウェアキャンペーンを公表。SEOポイズニングで偽サイトに誘導し、仮想通貨ウォレット情報などを窃取する手口が判明した。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Bybit"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2124,8 +2412,12 @@
       "source_color": "#b45309",
       "summary": "コインベースの量子研究チームは4月21日のレポートで、量子コンピューターによる潜在的脅威に備える取り組みとして、アルゴランドとアプトスの対応を評価する一方、他のプルーフ・オブ・ステーク（PoS）型チェーンはより脆弱である可能性があると指摘した。",
       "category": "分析・レポート",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Aptos"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2156,7 +2448,9 @@
       "source_color": "#0f6e56",
       "summary": "4月21日、Tron（トロン）創設者のJustin Sun（ジャスティン・サン）氏は、トランプ一族が関与するDeFiプロジェクト「World Liberty F The post ジャスティン・サン氏、トークン凍結を巡りWorld Liberty Financialを提訴 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2172,8 +2466,15 @@
       "source_color": "#0f6e56",
       "summary": "シンガポールの決済インフラ企業Niumは4月21日、Coinbase（コインベース）と提携し、自社プラットフォーム上でステーブルコインUSDCによる決済を可能に The post CoinbaseとNiumが提携──グローバル決済ネットワークにUSDCを導入 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Coinbase",
+        "Circle"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Base",
+        "Infura"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2188,8 +2489,13 @@
       "source_color": "#7c3aed",
       "summary": "予測市場を「違法な賭博」と主張 米ニューヨーク州司法長官のレティシア・ジェームズ（Letitia James）氏が、暗号資産（仮想通貨）取引所のコインベース（Coinbase）とジェミナイ（Gemini）を4月21日に提",
       "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Coinbase",
+        "Gemini"
+      ],
+      "related_entities": [
+        "Base"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2204,7 +2510,9 @@
       "source_color": "#0f6e56",
       "summary": "・ビットコイン（BTC）は4月に入って初めて一時7万8000ドルを突破し、ショートでレバレッジをかけていたトレーダーに対する1億6800万ドル規模の踏み上げが追 The post BTC市場分析──20億ドル規模のETF流入と1億6800万ドルのショート清算が8万ドル超え観測を後押し【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "暗号資産ETF",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2220,7 +2528,9 @@
       "source_color": "#7c3aed",
       "summary": "ANAPがビットコイン追加購入 ビットコインの財務戦略を進める東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を4月22日に発表した。なお同社は",
       "category": "ビジネス",
-      "main_entities": [],
+      "main_entities": [
+        "Lightning Network"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2252,7 +2562,9 @@
       "source_color": "#7c3aed",
       "summary": "Morgan StanleyのMSBTが保有額1億ドル突破 米大手金融機関モルガン・スタンレー（Morgan Stanley）組成のビットコイン（BTC）現物ETF（上場投資信託）が、上場から10営業日で約1億4,185",
       "category": "暗号資産ETF",
-      "main_entities": [],
+      "main_entities": [
+        "Morgan Stanley"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2268,8 +2580,13 @@
       "source_color": "#0f6e56",
       "summary": "4月21日、大手暗号資産（仮想通貨）取引所Coinbase（コインベース）が設置した「量子コンピューティング・ブロックチェーン独立諮問委員会」が、初のポジション The post Coinbaseの量子コンピューティング諮問委員会、一部チェーンの準備不足を指摘 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "ビジネス",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Base"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2284,7 +2601,9 @@
       "source_color": "#0f6e56",
       "summary": "トークン化預金「DCJPY」のプラットフォームを提供するディーカレットDCPとデジタル資産運用サービス「LIFE LOG BOX」を運営するビジュアルボイスは2 The post ディーカレットDCP、別所哲也氏率いるビジュアルボイスとDAO構築へ──実証実験を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "Tokenized Deposit",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2316,8 +2635,12 @@
       "source_color": "#0f6e56",
       "summary": "ユーロ建てステーブルコインの発行を目的に設立された欧州の大手銀行12行から成るコンソーシアムQivalisは、MiCA（暗号資産市場規則）準拠のユーロ建てステー The post 欧州銀行コンソーシアム、MiCA準拠ユーロ建てステーブルコイン発行に向けFireblocksを採用 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Fireblocks"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2348,7 +2671,9 @@
       "source_color": "#7c3aed",
       "summary": "Tetherがマイニング金融企業Antalphaに出資 ステーブルコイン「USDT」発行元として知られるテザー（Tether）グループによる投資ファンドが、ビットコイン（BTC）マイニング関連の金融サービス企業アンタルフ",
       "category": "Stablecoin",
-      "main_entities": [],
+      "main_entities": [
+        "Tether"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2363,7 +2688,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "コア・サイエンティフィックは、米国全土で進めるデータセンター事業の拡張を支えるため、33億ドル規模の資金調達を計画している。",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
@@ -2380,8 +2705,12 @@
       "source_color": "#0f6e56",
       "summary": "ポイント ・高値圏もみ合いも、今朝方7.7万ドル台に上伸・イランは和平協議再開拒否・米国は停戦無期限延期発表で7.7万ドルへ・日米当局が予想市場へ懸念表明 昨日 The post ビットコイン、米イラン再協議見送りも停戦期限延期で7.7万ドル【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "分析・レポート",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "楽天ウォレット"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2396,7 +2725,9 @@
       "source_color": "#0f6e56",
       "summary": "NADA NEWSが開催する「Web3川柳コンテスト2026」は、現在も応募を受け付けています。 応募締切は2026年5月7日（木）9:59。締切まで残り約2週 The post 【応募受付中】Web3川柳コンテスト2026｜締切まで残り約2週間 first appeared on NADA NEWS（ナダ・ニュース）.",
       "category": "イベント・人事",
-      "main_entities": [],
+      "main_entities": [
+        "Cardano"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2412,8 +2743,12 @@
       "source_color": "#7c3aed",
       "summary": "Volo Protocolから約350万ドルの不正流出 スイ（Sui）ブロックチェーン上のリキッドステーキングプロトコル「ボロプロトコル（Volo Protocol）」において、セキュリティインシデントが発生したことが、",
       "category": "障害・攻撃",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [
+        "Liquid"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2443,7 +2778,7 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "4月22日公開のドキュメンタリー映画「Finding Satoshi」は、ビットコイン創設者サトシ・ナカモトの正体を特定したと主張する。4年間の調査と法医学的分析、20人以上へのインタビューを経て独自の結論に至った。一方、業界では匿名性の意義を主張する動きもある。",
-      "category": "分析・レポート",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
@@ -2508,8 +2843,13 @@
       "source_color": "#7c3aed",
       "summary": "DeFiの安全基準策定を提言 DEX（分散型取引所）カーブ（Curve）の創設者マイケル・エゴロフ（Michael Egorov）氏が、分散型金融（DeFi）の安全基準の策定を提言した。同氏が自身のXアカウントで4月21",
       "category": "DeFi",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Ethereum Foundation",
+        "Solana Foundation"
+      ],
+      "related_entities": [
+        "Curve Finance"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2524,8 +2864,13 @@
       "source_color": "#7c3aed",
       "summary": "コインベースが英国で暗号資産担保ローン提供開始 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、英国ユーザー向けに暗号資産を担保としたUSDC借入サービスの提供開始を4月20日に発表した。 同サービスでは",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Coinbase",
+        "Circle"
+      ],
+      "related_entities": [
+        "Base"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2540,7 +2885,9 @@
       "source_color": "#b45309",
       "summary": "XRP（XRP）はマクロ安値の1.12ドルから28％反発し、実現価格を上回った。つまり、平均的なXRP保有者は含み損の状態から脱したことになる。",
       "category": "マーケット",
-      "main_entities": [],
+      "main_entities": [
+        "Ripple"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2555,7 +2902,7 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "仮想通貨採掘企業コア・サイエンティフィックが33億ドルの社債発行を計画。調達資金をAIデータセンター開発資金返済に充当する予定だ。HPCでF1チームとも提携している。",
-      "category": "マーケット",
+      "category": "ビジネス",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
@@ -2571,9 +2918,13 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "コインベース諮問委員会が量子コンピュータリスクの提言書を公開。BTCコアインフラは安全と評価する一方、PoSチェーンのバリデータ署名に追加の脆弱性があると指摘した。",
-      "category": "Blockchain",
-      "main_entities": [],
-      "related_entities": [],
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2604,8 +2955,12 @@
       "source_color": "#1d4ed8",
       "summary": "ドアダッシュがストライプ・パラダイム支援のテンポを通じてステーブルコイン決済を導入。ビザなど大手もバリデーターとして参加し、実需向けステーブルコイン決済の普及が加速している。",
       "category": "Blockchain",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Visa"
+      ],
+      "related_entities": [
+        "Paradigm"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2651,7 +3006,7 @@
       "source_url": "https://cointelegraph.jp/",
       "source_color": "#b45309",
       "summary": "ベルゼ・シュトゥットガルト・デジタルの調査によると、欧州の投資家の35%が、仮想通貨の提供内容がより充実している銀行への変更を検討している。一方で、規制の不透明さは依然として課題となっている。",
-      "category": "分析・レポート",
+      "category": "規制・法律",
       "main_entities": [],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
@@ -2668,7 +3023,9 @@
       "source_color": "#1d4ed8",
       "summary": "ニューヨーク州司法長官は21日、コインベースとジェミニの「予測市場」が州法に抵触する違法ギャンブルだとして提訴した。総額34億ドルの賠償請求が行われており、連邦規制と州規制の管轄権を巡る対立が深まっている。",
       "category": "規制・法律",
-      "main_entities": [],
+      "main_entities": [
+        "Coinbase"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2684,7 +3041,10 @@
       "source_color": "#b45309",
       "summary": "レティシア・ジェームズ司法長官は、コインベースとジェミナイが無許可で市場を運営していたと主張。州レベルでの規制強化が進む中、仮想通貨企業への圧力が高まっている。",
       "category": "規制・法律",
-      "main_entities": [],
+      "main_entities": [
+        "Coinbase",
+        "Gemini"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2716,8 +3076,12 @@
       "source_color": "#b45309",
       "summary": "Tempoは、ドアダッシュ（DoorDash）、Stripe、Paradigm、Coastal Bank、ARQとの「ステーブルコインを活用した決済インフラ」の統合を発表した。",
       "category": "Stablecoin",
-      "main_entities": [],
-      "related_entities": [],
+      "main_entities": [
+        "Paradigm"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
     {
@@ -2747,8 +3111,10 @@
       "source_url": "https://coinpost.jp/",
       "source_color": "#1d4ed8",
       "summary": "米国の次期FRB議長候補のケビン・ウォーシュ氏は上院公聴会で、仮想通貨が金融業界に浸透しているとの認識を示した。利下げを巡る独立性の維持や、承認を阻む共和党内の動向が焦点となった。",
-      "category": "ビジネス",
-      "main_entities": [],
+      "category": "分析・レポート",
+      "main_entities": [
+        "FRB"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2764,7 +3130,9 @@
       "source_color": "#1d4ed8",
       "summary": "ストラテジーが先週34164BTCを新たに取得し、累計815,061BTCでブラックロックのIBITを約1.2万枚上回った。2024年第2四半期以来初の首位奪還となり、STRC優先株式を活用した資本戦略が最近の大量購入を支えている。",
       "category": "暗号資産ETF",
-      "main_entities": [],
+      "main_entities": [
+        "BlackRock"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     },
@@ -2780,13 +3148,15 @@
       "source_color": "#1d4ed8",
       "summary": "ギリシャの海事リスク管理会社マリスクスが、ホルムズ海峡通航と引き換えにビットコインやテザーの支払いを求める詐欺メッセージが船会社に届いていると警告した。",
       "category": "障害・攻撃",
-      "main_entities": [],
+      "main_entities": [
+        "Tether"
+      ],
       "related_entities": [],
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-04-26T10:44:31.634293+09:00",
-  "total_count": 174,
+  "last_updated": "2026-04-26T16:51:28.611780+09:00",
+  "total_count": 176,
   "sources": [
     "NADA NEWS",
     "CoinPost",
