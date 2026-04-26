@@ -1,10 +1,11 @@
 """
-暗号資産ニュース 自動取得・要約スクリプト v8
+暗号資産ニュース 自動取得・要約スクリプト v9
 
-entities取得を独立した関数に分離し、確実に動作するよう修正。
-- summarize_article() : summary + category を取得
-- extract_entities()  : main_entities + related_entities を取得（シンプルなプロンプト）
-- analyze_article()   : 上記2つを呼び出してまとめる
+API残高不要の変更:
+  - 企業名抽出をClaude APIから「辞書マッチング」に変更
+  - 要約はRSSのdescription（本文リード文）をそのまま使用
+  - カテゴリはキーワードマッチングで分類
+  → API残高ゼロでもentities・category・summaryが正常に出力される
 """
 
 import html
@@ -18,13 +19,10 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import requests
-import anthropic
 
 # ── 定数 ─────────────────────────────────────────────────────────────────
 JST         = timezone(timedelta(hours=9))
 DATA_FILE   = Path(__file__).parent.parent / "docs" / "data" / "news.json"
-MAX_RETRIES = 3
-RETRY_DELAY = 5
 
 # ── 取得対象ソース ────────────────────────────────────────────────────────
 SOURCES = [
@@ -34,32 +32,26 @@ SOURCES = [
     {"name": "CoinTelegraph JP", "top_url": "https://cointelegraph.jp/",  "rss_url": "https://cointelegraph.jp/rss",        "color": "#b45309"},
 ]
 
-# ── カテゴリ ──────────────────────────────────────────────────────────────
-CATEGORIES = [
-    "Blockchain", "DeFi", "障害・攻撃", "分析・レポート",
-    "Stablecoin", "NFT", "Tokenized Deposit", "Security Token",
-    "暗号資産ETF", "ビジネス", "マーケット", "規制・法律", "イベント・人事",
-]
-CATEGORY_PROMPT = "\n".join(f"- {c}" for c in CATEGORIES)
-
+# ── カテゴリ定義 ──────────────────────────────────────────────────────────
 KEYWORD_RULES = [
-    ("障害・攻撃",       ["ハック","ハッキング","流出","被害","エクスプロイト","exploit","攻撃","詐欺","フィッシング","障害","盗難","不正","凍結","drain","breach","hack","stolen","scam"]),
-    ("Blockchain",       ["EIP","BIP","ハードフォーク","ソフトフォーク","アップグレード","イーサリアム改善","プロトコル更新","コンセンサス","バリデータ","merge","upgrade","fork"]),
-    ("DeFi",             ["DeFi","defi","分散型金融","Uniswap","Aave","Compound","Curve","カーブ","MakerDAO","流動性","AMM","DEX","レンディング"]),
-    ("Stablecoin",       ["ステーブルコイン","stablecoin","USDT","USDC","JPYC","CBDC","デジタル円","安定通貨","Tether"]),
-    ("NFT",              ["NFT","nft","デジタルアート","メタバース","OpenSea","Blur"]),
-    ("Tokenized Deposit",["トークン化預金","預金トークン","Tokenized Deposit","tokenized deposit","デジタル預金"]),
-    ("Security Token",   ["セキュリティトークン","Security Token","STO","RWA","トークン化株式","トークン化国債","トークン化MMF","現実資産"]),
-    ("暗号資産ETF",      ["ETF","ビットコインETF","イーサリアムETF","上場投資信託","BlackRock","IBIT"]),
-    ("分析・レポート",   ["IMF","BIS","世界銀行","金融庁","FSB","IOSCO","レポート","報告書","声明","オンチェーン"]),
-    ("規制・法律",       ["規制","法案","法律","ライセンス","当局","SEC","CFTC","訴訟","逮捕","禁止","regulation","compliance"]),
-    ("マーケット",       ["価格","相場","急騰","急落","上昇","下落","高値","安値","ビットコイン価格","ATH"]),
-    ("イベント・人事",   ["カンファレンス","イベント","展示会","ハッカソン","人事","退任","就任","conference","summit"]),
-    ("ビジネス",         ["提携","資金調達","ラウンド","買収","上場","サービス開始","リリース","パートナー","取引所","ウォレット","決済"]),
+    ("障害・攻撃",       ["ハック","ハッキング","流出","被害","エクスプロイト","exploit","攻撃","詐欺","フィッシング","障害","盗難","不正アクセス","凍結","drain","breach","hack","stolen","scam","vulnerability","脆弱性","ラグプル"]),
+    ("Blockchain",       ["EIP","BIP","ハードフォーク","ソフトフォーク","アップグレード","プロトコル更新","コンセンサス","バリデータ","merge","upgrade","fork","consensus","validator","シャーディング","レイヤー2","Layer2","ロールアップ","rollup"]),
+    ("DeFi",             ["DeFi","defi","分散型金融","Uniswap","Aave","Compound","Curve","カーブ","MakerDAO","流動性プール","AMM","DEX","レンディング","イールド","ガバナンス提案","Liquidity","TVL"]),
+    ("Stablecoin",       ["ステーブルコイン","stablecoin","USDT","USDC","JPYC","CBDC","デジタル円","安定通貨","Tether","USD Coin","EURC","PYUSD","RLUSD","預金型","ペッグ"]),
+    ("NFT",              ["NFT","nft","デジタルアート","メタバース","OpenSea","Blur","コレクション","トークンアート","ゲームアイテム","デジタル所有権"]),
+    ("Tokenized Deposit",["トークン化預金","預金トークン","Tokenized Deposit","tokenized deposit","デジタル預金","決済トークン","銀行トークン"]),
+    ("Security Token",   ["セキュリティトークン","Security Token","STO","RWA","トークン化株式","トークン化国債","トークン化MMF","現実資産","不動産トークン","株式トークン","国債トークン","tokenized bond","tokenized equity","tokenized fund","tokenized real"]),
+    ("暗号資産ETF",      ["ETF","ビットコインETF","イーサリアムETF","上場投資信託","IBIT","FBTC","GBTC","現物ETF","先物ETF","資金流入","運用残高","純資産"]),
+    ("分析・レポート",   ["IMF","BIS","世界銀行","金融庁","FSB","IOSCO","FRB","ECB","レポート","報告書","調査報告","声明","統計","オンチェーン分析","市場調査","research","report"]),
+    ("規制・法律",       ["規制","法案","法律","ライセンス","当局","SEC","CFTC","金融庁","財務省","訴訟","逮捕","摘発","禁止","regulation","legal","compliance","enforcement","AML","KYC","制裁"]),
+    ("マーケット",       ["価格","相場","急騰","急落","上昇","下落","高値","安値","ビットコイン価格","ATH","最高値","最安値","強気","弱気","bull","bear","market cap"]),
+    ("イベント・人事",   ["カンファレンス","イベント","展示会","ハッカソン","人事","CEO","CTO","CFO","退任","就任","開催","登壇","conference","summit","hackathon","Consensus","DevCon"]),
+    ("ビジネス",         ["提携","資金調達","シリーズ","ラウンド","買収","M&A","上場","サービス開始","ローンチ","リリース","パートナー","取引所","ウォレット","決済","融資","出資","投資"]),
 ]
 
 
 def keyword_classify(title: str, description: str) -> str:
+    """キーワードマッチングでカテゴリを判定する"""
     text = (title + " " + description).lower()
     for category, keywords in KEYWORD_RULES:
         for kw in keywords:
@@ -68,17 +60,188 @@ def keyword_classify(title: str, description: str) -> str:
     return "ビジネス"
 
 
-def normalize_category(raw: str) -> str:
-    raw = raw.strip()
-    if raw in CATEGORIES:
-        return raw
-    rl = raw.lower()
-    for cat in CATEGORIES:
-        if cat.lower() == rl or cat.lower() in rl or rl in cat.lower():
-            return cat
-    return ""
+# ── 企業名辞書（既知企業・団体・プロトコル名） ────────────────────────────
+# タプル: (表示名, [マッチキーワード], 重要度)
+# 重要度1=主要企業候補, 重要度2=関連企業
+ENTITY_DICT = [
+    # 取引所・カストディ
+    ("Coinbase",          ["Coinbase","コインベース"],                    1),
+    ("Binance",           ["Binance","バイナンス"],                       1),
+    ("Kraken",            ["Kraken","クラーケン"],                        1),
+    ("OKX",               ["OKX","OKEx"],                                 1),
+    ("Bybit",             ["Bybit","バイビット"],                         1),
+    ("bitFlyer",          ["bitFlyer","ビットフライヤー"],                 1),
+    ("GMOコイン",         ["GMOコイン","GMO Coin"],                       1),
+    ("SBI VC Trade",      ["SBI VC","SBIVCトレード","SBI VC Trade"],       1),
+    ("楽天ウォレット",    ["楽天ウォレット","Rakuten Wallet"],             1),
+    ("マネックスグループ",["マネックス","Monex"],                         1),
+    ("Gemini",            ["Gemini","ジェミナイ"],                        1),
+    ("Crypto.com",        ["Crypto.com","クリプトドットコム"],             1),
+    ("HTX",               ["HTX","Huobi","フォビ"],                       1),
+    ("KuCoin",            ["KuCoin","クーコイン"],                        1),
+    ("Gate.io",           ["Gate.io","ゲートアイオー"],                   1),
+    ("bitbank",           ["bitbank","ビットバンク"],                     1),
+    ("Liquid",            ["Liquid","リキッド"],                          2),
+    ("Bitstamp",          ["Bitstamp","ビットスタンプ"],                  2),
+    ("Upbit",             ["Upbit","アップビット"],                       2),
+
+    # ブロックチェーン・プロトコル
+    ("Ethereum Foundation",["Ethereum Foundation","イーサリアム財団"],     1),
+    ("Bitcoin Core",      ["Bitcoin Core"],                               1),
+    ("Solana Foundation", ["Solana","ソラナ"],                            1),
+    ("Polygon",           ["Polygon","ポリゴン","MATIC"],                  1),
+    ("Avalanche",         ["Avalanche","アバランチ","AVAX"],               1),
+    ("Cardano",           ["Cardano","カルダノ","ADA"],                    1),
+    ("Polkadot",          ["Polkadot","ポルカドット","DOT"],               1),
+    ("Ripple",            ["Ripple","リップル","XRP"],                     1),
+    ("Chainlink",         ["Chainlink","チェーンリンク","LINK"],           2),
+    ("Cosmos",            ["Cosmos","コスモス","ATOM"],                    2),
+    ("Near Protocol",     ["NEAR","Near Protocol"],                       2),
+    ("Sui",               ["Sui","スイ"],                                  2),
+    ("Aptos",             ["Aptos","アプトス"],                            2),
+    ("Toncoin",           ["TON","Toncoin","トンコイン"],                  2),
+    ("Base",              ["Base","ベース（Coinbase）"],                   2),
+    ("Arbitrum",          ["Arbitrum","アービトラム"],                     2),
+    ("Optimism",          ["Optimism","オプティミズム"],                   2),
+
+    # DeFiプロトコル
+    ("Uniswap",           ["Uniswap","ユニスワップ"],                     1),
+    ("Aave",              ["Aave","アーベ"],                              1),
+    ("Compound",          ["Compound","コンパウンド"],                    2),
+    ("MakerDAO",          ["MakerDAO","メイカーDAO","Maker","Sky Protocol"],1),
+    ("Curve Finance",     ["Curve","カーブ"],                             2),
+    ("Lido",              ["Lido","リド"],                                1),
+    ("EigenLayer",        ["EigenLayer","アイゲンレイヤー"],              2),
+
+    # ステーブルコイン発行体
+    ("Tether",            ["Tether","テザー","USDT"],                     1),
+    ("Circle",            ["Circle","サークル","USDC"],                   1),
+    ("日本円ステーブルコイン",["JPYC","円建てステーブル"],               2),
+
+    # ETF・資産運用
+    ("BlackRock",         ["BlackRock","ブラックロック"],                 1),
+    ("Fidelity",          ["Fidelity","フィデリティ"],                    1),
+    ("Grayscale",         ["Grayscale","グレースケール","GBTC"],          1),
+    ("Franklin Templeton",["Franklin Templeton","フランクリン"],          2),
+    ("ARK Invest",        ["ARK Invest","ARK","アーク"],                  2),
+    ("VanEck",            ["VanEck","バンエック"],                        2),
+
+    # 銀行・金融機関
+    ("JPMorgan",          ["JPMorgan","JPモルガン","J.P.Morgan"],         1),
+    ("Goldman Sachs",     ["Goldman Sachs","ゴールドマン"],               1),
+    ("Morgan Stanley",    ["Morgan Stanley","モルガン・スタンレー"],      1),
+    ("Visa",              ["Visa","ビザ"],                                 2),
+    ("Mastercard",        ["Mastercard","マスターカード"],                 2),
+    ("PayPal",            ["PayPal","ペイパル"],                          1),
+    ("三菱UFJ銀行",       ["三菱UFJ","MUFG","三菱UFJ銀行"],              1),
+    ("みずほ銀行",        ["みずほ","Mizuho"],                            1),
+    ("三井住友銀行",      ["三井住友","SMBC"],                            1),
+    ("SBI Holdings",      ["SBIホールディングス","SBI Holdings","SBI"],   1),
+    ("野村ホールディングス",["野村","Nomura"],                            2),
+    ("HSBC",              ["HSBC","エイチエスビーシー"],                  2),
+    ("Standard Chartered",["Standard Chartered","スタンダードチャータード"],2),
+    ("Deutsche Bank",     ["Deutsche Bank","ドイツ銀行"],                 2),
+
+    # テック企業
+    ("MicroStrategy",     ["MicroStrategy","マイクロストラテジー","Strategy"],1),
+    ("Tesla",             ["Tesla","テスラ"],                             1),
+    ("Microsoft",         ["Microsoft","マイクロソフト"],                 2),
+    ("Google",            ["Google","Alphabet","グーグル"],               2),
+    ("Amazon",            ["Amazon","アマゾン","AWS"],                    2),
+    ("Meta",              ["Meta","Facebook","メタ"],                     2),
+    ("Apple",             ["Apple","アップル"],                           2),
+
+    # 規制当局・政府機関
+    ("SEC",               ["SEC","証券取引委員会"],                       1),
+    ("CFTC",              ["CFTC","商品先物取引委員会"],                  1),
+    ("金融庁",            ["金融庁","FSA"],                               1),
+    ("財務省",            ["財務省"],                                     1),
+    ("FRB",               ["FRB","Federal Reserve","連邦準備"],           1),
+    ("ECB",               ["ECB","欧州中央銀行"],                         1),
+    ("IMF",               ["IMF","国際通貨基金"],                         1),
+    ("BIS",               ["BIS","国際決済銀行"],                         1),
+    ("世界銀行",          ["世界銀行","World Bank"],                      1),
+    ("FSB",               ["FSB","金融安定理事会"],                       1),
+    ("財務省（米国）",    ["U.S. Treasury","米財務省"],                   1),
+    ("ホワイトハウス",    ["White House","ホワイトハウス"],               1),
+
+    # VC・投資
+    ("a16z",              ["a16z","Andreessen Horowitz","アンドリーセン"], 2),
+    ("Paradigm",          ["Paradigm","パラダイム"],                      2),
+    ("Sequoia",           ["Sequoia","セコイア"],                         2),
+    ("Pantera Capital",   ["Pantera","パンテラ"],                         2),
+
+    # NFT・ゲーム
+    ("OpenSea",           ["OpenSea","オープンシー"],                     1),
+    ("Blur",              ["Blur","ブラー"],                              2),
+    ("Axie Infinity",     ["Axie Infinity","アクシー"],                   2),
+    ("The Sandbox",       ["Sandbox","サンドボックス"],                   2),
+    ("Decentraland",      ["Decentraland","ディセントラランド"],           2),
+
+    # その他主要企業
+    ("Animoca Brands",    ["Animoca","アニモカ"],                         2),
+    ("Fireblocks",        ["Fireblocks","ファイアブロックス"],            2),
+    ("Chainalysis",       ["Chainalysis","チェイナリシス"],               2),
+    ("Ledger",            ["Ledger","レジャー"],                          2),
+    ("Trezor",            ["Trezor","トレザー"],                          2),
+    ("Metamask",          ["MetaMask","メタマスク"],                      2),
+    ("Alchemy",           ["Alchemy","アルケミー"],                       2),
+    ("Infura",            ["Infura","インフラ"],                          2),
+    ("Lightning Network", ["Lightning Network","ライトニング"],            2),
+]
 
 
+def extract_entities(title: str, description: str) -> tuple[list[str], list[str]]:
+    """
+    企業名辞書でタイトルと本文をスキャンして企業名を抽出。
+    重要度1かつ複数回登場 → main_entities
+    それ以外 → related_entities
+    """
+    text = title + " " + description
+
+    found: list[tuple[str, int, int]] = []  # (表示名, 重要度, 登場回数)
+
+    for display_name, keywords, importance in ENTITY_DICT:
+        count = 0
+        for kw in keywords:
+            # 大小文字無視でカウント
+            count += len(re.findall(re.escape(kw), text, re.IGNORECASE))
+        if count > 0:
+            found.append((display_name, importance, count))
+
+    if not found:
+        return [], []
+
+    # タイトルに登場する企業を優先してmainに
+    title_entities = set()
+    for display_name, keywords, importance in ENTITY_DICT:
+        for kw in keywords:
+            if re.search(re.escape(kw), title, re.IGNORECASE):
+                title_entities.add(display_name)
+
+    # main: タイトルに登場 かつ 重要度1、または本文で2回以上登場の重要度1
+    main_candidates = [
+        name for name, imp, cnt in found
+        if imp == 1 and (name in title_entities or cnt >= 2)
+    ]
+
+    # related: main以外のすべて（登場したもの）
+    main_set = set(main_candidates[:3])  # mainは最大3件
+    related = [
+        name for name, imp, cnt in found
+        if name not in main_set
+    ]
+
+    # mainが空でfoundがある場合、重要度1の先頭をmainに
+    if not main_candidates and found:
+        top = sorted(found, key=lambda x: (-x[1], -x[2]))
+        main_candidates = [top[0][0]]
+        related = [name for name, _, _ in top[1:]]
+
+    return list(dict.fromkeys(main_candidates[:3])), list(dict.fromkeys(related[:10]))
+
+
+# ── テキストクリーニング ──────────────────────────────────────────────────
 def clean_text(raw: str) -> str:
     text = re.sub(r"<[^>]+>", "", raw)
     text = html.unescape(text)
@@ -90,18 +253,18 @@ def clean_text(raw: str) -> str:
 
 # ── RSS 取得 ──────────────────────────────────────────────────────────────
 def fetch_rss(source: dict) -> list[dict]:
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/8.0)"}
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; CryptoNewsBot/9.0)"}
     resp = None
-    for attempt in range(MAX_RETRIES):
+    for attempt in range(3):
         try:
             resp = requests.get(source["rss_url"], headers=headers, timeout=30)
             resp.raise_for_status()
             break
         except requests.RequestException as e:
-            if attempt == MAX_RETRIES - 1:
+            if attempt == 2:
                 print(f"  ✗ [{source['name']}] RSS取得失敗: {e}")
                 return []
-            time.sleep(RETRY_DELAY)
+            time.sleep(5)
     try:
         root = ET.fromstring(resp.content)
     except ET.ParseError as e:
@@ -146,136 +309,6 @@ def filter_recent(items: list[dict], hours: int = 24) -> list[dict]:
             if it["pub_date"] and datetime.fromisoformat(it["pub_date"]) >= cutoff]
 
 
-# ── AI呼び出し①: 要約 + カテゴリ ─────────────────────────────────────────
-SUMMARY_PROMPT = """\
-以下の暗号資産ニュース記事を読んで、JSONのみを返してください（コードブロック不要）。
-
-タイトル: {title}
-本文: {description}
-
-カテゴリ選択肢:
-{category_list}
-
-カテゴリ選び方:
-- Blockchain: ブロックチェーン本体のアップグレード、EIP/BIP改善提案、フォーク
-- DeFi: DeFiプロトコルの更新・ガバナンス提案
-- 障害・攻撃: ハック・資金流出・詐欺・ネットワーク障害
-- 分析・レポート: IMF・BIS・金融庁等の国際機関レポート・調査会社分析
-- Stablecoin: ステーブルコインの発行・運用・採用
-- NFT: NFT発行・売買・マーケットプレイス
-- Tokenized Deposit: トークン化預金・預金トークン
-- Security Token: ST・RWA・トークン化株式/国債/MMF
-- 暗号資産ETF: 暗号資産ETFの申請・承認・資金動向
-- ビジネス: 企業の資金調達・提携・新サービス・取引所・決済
-- マーケット: 価格動向・相場（純粋な市場情報）
-- 規制・法律: 各国規制・当局動向・訴訟
-- イベント・人事: カンファレンス・人事異動
-
-出力JSON:
-{{"summary": "200〜400字で記事の要約。具体的な数値・固有名詞を含め省略記号なしで完結させる", "category": "カテゴリ名をそのまま"}}"""
-
-
-def summarize_article(client: anthropic.Anthropic, title: str, description: str) -> tuple[str, str]:
-    """要約とカテゴリを返す"""
-    content = description if len(description) >= 30 else title
-    prompt  = SUMMARY_PROMPT.format(
-        title=title, description=content, category_list=CATEGORY_PROMPT
-    )
-    for attempt in range(MAX_RETRIES):
-        try:
-            msg = client.messages.create(
-                model="claude-haiku-4-5-20251001",
-                max_tokens=1000,
-                messages=[{"role": "user", "content": prompt}],
-            )
-            if msg.stop_reason == "max_tokens":
-                raise ValueError("max_tokens到達")
-            raw  = re.sub(r"^```(?:json)?\s*\n?", "", msg.content[0].text.strip(), flags=re.IGNORECASE)
-            raw  = re.sub(r"\n?```\s*$", "", raw).strip()
-            data = json.loads(raw)
-            summary  = clean_text(str(data.get("summary", ""))).strip()
-            summary  = re.sub(r"…+|\.{3,}", "", summary).strip()
-            if len(summary) < 50:
-                summary = content[:400]
-            cat_raw  = str(data.get("category", "")).strip()
-            category = normalize_category(cat_raw) or keyword_classify(title, content)
-            return summary, category
-        except Exception as e:
-            if attempt == MAX_RETRIES - 1:
-                return content[:400], keyword_classify(title, content)
-            time.sleep(RETRY_DELAY)
-    return content[:400], keyword_classify(title, content)
-
-
-# ── AI呼び出し②: 企業名抽出（シンプルなプロンプト）─────────────────────
-ENTITY_PROMPT = """\
-以下のニュース記事に登場する企業名・団体名・プロトコル名を抽出してください。
-個人名は含めないでください。JSONのみを返してください（コードブロック不要）。
-
-タイトル: {title}
-本文: {description}
-
-出力JSON（必ずこの形式で）:
-{{"main_entities": ["ニュースの中心となる主要企業・団体名（1〜3件）"], "related_entities": ["記事内に登場するすべての企業・団体・プロトコル名（main_entitiesと重複しない）"]}}
-
-ルール:
-- main_entitiesは記事の主語・主体となっている組織（最重要1〜3件のみ）
-- related_entitiesは記事中で言及されたその他すべての企業・団体・プロトコル名
-- 個人名（人名）は除外する
-- 企業・団体が見つからない場合は空配列 [] にする"""
-
-
-def extract_entities(client: anthropic.Anthropic, title: str, description: str) -> tuple[list, list]:
-    """企業名を抽出してmain/relatedに分けて返す"""
-    content = description if len(description) >= 30 else title
-    prompt  = ENTITY_PROMPT.format(title=title, description=content)
-
-    for attempt in range(MAX_RETRIES):
-        try:
-            msg = client.messages.create(
-                model="claude-haiku-4-5-20251001",
-                max_tokens=600,
-                messages=[{"role": "user", "content": prompt}],
-            )
-            raw  = re.sub(r"^```(?:json)?\s*\n?", "", msg.content[0].text.strip(), flags=re.IGNORECASE)
-            raw  = re.sub(r"\n?```\s*$", "", raw).strip()
-            data = json.loads(raw)
-
-            main_ents    = [str(e).strip() for e in data.get("main_entities",    []) if str(e).strip()]
-            related_ents = [str(e).strip() for e in data.get("related_entities", []) if str(e).strip()]
-
-            # main_entsがrelated_entsに混入していたら除外
-            related_ents = [e for e in related_ents if e not in main_ents]
-
-            print(f"       entities → main:{main_ents} / related:{related_ents[:4]}")
-            return main_ents, related_ents
-
-        except json.JSONDecodeError:
-            print(f"    entities JSONエラー（attempt {attempt+1}）: {msg.content[0].text[:100] if 'msg' in dir() else 'N/A'}")
-            if attempt == MAX_RETRIES - 1:
-                return [], []
-            time.sleep(RETRY_DELAY)
-        except Exception as e:
-            if attempt == MAX_RETRIES - 1:
-                print(f"    entities エラー: {e}")
-                return [], []
-            time.sleep(RETRY_DELAY)
-    return [], []
-
-
-# ── まとめて分析 ──────────────────────────────────────────────────────────
-def analyze_article(client: anthropic.Anthropic, title: str, description: str) -> dict:
-    """要約・カテゴリ・企業名を取得してまとめて返す"""
-    summary, category            = summarize_article(client, title, description)
-    main_entities, related_entities = extract_entities(client, title, description)
-    return {
-        "summary":          summary,
-        "category":         category,
-        "main_entities":    main_entities,
-        "related_entities": related_entities,
-    }
-
-
 # ── JSON DB ───────────────────────────────────────────────────────────────
 def load_db() -> dict:
     if DATA_FILE.exists():
@@ -305,11 +338,6 @@ def merge_articles(db: dict, new_articles: list[dict]) -> int:
 
 # ── メイン ────────────────────────────────────────────────────────────────
 def main():
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        raise EnvironmentError("ANTHROPIC_API_KEY が設定されていません")
-
-    client  = anthropic.Anthropic(api_key=api_key)
     now_jst = datetime.now(JST)
     print(f"=== 暗号資産ニュース取得開始 ({now_jst.strftime('%Y-%m-%d %H:%M JST')}) ===\n")
 
@@ -339,17 +367,30 @@ def main():
     print(f"  新規: {len(new_items)} 件 / スキップ: {len(recent)-len(new_items)} 件\n")
 
     if new_items:
-        print(f"[4/4] Claude APIで分析中（{len(new_items)} 件）...")
+        print(f"[4/4] キーワード分析中（{len(new_items)} 件）...")
         for i, item in enumerate(new_items, 1):
-            print(f"  [{i:>2}/{len(new_items)}] [{item['source_name']}] {item['title'][:50]}...")
-            result = analyze_article(client, item["title"], item["description"])
-            item["summary"]          = result["summary"]
-            item["category"]         = result["category"]
-            item["main_entities"]    = result["main_entities"]
-            item["related_entities"] = result["related_entities"]
+            title = item["title"]
+            desc  = item["description"]
+
+            # カテゴリ（キーワードマッチング）
+            category = keyword_classify(title, desc)
+
+            # 要約（descriptionをそのまま使用、最大400字）
+            summary = desc[:400] if len(desc) >= 30 else title
+
+            # 企業名抽出（辞書マッチング・APIなし）
+            main_ents, related_ents = extract_entities(title, desc)
+
+            item["summary"]          = summary
+            item["category"]         = category
+            item["main_entities"]    = main_ents
+            item["related_entities"] = related_ents
             item["fetched_at"]       = now_jst.isoformat()
-            print(f"       → カテゴリ:{result['category']} / summary:{len(result['summary'])}字")
-            time.sleep(0.5)
+
+            print(f"  [{i:>2}/{len(new_items)}] {title[:45]}...")
+            print(f"       カテゴリ: {category}")
+            print(f"       主体: {main_ents}")
+            print(f"       関連: {related_ents[:4]}")
         print()
     else:
         print("[4/4] 新規記事なし。スキップ。\n")
