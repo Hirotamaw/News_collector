@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "四谷の東京ビットコインベースが1周年、BTC投げ銭のお笑いライブも──記念イベントで「社会実装」の試み",
+      "link": "https://www.nadanews.com/346279/",
+      "pub_date": "2026-04-26T10:00:00+09:00",
+      "pub_date_utc": "2026-04-26T01:00:00+00:00",
+      "description": "ビットコイン（BTC）の普及を目的に、東京・四谷に開業した東京ビットコインベース（TBB）が25日、開業1周年を迎えた。この日は「この碑なんの碑サトシの碑」と題 The post 四谷の東京ビットコインベースが1周年、BTC投げ銭のお笑いライブも──記念イベントで「社会実装」の試み first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "EVENT",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン（BTC）の普及を目的に、東京・四谷に開業した東京ビットコインベース（TBB）が25日、開業1周年を迎えた。この日は「この碑なんの碑サトシの碑」と題 The post 四谷の東京ビットコインベースが1周年、BTC投げ銭のお笑いライブも──記念イベントで「社会実装」の試み first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "イベント・人事",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-26T10:44:06.411411+09:00"
+    },
+    {
       "title": "今週の主要仮想通貨材料まとめ、ETH長期価格目標の大幅下方修正やXRPLの量子耐性移行計画など",
       "link": "https://coinpost.jp/?p=704727",
       "pub_date": "2026-04-26T09:30:05+09:00",
@@ -2769,8 +2785,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-04-26T09:33:14.631659+09:00",
-  "total_count": 173,
+  "last_updated": "2026-04-26T10:44:31.634293+09:00",
+  "total_count": 174,
   "sources": [
     "NADA NEWS",
     "CoinPost",
