@@ -1,6 +1,196 @@
 {
   "articles": [
     {
+      "title": "予測市場ポリマーケット、日本を利用制限対象に　金融庁は慎重姿勢",
+      "link": "https://coinpost.jp/?p=705199",
+      "pub_date": "2026-04-27T09:49:57+09:00",
+      "pub_date_utc": "2026-04-27T00:49:57+00:00",
+      "description": "予測市場ポリマーケットが日本をアクセス制限国に追加した。国会では国民民主党議員が活用を提言する一方、金融庁は賭博性などを理由に慎重な姿勢を示している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "予測市場ポリマーケットが日本をアクセス制限国に追加した。国会では国民民主党議員が活用を提言する一方、金融庁は賭博性などを理由に慎重な姿勢を示している。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "金融庁"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "丸井のエポスカード、“暗号資産での引き落とし”対応クレカ発行──ビットバンクと提携",
+      "link": "https://www.nadanews.com/346406/",
+      "pub_date": "2026-04-27T09:28:57+09:00",
+      "pub_date_utc": "2026-04-27T00:28:57+00:00",
+      "description": "丸井グループのカード会社であるエポスカードと、暗号資産（仮想通貨）取引所bitbankを運営するビットバンクは4月27日、bitbankの口座から暗号資産での引 The post 丸井のエポスカード、“暗号資産での引き落とし”対応クレカ発行──ビットバンクと提携 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "丸井グループのカード会社であるエポスカードと、暗号資産（仮想通貨）取引所bitbankを運営するビットバンクは4月27日、bitbankの口座から暗号資産での引 The post 丸井のエポスカード、“暗号資産での引き落とし”対応クレカ発行──ビットバンクと提携 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "bitbank"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "ポリマーケット取引の価格形成、わずか3%の熟練トレーダーが主導＝論文",
+      "link": "https://coinpost.jp/?p=705194",
+      "pub_date": "2026-04-27T09:00:35+09:00",
+      "pub_date_utc": "2026-04-27T00:00:35+00:00",
+      "description": "ロンドン・ビジネス・スクール等の研究チームが、ポリマーケット172万アカウントを分析。価格形成を主導するのはわずか3.14%の熟練トレーダーで、残り97%は損失側に回ると結論付けた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ロンドン・ビジネス・スクール等の研究チームが、ポリマーケット172万アカウントを分析。価格形成を主導するのはわずか3.14%の熟練トレーダーで、残り97%は損失側に回ると結論付けた。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "資金調達率とハッシュレート低下、ビットコインに強気シグナルか＝ヴァンエック",
+      "link": "https://coinpost.jp/?p=705183",
+      "pub_date": "2026-04-27T08:15:25+09:00",
+      "pub_date_utc": "2026-04-26T23:15:25+00:00",
+      "description": "ヴァンエックが4月中旬レポートを公開。ファンディングレートとハッシュレートの2つの強気シグナルを指摘し、ビットコインの上昇余地を分析した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ヴァンエックが4月中旬レポートを公開。ファンディングレートとハッシュレートの2つの強気シグナルを指摘し、ビットコインの上昇余地を分析した。",
+      "category": "分析・レポート",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "イーサリアム財団、7万ETHのステーキング目標を目前に1万7,000 ETHをアンステーク",
+      "link": "https://cointelegraph.jp/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-27T08:13:29+09:00",
+      "pub_date_utc": "2026-04-26T23:13:29+00:00",
+      "description": "イーサリアム財団は、7万ETHというステーキング目標に近づいた直後、4,000万ドル相当の1万7,000 ETH以上をアンステークした。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "イーサリアム財団は、7万ETHというステーキング目標に近づいた直後、4,000万ドル相当の1万7,000 ETH以上をアンステークした。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "ライトコインが攻撃後のアップデートを報告、他の開発者はゼロデイ説に疑問を呈す",
+      "link": "https://cointelegraph.jp/news/litecoin-post-mortem-chain-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-27T07:40:59+09:00",
+      "pub_date_utc": "2026-04-26T22:40:59+00:00",
+      "description": "ライトコインの開発チームは、影響を受けたブロック内で発生した有効なトランザクションに影響はなく、メインチェーンに残っていると述べた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ライトコインの開発チームは、影響を受けたブロック内で発生した有効なトランザクションに影響はなく、メインチェーンに残っていると述べた。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "DeFiプロトコルScallopのサイドコントラクトでエクスプロイト、約15万SUI流出",
+      "link": "https://coinpost.jp/?p=705180",
+      "pub_date": "2026-04-27T07:30:02+09:00",
+      "pub_date_utc": "2026-04-26T22:30:02+00:00",
+      "description": "SuiチェーンのDeFiプロトコルScallopがエクスプロイト被害を報告。sSUIリワードプール関連のサイドコントラクトから約15万SUJが流出したが、コアコントラクトは安全で損失は全額補填予定。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "SuiチェーンのDeFiプロトコルScallopがエクスプロイト被害を報告。sSUIリワードプール関連のサイドコントラクトから約15万SUJが流出したが、コアコントラクトは安全で損失は全額補填予定。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "ストラテジー社のマイケル・セイラー氏、さらなるビットコイン購入を再び示唆",
+      "link": "https://cointelegraph.jp/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-27T07:27:51+09:00",
+      "pub_date_utc": "2026-04-26T22:27:51+00:00",
+      "description": "最大のビットコイン保有企業のデータによると、ビットコインが約7万8,000ドルまで反発したことで、同社の保有資産は含み益に転じ、約3.3%の利益を記録している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "最大のビットコイン保有企業のデータによると、ビットコインが約7万8,000ドルまで反発したことで、同社の保有資産は含み益に転じ、約3.3%の利益を記録している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "ビットコイン市場の構造的乖離──流動性・需給・ポジションが示す「上昇しきれない理由」【エックスウィン】",
+      "link": "https://www.nadanews.com/346392/",
+      "pub_date": "2026-04-27T07:11:26+09:00",
+      "pub_date_utc": "2026-04-26T22:11:26+00:00",
+      "description": "● 流動性は部分的に回復しているが、構造的な資金流入は依然として弱い● 供給は減少（流出）している一方で、需要はそれを上回るほど強くない● 市場はBTCに集中し The post ビットコイン市場の構造的乖離──流動性・需給・ポジションが示す「上昇しきれない理由」【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● 流動性は部分的に回復しているが、構造的な資金流入は依然として弱い● 供給は減少（流出）している一方で、需要はそれを上回るほど強くない● 市場はBTCに集中し The post ビットコイン市場の構造的乖離──流動性・需給・ポジションが示す「上昇しきれない理由」【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "「歴史的な平均」に基づけばビットコインの底値は5万7,000ドルに達する可能性：アナリスト",
+      "link": "https://cointelegraph.jp/news/bitcoin-bottom-57k-level-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-27T07:11:06+09:00",
+      "pub_date_utc": "2026-04-26T22:11:06+00:00",
+      "description": "ビットコインは、10万ドルの心理的節目を奪還する道中における次の抵抗帯である8万ドル付近で「拒絶」された。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインは、10万ドルの心理的節目を奪還する道中における次の抵抗帯である8万ドル付近で「拒絶」された。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
+      "title": "休眠2年のクジラ、300BTCをバイナンスに入金　含み益は約28億円＝Lookonchain",
+      "link": "https://coinpost.jp/?p=705176",
+      "pub_date": "2026-04-27T06:42:49+09:00",
+      "pub_date_utc": "2026-04-26T21:42:49+00:00",
+      "description": "2年間休眠していたビットコインクジラが300BTCをバイナンスへ入金。3年前に取得した際から約28億円の含み益が発生しているとLookonchainが報告した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "2年間休眠していたビットコインクジラが300BTCをバイナンスへ入金。3年前に取得した際から約28億円の含み益が発生しているとLookonchainが報告した。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Binance"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-27T10:47:20.519590+09:00"
+    },
+    {
       "title": "米・イラン停戦延長でビットコイン底堅く、今後の鍵は和平交渉とFOMC｜bitbankアナリスト寄稿",
       "link": "https://coinpost.jp/?p=704976",
       "pub_date": "2026-04-26T11:30:40+09:00",
@@ -3155,8 +3345,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-04-26T16:51:28.611780+09:00",
-  "total_count": 176,
+  "last_updated": "2026-04-27T10:47:20.519590+09:00",
+  "total_count": 187,
   "sources": [
     "NADA NEWS",
     "CoinPost",
