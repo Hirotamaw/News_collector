@@ -1,6 +1,581 @@
 {
   "articles": [
     {
+      "title": "ビットコイン準備金で「重大発表」予告、トランプ政権の仮想通貨顧問",
+      "link": "https://coinpost.jp/?p=705420",
+      "pub_date": "2026-04-28T10:49:28+09:00",
+      "pub_date_utc": "2026-04-28T01:49:28+00:00",
+      "description": "米トランプ政権の仮想通貨顧問ウィット氏が、ビットコイン準備金について重大発表を行う予定だと話した。ベギッチ議員も大統領令法制化の法案を提出する方針を示している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米トランプ政権の仮想通貨顧問ウィット氏が、ビットコイン準備金について重大発表を行う予定だと話した。ベギッチ議員も大統領令法制化の法案を提出する方針を示している。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ソラナ上でアーベ（AAVE）が利用可能に、サンライズ経由で",
+      "link": "https://www.neweconomy.jp/posts/569051",
+      "pub_date": "2026-04-28T10:47:32+09:00",
+      "pub_date_utc": "2026-04-28T01:47:32+00:00",
+      "description": "AAVEがソラナ上で利用可能に DeFi（分散型金融）プロトコル「アーベ（Aave）」のガバナンストークン「AAVE」が、サンライズ（Sunrise）経由でソラナ（Solana）上で利用可能になった。ソラナの公式Xが4月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "AAVEがソラナ上で利用可能に DeFi（分散型金融）プロトコル「アーベ（Aave）」のガバナンストークン「AAVE」が、サンライズ（Sunrise）経由でソラナ（Solana）上で利用可能になった。ソラナの公式Xが4月",
+      "category": "DeFi",
+      "main_entities": [
+        "Solana Foundation",
+        "Aave"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ビットコイン 7万6000ドル上で推移　ショート積み上がりで短期反落警戒も",
+      "link": "https://cointelegraph.jp/news/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-28T10:28:29+09:00",
+      "pub_date_utc": "2026-04-28T01:28:29+00:00",
+      "description": "ビットコイン（BTC）は過去1週間、7万6000ドルを上回る水準を維持し、年初来安値の6万500ドルから大きく上昇した。原油価格が100ドルを上回り、S&P500が過去最高値を更新する中で強気の勢いが見られたが、先物市場のデータは短期的な上昇終了の可能性を示唆している。",
+      "category_raw": "市場分析",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は過去1週間、7万6000ドルを上回る水準を維持し、年初来安値の6万500ドルから大きく上昇した。原油価格が100ドルを上回り、S&P500が過去最高値を更新する中で強気の勢いが見られたが、先物市場のデータは短期的な上昇終了の可能性を示唆している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "米企業3社が相次いで仮想通貨を追加購入、ストラテジー社は先週3273BTCを取得",
+      "link": "https://coinpost.jp/?p=705446",
+      "pub_date": "2026-04-28T10:26:52+09:00",
+      "pub_date_utc": "2026-04-28T01:26:52+00:00",
+      "description": "ストラテジーが4月20〜26日にBTC 3,273（約405億円）、ストライブが4月24日までにBTC 789（約98億円）を追加購入。ビットマインは4月24日累計保有量が約508万ETHに。機関投資家による4月下旬の相次ぐ購入をまとめて解説。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ストラテジーが4月20〜26日にBTC 3,273（約405億円）、ストライブが4月24日までにBTC 789（約98億円）を追加購入。ビットマインは4月24日累計保有量が約508万ETHに。機関投資家による4月下旬の相次ぐ購入をまとめて解説。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "「月末締め翌月払い」が企業成長を止める──ステーブルコインは決済のボトルネックを壊せるか【BCCC Collaborative Day】",
+      "link": "https://www.nadanews.com/345630/",
+      "pub_date": "2026-04-28T10:03:46+09:00",
+      "pub_date_utc": "2026-04-28T01:03:46+00:00",
+      "description": "一般社団法人ブロックチェーン推進協会（BCCC）が主催する業界カンファレンス「第9回 BCCC Collaborative Day」が21日、都内で開催された。 The post 「月末締め翌月払い」が企業成長を止める──ステーブルコインは決済のボトルネックを壊せるか【BCCC Collaborative Day】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "一般社団法人ブロックチェーン推進協会（BCCC）が主催する業界カンファレンス「第9回 BCCC Collaborative Day」が21日、都内で開催された。 The post 「月末締め翌月払い」が企業成長を止める──ステーブルコインは決済のボトルネックを壊せるか【BCCC Collaborative Day】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "仮想通貨ETFなど、先週は約1910億円が純流入　投資家の関心は米FOMCへ＝コインシェアーズ",
+      "link": "https://coinpost.jp/?p=705412",
+      "pub_date": "2026-04-28T09:09:43+09:00",
+      "pub_date_utc": "2026-04-28T00:09:43+00:00",
+      "description": "コインシェアーズは、ETFなどの仮想通貨投資商品全体の先週における資金フローは約1,913億円の純流入だったと報告。ビットコインやイーサリアムなど幅広い銘柄の投資商品に資金が流入した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "コインシェアーズは、ETFなどの仮想通貨投資商品全体の先週における資金フローは約1,913億円の純流入だったと報告。ビットコインやイーサリアムなど幅広い銘柄の投資商品に資金が流入した。",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ビットコイン急落の正体──レバレッジ清算が生む“構造的下落”【エックスウィン】",
+      "link": "https://www.nadanews.com/346605/",
+      "pub_date": "2026-04-28T08:10:00+09:00",
+      "pub_date_utc": "2026-04-27T23:10:00+00:00",
+      "description": "● 今回の急落は需給ではなく、レバレッジロングの強制清算が主因となった流動性イベント● 週末の低流動性とポジション偏りが重なり、連鎖的なロスカットが下落を増幅● The post ビットコイン急落の正体──レバレッジ清算が生む“構造的下落”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● 今回の急落は需給ではなく、レバレッジロングの強制清算が主因となった流動性イベント● 週末の低流動性とポジション偏りが重なり、連鎖的なロスカットが下落を増幅● The post ビットコイン急落の正体──レバレッジ清算が生む“構造的下落”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "BitMine社、含み損65億ドルにもかかわらず10万1,000 ETHを取得",
+      "link": "https://cointelegraph.jp/news/bitmine-eth-holdings-unrealized-losses-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-28T07:42:46+09:00",
+      "pub_date_utc": "2026-04-27T22:42:46+00:00",
+      "description": "仮想通貨財務企業のBitMine社は、価格変動によりバランスシート上で数十億ドルの含み損を抱えながらも、イーサの購入とステーキング報酬の獲得を継続している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "仮想通貨財務企業のBitMine社は、価格変動によりバランスシート上で数十億ドルの含み損を抱えながらも、イーサの購入とステーキング報酬の獲得を継続している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ストラテジー社、1 BTCあたり約7万8,000ドルで3,200 BTC以上を追加購入",
+      "link": "https://cointelegraph.jp/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-28T07:38:43+09:00",
+      "pub_date_utc": "2026-04-27T22:38:43+00:00",
+      "description": "マイケル・セイラー氏率いるストラテジー社は、4月20日から26日の間に3,273 BTCを2億5,500万ドルで購入した。これにより、同社の総保有量は818,334 BTCに達した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "マイケル・セイラー氏率いるストラテジー社は、4月20日から26日の間に3,273 BTCを2億5,500万ドルで購入した。これにより、同社の総保有量は818,334 BTCに達した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "8万ドル回復なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+      "link": "https://cointelegraph.jp/news/price-predictions-427-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-28T07:30:09+09:00",
+      "pub_date_utc": "2026-04-27T22:30:09+00:00",
+      "description": "ビットコインが8万ドルの突破に失敗する中、アナリストの間では、トレンドが真に変化したのか、あるいは依然として弱気派の支配下にあるのかについて議論が続いている",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインが8万ドルの突破に失敗する中、アナリストの間では、トレンドが真に変化したのか、あるいは依然として弱気派の支配下にあるのかについて議論が続いている",
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "国際B2Bステーブルコイン決済、2035年に約780兆円規模へ：Juniper Research",
+      "link": "https://www.nadanews.com/346601/",
+      "pub_date": "2026-04-28T07:30:00+09:00",
+      "pub_date_utc": "2026-04-27T22:30:00+00:00",
+      "description": "ステーブルコインを使った企業間の国際決済は、2035年までに5兆ドル（約780兆円、1ドル=155円換算）規模に達する見通しだ。フィンテック、通信、IoT分野の The post 国際B2Bステーブルコイン決済、2035年に約780兆円規模へ：Juniper Research first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ステーブルコインを使った企業間の国際決済は、2035年までに5兆ドル（約780兆円、1ドル=155円換算）規模に達する見通しだ。フィンテック、通信、IoT分野の The post 国際B2Bステーブルコイン決済、2035年に約780兆円規模へ：Juniper Research first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ビットコイン・クジラの保有量が5カ月ぶりの高水準に：BTCは次に8万ドルを目指すのか",
+      "link": "https://cointelegraph.jp/news/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-28T07:13:12+09:00",
+      "pub_date_utc": "2026-04-27T22:13:12+00:00",
+      "description": "クジラ（大口投資家）や機関投資家によるビットコインの蓄積が利用可能な供給量を減少させており、8万ドル超への反発に向けた舞台が整いつつある。",
+      "category_raw": "市場分析",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "クジラ（大口投資家）や機関投資家によるビットコインの蓄積が利用可能な供給量を減少させており、8万ドル超への反発に向けた舞台が整いつつある。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "Gemini、AIエージェントによる暗号資産取引機能を発表──MCP経由でChatGPTやClaudeと接続",
+      "link": "https://www.nadanews.com/346598/",
+      "pub_date": "2026-04-28T07:00:00+09:00",
+      "pub_date_utc": "2026-04-27T22:00:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Gemini（ジェミナイ）は、AIエージェントを使って取引を自動化できる新機能「Gemini Agentic Trading（ジェミナ The post Gemini、AIエージェントによる暗号資産取引機能を発表──MCP経由でChatGPTやClaudeと接続 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）取引所Gemini（ジェミナイ）は、AIエージェントを使って取引を自動化できる新機能「Gemini Agentic Trading（ジェミナ The post Gemini、AIエージェントによる暗号資産取引機能を発表──MCP経由でChatGPTやClaudeと接続 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Gemini"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "Western Union、ステーブルコイン「USDPT」を来月ローンチへ",
+      "link": "https://www.nadanews.com/346595/",
+      "pub_date": "2026-04-28T06:30:00+09:00",
+      "pub_date_utc": "2026-04-27T21:30:00+00:00",
+      "description": "国際送金大手のWestern Union（ウエスタンユニオン）は、独自のステーブルコインと関連サービスの開始計画を明らかにした。同社は、米ドルに裏付けられたSo The post Western Union、ステーブルコイン「USDPT」を来月ローンチへ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "国際送金大手のWestern Union（ウエスタンユニオン）は、独自のステーブルコインと関連サービスの開始計画を明らかにした。同社は、米ドルに裏付けられたSo The post Western Union、ステーブルコイン「USDPT」を来月ローンチへ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "世界の暗号資産ETP、ビットコインが牽引して4週連続の流入：CoinShares",
+      "link": "https://www.nadanews.com/346581/",
+      "pub_date": "2026-04-28T06:00:00+09:00",
+      "pub_date_utc": "2026-04-27T21:00:00+00:00",
+      "description": "CoinShares（コインシェアーズ）が4月27日に公開した週次レポートによると、世界の暗号資産ETP（上場取引型金融商品）には先週、12億ドル（約1920億 The post 世界の暗号資産ETP、ビットコインが牽引して4週連続の流入：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "CoinShares（コインシェアーズ）が4月27日に公開した週次レポートによると、世界の暗号資産ETP（上場取引型金融商品）には先週、12億ドル（約1920億 The post 世界の暗号資産ETP、ビットコインが牽引して4週連続の流入：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "【4/27話題】ビットバンクとエポスカードの暗号資産クレカ、ライトコインでゼロデイバグ悪用攻撃、スイのScallopでインシデントなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/568788",
+      "pub_date": "2026-04-28T05:57:24+09:00",
+      "pub_date_utc": "2026-04-27T20:57:24+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "bitbank"
+      ],
+      "related_entities": [
+        "Sui",
+        "Apple"
+      ],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "自動化からトークン化まで、注目すべきETFのトレンド：JPMorgan",
+      "link": "https://www.nadanews.com/346477/",
+      "pub_date": "2026-04-27T19:15:00+09:00",
+      "pub_date_utc": "2026-04-27T10:15:00+00:00",
+      "description": "JPMorgan（JPモルガン）は2026年4月24日のブログ投稿で「投資家が効率性とコスト削減を求める中、テクノロジーによってETF（上場投資信託）の様相は大 The post 自動化からトークン化まで、注目すべきETFのトレンド：JPMorgan first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "JPMorgan（JPモルガン）は2026年4月24日のブログ投稿で「投資家が効率性とコスト削減を求める中、テクノロジーによってETF（上場投資信託）の様相は大 The post 自動化からトークン化まで、注目すべきETFのトレンド：JPMorgan first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "Aave、Kelp悪用者の3万ETHを「DeFi United」へ送金するようArbitrumに提案",
+      "link": "https://www.nadanews.com/346473/",
+      "pub_date": "2026-04-27T18:25:00+09:00",
+      "pub_date_utc": "2026-04-27T09:25:00+00:00",
+      "description": "Aave Labs（アーベ・ラボ）は4月26日、Arbitrum（アービトラム）DAOに対し、Kelp DAO攻撃に関連して凍結された約7350万ドル（約117 The post Aave、Kelp悪用者の3万ETHを「DeFi United」へ送金するようArbitrumに提案 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Aave Labs（アーベ・ラボ）は4月26日、Arbitrum（アービトラム）DAOに対し、Kelp DAO攻撃に関連して凍結された約7350万ドル（約117 The post Aave、Kelp悪用者の3万ETHを「DeFi United」へ送金するようArbitrumに提案 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Aave"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Arbitrum"
+      ],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ハイパーブリッジ、任意返還期間で初の資金返還を確認",
+      "link": "https://www.neweconomy.jp/posts/568770",
+      "pub_date": "2026-04-27T18:07:27+09:00",
+      "pub_date_utc": "2026-04-27T09:07:27+00:00",
+      "description": "インシデント時の価格歪みに関連する資金の回収が進展 ポルカドット（Polkadot）エコシステムのクロスチェーンブリッジ「ハイパーブリッジ（Hyperbridge）」が、4月13日に発生したエクスプロイトに関する資金回収",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "インシデント時の価格歪みに関連する資金の回収が進展 ポルカドット（Polkadot）エコシステムのクロスチェーンブリッジ「ハイパーブリッジ（Hyperbridge）」が、4月13日に発生したエクスプロイトに関する資金回収",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Polkadot"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "OKX、米機関投資家向けにビットゴーのオフエクスチェンジ決済統合へ",
+      "link": "https://www.neweconomy.jp/posts/568751",
+      "pub_date": "2026-04-27T18:00:18+09:00",
+      "pub_date_utc": "2026-04-27T09:00:18+00:00",
+      "description": "OKXが米国でBitGoのOES統合 海外暗号資産（仮想通貨）取引所OKXによる米国の機関投資家向けサービスに、暗号資産カストディ企業ビットゴー（BitGo）提供のオフエクスチェンジ決済（Off-Exchange Set",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "OKXが米国でBitGoのOES統合 海外暗号資産（仮想通貨）取引所OKXによる米国の機関投資家向けサービスに、暗号資産カストディ企業ビットゴー（BitGo）提供のオフエクスチェンジ決済（Off-Exchange Set",
+      "category": "ビジネス",
+      "main_entities": [
+        "OKX"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "メガイーサ、「MEGA」のTGEを4/30実施へ、10アプリのKPI達成で",
+      "link": "https://www.neweconomy.jp/posts/568754",
+      "pub_date": "2026-04-27T17:53:02+09:00",
+      "pub_date_utc": "2026-04-27T08:53:02+00:00",
+      "description": "MEGAのTGEが4/30実施へ イーサリアム（Ethereum）レイヤー2ブロックチェーン「メガイーサ（MegaETH）」のネイティブトークン「MEGA」のTGE（トークン生成イベント）が、4月30日に実施される予定だ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MEGAのTGEが4/30実施へ イーサリアム（Ethereum）レイヤー2ブロックチェーン「メガイーサ（MegaETH）」のネイティブトークン「MEGA」のTGE（トークン生成イベント）が、4月30日に実施される予定だ",
+      "category": "Blockchain",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施",
+      "link": "https://www.nadanews.com/346463/",
+      "pub_date": "2026-04-27T17:33:07+09:00",
+      "pub_date_utc": "2026-04-27T08:33:07+00:00",
+      "description": "ビットバンク（bitbank）は27日、丸井グループのカード会社であるエポスカードと提携したクレジットカード「EPOS CRYPTOカード for bitban The post 最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットバンク（bitbank）は27日、丸井グループのカード会社であるエポスカードと提携したクレジットカード「EPOS CRYPTOカード for bitban The post 最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "bitbank"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文",
+      "link": "https://www.nadanews.com/346462/",
+      "pub_date": "2026-04-27T17:20:00+09:00",
+      "pub_date_utc": "2026-04-27T08:20:00+00:00",
+      "description": "ロンドン・ビジネス・スクールとイェール大学の研究チームが、予測市場の精度の源泉に関する通説を覆す論文を発表した。予測市場プラットフォームが事象を正確に予測できる The post 予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ロンドン・ビジネス・スクールとイェール大学の研究チームが、予測市場の精度の源泉に関する通説を覆す論文を発表した。予測市場プラットフォームが事象を正確に予測できる The post 予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "リップルと韓国Kバンク、海外送金のオンチェーン送金実証で提携",
+      "link": "https://coinpost.jp/?p=705311",
+      "pub_date": "2026-04-27T16:12:41+09:00",
+      "pub_date_utc": "2026-04-27T07:12:41+00:00",
+      "description": "韓国のインターネット銀行Kバンクがリップルと提携し、UAEとタイ向けオンチェーン送金の技術検証を開始。ブロックチェーンを活用した海外送金の速度・コスト改善を段階的に検証する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "韓国のインターネット銀行Kバンクがリップルと提携し、UAEとタイ向けオンチェーン送金の技術検証を開始。ブロックチェーンを活用した海外送金の速度・コスト改善を段階的に検証する。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ウズベキスタン、大統領決定でマイニング特区設立。電力制限撤廃と長期免税",
+      "link": "https://www.neweconomy.jp/posts/568656",
+      "pub_date": "2026-04-27T15:48:02+09:00",
+      "pub_date_utc": "2026-04-27T06:48:02+00:00",
+      "description": "税免除は2035年まで ウズベキスタン共和国のシャフカット・ミルジヨエフ（Shavkat Mirziyoyev）大統領が、「ベスカラ・マイニング・バレー（Besqala Mining Valley）」と呼ばれる特別暗号資",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "税免除は2035年まで ウズベキスタン共和国のシャフカット・ミルジヨエフ（Shavkat Mirziyoyev）大統領が、「ベスカラ・マイニング・バレー（Besqala Mining Valley）」と呼ばれる特別暗号資",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "モルガンスタンレー、ステーブルコイン準備資産向けMMFローンチ。GENIUS法の対応設計で",
+      "link": "https://www.neweconomy.jp/posts/568684",
+      "pub_date": "2026-04-27T15:37:55+09:00",
+      "pub_date_utc": "2026-04-27T06:37:55+00:00",
+      "description": "MSIMがステーブルコイン準備資産MMFローンチ 米大手金融機関モルガン・スタンレー（Morgan Stanley）の資産運用部門モルガン・スタンレー・インベストメント・マネジメント（Morgan Stanley Inv",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MSIMがステーブルコイン準備資産MMFローンチ 米大手金融機関モルガン・スタンレー（Morgan Stanley）の資産運用部門モルガン・スタンレー・インベストメント・マネジメント（Morgan Stanley Inv",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Morgan Stanley"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "ビットコイン上昇は先物主導、現物需要は依然低迷＝CryptoQuant",
+      "link": "https://coinpost.jp/?p=705296",
+      "pub_date": "2026-04-27T15:12:16+09:00",
+      "pub_date_utc": "2026-04-27T06:12:16+00:00",
+      "description": "CryptoQuantのCEOキ・ヤング・ジュ氏が、ビットコインの現在の上昇は先物主導であり、オンチェーン実需はネットマイナスが続くと指摘。弱気相場終焉にはスポットと先物の双方の回復が必要と述べた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "CryptoQuantのCEOキ・ヤング・ジュ氏が、ビットコインの現在の上昇は先物主導であり、オンチェーン実需はネットマイナスが続くと指摘。弱気相場終焉にはスポットと先物の双方の回復が必要と述べた。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "米CFTC、予測市場規制巡りNY州を提訴。コインベースとジェミナイ訴訟で権限侵害主張",
+      "link": "https://www.neweconomy.jp/posts/568646",
+      "pub_date": "2026-04-27T14:50:29+09:00",
+      "pub_date_utc": "2026-04-27T05:50:29+00:00",
+      "description": "米CFTCが予測市場規制巡りNY州を提訴 米商品先物取引委員会（CFTC）が、米ニューヨーク州を4月24日に提訴した。州がコインベース・ファイナンシャル・マーケッツ（Coinbase Financial Markets）",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "米CFTCが予測市場規制巡りNY州を提訴 米商品先物取引委員会（CFTC）が、米ニューヨーク州を4月24日に提訴した。州がコインベース・ファイナンシャル・マーケッツ（Coinbase Financial Markets）",
+      "category": "規制・法律",
+      "main_entities": [
+        "Coinbase",
+        "Gemini",
+        "CFTC"
+      ],
+      "related_entities": [
+        "Base",
+        "ARK Invest"
+      ],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "イーサリアム財団、1万ETHをOTCでビットマインに売却。アンステーキング手続きも実施か",
+      "link": "https://www.neweconomy.jp/posts/568638",
+      "pub_date": "2026-04-27T14:25:19+09:00",
+      "pub_date_utc": "2026-04-27T05:25:19+00:00",
+      "description": "イーサリアム財団がBitMineに1万ETH売却 イーサリアム財団（Ethereum Foundation）が、ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "イーサリアム財団がBitMineに1万ETH売却 イーサリアム財団（Ethereum Foundation）が、ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "アプトス、機密性機能「Confidential APT」導入",
+      "link": "https://www.neweconomy.jp/posts/568628",
+      "pub_date": "2026-04-27T14:19:49+09:00",
+      "pub_date_utc": "2026-04-27T05:19:49+00:00",
+      "description": "アプトスのAPTで「透明性と機密性」の両立模索 レイヤー1ブロックチェーン「アプトス（Aptos）」が、ネイティブトークン「APT」に機密性機能を付与する提案「AIP-143（Enable APT for Confide",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "アプトスのAPTで「透明性と機密性」の両立模索 レイヤー1ブロックチェーン「アプトス（Aptos）」が、ネイティブトークン「APT」に機密性機能を付与する提案「AIP-143（Enable APT for Confide",
+      "category": "ビジネス",
+      "main_entities": [
+        "Aptos"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "国内初、仮想通貨取引所残高から引き落とし可能なクレカ誕生　ビットバンクとエポスカードが連携",
+      "link": "https://coinpost.jp/?p=705245",
+      "pub_date": "2026-04-27T11:58:19+09:00",
+      "pub_date_utc": "2026-04-27T02:58:19+00:00",
+      "description": "ビットバンクとエポスカードが業務提携し、bitbank口座の仮想通貨でカード代金を支払える国内初のクレジットカード「EPOS CRYPTOカード for bitbank」を2026年4月27日より発行開始。",
+      "category_raw": "AD",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットバンクとエポスカードが業務提携し、bitbank口座の仮想通貨でカード代金を支払える国内初のクレジットカード「EPOS CRYPTOカード for bitbank」を2026年4月27日より発行開始。",
+      "category": "ビジネス",
+      "main_entities": [
+        "bitbank"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
+      "title": "米CFTCがニューヨーク州を提訴　予測市場の管轄権限で攻勢強める",
+      "link": "https://coinpost.jp/?p=705220",
+      "pub_date": "2026-04-27T11:28:15+09:00",
+      "pub_date_utc": "2026-04-27T02:28:15+00:00",
+      "description": "米商品先物取引委員会が予測市場の管轄権めぐりニューヨーク州を提訴した。訴訟を起こしたのは4州目となった。、37州の司法長官は州側を支持しており管轄権争いが激化している。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米商品先物取引委員会が予測市場の管轄権めぐりニューヨーク州を提訴した。訴訟を起こしたのは4州目となった。、37州の司法長官は州側を支持しており管轄権争いが激化している。",
+      "category": "規制・法律",
+      "main_entities": [
+        "CFTC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-28T10:55:07.554183+09:00"
+    },
+    {
       "title": "予測市場ポリマーケット、日本を利用制限対象に　金融庁は慎重姿勢",
       "link": "https://coinpost.jp/?p=705199",
       "pub_date": "2026-04-27T09:49:57+09:00",
@@ -3345,8 +3920,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-04-27T10:47:20.519590+09:00",
-  "total_count": 187,
+  "last_updated": "2026-04-28T10:55:07.554183+09:00",
+  "total_count": 219,
   "sources": [
     "NADA NEWS",
     "CoinPost",
