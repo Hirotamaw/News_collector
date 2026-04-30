@@ -1,6 +1,554 @@
 {
   "articles": [
     {
+      "title": "ビットコイン一時7.5万ドル割れ、FOMC利下げ期待後退とDeFiハッキング警戒が重荷に｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=705904",
+      "pub_date": "2026-04-30T10:34:26+09:00",
+      "pub_date_utc": "2026-04-30T01:34:26+00:00",
+      "description": "仮想通貨ビットコインは30日、米連邦公開市場委員会（FOMC）の結果を受け一時7万5,000ドルを8日ぶりに下回った。今回のFOMCでは、3会合連続で政策金利が据え置かれた。市場予想通りであったが、声明文の緩和的な内容に対して反対票が複数入ったことで市場では当面の利下げ見送りが意識されている。",
+      "category_raw": "市況・解説",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "仮想通貨ビットコインは30日、米連邦公開市場委員会（FOMC）の結果を受け一時7万5,000ドルを8日ぶりに下回った。今回のFOMCでは、3会合連続で政策金利が据え置かれた。市場予想通りであったが、声明文の緩和的な内容に対して反対票が複数入ったことで市場では当面の利下げ見送りが意識されている。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "ビザ、ステーブルコイン決済網に5ブロックチェーン追加　ベースやカントンなど対象",
+      "link": "https://coinpost.jp/?p=705918",
+      "pub_date": "2026-04-30T10:25:34+09:00",
+      "pub_date_utc": "2026-04-30T01:25:34+00:00",
+      "description": "ビザは、ステーブルコインの国際決済のパイロットプログラムで新たに5個のブロックチェーンに対応すると発表。マルチチェーンの決済機能を拡大して、選択肢を増加させる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビザは、ステーブルコインの国際決済のパイロットプログラムで新たに5個のブロックチェーンに対応すると発表。マルチチェーンの決済機能を拡大して、選択肢を増加させる。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Visa"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "スウェットコイン、数百万ドル規模のハッキング被害阻止　迅速にユーザー資金復旧",
+      "link": "https://coinpost.jp/?p=705909",
+      "pub_date": "2026-04-30T10:02:57+09:00",
+      "pub_date_utc": "2026-04-30T01:02:57+00:00",
+      "description": "NEARプロトコル上の仮想通貨プロジェクト・スウェットコイン（SWEAT）が大規模ハッキング被害を阻止。約5.6億円相当の資産が狙われたが、迅速対応で全ユーザー資金を復旧した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "NEARプロトコル上の仮想通貨プロジェクト・スウェットコイン（SWEAT）が大規模ハッキング被害を阻止。約5.6億円相当の資産が狙われたが、迅速対応で全ユーザー資金を復旧した。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Near Protocol"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "Aftermath Finance、約1.8億円のエクスプロイトから全額補填へ　Mysten LabsとSui財団が支援",
+      "link": "https://coinpost.jp/?p=705923",
+      "pub_date": "2026-04-30T10:00:42+09:00",
+      "pub_date_utc": "2026-04-30T01:00:42+00:00",
+      "description": "Suiチェーン上のDeFiプロトコル「Aftermath Finance」が手数料ロジックの欠陥を突かれ約114万ドルのエクスプロイト被害。Mysten LabsとSui財団の支援で全額補填が実現した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "Suiチェーン上のDeFiプロトコル「Aftermath Finance」が手数料ロジックの欠陥を突かれ約114万ドルのエクスプロイト被害。Mysten LabsとSui財団の支援で全額補填が実現した。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "米ホワイトハウス、アンソロピックのAIモデル「ミトス」の政府導入を準備",
+      "link": "https://coinpost.jp/?p=705903",
+      "pub_date": "2026-04-30T09:34:14+09:00",
+      "pub_date_utc": "2026-04-30T00:34:14+00:00",
+      "description": "米トランプ政権が国防総省の制限を回避し、アンソロピック社の高度AI「ミトス」の政府導入を準備中。NSA（国家安全保障局）での実運用や財務省による金融機関との連携が進む一方、DeFi領域ではハッキングで巨額の流出が発生するなど、AIサイバー防御を巡る動きが急加速している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米トランプ政権が国防総省の制限を回避し、アンソロピック社の高度AI「ミトス」の政府導入を準備中。NSA（国家安全保障局）での実運用や財務省による金融機関との連携が進む一方、DeFi領域ではハッキングで巨額の流出が発生するなど、AIサイバー防御を巡る動きが急加速している。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "ホワイトハウス"
+      ],
+      "related_entities": [
+        "財務省"
+      ],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "大手仮想通貨取引所OKX、AIエージェント向け商取引プロトコル「APP」を発表",
+      "link": "https://coinpost.jp/?p=705880",
+      "pub_date": "2026-04-30T08:25:34+09:00",
+      "pub_date_utc": "2026-04-29T23:25:34+00:00",
+      "description": "OKXはAIエージェント間の自律的な商取引を可能にするオープンスタンダード「APP」をローンチ。決済だけでなく、見積もり作成やエスクロー機能を含む全商取引サイクルを自動化する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "OKXはAIエージェント間の自律的な商取引を可能にするオープンスタンダード「APP」をローンチ。決済だけでなく、見積もり作成やエスクロー機能を含む全商取引サイクルを自動化する。",
+      "category": "ビジネス",
+      "main_entities": [
+        "OKX"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "ストラテジー社のビットコイン購入は継続可能か、ビットワイズ幹部が資金調達見通しを分析",
+      "link": "https://coinpost.jp/?p=705895",
+      "pub_date": "2026-04-30T08:15:18+09:00",
+      "pub_date_utc": "2026-04-29T23:15:18+00:00",
+      "description": "ビットワイズの最高投資責任者は、2026年2月以降の仮想通貨ビットコインの価格上昇はストラテジー社による購入が主因であるとの見方を示した。今後の購入継続見通しを分析している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットワイズの最高投資責任者は、2026年2月以降の仮想通貨ビットコインの価格上昇はストラテジー社による購入が主因であるとの見方を示した。今後の購入継続見通しを分析している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "金融政策の信認リスクとビットコイン──FOMC後に見えた新しい支配要因【エックスウィン】",
+      "link": "https://www.nadanews.com/346816/",
+      "pub_date": "2026-04-30T07:50:49+09:00",
+      "pub_date_utc": "2026-04-29T22:50:49+00:00",
+      "description": "● FOMCは据え置きも「インフレ高止まり」を強調、利下げ期待は後退● 記者会見ではFRBの独立性を巡る質問が集中、市場の関心が変化● 流動性制約と政策の信認リ The post 金融政策の信認リスクとビットコイン──FOMC後に見えた新しい支配要因【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● FOMCは据え置きも「インフレ高止まり」を強調、利下げ期待は後退● 記者会見ではFRBの独立性を巡る質問が集中、市場の関心が変化● 流動性制約と政策の信認リ The post 金融政策の信認リスクとビットコイン──FOMC後に見えた新しい支配要因【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [
+        "FRB"
+      ],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "テザー、トゥエンティワン・キャピタルに合併提案　BTC上場企業へ",
+      "link": "https://coinpost.jp/?p=705881",
+      "pub_date": "2026-04-30T07:40:36+09:00",
+      "pub_date_utc": "2026-04-29T22:40:36+00:00",
+      "description": "テザー・インベストメンツが29日、ビットコインDAT企業トゥエンティワン・キャピタルとストライク、エレクトロン・エナジーの合併を提案した。実現すればBTC保有・採掘・金融サービスを一体化した上場企業として、ストラテジーに次ぐ規模の企業が誕生か。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "テザー・インベストメンツが29日、ビットコインDAT企業トゥエンティワン・キャピタルとストライク、エレクトロン・エナジーの合併を提案した。実現すればBTC保有・採掘・金融サービスを一体化した上場企業として、ストラテジーに次ぐ規模の企業が誕生か。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "大多数の仮想通貨投資家が「ビットコインは割安」と判断：コインベース調査",
+      "link": "https://cointelegraph.jp/news/more-than-70-of-institutions-and-non-institutions-respondents-see-bitcoin-as-undervalued-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T07:30:25+09:00",
+      "pub_date_utc": "2026-04-29T22:30:25+00:00",
+      "description": "コインベースの調査結果とオンチェーンデータは、ビットコインが割安であり、弱気相場の最終段階にあることを示唆している",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "コインベースの調査結果とオンチェーンデータは、ビットコインが割安であり、弱気相場の最終段階にあることを示唆している",
+      "category": "マーケット",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "売りが加速もポジティブな兆候　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+      "link": "https://cointelegraph.jp/news/price-predictions-429-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T07:22:25+09:00",
+      "pub_date_utc": "2026-04-29T22:22:25+00:00",
+      "description": "今週のFOMCに向けてビットコインの売りが加速したが、チャート上ではBTCおよびアルトコインにいくつかのポジティブな兆候が見られる。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "今週のFOMCに向けてビットコインの売りが加速したが、チャート上ではBTCおよびアルトコインにいくつかのポジティブな兆候が見られる。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "FRBが金利据え置き、中東の「不確実性」を理由にビットコインの回復が停滞",
+      "link": "https://cointelegraph.jp/news/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T07:17:15+09:00",
+      "pub_date_utc": "2026-04-29T22:17:15+00:00",
+      "description": "FOMC議事要旨で米連邦準備制度理事会（FRB）が金利据え置きを決定し、インフレとイランでの戦争に対する懸念を表明したことを受け、ビットコインは7万5,000ドルを下回った。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "FOMC議事要旨で米連邦準備制度理事会（FRB）が金利据え置きを決定し、インフレとイランでの戦争に対する懸念を表明したことを受け、ビットコインは7万5,000ドルを下回った。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "FRB"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "アンドレ・クロニエ氏、サーキットブレーカーの議論の中で「DeFiはもはやDeFiではない」と発言",
+      "link": "https://cointelegraph.jp/news/andre-cronje-says-defi-is-no-longer-defi-as-builders-debate-circuit-breakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T07:06:16+09:00",
+      "pub_date_utc": "2026-04-29T22:06:16+00:00",
+      "description": "Flying Tulipのアンドレ・クロニエ氏は、サーキットブレーカーが異常な資金流出時の対応時間を確保できると述べる一方、Curveのマイケル・エゴロフ氏は、それが新たな人的脆弱性を生む可能性があると警告している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Flying Tulipのアンドレ・クロニエ氏は、サーキットブレーカーが異常な資金流出時の対応時間を確保できると述べる一方、Curveのマイケル・エゴロフ氏は、それが新たな人的脆弱性を生む可能性があると警告している。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Curve Finance"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "Securitize、Computershareと提携──米国株のオンチェーン化へ大きな一歩",
+      "link": "https://www.nadanews.com/346812/",
+      "pub_date": "2026-04-30T07:00:00+09:00",
+      "pub_date_utc": "2026-04-29T22:00:00+00:00",
+      "description": "トークン化プラットフォームを手がけるSecuritize（セキュリタイズ）は、世界最大の証券名義書換代理人であるComputershare（コンピューターシェア The post Securitize、Computershareと提携──米国株のオンチェーン化へ大きな一歩 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Tokenization",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "トークン化プラットフォームを手がけるSecuritize（セキュリタイズ）は、世界最大の証券名義書換代理人であるComputershare（コンピューターシェア The post Securitize、Computershareと提携──米国株のオンチェーン化へ大きな一歩 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "米メタ、クリエイターへUSDC支払い開始　ソラナとポリゴン基盤を採用",
+      "link": "https://coinpost.jp/?p=705882",
+      "pub_date": "2026-04-30T06:50:38+09:00",
+      "pub_date_utc": "2026-04-29T21:50:38+00:00",
+      "description": "米メタがコロンビアとフィリピンのクリエイターを対象に、USDCによる報酬支払いを開始。ソラナおよびポリゴン基盤を採用し、決済プロバイダーとしてストライプを指名した。リブラの挫折から数年を経て、巨大SNSがステーブルコイン決済へ本格的に再参入。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米メタがコロンビアとフィリピンのクリエイターを対象に、USDCによる報酬支払いを開始。ソラナおよびポリゴン基盤を採用し、決済プロバイダーとしてストライプを指名した。リブラの挫折から数年を経て、巨大SNSがステーブルコイン決済へ本格的に再参入。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Solana Foundation",
+        "Polygon",
+        "Circle"
+      ],
+      "related_entities": [
+        "Meta"
+      ],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "Visa、ステーブルコイン決済パイロットに5つのブロックチェーンを追加──年換算処理額は1兆円超",
+      "link": "https://www.nadanews.com/346810/",
+      "pub_date": "2026-04-30T06:30:00+09:00",
+      "pub_date_utc": "2026-04-29T21:30:00+00:00",
+      "description": "Visa（ビザ）は、グローバルなステーブルコイン決済パイロットに新たに5つのブロックチェーンを追加すると発表した。これにより、発行会社や加盟店契約会社がビザネッ The post Visa、ステーブルコイン決済パイロットに5つのブロックチェーンを追加──年換算処理額は1兆円超 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Visa（ビザ）は、グローバルなステーブルコイン決済パイロットに新たに5つのブロックチェーンを追加すると発表した。これにより、発行会社や加盟店契約会社がビザネッ The post Visa、ステーブルコイン決済パイロットに5つのブロックチェーンを追加──年換算処理額は1兆円超 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Visa"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "米ブリッシュ、リップルプライム顧客にBTCオプション直接アクセス提供へ",
+      "link": "https://coinpost.jp/?p=705883",
+      "pub_date": "2026-04-30T06:27:32+09:00",
+      "pub_date_utc": "2026-04-29T21:27:32+00:00",
+      "description": "機関投資家向け仮想通貨取引所ブリッシュが4月29日、リップルの機関向けプライムブローカー「リップル・プライム」との連携を拡充し、BTCオプション取引へのアクセスを提供すると発表した。RLUSDを担保に利用でき、追加KYC不要で即時取引が可能だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "機関投資家向け仮想通貨取引所ブリッシュが4月29日、リップルの機関向けプライムブローカー「リップル・プライム」との連携を拡充し、BTCオプション取引へのアクセスを提供すると発表した。RLUSDを担保に利用でき、追加KYC不要で即時取引が可能だ。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "Meta、クリエイター報酬をUSDCで受け取れる新オプションを提供──SolanaとPolygonに対応",
+      "link": "https://www.nadanews.com/346808/",
+      "pub_date": "2026-04-30T06:00:00+09:00",
+      "pub_date_utc": "2026-04-29T21:00:00+00:00",
+      "description": "ソーシャルメディア企業Meta（メタ）は、一部のクリエイターに対し、報酬をステーブルコインのUSDコイン（USDC）で受け取れる新たな支払いオプションを提供し始 The post Meta、クリエイター報酬をUSDCで受け取れる新オプションを提供──SolanaとPolygonに対応 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ソーシャルメディア企業Meta（メタ）は、一部のクリエイターに対し、報酬をステーブルコインのUSDコイン（USDC）で受け取れる新たな支払いオプションを提供し始 The post Meta、クリエイター報酬をUSDCで受け取れる新オプションを提供──SolanaとPolygonに対応 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Solana Foundation",
+        "Polygon",
+        "Circle"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Meta"
+      ],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "著名投資家チューダー・ジョーンズ、ビットコインを「最高のインフレヘッジ」と評価",
+      "link": "https://coinpost.jp/?p=705884",
+      "pub_date": "2026-04-30T05:50:44+09:00",
+      "pub_date_utc": "2026-04-29T20:50:44+00:00",
+      "description": "著名マクロ投資家のポール・チューダー・ジョーンズ氏が、ビットコインの希少性を理由に金を上回るインフレヘッジ手段であると評価。ITバブルに酷似する現在の市場環境とAIベンダーファイナンスへの警戒感も示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "著名マクロ投資家のポール・チューダー・ジョーンズ氏が、ビットコインの希少性を理由に金を上回るインフレヘッジ手段であると評価。ITバブルに酷似する現在の市場環境とAIベンダーファイナンスへの警戒感も示した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "米国初の予測市場ETFが来週にも上場へ、中間選挙と大統領選に連動する6本を設定",
+      "link": "https://coinpost.jp/?p=705885",
+      "pub_date": "2026-04-30T05:35:46+09:00",
+      "pub_date_utc": "2026-04-29T20:35:46+00:00",
+      "description": "ブルームバーグのETFアナリストが米ラウンドヒルの6本の予測市場ETFが5月5日に上場する見通しを示した。米国の選挙結果に連動する初のETFで、グラナイトシェアーズやビットワイズも同時期の上場を目指している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ブルームバーグのETFアナリストが米ラウンドヒルの6本の予測市場ETFが5月5日に上場する見通しを示した。米国の選挙結果に連動する初のETFで、グラナイトシェアーズやビットワイズも同時期の上場を目指している。",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "チェコ中銀総裁、ビットコイン1%保有の有用性を分析　準備金多様化を主張",
+      "link": "https://coinpost.jp/?p=705866",
+      "pub_date": "2026-04-30T05:00:21+09:00",
+      "pub_date_utc": "2026-04-29T20:00:21+00:00",
+      "description": "チェコ国立銀行のアレシュ・ミフル総裁がビットコイン2026で講演し、準備金の1%をBTCに充当するとリターンが向上しリスクはほぼ不変との内部分析を公表した。同行は2025年11月からBTC試験ポートフォリオを運用中だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "チェコ国立銀行のアレシュ・ミフル総裁がビットコイン2026で講演し、準備金の1%をBTCに充当するとリターンが向上しリスクはほぼ不変との内部分析を公表した。同行は2025年11月からBTC試験ポートフォリオを運用中だ。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "約1万9000のバリデーター減少でもETHステーキング残高増──Bitmine、年400億円超の収益見通し【価格分析】",
+      "link": "https://www.nadanews.com/346788/",
+      "pub_date": "2026-04-29T20:40:32+09:00",
+      "pub_date_utc": "2026-04-29T11:40:32+00:00",
+      "description": "・ビットマイン（Bitmine）は現在、イーサリアム（ETH）供給量の4.2％超を管理しており、年間で推定2億5,500万ドルのステーキング収益を生み出す見通し The post 約1万9000のバリデーター減少でもETHステーキング残高増──Bitmine、年400億円超の収益見通し【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・ビットマイン（Bitmine）は現在、イーサリアム（ETH）供給量の4.2％超を管理しており、年間で推定2億5,500万ドルのステーキング収益を生み出す見通し The post 約1万9000のバリデーター減少でもETHステーキング残高増──Bitmine、年400億円超の収益見通し【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Blockchain",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "仮想通貨業界で相次ぐプロジェクト閉鎖　資金難と構造的課題が露呈",
+      "link": "https://cointelegraph.jp/news/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-29T20:07:45+09:00",
+      "pub_date_utc": "2026-04-29T11:07:45+00:00",
+      "description": "今年、仮想通貨業界では取引プラットフォームから分析ツールまで、幅広いプロジェクトで閉鎖の波が広がっている。トークンによる資金調達手段の弱体化や再建手段の選択肢が限られていることが影響している。",
+      "category_raw": "Features",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "今年、仮想通貨業界では取引プラットフォームから分析ツールまで、幅広いプロジェクトで閉鎖の波が広がっている。トークンによる資金調達手段の弱体化や再建手段の選択肢が限られていることが影響している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "アプトス、プライバシーコイン「Confidential APT」を導入　透明性と秘匿性の両立へ",
+      "link": "https://cointelegraph.jp/news/aptos-says-its-new-privacy-coin-prevents-wallet-profiling-targeted-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-29T19:44:08+09:00",
+      "pub_date_utc": "2026-04-29T10:44:08+00:00",
+      "description": "アプトス・ラボの創業エンジニアであるシェリー・シャオ氏は、アプトスが新たに導入したプライバシーコインが、ユーザーのプライバシー保護とコンプライアンスのための透明性という長年のトレードオフを解消できる可能性があると述べた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "アプトス・ラボの創業エンジニアであるシェリー・シャオ氏は、アプトスが新たに導入したプライバシーコインが、ユーザーのプライバシー保護とコンプライアンスのための透明性という長年のトレードオフを解消できる可能性があると述べた。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Aptos"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "FRB新議長就任でビットコイン調整か　「就任後は下げ」の過去パターンに警戒",
+      "link": "https://cointelegraph.jp/news/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-29T19:23:35+09:00",
+      "pub_date_utc": "2026-04-29T10:23:35+00:00",
+      "description": "ビットコイン（BTC）は、来月に予定されている米連邦準備制度理事会（FRB）新議長就任により、「数カ月にわたる下落」に直面する可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は、来月に予定されている米連邦準備制度理事会（FRB）新議長就任により、「数カ月にわたる下落」に直面する可能性がある。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "FRB"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "SBI証券・大和証券ら6社、「DCJPY」活用のデジタル証券DVP決済の検証完了、国内初",
+      "link": "https://www.neweconomy.jp/posts/569492",
+      "pub_date": "2026-04-29T18:38:50+09:00",
+      "pub_date_utc": "2026-04-29T09:38:50+00:00",
+      "description": "DCJPYを使ったST決済の実発行検証が完了 SBI証券、大和証券、SBI新生銀行、ブーストリー（BOOSTRY）、大阪デジタルエクスチェンジ（ODX）、ディーカレットDCPの6社が、トークン化預金「DCJPY」を用いた",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "DCJPYを使ったST決済の実発行検証が完了 SBI証券、大和証券、SBI新生銀行、ブーストリー（BOOSTRY）、大阪デジタルエクスチェンジ（ODX）、ディーカレットDCPの6社が、トークン化預金「DCJPY」を用いた",
+      "category": "Tokenized Deposit",
+      "main_entities": [
+        "SBI Holdings"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "チリーズ、ファントークンをソラナとベースに展開へ",
+      "link": "https://www.neweconomy.jp/posts/569470",
+      "pub_date": "2026-04-29T16:37:04+09:00",
+      "pub_date_utc": "2026-04-29T07:37:04+00:00",
+      "description": "ChilizのFan TokensがSolanaとBase展開へ スポーツ・エンターテインメント業界向けブロックチェーン企業大手のチリーズグループ（Chiliz Group）が、同社のデジタルスポーツ資産「ファントークン",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ChilizのFan TokensがSolanaとBase展開へ スポーツ・エンターテインメント業界向けブロックチェーン企業大手のチリーズグループ（Chiliz Group）が、同社のデジタルスポーツ資産「ファントークン",
+      "category": "ビジネス",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [
+        "Base"
+      ],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "ライトコインのゼロデイ脆弱性に攻撃、NEAR Intentsで9600万円相当がリスクに",
+      "link": "https://coinpost.jp/?p=705732",
+      "pub_date": "2026-04-29T14:30:22+09:00",
+      "pub_date_utc": "2026-04-29T05:30:22+00:00",
+      "description": "仮想通貨ライトコインのゼロデイ脆弱性が攻撃された。チェーン再編が行われたが、NEAR Intentsで約60万ドルが損失の可能性にさらされている。開発者が詳細を解説した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "仮想通貨ライトコインのゼロデイ脆弱性が攻撃された。チェーン再編が行われたが、NEAR Intentsで約60万ドルが損失の可能性にさらされている。開発者が詳細を解説した。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Near Protocol"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "「レイヤー2は終わった」のか──ヴィタリックのL2懐疑論に、ライトコイン創設者が見た勝機【価格分析】",
+      "link": "https://www.nadanews.com/346775/",
+      "pub_date": "2026-04-29T13:23:27+09:00",
+      "pub_date_utc": "2026-04-29T04:23:27+00:00",
+      "description": "・ライトコイン（LTC）のドミナンスは過去2年で31%低下した。ビットコイン（BTC）のドミナンス拡大に加え、現実資産（RWA）やAI関連トークンが市場シェアを The post 「レイヤー2は終わった」のか──ヴィタリックのL2懐疑論に、ライトコイン創設者が見た勝機【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・ライトコイン（LTC）のドミナンスは過去2年で31%低下した。ビットコイン（BTC）のドミナンス拡大に加え、現実資産（RWA）やAI関連トークンが市場シェアを The post 「レイヤー2は終わった」のか──ヴィタリックのL2懐疑論に、ライトコイン創設者が見た勝機【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Blockchain",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
+      "title": "【墨汁うまい氏寄稿】ライトコインのゼロデイバグは何が起きたのか？Reorgはなぜ必要なのかを理解する",
+      "link": "https://www.nadanews.com/346766/",
+      "pub_date": "2026-04-29T11:30:00+09:00",
+      "pub_date_utc": "2026-04-29T02:30:00+00:00",
+      "description": "暗号資産（仮想通貨）専業11年目の墨汁うまい（@bokujyuumai）です。ビットコインのフォーク（コピー）で、昔はデジタルシルバーと呼ばれたライトコイン（L The post 【墨汁うまい氏寄稿】ライトコインのゼロデイバグは何が起きたのか？Reorgはなぜ必要なのかを理解する first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）専業11年目の墨汁うまい（@bokujyuumai）です。ビットコインのフォーク（コピー）で、昔はデジタルシルバーと呼ばれたライトコイン（L The post 【墨汁うまい氏寄稿】ライトコインのゼロデイバグは何が起きたのか？Reorgはなぜ必要なのかを理解する first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-04-30T10:56:52.632581+09:00"
+    },
+    {
       "title": "Tether、BTCマイニング向け新型インフラを開発──モジュール型システムで効率と拡張性を強化",
       "link": "https://www.nadanews.com/346750/",
       "pub_date": "2026-04-29T09:30:00+09:00",
@@ -4458,8 +5006,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-04-29T10:57:19.464630+09:00",
-  "total_count": 250,
+  "last_updated": "2026-04-30T10:56:52.632581+09:00",
+  "total_count": 280,
   "sources": [
     "NADA NEWS",
     "CoinPost",
