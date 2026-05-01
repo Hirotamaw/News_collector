@@ -1,6 +1,884 @@
 {
   "articles": [
     {
+      "title": "コモンズブリッジ侵害で約1850万SYND不正流出か。SYND急落",
+      "link": "https://www.neweconomy.jp/posts/570349",
+      "pub_date": "2026-05-01T10:56:05+09:00",
+      "pub_date_utc": "2026-05-01T01:56:05+00:00",
+      "description": "Commonsブリッジ侵害で約1,850万SYND不正取得か イーサリアム（Ethereum）関連インフラを開発するシンジケート（Syndicate）が、同社開発のブリッジ「コモンズ（Commons）」において侵害の調査",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Commonsブリッジ侵害で約1,850万SYND不正取得か イーサリアム（Ethereum）関連インフラを開発するシンジケート（Syndicate）が、同社開発のブリッジ「コモンズ（Commons）」において侵害の調査",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "USDCで「うなぎ」と「家電」──SBI VCトレードとアプラス、大阪で店舗決済の実証実験",
+      "link": "https://www.nadanews.com/346974/",
+      "pub_date": "2026-05-01T10:54:07+09:00",
+      "pub_date_utc": "2026-05-01T01:54:07+00:00",
+      "description": "SBI VCトレードとアプラスは4月30日、米ドル建てステーブルコイン「USDC」を活用した店舗決済の実証実験を、2026年5月25日から29日までの5日間、大 The post USDCで「うなぎ」と「家電」──SBI VCトレードとアプラス、大阪で店舗決済の実証実験 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "SBI VCトレードとアプラスは4月30日、米ドル建てステーブルコイン「USDC」を活用した店舗決済の実証実験を、2026年5月25日から29日までの5日間、大 The post USDCで「うなぎ」と「家電」──SBI VCトレードとアプラス、大阪で店舗決済の実証実験 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "SBI VC Trade",
+        "Circle",
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "SBIホールディングス、ビットバンク子会社化に向けた資本業務提携協議へ",
+      "link": "https://coinpost.jp/?p=706300",
+      "pub_date": "2026-05-01T10:44:32+09:00",
+      "pub_date_utc": "2026-05-01T01:44:32+00:00",
+      "description": "SBIホールディングスがビットバンクの連結子会社化を目指し、資本業務提携に向けた協議を開始。4月のビットポイント合併に続く矢継ぎ早の再編で、国内暗号資産業界の勢力図が大きく動く。IPO準備やミクシィ出資など独立路線を歩んできたビットバンクの今後に注目。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "SBIホールディングスがビットバンクの連結子会社化を目指し、資本業務提携に向けた協議を開始。4月のビットポイント合併に続く矢継ぎ早の再編で、国内暗号資産業界の勢力図が大きく動く。IPO準備やミクシィ出資など独立路線を歩んできたビットバンクの今後に注目。",
+      "category": "ビジネス",
+      "main_entities": [
+        "bitbank",
+        "SBI Holdings"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "2026年4月は仮想通貨の不正流出件数が過去最高に、被害額は計980億円超",
+      "link": "https://coinpost.jp/?p=706267",
+      "pub_date": "2026-05-01T10:34:39+09:00",
+      "pub_date_utc": "2026-05-01T01:34:39+00:00",
+      "description": "DefiLlamaは、2026年4月は仮想通貨の不正流出件数が過去最も多かったと報告。ケルプDAOやドリフトプロトコルなどで盗難が多かったことを他の企業や有識者も指摘している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "DefiLlamaは、2026年4月は仮想通貨の不正流出件数が過去最も多かったと報告。ケルプDAOやドリフトプロトコルなどで盗難が多かったことを他の企業や有識者も指摘している。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "スシトップ、日本郵政不動産開催の五反田マルシェでNFT活用実証を2回実施",
+      "link": "https://www.neweconomy.jp/posts/570334",
+      "pub_date": "2026-05-01T10:26:45+09:00",
+      "pub_date_utc": "2026-05-01T01:26:45+00:00",
+      "description": "スシトップが五反田マルシェでNFT活用実証実施 NFTマーケティング支援のスシトップマーケティング（SUSHI TOP MARKETING：以下、スシトップ）が、日本郵政不動産開催の「五反田マルシェ」において、NFTを活",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "スシトップが五反田マルシェでNFT活用実証実施 NFTマーケティング支援のスシトップマーケティング（SUSHI TOP MARKETING：以下、スシトップ）が、日本郵政不動産開催の「五反田マルシェ」において、NFTを活",
+      "category": "NFT",
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "W3、AIエージェント対応の企業向け金融業務フロー制御プラットフォーム提供開始。アバランチ上で",
+      "link": "https://www.neweconomy.jp/posts/570332",
+      "pub_date": "2026-05-01T10:21:28+09:00",
+      "pub_date_utc": "2026-05-01T01:21:28+00:00",
+      "description": "W3がAI金融業務フロー制御基盤を提供開始 企業向け自律型金融基盤を手がけるW3.io（W3）が、レイヤー1ブロックチェーン「アバランチ（Avalanche）」上で、AI（人工知能）エージェントを活用した金融ワークフロー",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "W3がAI金融業務フロー制御基盤を提供開始 企業向け自律型金融基盤を手がけるW3.io（W3）が、レイヤー1ブロックチェーン「アバランチ（Avalanche）」上で、AI（人工知能）エージェントを活用した金融ワークフロー",
+      "category": "ビジネス",
+      "main_entities": [
+        "Avalanche"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ムーンペイ、機関投資家向け新事業立ち上げ。鍵管理ソドット買収で",
+      "link": "https://www.neweconomy.jp/posts/570324",
+      "pub_date": "2026-05-01T10:14:56+09:00",
+      "pub_date_utc": "2026-05-01T01:14:56+00:00",
+      "description": "MoonPayが機関投資家向け事業立ち上げ 暗号資産（仮想通貨）決済ネットワーク大手ムーンペイ（MoonPay）が、鍵管理インフラ企業ソドット（Sodot）の買収と、機関投資家向け新事業「ムーンペイ・インスティトゥーショ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MoonPayが機関投資家向け事業立ち上げ 暗号資産（仮想通貨）決済ネットワーク大手ムーンペイ（MoonPay）が、鍵管理インフラ企業ソドット（Sodot）の買収と、機関投資家向け新事業「ムーンペイ・インスティトゥーショ",
+      "category": "ビジネス",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [
+        "Polkadot"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "リップル、ドバイDIFC拠点を拡張。中東・アフリカ事業強化へ",
+      "link": "https://www.neweconomy.jp/posts/570319",
+      "pub_date": "2026-05-01T10:08:52+09:00",
+      "pub_date_utc": "2026-05-01T01:08:52+00:00",
+      "description": "Rippleが中東・アフリカ事業強化へ 米リップル（Ripple）が、ドバイ国際金融センター（DIFC）内に中東・アフリカ（MEA）地域の新本部を開設し、アラブ首長国連邦（UAE）での事業体制を拡張したと4月30日に発表",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Rippleが中東・アフリカ事業強化へ 米リップル（Ripple）が、ドバイ国際金融センター（DIFC）内に中東・アフリカ（MEA）地域の新本部を開設し、アラブ首長国連邦（UAE）での事業体制を拡張したと4月30日に発表",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ポリマーケット、チェイナリシスと提携　インサイダー取引など検知強化へ",
+      "link": "https://coinpost.jp/?p=706275",
+      "pub_date": "2026-05-01T10:00:41+09:00",
+      "pub_date_utc": "2026-05-01T01:00:41+00:00",
+      "description": "ポリマーケットがチェイナリシスと提携し、インサイダー取引検知を目的としたオンチェーン市場監視システムを導入。予測市場のコンプライアンス強化に向けた新たな業界標準の確立を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ポリマーケットがチェイナリシスと提携し、インサイダー取引検知を目的としたオンチェーン市場監視システムを導入。予測市場のコンプライアンス強化に向けた新たな業界標準の確立を目指す。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Chainalysis"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "4月のビットコイン上昇は投機が牽引、現物需要縮小で下落リスク＝クリプトクアント週次分析",
+      "link": "https://coinpost.jp/?p=706255",
+      "pub_date": "2026-05-01T09:34:39+09:00",
+      "pub_date_utc": "2026-05-01T00:34:39+00:00",
+      "description": "クリプトクアントのビットコイン市場週間レポートによると、4月のBTC上昇は先物主導で現物需要は縮小していた。これは2022年の弱気相場に先行していたパターンである。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "クリプトクアントのビットコイン市場週間レポートによると、4月のBTC上昇は先物主導で現物需要は縮小していた。これは2022年の弱気相場に先行していたパターンである。",
+      "category": "分析・レポート",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "暗号資産ETF、早ければ2027年にも解禁か──日本取引所グループCEO語る：報道",
+      "link": "https://www.nadanews.com/346962/",
+      "pub_date": "2026-05-01T09:14:28+09:00",
+      "pub_date_utc": "2026-05-01T00:14:28+00:00",
+      "description": "日本取引所グループ（JPX）で、暗号資産ETF（上場投資信託）が早ければ来年にも取引開始となる可能性があると、ブルームバーグが4月30日に報じた。 JPXの山道 The post 暗号資産ETF、早ければ2027年にも解禁か──日本取引所グループCEO語る：報道 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "日本取引所グループ（JPX）で、暗号資産ETF（上場投資信託）が早ければ来年にも取引開始となる可能性があると、ブルームバーグが4月30日に報じた。 JPXの山道 The post 暗号資産ETF、早ければ2027年にも解禁か──日本取引所グループCEO語る：報道 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "日本暗号資産ビジネス協会、ステーキング運営指針を策定＝日経報道",
+      "link": "https://coinpost.jp/?p=706227",
+      "pub_date": "2026-05-01T08:45:13+09:00",
+      "pub_date_utc": "2026-04-30T23:45:13+00:00",
+      "description": "日本経済新聞は、日本暗号資産ビジネス協会が仮想通貨のステーキング事業者向け運営指針を策定したと報じた。政府による金融商品取引法の改正や、日本取引所グループ（JPX）による仮想通貨ETF上場検討など、国内市場の法整備の動向である。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "日本経済新聞は、日本暗号資産ビジネス協会が仮想通貨のステーキング事業者向け運営指針を策定したと報じた。政府による金融商品取引法の改正や、日本取引所グループ（JPX）による仮想通貨ETF上場検討など、国内市場の法整備の動向である。",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "4月の上昇を読み解く──ビットコインを押し上げた“先物主導相場”の正体【エックスウィン】",
+      "link": "https://www.nadanews.com/346946/",
+      "pub_date": "2026-05-01T08:15:00+09:00",
+      "pub_date_utc": "2026-04-30T23:15:00+00:00",
+      "description": "● 今回の上昇は現物需要ではなく、先物ポジションの積み上げによって主導された● 「Spot vs Futures Demand」の乖離が拡大し、実需なきラリーが The post 4月の上昇を読み解く──ビットコインを押し上げた“先物主導相場”の正体【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● 今回の上昇は現物需要ではなく、先物ポジションの積み上げによって主導された● 「Spot vs Futures Demand」の乖離が拡大し、実需なきラリーが The post 4月の上昇を読み解く──ビットコインを押し上げた“先物主導相場”の正体【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "酒蔵からの「関与否定」相次ぎ──日本酒商標NFT「Sake World酒蔵投資」が事業終了",
+      "link": "https://www.nadanews.com/346952/",
+      "pub_date": "2026-05-01T07:54:55+09:00",
+      "pub_date_utc": "2026-04-30T22:54:55+00:00",
+      "description": "商標権の持分をNFTとして販売するプロジェクト「Sake World酒蔵投資」の提供を即日終了すると、運営元のリーフ・パブリケーションズが4月30日に発表した。 The post 酒蔵からの「関与否定」相次ぎ──日本酒商標NFT「Sake World酒蔵投資」が事業終了 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "商標権の持分をNFTとして販売するプロジェクト「Sake World酒蔵投資」の提供を即日終了すると、運営元のリーフ・パブリケーションズが4月30日に発表した。 The post 酒蔵からの「関与否定」相次ぎ──日本酒商標NFT「Sake World酒蔵投資」が事業終了 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "NFT",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ワサビ・プロトコルから約7.8億円が不正流出か、イーサリアムなど複数チェーンに影響",
+      "link": "https://coinpost.jp/?p=706242",
+      "pub_date": "2026-05-01T07:50:54+09:00",
+      "pub_date_utc": "2026-04-30T22:50:54+00:00",
+      "description": "仮想通貨トレーディングプロトコルのワサビ・プロトコルで不正流出が発覚。約7.8億円が流出したとみられ、イーサリアムなど複数チェーンに影響している模様だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "仮想通貨トレーディングプロトコルのワサビ・プロトコルで不正流出が発覚。約7.8億円が流出したとみられ、イーサリアムなど複数チェーンに影響している模様だ。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "米民主党議員、テザー社から米商務長官親族への融資を問題視",
+      "link": "https://coinpost.jp/?p=706229",
+      "pub_date": "2026-05-01T07:45:52+09:00",
+      "pub_date_utc": "2026-04-30T22:45:52+00:00",
+      "description": "ウォーレン米議員らは、ラトニック商務長官の親族が管理する信託に対し、テザー社が行った不透明な融資に関する調査書簡を送付した。長官就任に伴うカンター・フィッツジェラルド株式売却の資金提供の疑いや、今後の仮想通貨法案への影響など米政界の最新動向となっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ウォーレン米議員らは、ラトニック商務長官の親族が管理する信託に対し、テザー社が行った不透明な融資に関する調査書簡を送付した。長官就任に伴うカンター・フィッツジェラルド株式売却の資金提供の疑いや、今後の仮想通貨法案への影響など米政界の最新動向となっている。",
+      "category": "規制・法律",
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "米上院、議員による予測市場取引を即時禁止──インサイダー懸念受け全会一致で決議",
+      "link": "https://www.nadanews.com/346944/",
+      "pub_date": "2026-05-01T07:00:00+09:00",
+      "pub_date_utc": "2026-04-30T22:00:00+00:00",
+      "description": "米上院は4月30日、上院議員による予測市場での取引を禁止する決議を全会一致で可決した。これを受けて、上院議員が予測市場で取引することは即時に禁止される。 この決 The post 米上院、議員による予測市場取引を即時禁止──インサイダー懸念受け全会一致で決議 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "米上院は4月30日、上院議員による予測市場での取引を禁止する決議を全会一致で可決した。これを受けて、上院議員が予測市場で取引することは即時に禁止される。 この決 The post 米上院、議員による予測市場取引を即時禁止──インサイダー懸念受け全会一致で決議 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "日本取引所グループの山道CEO、ビットコインを含む仮想通貨ETFの上場検討を表明",
+      "link": "https://coinpost.jp/?p=706228",
+      "pub_date": "2026-05-01T06:50:41+09:00",
+      "pub_date_utc": "2026-04-30T21:50:41+00:00",
+      "description": "JPXグループの山道裕己CEOがビットコインを含む仮想通貨ETFの上場を検討していると表明した。規制整備が進めば早ければ来年にも実現する可能性があり、2028年の本格解禁に向けてSBIや野村などが商品開発を進めている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "JPXグループの山道裕己CEOがビットコインを含む仮想通貨ETFの上場を検討していると表明した。規制整備が進めば早ければ来年にも実現する可能性があり、2028年の本格解禁に向けてSBIや野村などが商品開発を進めている。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "野村ホールディングス"
+      ],
+      "related_entities": [
+        "SBI Holdings"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "4月の暗号資産ハッキング件数、過去最多に──DeFiでエクスプロイト相次ぐ",
+      "link": "https://www.nadanews.com/346942/",
+      "pub_date": "2026-05-01T06:30:00+09:00",
+      "pub_date_utc": "2026-04-30T21:30:00+00:00",
+      "description": "暗号資産（仮想通貨）業界で発生したハッキング件数は4月、過去最多に達した。DeFi LlamaはXへの投稿で、4月は「インシデント件数で見て、暗号資産史上最もハ The post 4月の暗号資産ハッキング件数、過去最多に──DeFiでエクスプロイト相次ぐ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Crime",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）業界で発生したハッキング件数は4月、過去最多に達した。DeFi LlamaはXへの投稿で、4月は「インシデント件数で見て、暗号資産史上最もハ The post 4月の暗号資産ハッキング件数、過去最多に──DeFiでエクスプロイト相次ぐ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "米上院が議員による予測市場での取引を禁止、即日発効",
+      "link": "https://coinpost.jp/?p=706230",
+      "pub_date": "2026-05-01T06:15:00+09:00",
+      "pub_date_utc": "2026-04-30T21:15:00+00:00",
+      "description": "米上院が5月1日、上院議員による予測市場での取引を禁止する決議案を全会一致で可決し即日発効した。インサイダー取引懸念を背景とした立法措置で、下院への拡大も議論される見通しだ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米上院が5月1日、上院議員による予測市場での取引を禁止する決議案を全会一致で可決し即日発効した。インサイダー取引懸念を背景とした立法措置で、下院への拡大も議論される見通しだ。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "Polymarket、Chainalysisと提携──オンチェーン市場監視でインサイダー取引対策を強化",
+      "link": "https://www.nadanews.com/346940/",
+      "pub_date": "2026-05-01T06:00:00+09:00",
+      "pub_date_utc": "2026-04-30T21:00:00+00:00",
+      "description": "予測市場大手のPolymarke（ポリマーケット）は、ブロックチェーンデータ分析企業Chainalysis（チェイナリシス）の協力のもと、オンチェーン取引の監視 The post Polymarket、Chainalysisと提携──オンチェーン市場監視でインサイダー取引対策を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "予測市場大手のPolymarke（ポリマーケット）は、ブロックチェーンデータ分析企業Chainalysis（チェイナリシス）の協力のもと、オンチェーン取引の監視 The post Polymarket、Chainalysisと提携──オンチェーン市場監視でインサイダー取引対策を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Chainalysis"
+      ],
+      "related_entities": [
+        "ARK Invest",
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "米国政府、イラン関連の仮想通貨約5億ドル押収　経済圧力強化の一環",
+      "link": "https://cointelegraph.jp/news/us-seized-500m-in-iranian-crypto-assets-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T06:00:00+09:00",
+      "pub_date_utc": "2026-04-30T21:00:00+00:00",
+      "description": "米国はイランに対する包括的な経済圧力キャンペーンの一環として、約5億ドル相当の仮想通貨を押収した。スコット・ベッセント米財務長官が水曜日に明らかにした。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米国はイランに対する包括的な経済圧力キャンペーンの一環として、約5億ドル相当の仮想通貨を押収した。スコット・ベッセント米財務長官が水曜日に明らかにした。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "米財務省、780億円規模のイラン関連仮想通貨を押収　先週は550億円のUSDT凍結も",
+      "link": "https://coinpost.jp/?p=706231",
+      "pub_date": "2026-05-01T05:55:17+09:00",
+      "pub_date_utc": "2026-04-30T20:55:17+00:00",
+      "description": "米財務省のベッセント長官は4月29日、経済制裁作戦を通じて約5億ドルのイラン関連仮想通貨を押収したと明らかにした。イランによる仮想通貨を用いた制裁回避工作に対し、テザー社と連携した550億円規模のUSDT凍結など米政府は対抗措置を強化している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米財務省のベッセント長官は4月29日、経済制裁作戦を通じて約5億ドルのイラン関連仮想通貨を押収したと明らかにした。イランによる仮想通貨を用いた制裁回避工作に対し、テザー社と連携した550億円規模のUSDT凍結など米政府は対抗措置を強化している。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Tether",
+        "財務省",
+        "財務省（米国）"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "コインベース、ステーブルコイン信用ファンドをトークン化　スーパーステートと提携",
+      "link": "https://coinpost.jp/?p=706226",
+      "pub_date": "2026-05-01T05:40:07+09:00",
+      "pub_date_utc": "2026-04-30T20:40:07+00:00",
+      "description": "米コインベース・アセット・マネジメントがスーパーステートのFundOSを採用し、ステーブルコイン信用ファンドCUSHYのオンチェーン持分を2026年Q2に発行する予定だ。ソラナ・イーサリアム・ベースに対応し、DeFiでの担保利用も可能となる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米コインベース・アセット・マネジメントがスーパーステートのFundOSを採用し、ステーブルコイン信用ファンドCUSHYのオンチェーン持分を2026年Q2に発行する予定だ。ソラナ・イーサリアム・ベースに対応し、DeFiでの担保利用も可能となる。",
+      "category": "DeFi",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Solana Foundation"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "韓国クレジットカード大手がソラナ財団と提携、ステーブルコイン決済の実証実験を開始",
+      "link": "https://coinpost.jp/?p=706213",
+      "pub_date": "2026-05-01T05:00:25+09:00",
+      "pub_date_utc": "2026-04-30T20:00:25+00:00",
+      "description": "韓国大手クレジットカード会社の新韓カードがソラナ財団とMOUを締結し、ソラナのテストネットを活用したステーブルコイン決済の実証実験を開始。非カストディアル型ウォレットの安全性検証と独自DeFiサービス環境の構築も進める。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "韓国大手クレジットカード会社の新韓カードがソラナ財団とMOUを締結し、ソラナのテストネットを活用したステーブルコイン決済の実証実験を開始。非カストディアル型ウォレットの安全性検証と独自DeFiサービス環境の構築も進める。",
+      "category": "DeFi",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ビットコイン 7万6000ドル前後で攻防　7万5000ドルが重要なサポートに",
+      "link": "https://cointelegraph.jp/news/bitcoins-75k-cost-basis-cluster-emerges-as-key-support-zone-for-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T03:58:44+09:00",
+      "pub_date_utc": "2026-04-30T18:58:44+00:00",
+      "description": "ビットコイン（BTC）は現在7万6350ドルで取引されており、複数の主要投資家の取得コスト水準を上回っている。1〜3カ月保有者の平均取得価格は7万5620ドルであり、最近の買い手の多くが損益分岐点付近に位置する。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は現在7万6350ドルで取引されており、複数の主要投資家の取得コスト水準を上回っている。1〜3カ月保有者の平均取得価格は7万5620ドルであり、最近の買い手の多くが損益分岐点付近に位置する。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "イーサリアム 最大3000％上昇で6万ドル到達も　長期チャネル分析で強気予測＝トム・リー氏",
+      "link": "https://cointelegraph.jp/news/ethereum-bull-tom-lee-backs-3000-eth-upside-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T01:00:00+09:00",
+      "pub_date_utc": "2026-04-30T16:00:00+00:00",
+      "description": "ファンドストラット共同創業者のトム・リー氏は、イーサリアム（ETH）について強気見通しを示し、最大3000％の上昇で6万ドルに達する可能性があると主張した。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ファンドストラット共同創業者のトム・リー氏は、イーサリアム（ETH）について強気見通しを示し、最大3000％の上昇で6万ドルに達する可能性があると主張した。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ビットコイン対金チャートが強気シグナル　過去パターン再現なら1年で最大180％上昇",
+      "link": "https://cointelegraph.jp/news/gold-fractal-raises-bitcoins-odds-of-rising-180-in-a-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T00:30:00+09:00",
+      "pub_date_utc": "2026-04-30T15:30:00+00:00",
+      "description": "ビットコイン（BTC）は、対金チャートに見られる繰り返しパターンに基づき、今後12カ月で最大180％上昇する可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は、対金チャートに見られる繰り返しパターンに基づき、今後12カ月で最大180％上昇する可能性がある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ビットコイン 8万ドル突破できず失速　短期保有者の売却で上昇一服",
+      "link": "https://cointelegraph.jp/news/heres-why-bitcoin-analysts-say-btc-price-cant-take-out-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T00:05:00+09:00",
+      "pub_date_utc": "2026-04-30T15:05:00+00:00",
+      "description": "ビットコイン（BTC）は4月22日、6万ドル割れの安値から32％反発し、10週間ぶり高値の7万9500ドルに達した。しかし、その後は上昇局面での売却が進み、木曜日には7万6000ドルまで調整。8万ドルは依然として強固な上値抵抗となっている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は4月22日、6万ドル割れの安値から32％反発し、10週間ぶり高値の7万9500ドルに達した。しかし、その後は上昇局面での売却が進み、木曜日には7万6000ドルまで調整。8万ドルは依然として強固な上値抵抗となっている。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "【4/30話題】ゼータチェーンが攻撃受け一時停止、リミポ・ビットマイン・ストラテジーの追加購入、ビットコイン支援のMARA財団設立など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/570158",
+      "pub_date": "2026-04-30T22:18:11+09:00",
+      "pub_date_utc": "2026-04-30T13:18:11+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Apple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "Polymarket、日本展開準備か──暗号資産系インフルエンサー全力氏が参画",
+      "link": "https://www.nadanews.com/346935/",
+      "pub_date": "2026-04-30T21:53:46+09:00",
+      "pub_date_utc": "2026-04-30T12:53:46+00:00",
+      "description": "世界最大規模の予測市場プラットフォーム「Polymarket（ポリマーケット）」が、日本展開に向けた準備をしていることが30日、明らかになった。 暗号資産（仮想 The post Polymarket、日本展開準備か──暗号資産系インフルエンサー全力氏が参画 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "世界最大規模の予測市場プラットフォーム「Polymarket（ポリマーケット）」が、日本展開に向けた準備をしていることが30日、明らかになった。 暗号資産（仮想 The post Polymarket、日本展開準備か──暗号資産系インフルエンサー全力氏が参画 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "マトリックス法によるテクニカル分析（2026/4/30）調整は小幅か？大幅か？【楽天ウォレット】",
+      "link": "https://www.nadanews.com/346917/",
+      "pub_date": "2026-04-30T19:42:53+09:00",
+      "pub_date_utc": "2026-04-30T10:42:53+00:00",
+      "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル The post マトリックス法によるテクニカル分析（2026/4/30）調整は小幅か？大幅か？【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル The post マトリックス法によるテクニカル分析（2026/4/30）調整は小幅か？大幅か？【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "楽天ウォレット"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "Ripple、ドバイに新たな中東・アフリカ地域本社を開設",
+      "link": "https://www.nadanews.com/346916/",
+      "pub_date": "2026-04-30T19:30:00+09:00",
+      "pub_date_utc": "2026-04-30T10:30:00+00:00",
+      "description": "Ripple（リップル）は4月29日、アラブ首長国連邦（UAE）のドバイ国際金融センター（DIFC）内に中東・アフリカ（MEA）地域の新たな本社オフィスを開設し The post Ripple、ドバイに新たな中東・アフリカ地域本社を開設 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ripple（リップル）は4月29日、アラブ首長国連邦（UAE）のドバイ国際金融センター（DIFC）内に中東・アフリカ（MEA）地域の新たな本社オフィスを開設し The post Ripple、ドバイに新たな中東・アフリカ地域本社を開設 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ビットコイン 7万6000ドル近辺まで下落　原油高とタカ派FOMCが重しに",
+      "link": "https://cointelegraph.jp/news/bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T18:47:13+09:00",
+      "pub_date_utc": "2026-04-30T09:47:13+00:00",
+      "description": "ビットコイン（BTC）は木曜日、新たなサポートを回復できず、約4年ぶりの高値圏に達した原油価格を背景に下落した。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は木曜日、新たなサポートを回復できず、約4年ぶりの高値圏に達した原油価格を背景に下落した。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "リップル、ドバイに中東アフリカ地域の新本社を開設",
+      "link": "https://coinpost.jp/?p=706167",
+      "pub_date": "2026-04-30T18:03:04+09:00",
+      "pub_date_utc": "2026-04-30T09:03:04+00:00",
+      "description": "リップルがUAE・ドバイのDIFCに中東アフリカ地域の新本社を開設。DFSAライセンス取得やRLUSD承認を背景に、現地チームの倍増を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "リップルがUAE・ドバイのDIFCに中東アフリカ地域の新本社を開設。DFSAライセンス取得やRLUSD承認を背景に、現地チームの倍増を目指す。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "金融庁"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ソラナ、量子耐性に向けた移行計画を公表。Falcon署名を有力候補に",
+      "link": "https://www.neweconomy.jp/posts/570085",
+      "pub_date": "2026-04-30T17:26:50+09:00",
+      "pub_date_utc": "2026-04-30T08:26:50+00:00",
+      "description": "ソラナが量子耐性に向けた移行計画を公表 レイヤー1ブロックチェーン「ソラナ（Solana）」を支援するソラナ財団（Solana Foundation）が、同ネットワークの量子耐性に関する準備状況と移行計画を4月27日に公",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ソラナが量子耐性に向けた移行計画を公表 レイヤー1ブロックチェーン「ソラナ（Solana）」を支援するソラナ財団（Solana Foundation）が、同ネットワークの量子耐性に関する準備状況と移行計画を4月27日に公",
+      "category": "ビジネス",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "韓国大手取引所ビッサム、量子耐性暗号をウォレット・認証システムに導入",
+      "link": "https://coinpost.jp/?p=706127",
+      "pub_date": "2026-04-30T17:24:29+09:00",
+      "pub_date_utc": "2026-04-30T08:24:29+00:00",
+      "description": "韓国の仮想通貨取引所ビッサムが量子耐性暗号（PQC）の導入を推進。セキュリティ企業アトンと協業し、ウォレット管理・本人認証・秘密鍵保護の全工程に量子対策を適用する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "韓国の仮想通貨取引所ビッサムが量子耐性暗号（PQC）の導入を推進。セキュリティ企業アトンと協業し、ウォレット管理・本人認証・秘密鍵保護の全工程に量子対策を適用する。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "アーベ、rsETH裏付け回復の実装計画公表。DeFi United主導で復旧へ",
+      "link": "https://www.neweconomy.jp/posts/570077",
+      "pub_date": "2026-04-30T17:18:29+09:00",
+      "pub_date_utc": "2026-04-30T08:18:29+00:00",
+      "description": "アーベが復旧計画を発表 レンディングプロトコルのアーベ（Aave）が、「rsETH」の裏付け回復に向けた技術実装計画を、4月28日に公式Xアカウントで発表した。同計画は、アーベが主導する業界連合「ディファイ・ユナイテッド",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "アーベが復旧計画を発表 レンディングプロトコルのアーベ（Aave）が、「rsETH」の裏付け回復に向けた技術実装計画を、4月28日に公式Xアカウントで発表した。同計画は、アーベが主導する業界連合「ディファイ・ユナイテッド",
+      "category": "DeFi",
+      "main_entities": [
+        "Aave"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "WIZE（旧モブキャスト）、ジュピター活用でソラナ（SOL）運用高度化へ",
+      "link": "https://www.neweconomy.jp/posts/570065",
+      "pub_date": "2026-04-30T16:58:43+09:00",
+      "pub_date_utc": "2026-04-30T07:58:43+00:00",
+      "description": "WIZE（旧モブキャスト）がジュピター活用でSOL運用 東証グロース上場のワイズ（WIZE、旧モブキャストホールディングス）が、ジュピター（Jupiter）提供の「Jupiter Native Stake Lend」機能",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "WIZE（旧モブキャスト）がジュピター活用でSOL運用 東証グロース上場のワイズ（WIZE、旧モブキャストホールディングス）が、ジュピター（Jupiter）提供の「Jupiter Native Stake Lend」機能",
+      "category": "ビジネス",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "FBI・ドバイ警察・中国公安が連携、仮想通貨詐欺拠点を一斉摘発　276人超を逮捕",
+      "link": "https://coinpost.jp/?p=706105",
+      "pub_date": "2026-04-30T16:40:34+09:00",
+      "pub_date_utc": "2026-04-30T07:40:34+00:00",
+      "description": "FBI・ドバイ警察・中国公安の国際共同作戦で仮想通貨詐欺拠点9カ所を解体、276人超逮捕。ピッグ・ブッチャリング詐欺で米国人が数百万ドルの被害を受けていた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "FBI・ドバイ警察・中国公安の国際共同作戦で仮想通貨詐欺拠点9カ所を解体、276人超逮捕。ピッグ・ブッチャリング詐欺で米国人が数百万ドルの被害を受けていた。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "予測市場の取引高急拡大　オンチェーン上の主要ユースケースに　個人投資家が活動の8割超",
+      "link": "https://cointelegraph.jp/news/prediction-markets-25-7b-monthly-volume-report-retail-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T16:38:37+09:00",
+      "pub_date_utc": "2026-04-30T07:38:37+00:00",
+      "description": "予測市場はオンチェーン上で最も活発なアプリケーションの一つとなっており、デジタル資産市場全体への参加が低調な中でも、個人投資家が活動の大半を占めている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "予測市場はオンチェーン上で最も活発なアプリケーションの一つとなっており、デジタル資産市場全体への参加が低調な中でも、個人投資家が活動の大半を占めている。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "セキュリタイズが株主名簿管理大手コンピュータシェアと提携。米上場企業の株式トークン化に新枠組み提供へ",
+      "link": "https://www.neweconomy.jp/posts/570032",
+      "pub_date": "2026-04-30T16:31:56+09:00",
+      "pub_date_utc": "2026-04-30T07:31:56+00:00",
+      "description": "「Issuer-Sponsored Tokens（IST）」を導入 RWA（現実世界資産）トークン化企業の米セキュリタイズ（Securitize）が、株主名簿管理大手のコンピュータシェア（Computershare）との",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "「Issuer-Sponsored Tokens（IST）」を導入 RWA（現実世界資産）トークン化企業の米セキュリタイズ（Securitize）が、株主名簿管理大手のコンピュータシェア（Computershare）との",
+      "category": "Security Token",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ムーンペイ、機関投資家向け事業に参入　仮想通貨セキュリティ企業買収で基盤強化",
+      "link": "https://cointelegraph.jp/news/moonpay-acquires-sodot-institutional-crypto-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T16:23:15+09:00",
+      "pub_date_utc": "2026-04-30T07:23:15+00:00",
+      "description": "仮想通貨決済プラットフォームのムーンペイは、イスラエルの仮想通貨セキュリティインフラ企業ソドットを買収し、機関投資家向け事業を立ち上げる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "仮想通貨決済プラットフォームのムーンペイは、イスラエルの仮想通貨セキュリティインフラ企業ソドットを買収し、機関投資家向け事業を立ち上げる。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "メタ、USDCでクリエイター報酬支払い開始　フィリピンとコロンビアで展開",
+      "link": "https://cointelegraph.jp/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T15:54:16+09:00",
+      "pub_date_utc": "2026-04-30T06:54:16+00:00",
+      "description": "米テック大手メタは、フィリピンとコロンビアにおいて、自社プラットフォーム上のクリエイター向けにステーブルコインUSDCによる報酬支払いを開始した。今後は対象地域を拡大していく計画だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米テック大手メタは、フィリピンとコロンビアにおいて、自社プラットフォーム上のクリエイター向けにステーブルコインUSDCによる報酬支払いを開始した。今後は対象地域を拡大していく計画だ。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Circle"
+      ],
+      "related_entities": [
+        "Meta"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "SECがビットコインETF『IBIT』建玉上限を4倍の100万枚に承認",
+      "link": "https://coinpost.jp/?p=706087",
+      "pub_date": "2026-04-30T15:45:43+09:00",
+      "pub_date_utc": "2026-04-30T06:45:43+00:00",
+      "description": "SECが米ナスダックISEのIBITオプション建玉制限を25万枚から100万枚へ引き上げる規則変更を4月27日付で正式承認。機関投資家の活用拡大に道を開く。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "SECが米ナスダックISEのIBITオプション建玉制限を25万枚から100万枚へ引き上げる規則変更を4月27日付で正式承認。機関投資家の活用拡大に道を開く。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "トランプ関連のWLFIが急落　620億トークンの長期ロック提案に批判噴出",
+      "link": "https://cointelegraph.jp/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T15:35:55+09:00",
+      "pub_date_utc": "2026-04-30T06:35:55+00:00",
+      "description": "トランプ一族と関係を持つ「ワールド・リバティ・ファイナンシャル」のネイティブトークンWLFIは水曜日、約14％下落した。620億超のWLFIトークンを複数年のベスティング（権利確定）スケジュール下に置くというガバナンス提案が、コミュニティ投票に付されたためだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "トランプ一族と関係を持つ「ワールド・リバティ・ファイナンシャル」のネイティブトークンWLFIは水曜日、約14％下落した。620億超のWLFIトークンを複数年のベスティング（権利確定）スケジュール下に置くというガバナンス提案が、コミュニティ投票に付されたためだ。",
+      "category": "DeFi",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "XRP 底堅さを維持　ETF需要回復とラスベガスイベントが追い風",
+      "link": "https://cointelegraph.jp/news/xrp-set-for-strongest-monthly-etf-inflows-in-2026-as-bulls-defend-140?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T12:20:39+09:00",
+      "pub_date_utc": "2026-04-30T03:20:39+00:00",
+      "description": "XRP（XRP）は水曜日に1.2％上昇し、1.40ドルで取引された。主要サポート水準が維持される限り、さらなる上昇の可能性を示す市場要因とテクニカル要因が複数見られる。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "XRP（XRP）は水曜日に1.2％上昇し、1.40ドルで取引された。主要サポート水準が維持される限り、さらなる上昇の可能性を示す市場要因とテクニカル要因が複数見られる。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "Sui"
+      ],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ドージコイン急伸　デリバティブ資金回帰で上昇加速　300％上昇シナリオも浮上",
+      "link": "https://cointelegraph.jp/news/dogecoin-leads-pre-fomc-rally-with-12-gains-is-033-doge-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T11:51:15+09:00",
+      "pub_date_utc": "2026-04-30T02:51:15+00:00",
+      "description": "ドージコイン（DOGE）は水曜日、最大14％上昇し、米連邦準備制度理事会（FRB）の判断を前にした世界的なリスク資産の反発局面で上昇を主導した。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ドージコイン（DOGE）は水曜日、最大14％上昇し、米連邦準備制度理事会（FRB）の判断を前にした世界的なリスク資産の反発局面で上昇を主導した。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "FRB"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
+      "title": "ビットコイン 7万3000ドルのサポートライン維持がカギに　仮想通貨アナリストが指摘",
+      "link": "https://cointelegraph.jp/news/bitcoin-stalls-under-76k-as-traders-risk-off-ahead-of-fomc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-04-30T11:11:14+09:00",
+      "pub_date_utc": "2026-04-30T02:11:14+00:00",
+      "description": "ビットコイン（BTC）は水曜日の連邦公開市場委員会（FOMC）会合を前に、トレーダーのポジション調整が進んだことで、直近高値の7万9500ドルから下落した。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は水曜日の連邦公開市場委員会（FOMC）会合を前に、トレーダーのポジション調整が進んだことで、直近高値の7万9500ドルから下落した。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+    },
+    {
       "title": "ビットコイン一時7.5万ドル割れ、FOMC利下げ期待後退とDeFiハッキング警戒が重荷に｜仮想NISHI",
       "link": "https://coinpost.jp/?p=705904",
       "pub_date": "2026-04-30T10:34:26+09:00",
@@ -5006,8 +5884,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-04-30T10:56:52.632581+09:00",
-  "total_count": 280,
+  "last_updated": "2026-05-01T10:59:15.750449+09:00",
+  "total_count": 329,
   "sources": [
     "NADA NEWS",
     "CoinPost",
