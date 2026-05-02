@@ -1,6 +1,774 @@
 {
   "articles": [
     {
+      "title": "米CLARITY法案が成立に向けて前進　ステーブルコイン利回り規定で障壁解消か",
+      "link": "https://cointelegraph.jp/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-02T10:18:38+09:00",
+      "pub_date_utc": "2026-05-02T01:18:38+00:00",
+      "description": "米国の仮想通貨業界に規制の明確性をもたらすことを目的とするCLARITY法案は、ステーブルコインの利回りに関する新たな規定が公表されたことで、成立に向けて前進する可能性が高まった。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米国の仮想通貨業界に規制の明確性をもたらすことを目的とするCLARITY法案は、ステーブルコインの利回りに関する新たな規定が公表されたことで、成立に向けて前進する可能性が高まった。",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ビットコイン採掘企業ライオットQ1決算、AIデータセンター事業が収益の20%へ急成長",
+      "link": "https://coinpost.jp/?p=706557",
+      "pub_date": "2026-05-02T09:55:07+09:00",
+      "pub_date_utc": "2026-05-02T00:55:07+00:00",
+      "description": "仮想通貨マイニング大手Riot Platformsが2026年第1四半期決算を発表。総収益1億6720万ドルのうち約20%をAIデータセンター事業が占め、AMDによる50MWへの契約容量倍増など事業の多角化が進んでいる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "仮想通貨マイニング大手Riot Platformsが2026年第1四半期決算を発表。総収益1億6720万ドルのうち約20%をAIデータセンター事業が占め、AMDによる50MWへの契約容量倍増など事業の多角化が進んでいる。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "テザー：第1四半期純利益10億4000万ドル　米国債保有額は1410億ドルに",
+      "link": "https://cointelegraph.jp/news/tether-reports-104-b-profit-in-q1-as-treasury-holdings-reach-141b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-02T09:44:43+09:00",
+      "pub_date_utc": "2026-05-02T00:44:43+00:00",
+      "description": "ステーブルコイン発行企業テザー（USDT）は2026年第1四半期に10億4000万ドルの純利益を計上し、余剰準備金が過去最高の82億3000万ドルに達した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ステーブルコイン発行企業テザー（USDT）は2026年第1四半期に10億4000万ドルの純利益を計上し、余剰準備金が過去最高の82億3000万ドルに達した。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "イーサリアム財団、Bitmineへ1万ETHを追加売却──先週分と合わせた売却額は約73億円に",
+      "link": "https://www.nadanews.com/347117/",
+      "pub_date": "2026-05-02T09:30:00+09:00",
+      "pub_date_utc": "2026-05-02T00:30:00+00:00",
+      "description": "イーサリアム財団は5月1日、Tom Lee（トム・リー）氏が率いるBitmine Immersion Technologies（ビットマイン・イマージョン・テク The post イーサリアム財団、Bitmineへ1万ETHを追加売却──先週分と合わせた売却額は約73億円に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "イーサリアム財団は5月1日、Tom Lee（トム・リー）氏が率いるBitmine Immersion Technologies（ビットマイン・イマージョン・テク The post イーサリアム財団、Bitmineへ1万ETHを追加売却──先週分と合わせた売却額は約73億円に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "WisdomTree、第1四半期の運用資産が過去最高の約24兆円に──暗号資産ETPは約210億円の純流入",
+      "link": "https://www.nadanews.com/347115/",
+      "pub_date": "2026-05-02T09:00:00+09:00",
+      "pub_date_utc": "2026-05-02T00:00:00+00:00",
+      "description": "資産運用会社WisdomTree（ウィズダムツリー）は、2026年第1四半期の運用資産残高（AUM）が過去最高となる1526億ドル（約24兆円、1ドル=155円 The post WisdomTree、第1四半期の運用資産が過去最高の約24兆円に──暗号資産ETPは約210億円の純流入 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "資産運用会社WisdomTree（ウィズダムツリー）は、2026年第1四半期の運用資産残高（AUM）が過去最高となる1526億ドル（約24兆円、1ドル=155円 The post WisdomTree、第1四半期の運用資産が過去最高の約24兆円に──暗号資産ETPは約210億円の純流入 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "Bakkt、AI決済・ステーブルコインインフラ企業DTRを買収完了　機関向け44兆ドル越境決済レイヤーに参入",
+      "link": "https://coinpost.jp/?p=706558",
+      "pub_date": "2026-05-02T08:45:20+09:00",
+      "pub_date_utc": "2026-05-01T23:45:20+00:00",
+      "description": "バクトが4月30日、エージェント型決済・ステーブルコインインフラを手がけるDTRの買収を完了した。規制対応済みの機関向けインフラとDTRのAI技術を統合し、44兆ドル規模の越境決済市場への参入を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "バクトが4月30日、エージェント型決済・ステーブルコインインフラを手がけるDTRの買収を完了した。規制対応済みの機関向けインフラとDTRのAI技術を統合し、44兆ドル規模の越境決済市場への参入を目指す。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "疑念の中の上昇から、流動性主導の停滞へ ── ビットコイン市場が直面する“方向感喪失”のフェーズ【BitTrade Market Weekly】",
+      "link": "https://www.nadanews.com/347127/",
+      "pub_date": "2026-05-02T08:45:15+09:00",
+      "pub_date_utc": "2026-05-01T23:45:15+00:00",
+      "description": "今週の市場は、「強気構造を維持しながらも、流動性低下とポジション主導の変動に支配された1週間」だった。 ビットコインは週前半にかけて80,000ドル（約1,20 The post 疑念の中の上昇から、流動性主導の停滞へ ── ビットコイン市場が直面する“方向感喪失”のフェーズ【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "今週の市場は、「強気構造を維持しながらも、流動性低下とポジション主導の変動に支配された1週間」だった。 ビットコインは週前半にかけて80,000ドル（約1,20 The post 疑念の中の上昇から、流動性主導の停滞へ ── ビットコイン市場が直面する“方向感喪失”のフェーズ【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "Tether、第1四半期に1600億円超の純利益──超過準備金は過去最高の約1兆3000億円に",
+      "link": "https://www.nadanews.com/347110/",
+      "pub_date": "2026-05-02T08:30:00+09:00",
+      "pub_date_utc": "2026-05-01T23:30:00+00:00",
+      "description": "ステーブルコインUSDTを発行するTether（テザー）は5月1日、2026年第1四半期の保証報告書を公表し、10億4000万ドル（約1600億円、1ドル＝15 The post Tether、第1四半期に1600億円超の純利益──超過準備金は過去最高の約1兆3000億円に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ステーブルコインUSDTを発行するTether（テザー）は5月1日、2026年第1四半期の保証報告書を公表し、10億4000万ドル（約1600億円、1ドル＝15 The post Tether、第1四半期に1600億円超の純利益──超過準備金は過去最高の約1兆3000億円に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "日本政府、為替介入の裏側で起きていること──ビットコインは何を織り込むのか【エックスウィン】",
+      "link": "https://www.nadanews.com/347122/",
+      "pub_date": "2026-05-02T08:18:46+09:00",
+      "pub_date_utc": "2026-05-01T23:18:46+00:00",
+      "description": "● 日本政府・日銀による約5兆円規模とみられる為替介入は、短期的に円高や流動性収縮をもたらした可能性がある● 為替そのものよりも「円流動性」と「市場心理」の変化 The post 日本政府、為替介入の裏側で起きていること──ビットコインは何を織り込むのか【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● 日本政府・日銀による約5兆円規模とみられる為替介入は、短期的に円高や流動性収縮をもたらした可能性がある● 為替そのものよりも「円流動性」と「市場心理」の変化 The post 日本政府、為替介入の裏側で起きていること──ビットコインは何を織り込むのか【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "Riot Platforms、データセンター事業で3320万ドルの収益を計上──AMDが契約容量を倍増",
+      "link": "https://www.nadanews.com/347099/",
+      "pub_date": "2026-05-02T08:00:00+09:00",
+      "pub_date_utc": "2026-05-01T23:00:00+00:00",
+      "description": "ビットコイン（BTC）マイニング大手のRiot Platforms（ライオット・プラットフォームズ）は4月30日、2026年第1四半期の決算を発表した。四半期売 The post Riot Platforms、データセンター事業で3320万ドルの収益を計上──AMDが契約容量を倍増 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Finance",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン（BTC）マイニング大手のRiot Platforms（ライオット・プラットフォームズ）は4月30日、2026年第1四半期の決算を発表した。四半期売 The post Riot Platforms、データセンター事業で3320万ドルの収益を計上──AMDが契約容量を倍増 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ブラジル中央銀行、規制下の国際決済での仮想通貨利用を禁止へ",
+      "link": "https://coinpost.jp/?p=706572",
+      "pub_date": "2026-05-02T07:40:57+09:00",
+      "pub_date_utc": "2026-05-01T22:40:57+00:00",
+      "description": "ブラジル中央銀行は、国をまたぐ規制下の送金や支払いに仮想通貨を使用することを禁止すると公表。なお、仮想通貨の送金自体が禁止されたわけではない。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ブラジル中央銀行は、国をまたぐ規制下の送金や支払いに仮想通貨を使用することを禁止すると公表。なお、仮想通貨の送金自体が禁止されたわけではない。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "英政府、GPT-5.5の高度なサイバー攻撃能力に警鐘　「ミトス」に続く2例目の脅威",
+      "link": "https://coinpost.jp/?p=706559",
+      "pub_date": "2026-05-02T06:50:28+09:00",
+      "pub_date_utc": "2026-05-01T21:50:28+00:00",
+      "description": "英国のAI安全研究所は、OpenAIの「GPT-5.5」が高度なサイバー攻撃を自律的に実行できるとする評価報告書を公開。アンソロピックの「Mythos」に匹敵する攻撃能力が確認されており、高度AIの悪用リスクに対して日米の政府や金融当局も警戒を強めている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "英国のAI安全研究所は、OpenAIの「GPT-5.5」が高度なサイバー攻撃を自律的に実行できるとする評価報告書を公開。アンソロピックの「Mythos」に匹敵する攻撃能力が確認されており、高度AIの悪用リスクに対して日米の政府や金融当局も警戒を強めている。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "米国防総省がオープンAI・グーグル・エヌビディアら8社と機密ネットワークへのAI導入で合意、アンソロピックは今回も対象外",
+      "link": "https://coinpost.jp/?p=706561",
+      "pub_date": "2026-05-02T06:15:46+09:00",
+      "pub_date_utc": "2026-05-01T21:15:46+00:00",
+      "description": "米国防総省が5月1日、スペースX・オープンAI・グーグル・エヌビディアら8社と機密ネットワークへの最先端AI導入協定を締結した。GenAI.milには5カ月で130万人以上が利用するが、アンソロピックは引き続き対象外となっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米国防総省が5月1日、スペースX・オープンAI・グーグル・エヌビディアら8社と機密ネットワークへの最先端AI導入協定を締結した。GenAI.milには5カ月で130万人以上が利用するが、アンソロピックは引き続き対象外となっている。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Google"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "仮想通貨VC投資、4月は約2年ぶり低水準　資金調達額は6億5900万ドルに",
+      "link": "https://cointelegraph.jp/news/crypto-vc-funding-plunges-to-659m-in-april-to-2024-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-02T06:00:00+09:00",
+      "pub_date_utc": "2026-05-01T21:00:00+00:00",
+      "description": "仮想通貨分野のベンチャーキャピタル（VC）投資は4月、スタートアップやアーリーステージ企業への資金流入が減速し、約2年ぶりの低水準に落ち込んだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "仮想通貨分野のベンチャーキャピタル（VC）投資は4月、スタートアップやアーリーステージ企業への資金流入が減速し、約2年ぶりの低水準に落ち込んだ。",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "量子コンピュータの脅威から休眠ビットコインを守る新提案「PACTs」、サトシの資産も対象",
+      "link": "https://coinpost.jp/?p=706560",
+      "pub_date": "2026-05-02T05:55:38+09:00",
+      "pub_date_utc": "2026-05-01T20:55:38+00:00",
+      "description": "仮想通貨大手VCパラダイム社の研究者が、量子コンピュータの脅威からビットコインの休眠資金を保護する新モデル「PACTs」を提案した。オンチェーン取引を伴わずに所有権を証明し、プライバシーを保ちながら資産を保護する仕組みである。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "仮想通貨大手VCパラダイム社の研究者が、量子コンピュータの脅威からビットコインの休眠資金を保護する新モデル「PACTs」を提案した。オンチェーン取引を伴わずに所有権を証明し、プライバシーを保ちながら資産を保護する仕組みである。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Paradigm"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "イーサリアム財団が2週連続でビットマインに1万ETHを売却、累計約73億円",
+      "link": "https://coinpost.jp/?p=706562",
+      "pub_date": "2026-05-02T05:40:54+09:00",
+      "pub_date_utc": "2026-05-01T20:40:54+00:00",
+      "description": "イーサリアム財団が5月2日、平均単価2292ドルで1万ETHをビットマインにOTC売却した。先週に続く2週連続の取引で累計約4700万ドル相当を売却。ビットマインのステーク済みETHはステーキング総供給量の10.5%に達している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "イーサリアム財団が5月2日、平均単価2292ドルで1万ETHをビットマインにOTC売却した。先週に続く2週連続の取引で累計約4700万ドル相当を売却。ビットマインのステーク済みETHはステーキング総供給量の10.5%に達している。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "テザー、2026年Q1に約10.4億ドルの純利益を計上　余剰準備金も拡大",
+      "link": "https://coinpost.jp/?p=706547",
+      "pub_date": "2026-05-02T05:00:30+09:00",
+      "pub_date_utc": "2026-05-01T20:00:30+00:00",
+      "description": "テザーが2026年第1四半期の財務報告を公開し、純利益が約10.4億ドル、余剰準備金が過去最高の82.3億ドルに達したことを明らかにした。USDTの流通総額は約1830億ドルに上り、米国債保有額は世界17位の規模となっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "テザーが2026年第1四半期の財務報告を公開し、純利益が約10.4億ドル、余剰準備金が過去最高の82.3億ドルに達したことを明らかにした。USDTの流通総額は約1830億ドルに上り、米国債保有額は世界17位の規模となっている。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "イーサリアムに3000ドル上昇シナリオ　5月上昇を支える要因",
+      "link": "https://cointelegraph.jp/news/three-reasons-why-3k-eth-price-target-is-still-in-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-02T00:22:54+09:00",
+      "pub_date_utc": "2026-05-01T15:22:54+00:00",
+      "description": "イーサリアム（ETH）は2月の1800ドル割れの安値から25%以上反発しており、テクニカル指標とオンチェーンデータの組み合わせから、5月にかけて回復余地が残されている可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "イーサリアム（ETH）は2月の1800ドル割れの安値から25%以上反発しており、テクニカル指標とオンチェーンデータの組み合わせから、5月にかけて回復余地が残されている可能性がある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "【5/1話題】SBIがビットバンク子会社化の協議開始、SBI VCトレードの暗号資産貯まるクレカ、4月の暗号資産ハック件数が過去最多になど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/570544",
+      "pub_date": "2026-05-01T22:45:27+09:00",
+      "pub_date_utc": "2026-05-01T13:45:27+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "SBI VC Trade",
+        "bitbank",
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "Apple"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ドージコイン、クジラ蓄積とチャート好転で底打ち示唆　最大20%上昇余地",
+      "link": "https://cointelegraph.jp/news/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T21:07:01+09:00",
+      "pub_date_utc": "2026-05-01T12:07:01+00:00",
+      "description": "ドージコイン（DOGE）は過去1カ月で約18%上昇し、市場全体の約10%の上昇を上回った。クジラの蓄積と強気のチャート構造が、底打ちの可能性を示している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ドージコイン（DOGE）は過去1カ月で約18%上昇し、市場全体の約10%の上昇を上回った。クジラの蓄積と強気のチャート構造が、底打ちの可能性を示している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "「ビットコイン最新論点」量子コンピュータ耐性、ソロマイナー、トレジャリー企業、ETFなど（日本ビットコイン産業 加藤規新）",
+      "link": "https://www.neweconomy.jp/features/audible/570554",
+      "pub_date": "2026-05-01T19:19:16+09:00",
+      "pub_date_utc": "2026-05-01T10:19:16+00:00",
+      "description": "「ビットコイン最新論点」量子コンピュータ耐性、ソロマイナー、トレジャリー企業、ETFなど 幻冬舎のブロックチェーン/暗号資産（仮想通貨）/web3専門メディア「あたらしい経済（New economy）」によるaudibl",
+      "category_raw": "BTC",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "「ビットコイン最新論点」量子コンピュータ耐性、ソロマイナー、トレジャリー企業、ETFなど 幻冬舎のブロックチェーン/暗号資産（仮想通貨）/web3専門メディア「あたらしい経済（New economy）」によるaudibl",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "スイのDeFiプロトコル「アフターマス」で資金流出、手数料ロジックの脆弱性突かれ約113万ドル被害",
+      "link": "https://www.neweconomy.jp/posts/570532",
+      "pub_date": "2026-05-01T18:40:15+09:00",
+      "pub_date_utc": "2026-05-01T09:40:15+00:00",
+      "description": "Aftermathのデリバティブ機能でエクスプロイト レイヤー1ブロックチェーン「スイ（Sui）」上の分散型金融（DeFi）プロトコル「アフターマス（Aftermath Finance）」で、プロトコルに影響を及ぼすエク",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Aftermathのデリバティブ機能でエクスプロイト レイヤー1ブロックチェーン「スイ（Sui）」上の分散型金融（DeFi）プロトコル「アフターマス（Aftermath Finance）」で、プロトコルに影響を及ぼすエク",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ビットコインマイニング企業MARA、発電所保有企業を15億ドルで買収──AIデータセンター事業強化",
+      "link": "https://www.nadanews.com/347057/",
+      "pub_date": "2026-05-01T18:10:00+09:00",
+      "pub_date_utc": "2026-05-01T09:10:00+00:00",
+      "description": "ビットコイン（BTC）マイニング企業MARA Holdings（マラ・ホールディングス）は4月30日、Long Ridge Energy & Power The post ビットコインマイニング企業MARA、発電所保有企業を15億ドルで買収──AIデータセンター事業強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Finance",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン（BTC）マイニング企業MARA Holdings（マラ・ホールディングス）は4月30日、Long Ridge Energy & Power The post ビットコインマイニング企業MARA、発電所保有企業を15億ドルで買収──AIデータセンター事業強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "HODL1が中期経営計画を策定、ETH保有300億円・営業利益11億円を2028年10月期に目指す",
+      "link": "https://coinpost.jp/?p=706476",
+      "pub_date": "2026-05-01T17:54:33+09:00",
+      "pub_date_utc": "2026-05-01T08:54:33+00:00",
+      "description": "HODL1が中期経営計画「HODL&BUIDL 2028」を公表。2028年10月期までにETH保有額300億円・売上高20億円・営業利益11億円を目標とし、固定行使価額型新株予約権による資金調達も同日発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "HODL1が中期経営計画「HODL&BUIDL 2028」を公表。2028年10月期までにETH保有額300億円・売上高20億円・営業利益11億円を目標とし、固定行使価額型新株予約権による資金調達も同日発表した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ブラックロックETHステーキングETF、初の資金流出──DeFi流動性減少と米金利高が重荷に【価格分析】",
+      "link": "https://www.nadanews.com/347028/",
+      "pub_date": "2026-05-01T17:36:18+09:00",
+      "pub_date_utc": "2026-05-01T08:36:18+00:00",
+      "description": "・ブラックロックのETHBは初の資金流出を記録し、イーサリアム上場投資信託（ETF）全体では週間1億2700万ドル規模の売り圧力が続いた。・4月18日以降、相次 The post ブラックロックETHステーキングETF、初の資金流出──DeFi流動性減少と米金利高が重荷に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・ブラックロックのETHBは初の資金流出を記録し、イーサリアム上場投資信託（ETF）全体では週間1億2700万ドル規模の売り圧力が続いた。・4月18日以降、相次 The post ブラックロックETHステーキングETF、初の資金流出──DeFi流動性減少と米金利高が重荷に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "BlackRock"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ビットコインの上昇はStrategyの買いによって支えられている：Bitwise",
+      "link": "https://www.nadanews.com/347081/",
+      "pub_date": "2026-05-01T17:15:00+09:00",
+      "pub_date_utc": "2026-05-01T08:15:00+00:00",
+      "description": "暗号資産運用会社Bitwise（ビットワイズ）の最高投資責任者（CIO）、Matt Hougan（マット・ホーガン）氏は4月28日付のブログ記事で、Michae The post ビットコインの上昇はStrategyの買いによって支えられている：Bitwise first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Bitcoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産運用会社Bitwise（ビットワイズ）の最高投資責任者（CIO）、Matt Hougan（マット・ホーガン）氏は4月28日付のブログ記事で、Michae The post ビットコインの上昇はStrategyの買いによって支えられている：Bitwise first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "SBI VCトレード、BTC・ETH・XRPが貯まるクレカ発行へ。Visaとアプラスと連携で",
+      "link": "https://www.neweconomy.jp/posts/570496",
+      "pub_date": "2026-05-01T17:00:42+09:00",
+      "pub_date_utc": "2026-05-01T08:00:42+00:00",
+      "description": "SBI VCトレードが暗号資産貯まるクレカ発行開始 国内暗号資産（仮想通貨）取引所SBI VCトレードが、暗号資産が貯まるクレジットカードの発行開始を5月1日に発表した。なお同カードは、クレカ事業を営むアプラスおよびVi",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "SBI VCトレードが暗号資産貯まるクレカ発行開始 国内暗号資産（仮想通貨）取引所SBI VCトレードが、暗号資産が貯まるクレジットカードの発行開始を5月1日に発表した。なお同カードは、クレカ事業を営むアプラスおよびVi",
+      "category": "ビジネス",
+      "main_entities": [
+        "SBI VC Trade",
+        "Ripple",
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "Visa"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "SBIとVisaが連携、暗号資産（BTC、ETH、XRP）が貯まるクレカ発行──暗号資産×クレカの取り組みが激化",
+      "link": "https://www.nadanews.com/347061/",
+      "pub_date": "2026-05-01T17:00:00+09:00",
+      "pub_date_utc": "2026-05-01T08:00:00+00:00",
+      "description": "SBI VCトレード、アプラス、ビザ・ワールドワイド・ジャパンは5月1日、利用金額に応じて貯まるポイントが、自動で暗号資産に交換されるクレジットカード「SBI The post SBIとVisaが連携、暗号資産（BTC、ETH、XRP）が貯まるクレカ発行──暗号資産×クレカの取り組みが激化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "SBI VCトレード、アプラス、ビザ・ワールドワイド・ジャパンは5月1日、利用金額に応じて貯まるポイントが、自動で暗号資産に交換されるクレジットカード「SBI The post SBIとVisaが連携、暗号資産（BTC、ETH、XRP）が貯まるクレカ発行──暗号資産×クレカの取り組みが激化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple",
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "SBI VC Trade",
+        "Cardano",
+        "Visa"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "SBI決算発表｜仮想通貨事業が過去最高益、JPYSCローンチや貸金業参入など2026年のWeb3戦略を総括",
+      "link": "https://coinpost.jp/?p=706446",
+      "pub_date": "2026-05-01T16:59:34+09:00",
+      "pub_date_utc": "2026-05-01T07:59:34+00:00",
+      "description": "SBIホールディングスの2026年3月期決算で、仮想通貨事業の収益が896億円と過去最高を記録。円建てステーブルコイン「JPYSC」の開発、仮想通貨担保による貸金業ライセンス取得の方針、USDCレンディング開始、Visaとの協業など、同グループが推進するオンチェーン金融戦略の全容をまとめた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "SBIホールディングスの2026年3月期決算で、仮想通貨事業の収益が896億円と過去最高を記録。円建てステーブルコイン「JPYSC」の開発、仮想通貨担保による貸金業ライセンス取得の方針、USDCレンディング開始、Visaとの協業など、同グループが推進するオンチェーン金融戦略の全容をまとめた。",
+      "category": "DeFi",
+      "main_entities": [
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "Circle",
+        "日本円ステーブルコイン",
+        "Visa"
+      ],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "リップルとOKXが提携、RLUSDの現物取引ペア・無期限先物に対応",
+      "link": "https://www.neweconomy.jp/posts/570492",
+      "pub_date": "2026-05-01T16:49:28+09:00",
+      "pub_date_utc": "2026-05-01T07:49:28+00:00",
+      "description": "RLUSDがOKXで利用可能に 米リップル（Ripple）と海外暗号資産（仮想通貨）取引所OKXが提携し、リップルの米ドル連動型ステーブルコイン「リップルUSD（RLUSD）」がOKX上で利用可能になった。リップルが4月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "RLUSDがOKXで利用可能に 米リップル（Ripple）と海外暗号資産（仮想通貨）取引所OKXが提携し、リップルの米ドル連動型ステーブルコイン「リップルUSD（RLUSD）」がOKX上で利用可能になった。リップルが4月",
+      "category": "Stablecoin",
+      "main_entities": [
+        "OKX",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "企業の財務向けステーブルコイン「USDb」、ペイスタンドがルートストック上でローンチ。B2B決済のオンチェーン化を推進",
+      "link": "https://www.neweconomy.jp/posts/570303",
+      "pub_date": "2026-05-01T16:31:44+09:00",
+      "pub_date_utc": "2026-05-01T07:31:44+00:00",
+      "description": "B2B向けステーブルコイン「USDb」がルートストック上でネイティブ発行 ブロックチェーン活用のB2B決済ネットワーク提供のペイスタンド（Paystand）が、企業の財務ワークフロー内で機能するよう構築されたステーブルコ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "B2B向けステーブルコイン「USDb」がルートストック上でネイティブ発行 ブロックチェーン活用のB2B決済ネットワーク提供のペイスタンド（Paystand）が、企業の財務ワークフロー内で機能するよう構築されたステーブルコ",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ビットコイン、短期保有者の損益が6カ月ぶりプラス転換　強気・弱気の分岐点か＝アナリスト",
+      "link": "https://coinpost.jp/?p=706435",
+      "pub_date": "2026-05-01T16:16:11+09:00",
+      "pub_date_utc": "2026-05-01T07:16:11+00:00",
+      "description": "クリプトクアントのアナリストが、ビットコインの短期保有者を対象とした損益指標の30日移動平均が6カ月ぶりにプラス転換したと報告。強気転換か戻り売りかの分岐点として注目を集めている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "クリプトクアントのアナリストが、ビットコインの短期保有者を対象とした損益指標の30日移動平均が6カ月ぶりにプラス転換したと報告。強気転換か戻り売りかの分岐点として注目を集めている。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "2026年4月の暗号資産ハック件数が過去最多に。管理権限侵害やクロスチェーン問題も顕在化",
+      "link": "https://www.neweconomy.jp/posts/570457",
+      "pub_date": "2026-05-01T15:58:09+09:00",
+      "pub_date_utc": "2026-05-01T06:58:09+00:00",
+      "description": "4月は「件数ベースで過去最多」のハック発生 4月の暗号資産（仮想通貨）におけるインシデント件数が過去最多となった。4月30日にデータ分析サイトのディファイラマ（DeFiLlama）が公式Xアカウントで投稿した。 ディファ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "4月は「件数ベースで過去最多」のハック発生 4月の暗号資産（仮想通貨）におけるインシデント件数が過去最多となった。4月30日にデータ分析サイトのディファイラマ（DeFiLlama）が公式Xアカウントで投稿した。 ディファ",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "新韓カードとソラナ財団がMoU締結、ステーブルコイン決済の協力とWeb3決済エコシステム拡大に向け",
+      "link": "https://www.neweconomy.jp/posts/570448",
+      "pub_date": "2026-05-01T15:47:46+09:00",
+      "pub_date_utc": "2026-05-01T06:47:46+00:00",
+      "description": "新韓カードとソラナ財団がMOU締結 韓国大手クレジットカード会社の新韓カード（Shinhan Card）とソラナ（Solana）の開発支援組織ソラナ財団（Solana Foundation）が、ステーブルコイン決済技術で",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "新韓カードとソラナ財団がMOU締結 韓国大手クレジットカード会社の新韓カード（Shinhan Card）とソラナ（Solana）の開発支援組織ソラナ財団（Solana Foundation）が、ステーブルコイン決済技術で",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "Pump[.]fun、約3.7億ドル相当のPUMPバーンと収益配分方針の変更を発表",
+      "link": "https://www.neweconomy.jp/posts/570435",
+      "pub_date": "2026-05-01T15:01:53+09:00",
+      "pub_date_utc": "2026-05-01T06:01:53+00:00",
+      "description": "Pump[.]funがPUMPトークンを大量バーン ソラナ（Solana）基盤のトークン発行プラットフォームのパンプファン（Pump.fun）が、「PUMP」のバーン（焼却）および収益配分方針の変更を4月29日に公式Xア",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Pump[.]funがPUMPトークンを大量バーン ソラナ（Solana）基盤のトークン発行プラットフォームのパンプファン（Pump.fun）が、「PUMP」のバーン（焼却）および収益配分方針の変更を4月29日に公式Xア",
+      "category": "ビジネス",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ソラナ、量子コンピュータ対策でポスト量子署名「Falcon」の採用計画を発表",
+      "link": "https://coinpost.jp/?p=706384",
+      "pub_date": "2026-05-01T14:30:46+09:00",
+      "pub_date_utc": "2026-05-01T05:30:46+00:00",
+      "description": "ソラナ財団は、ポスト量子暗号署名方式「Falcon」を最有力候補に選定したと発表した。主要クライアント開発チームのアンザとジャンプクリプトが独立研究で同一結論に到達し、GitHubで初期実装を公開している。高スループット環境での小さい署名サイズが採用の決め手となったという。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ソラナ財団は、ポスト量子暗号署名方式「Falcon」を最有力候補に選定したと発表した。主要クライアント開発チームのアンザとジャンプクリプトが独立研究で同一結論に到達し、GitHubで初期実装を公開している。高スループット環境での小さい署名サイズが採用の決め手となったという。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "トム・リー率いるビットマインが24時間で6.5万ETHを取得＝Lookonchain",
+      "link": "https://coinpost.jp/?p=706409",
+      "pub_date": "2026-05-01T14:07:40+09:00",
+      "pub_date_utc": "2026-05-01T05:07:40+00:00",
+      "description": "トム・リー率いるビットマイン・イマージョン・テクノロジーズが24時間で約6.5万ETH（約231億円）を取得。総保有量が507万ETH超となり、長期目標として6万2,000ドルを提示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "トム・リー率いるビットマイン・イマージョン・テクノロジーズが24時間で約6.5万ETH（約231億円）を取得。総保有量が507万ETH超となり、長期目標として6万2,000ドルを提示した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "DatachainとProgmat、Swift連携のステーブルコイン送金システムの特許を取得",
+      "link": "https://coinpost.jp/?p=706382",
+      "pub_date": "2026-05-01T13:20:30+09:00",
+      "pub_date_utc": "2026-05-01T04:20:30+00:00",
+      "description": "株式会社Datachainと株式会社Progmatは、国際銀行間通信協会（Swift）と連携したステーブルコイン送金システムに関する特許を取得した。既存の銀行ネットワークを活用し、AML等の規制要件を満たしつつ高速かつ低コストな国際送金を実現する仕組みである。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "株式会社Datachainと株式会社Progmatは、国際銀行間通信協会（Swift）と連携したステーブルコイン送金システムに関する特許を取得した。既存の銀行ネットワークを活用し、AML等の規制要件を満たしつつ高速かつ低コストな国際送金を実現する仕組みである。",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ワサビプロトコル、管理者キー侵害により約5.5Mドル流出か",
+      "link": "https://www.neweconomy.jp/posts/570384",
+      "pub_date": "2026-05-01T12:38:27+09:00",
+      "pub_date_utc": "2026-05-01T03:38:27+00:00",
+      "description": "Wasabi Protocolで管理者キー侵害 ブロックチェーンセキュリティ企業ブロックエイド（Blockaid）が、分散型金融（DeFi）プロトコル「ワサビプロトコル（Wasabi Protocol）」において管理者キ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Wasabi Protocolで管理者キー侵害 ブロックチェーンセキュリティ企業ブロックエイド（Blockaid）が、分散型金融（DeFi）プロトコル「ワサビプロトコル（Wasabi Protocol）」において管理者キ",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "中南米でステーブルコイン利用が拡大　仮想通貨購入でビットコイン上回る＝レポート",
+      "link": "https://cointelegraph.jp/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T12:29:30+09:00",
+      "pub_date_utc": "2026-05-01T03:29:30+00:00",
+      "description": "中南米におけるデジタル資産の普及は新たな段階に入りつつあり、資金をビットコインではなくステーブルコインへと移すユーザーが増加している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "中南米におけるデジタル資産の普及は新たな段階に入りつつあり、資金をビットコインではなくステーブルコインへと移すユーザーが増加している。",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "ビットコインETFで資金流出続く　8万ドルへの上昇シナリオは維持できるのか？",
+      "link": "https://cointelegraph.jp/news/spot-bitcoin-etf-outflows-top-490m-is-btcs-rally-losing-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-01T12:17:55+09:00",
+      "pub_date_utc": "2026-05-01T03:17:55+00:00",
+      "description": "ビットコイン（BTC）は、米国上場の現物ETFから3日連続で資金流出に直面した。資金流出は7万8000ドルの回復に失敗したタイミングと重なっており、トレーダーの間では下落懸念が広がっている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は、米国上場の現物ETFから3日連続で資金流出に直面した。資金流出は7万8000ドルの回復に失敗したタイミングと重なっており、トレーダーの間では下落懸念が広がっている。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "アニモカ・ブランズYat Siuが語る「Web4」の世界、何百億ものAIエージェントが動くインターネットの未来｜Tech For Impact Summit 2026",
+      "link": "https://coinpost.jp/?p=706187",
+      "pub_date": "2026-05-01T12:00:23+09:00",
+      "pub_date_utc": "2026-05-01T03:00:23+00:00",
+      "description": "「Web3はWeb4への基盤だった」アニモカ・ブランズ共同創業者のYat Siuが語った次世代インターネット論。AIエージェントが日常タスクをこなす時代に、所有権・真正性をオンチェーンで証明することの重要性とは。Tech For Impact Summit 2026の対談セッションをレポート。",
+      "category_raw": "イベント",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "「Web3はWeb4への基盤だった」アニモカ・ブランズ共同創業者のYat Siuが語った次世代インターネット論。AIエージェントが日常タスクをこなす時代に、所有権・真正性をオンチェーンで証明することの重要性とは。Tech For Impact Summit 2026の対談セッションをレポート。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Animoca Brands"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
+      "title": "マラソン、オハイオ州ガス発電所を約2400億円で買収　AI・HPC事業の基盤強化へ",
+      "link": "https://coinpost.jp/?p=706312",
+      "pub_date": "2026-05-01T11:30:35+09:00",
+      "pub_date_utc": "2026-05-01T02:30:35+00:00",
+      "description": "米ビットコインマイニング大手MARAホールディングスがオハイオ州のガス発電所を15億ドルで買収する。電力・土地・水を集約したインフラでAI・HPC事業の多角化を加速する計画だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米ビットコインマイニング大手MARAホールディングスがオハイオ州のガス発電所を15億ドルで買収する。電力・土地・水を集約したインフラでAI・HPC事業の多角化を加速する計画だ。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+    },
+    {
       "title": "コモンズブリッジ侵害で約1850万SYND不正流出か。SYND急落",
       "link": "https://www.neweconomy.jp/posts/570349",
       "pub_date": "2026-05-01T10:56:05+09:00",
@@ -5884,8 +6652,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-01T10:59:15.750449+09:00",
-  "total_count": 329,
+  "last_updated": "2026-05-02T10:47:09.814445+09:00",
+  "total_count": 372,
   "sources": [
     "NADA NEWS",
     "CoinPost",
