@@ -1,6 +1,274 @@
 {
   "articles": [
     {
+      "title": "サンフランシスコ市場レポート──CLARITY法、最終局面とビットコインの分岐点",
+      "link": "https://www.nadanews.com/347142/",
+      "pub_date": "2026-05-03T09:58:49+09:00",
+      "pub_date_utc": "2026-05-03T00:58:49+00:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、現在の米国暗号資産市場の最重要テーマであるCLARITY法の進行状 The post サンフランシスコ市場レポート──CLARITY法、最終局面とビットコインの分岐点 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、現在の米国暗号資産市場の最重要テーマであるCLARITY法の進行状 The post サンフランシスコ市場レポート──CLARITY法、最終局面とビットコインの分岐点 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "今週の主要仮想通貨材料まとめ、チューダー・ジョーンズのBTC評価やリップル幹部のXRPLの展望など",
+      "link": "https://coinpost.jp/?p=706296",
+      "pub_date": "2026-05-03T09:30:06+09:00",
+      "pub_date_utc": "2026-05-03T00:30:06+00:00",
+      "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "Solana Foundation"
+      ],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "週刊仮想通貨ニュース｜米ビットコイン準備金の重大発表予告や米クラリティー法案の進展に高い関心",
+      "link": "https://coinpost.jp/?p=706326",
+      "pub_date": "2026-05-03T09:25:41+09:00",
+      "pub_date_utc": "2026-05-03T00:25:41+00:00",
+      "description": "今週は、米トランプ政権の仮想通貨顧問によるビットコイン準備金に関する重大発表予告、米クラリティー法案の進展、JPXのCEOによる仮想通貨ETF上場検討表明に関する記事が関心を集めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "今週は、米トランプ政権の仮想通貨顧問によるビットコイン準備金に関する重大発表予告、米クラリティー法案の進展、JPXのCEOによる仮想通貨ETF上場検討表明に関する記事が関心を集めた。",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "規制の霧は晴れるのか──CLARITY法とビットコインの分岐点【エックスウィン】",
+      "link": "https://www.nadanews.com/347135/",
+      "pub_date": "2026-05-03T08:52:36+09:00",
+      "pub_date_utc": "2026-05-02T23:52:36+00:00",
+      "description": "● Digital Asset Market Clarity Act of 2025は下院可決済みだが、SECとCFTCの権限調整で上院審議が停滞● 最大の争点 The post 規制の霧は晴れるのか──CLARITY法とビットコインの分岐点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● Digital Asset Market Clarity Act of 2025は下院可決済みだが、SECとCFTCの権限調整で上院審議が停滞● 最大の争点 The post 規制の霧は晴れるのか──CLARITY法とビットコインの分岐点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [
+        "Cardano",
+        "SEC",
+        "CFTC"
+      ],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "【速報】SBI、ビットバンクの子会社化に向け協議開始／酒蔵からの「関与否定」相次ぎ──日本酒商標NFT「Sake World酒蔵投資」が事業終了【日曜日に読みたい厳選10本】",
+      "link": "https://www.nadanews.com/347091/",
+      "pub_date": "2026-05-03T08:00:00+09:00",
+      "pub_date_utc": "2026-05-02T23:00:00+00:00",
+      "description": "SBIホールディングスは1日、暗号資産（仮想通貨）取引所「bitbank」を運営するビットバンクに対し株式取得に関する意向表明書を提出し、資本業務提携に向けた協 The post 【速報】SBI、ビットバンクの子会社化に向け協議開始／酒蔵からの「関与否定」相次ぎ──日本酒商標NFT「Sake World酒蔵投資」が事業終了【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Weekend",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "SBIホールディングスは1日、暗号資産（仮想通貨）取引所「bitbank」を運営するビットバンクに対し株式取得に関する意向表明書を提出し、資本業務提携に向けた協 The post 【速報】SBI、ビットバンクの子会社化に向け協議開始／酒蔵からの「関与否定」相次ぎ──日本酒商標NFT「Sake World酒蔵投資」が事業終了【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "NFT",
+      "main_entities": [
+        "bitbank",
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "主要マイニング株、仮想通貨市場低迷でもAIシフトで上昇",
+      "link": "https://cointelegraph.jp/news/bitcoin-mining-stocks-climb-in-2026-as-btc-lags-behind?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-03T02:59:18+09:00",
+      "pub_date_utc": "2026-05-02T17:59:18+00:00",
+      "description": "上場している仮想通貨マイニング企業の株価は、仮想通貨市場全体が下落圧力を受ける中でも2026年に入り大きく上昇している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "上場している仮想通貨マイニング企業の株価は、仮想通貨市場全体が下落圧力を受ける中でも2026年に入り大きく上昇している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "イーサリアム財団が1万ETH追加売却　ETH保有企業ビットマインが取得",
+      "link": "https://cointelegraph.jp/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-03T02:47:23+09:00",
+      "pub_date_utc": "2026-05-02T17:47:23+00:00",
+      "description": "イーサリアム財団は、ビットマイン・イマージョン・テクノロジーズへの3回目となる店頭（OTC）売却を実施し、平均2292ドルで1万ETHを売却した。取引額は約2290万ドルだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "イーサリアム財団は、ビットマイン・イマージョン・テクノロジーズへの3回目となる店頭（OTC）売却を実施し、平均2292ドルで1万ETHを売却した。取引額は約2290万ドルだ。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "ビットコイン 10万ドル回復に「物語不要」　新たなストーリーより需給が主導との見方",
+      "link": "https://cointelegraph.jp/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-03T02:11:52+09:00",
+      "pub_date_utc": "2026-05-02T17:11:52+00:00",
+      "description": "ビットコイン（BTC）は、心理的節目である10万ドルを再び上回るために新たな材料やストーリーは必要ない可能性がある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は、心理的節目である10万ドルを再び上回るために新たな材料やストーリーは必要ない可能性がある。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "「100万円相当のステップン（GMT）山分け！」OKJがSTEPNクイズキャンペーンを5/10まで開催",
+      "link": "https://www.neweconomy.jp/posts/570694",
+      "pub_date": "2026-05-02T17:37:29+09:00",
+      "pub_date_utc": "2026-05-02T08:37:29+00:00",
+      "description": "ステップン（GMT）日本初上場でキャンペーン実施！ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産STEPN（GMT）の取扱いを記念した「100万円相当のGMT山分けクイズキャンペーン！」を開催中だ。キャンペーンの実施",
+      "category_raw": "ストーリー",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ステップン（GMT）日本初上場でキャンペーン実施！ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産STEPN（GMT）の取扱いを記念した「100万円相当のGMT山分けクイズキャンペーン！」を開催中だ。キャンペーンの実施",
+      "category": "イベント・人事",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "台湾でビットコイン「国家戦略資産化」の動き、外貨準備への組み入れを提言",
+      "link": "https://coinpost.jp/?p=706613",
+      "pub_date": "2026-05-02T14:30:06+09:00",
+      "pub_date_utc": "2026-05-02T05:30:06+00:00",
+      "description": "台湾議員が、ビットコイン政策研究所（BPI）の報告書を行政院長らに提出。6020億ドルの外貨準備の一部をビットコインへ割り当てる検討を要請した。地政学的リスクへの備えとして、デジタル資産の戦略的活用の議論が加速している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "台湾議員が、ビットコイン政策研究所（BPI）の報告書を行政院長らに提出。6020億ドルの外貨準備の一部をビットコインへ割り当てる検討を要請した。地政学的リスクへの備えとして、デジタル資産の戦略的活用の議論が加速している。",
+      "category": "分析・レポート",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "米クラリティー法案が重要局面に、マークアップに向け前進",
+      "link": "https://coinpost.jp/?p=706600",
+      "pub_date": "2026-05-02T13:25:36+09:00",
+      "pub_date_utc": "2026-05-02T04:25:36+00:00",
+      "description": "米上院議員が仮想通貨市場構造法案のステーブルコイン利回り条項で妥協案をまとめた。銀行委員会での採決やその後の審議に向けた重要な一歩となった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米上院議員が仮想通貨市場構造法案のステーブルコイン利回り条項で妥協案をまとめた。銀行委員会での採決やその後の審議に向けた重要な一歩となった。",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "上昇トレンド継続なるか？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+      "link": "https://cointelegraph.jp/news/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-02T11:59:44+09:00",
+      "pub_date_utc": "2026-05-02T02:59:44+00:00",
+      "description": "テクニカルチャートは、ビットコインの上昇継続が7万5000ドルを週足終値で上回れるかにかかっていることを示している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "テクニカルチャートは、ビットコインの上昇継続が7万5000ドルを週足終値で上回れるかにかかっていることを示している。",
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "カナダ年金基金AIMCo、約267億円でマイクストラテジー株を購入",
+      "link": "https://coinpost.jp/?p=706598",
+      "pub_date": "2026-05-02T11:44:48+09:00",
+      "pub_date_utc": "2026-05-02T02:44:48+00:00",
+      "description": "カナダのアルバータ州投資管理公社が2026年第1四半期に約1億7247万ドルを投じてマイクロストラテジー（MSTR）株を購入したことが判明。厳格な規制下にある北米の機関投資家が、ビットコイン現物の代替手段として同社株式を買い集める傾向が強まっている。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "カナダのアルバータ州投資管理公社が2026年第1四半期に約1億7247万ドルを投じてマイクロストラテジー（MSTR）株を購入したことが判明。厳格な規制下にある北米の機関投資家が、ビットコイン現物の代替手段として同社株式を買い集める傾向が強まっている。",
+      "category": "規制・法律",
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "XRP 市場センチメントが2年ぶり高水準、1.40ドルの壁で伸び悩み",
+      "link": "https://cointelegraph.jp/news/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-02T11:20:58+09:00",
+      "pub_date_utc": "2026-05-02T02:20:58+00:00",
+      "description": "XRP（XRP）はここ数日でソーシャルメディア上のセンチメントが急上昇したが、1.40ドル付近の上値抵抗が意識され、価格は保ち合いとなっている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "XRP（XRP）はここ数日でソーシャルメディア上のセンチメントが急上昇したが、1.40ドル付近の上値抵抗が意識され、価格は保ち合いとなっている。",
+      "category": "マーケット",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
+      "title": "コインベースら、6月末までの仮想通貨市場の回復を予測　BTC・ETH分析も",
+      "link": "https://coinpost.jp/?p=706587",
+      "pub_date": "2026-05-02T11:02:19+09:00",
+      "pub_date_utc": "2026-05-02T02:02:19+00:00",
+      "description": "コインベースとグラスノードが仮想通貨市場の最新レポートを発表。市場底打ちと6月末までの回復可能性を指摘し、ビットコインやイーサリアムの個別分析も行った。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "コインベースとグラスノードが仮想通貨市場の最新レポートを発表。市場底打ちと6月末までの回復可能性を指摘し、ビットコインやイーサリアムの個別分析も行った。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-03T10:50:55.770435+09:00"
+    },
+    {
       "title": "米CLARITY法案が成立に向けて前進　ステーブルコイン利回り規定で障壁解消か",
       "link": "https://cointelegraph.jp/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pub_date": "2026-05-02T10:18:38+09:00",
@@ -6652,8 +6920,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-02T10:47:09.814445+09:00",
-  "total_count": 372,
+  "last_updated": "2026-05-03T10:50:55.770435+09:00",
+  "total_count": 387,
   "sources": [
     "NADA NEWS",
     "CoinPost",
