@@ -1,6 +1,143 @@
 {
   "articles": [
     {
+      "title": "イーサリアムL1処理能力、次期大型アップグレード「グラムステルダム」で3倍超に届く可能性",
+      "link": "https://coinpost.jp/?p=706659",
+      "pub_date": "2026-05-04T10:05:08+09:00",
+      "pub_date_utc": "2026-05-04T01:05:08+00:00",
+      "description": "イーサリアムのコア開発者約100人が次期大型アップグレード「グラムステルダム」で集中作業を行った。ガス上限大幅引き上げで合意などスケーリングに向けた主要成果を報告している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "イーサリアムのコア開発者約100人が次期大型アップグレード「グラムステルダム」で集中作業を行った。ガス上限大幅引き上げで合意などスケーリングに向けた主要成果を報告している。",
+      "category": "Blockchain",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
+      "title": "使われてこそビットコイン──東京ビットコインベース代表・川合氏に聞いた2年目の挑戦、佐渡のライトニング構想とANAPの認知戦略【独占取材】",
+      "link": "https://www.nadanews.com/346305/",
+      "pub_date": "2026-05-04T08:00:00+09:00",
+      "pub_date_utc": "2026-05-03T23:00:00+00:00",
+      "description": "ビットコイン（BTC）の普及を目的に、東京・四谷に開業した東京ビットコインベース（TBB）が4月25日、開業1周年を迎えた。 TBBがあるのは、四ツ谷駅から徒歩 The post 使われてこそビットコイン──東京ビットコインベース代表・川合氏に聞いた2年目の挑戦、佐渡のライトニング構想とANAPの認知戦略【独占取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン（BTC）の普及を目的に、東京・四谷に開業した東京ビットコインベース（TBB）が4月25日、開業1周年を迎えた。 TBBがあるのは、四ツ谷駅から徒歩 The post 使われてこそビットコイン──東京ビットコインベース代表・川合氏に聞いた2年目の挑戦、佐渡のライトニング構想とANAPの認知戦略【独占取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Lightning Network"
+      ],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
+      "title": "機関資金は本当に価格を支配しているのか──ビットコイン需給構造の転換点【エックスウィン】",
+      "link": "https://www.nadanews.com/347266/",
+      "pub_date": "2026-05-04T07:56:07+09:00",
+      "pub_date_utc": "2026-05-03T22:56:07+00:00",
+      "description": "● ETFを中心とした機関資金が市場の主導権を握りつつある● 一方で価格と需要の乖離が発生し、短期は不安定な構造● 現物主導の強さとデリバティブ主導の弱さが共存 The post 機関資金は本当に価格を支配しているのか──ビットコイン需給構造の転換点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● ETFを中心とした機関資金が市場の主導権を握りつつある● 一方で価格と需要の乖離が発生し、短期は不安定な構造● 現物主導の強さとデリバティブ主導の弱さが共存 The post 機関資金は本当に価格を支配しているのか──ビットコイン需給構造の転換点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
+      "title": "ニューヨーク州、仮想通貨投資詐欺への関与でUphold社に500万ドルの支払いを命じる",
+      "link": "https://cointelegraph.jp/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-04T07:36:47+09:00",
+      "pub_date_utc": "2026-05-03T22:36:47+00:00",
+      "description": "ニューヨーク州のレティシア・ジェームズ司法長官は、リスクについてユーザーを誤認させた仮想通貨貯蓄商品「CredEarn」を推奨したとして、Uphold社から500万ドルの和解金を勝ち取った。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ニューヨーク州のレティシア・ジェームズ司法長官は、リスクについてユーザーを誤認させた仮想通貨貯蓄商品「CredEarn」を推奨したとして、Uphold社から500万ドルの和解金を勝ち取った。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
+      "title": "米CISA、「異常な」LinuxのCopy Fail脆弱性を注視リストに追加",
+      "link": "https://cointelegraph.jp/news/linux-copy-fail-a-trivially-exploitable-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-04T07:30:52+09:00",
+      "pub_date_utc": "2026-05-03T22:30:52+00:00",
+      "description": "研究者によると、コード実行能力を持つ悪意のある攻撃者が、わずか10行のPythonコードを使用してLinuxシステム上のルート権限を取得できる可能性がある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "研究者によると、コード実行能力を持つ悪意のある攻撃者が、わずか10行のPythonコードを使用してLinuxシステム上のルート権限を取得できる可能性がある。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
+      "title": "イラン最大の仮想通貨取引所、最高指導者と繋がりのある一族の息子たちが設立＝ロイター通信",
+      "link": "https://cointelegraph.jp/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-04T07:21:07+09:00",
+      "pub_date_utc": "2026-05-03T22:21:07+00:00",
+      "description": "イラン最大の仮想通貨取引所「Nobitex」は、同国の最高指導者らと密接な関係を持つ有力なハラジ一族の兄弟によって設立された。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "イラン最大の仮想通貨取引所「Nobitex」は、同国の最高指導者らと密接な関係を持つ有力なハラジ一族の兄弟によって設立された。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
+      "title": "ストラテジー社、第1四半期決算報告を前にビットコイン購入を一時休止",
+      "link": "https://cointelegraph.jp/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-04T07:12:26+09:00",
+      "pub_date_utc": "2026-05-03T22:12:26+00:00",
+      "description": "マイケル・セイラー氏は火曜日の決算発表を控え、BTC購入の「一時停止」を示唆した。ウォール街は第1四半期の赤字を予想している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "マイケル・セイラー氏は火曜日の決算発表を控え、BTC購入の「一時停止」を示唆した。ウォール街は第1四半期の赤字を予想している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
+      "title": "ビットコインFOMC通過後も1200万円台で推移、来週の米雇用統計に注目｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=706431",
+      "pub_date": "2026-05-03T11:30:02+09:00",
+      "pub_date_utc": "2026-05-03T02:30:02+00:00",
+      "description": "今週のビットコイン（BTC）はFOMCや日銀為替介入の影響で上値重く推移したが、1200万円近辺での底堅さを維持。先物市場ではショートが蓄積しており、上方向への余地も。来週の米雇用統計の結果が相場の方向感を左右する。bitbankアナリスト長谷川氏が今後の展望を解説。",
+      "category_raw": "市況・解説",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "今週のビットコイン（BTC）はFOMCや日銀為替介入の影響で上値重く推移したが、1200万円近辺での底堅さを維持。先物市場ではショートが蓄積しており、上方向への余地も。来週の米雇用統計の結果が相場の方向感を左右する。bitbankアナリスト長谷川氏が今後の展望を解説。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "bitbank"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-04T10:51:32.811449+09:00"
+    },
+    {
       "title": "サンフランシスコ市場レポート──CLARITY法、最終局面とビットコインの分岐点",
       "link": "https://www.nadanews.com/347142/",
       "pub_date": "2026-05-03T09:58:49+09:00",
@@ -6920,8 +7057,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-03T10:50:55.770435+09:00",
-  "total_count": 387,
+  "last_updated": "2026-05-04T10:51:32.811449+09:00",
+  "total_count": 395,
   "sources": [
     "NADA NEWS",
     "CoinPost",
