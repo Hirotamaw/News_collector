@@ -1,6 +1,327 @@
 {
   "articles": [
     {
+      "title": "テザーゴールド、2026年第1四半期準備金が36%増　時価総額約5200億円に",
+      "link": "https://coinpost.jp/?p=706718",
+      "pub_date": "2026-05-05T10:38:37+09:00",
+      "pub_date_utc": "2026-05-05T01:38:37+00:00",
+      "description": "テザーが2026年Q1のテザーゴールド（XAUT）準備金報告書を発表。現物金準備は36%増の約70万7,747トロイオンスとなり、時価総額は33億ドル超に拡大した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "テザーが2026年Q1のテザーゴールド（XAUT）準備金報告書を発表。現物金準備は36%増の約70万7,747トロイオンスとなり、時価総額は33億ドル超に拡大した。",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "ビットコイン3カ月ぶり8万ドル回復、クラリティー法案進展期待で市場心理回復｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=706703",
+      "pub_date": "2026-05-05T10:02:06+09:00",
+      "pub_date_utc": "2026-05-05T01:02:06+00:00",
+      "description": "ビットコインが約3か月ぶりに8万ドルを突破。クラリティー法案の進展を背景に機関投資家のリスク選好が強まり、恐怖・強欲指数も1月以来初めてニュートラル圏を回復した。",
+      "category_raw": "市況・解説",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットコインが約3か月ぶりに8万ドルを突破。クラリティー法案の進展を背景に機関投資家のリスク選好が強まり、恐怖・強欲指数も1月以来初めてニュートラル圏を回復した。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "Securitize、トークン化証券の保管・アトミック決済にFINRAの承認",
+      "link": "https://www.nadanews.com/347397/",
+      "pub_date": "2026-05-05T10:00:00+09:00",
+      "pub_date_utc": "2026-05-05T01:00:00+00:00",
+      "description": "実世界資産のトークン化を手がけるSecuritize（セキュリタイズ）は、子会社Securitize Markets, LLC（セキュリタイズ・マーケッツ）を通 The post Securitize、トークン化証券の保管・アトミック決済にFINRAの承認 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "実世界資産のトークン化を手がけるSecuritize（セキュリタイズ）は、子会社Securitize Markets, LLC（セキュリタイズ・マーケッツ）を通 The post Securitize、トークン化証券の保管・アトミック決済にFINRAの承認 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [
+        "Cardano",
+        "ARK Invest"
+      ],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "送金大手ウエスタン・ユニオンがステーブルコイン「USDPT」をソラナ基盤でローンチへ",
+      "link": "https://coinpost.jp/?p=706694",
+      "pub_date": "2026-05-05T09:45:19+09:00",
+      "pub_date_utc": "2026-05-05T00:45:19+00:00",
+      "description": "送金大手ウエスタン・ユニオンが仮想通貨銀行アンカレッジと組み、ソラナ上で米ドル建てステーブルコイン「USDPT」をローンチする。消費者向けサービスを40か国以上で展開予定だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "送金大手ウエスタン・ユニオンが仮想通貨銀行アンカレッジと組み、ソラナ上で米ドル建てステーブルコイン「USDPT」をローンチする。消費者向けサービスを40か国以上で展開予定だ。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "スコットランドの私立校、ビットコイン奨学金を創設　BTC準備金の構築も計画",
+      "link": "https://coinpost.jp/?p=706698",
+      "pub_date": "2026-05-05T09:17:11+09:00",
+      "pub_date_utc": "2026-05-05T00:17:11+00:00",
+      "description": "スコットランドの私立校ロモンド・スクールが、ビットコインコミュニティの寄付による全額給付型奨学金「サトシ・スカラーシップ」を創設。2年間の授業料・寄宿費を全額負担し、世界中から応募を受け付ける。同校はBTC準備金の構築も開始した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "スコットランドの私立校ロモンド・スクールが、ビットコインコミュニティの寄付による全額給付型奨学金「サトシ・スカラーシップ」を創設。2年間の授業料・寄宿費を全額負担し、世界中から応募を受け付ける。同校はBTC準備金の構築も開始した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "Binance、出金を一時停止できる新機能「Withdraw Protection」を導入──物理的な脅迫リスクに対応",
+      "link": "https://www.nadanews.com/347395/",
+      "pub_date": "2026-05-05T09:00:00+09:00",
+      "pub_date_utc": "2026-05-05T00:00:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所のBinance（バイナンス）は、ユーザー保護を強化する新たなセキュリティ機能「Withdraw Protection」を導入した。同 The post Binance、出金を一時停止できる新機能「Withdraw Protection」を導入──物理的な脅迫リスクに対応 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）取引所のBinance（バイナンス）は、ユーザー保護を強化する新たなセキュリティ機能「Withdraw Protection」を導入した。同 The post Binance、出金を一時停止できる新機能「Withdraw Protection」を導入──物理的な脅迫リスクに対応 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Binance"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "ストライブ、ビットコイン保有数が1万5000BTCを突破、444BTCを追加取得",
+      "link": "https://coinpost.jp/?p=706688",
+      "pub_date": "2026-05-05T08:37:19+09:00",
+      "pub_date_utc": "2026-05-04T23:37:19+00:00",
+      "description": "米ストライブが444BTCを約49億円で追加取得し、ビットコイン保有総数が1万5,000BTCに到達。優先株SATAを通じた独自の財務戦略で機関投資家からの注目が高まっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米ストライブが444BTCを約49億円で追加取得し、ビットコイン保有総数が1万5,000BTCに到達。優先株SATAを通じた独自の財務戦略で機関投資家からの注目が高まっている。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "DTCC、トークン化サービスの開発を前進──50社超とデジタル資産導入を推進",
+      "link": "https://www.nadanews.com/347391/",
+      "pub_date": "2026-05-05T08:30:00+09:00",
+      "pub_date_utc": "2026-05-04T23:30:00+00:00",
+      "description": "グローバル金融市場のポストトレード基盤を担うDTCC（Depository Trust & Clearing Corporation）は、子会社DTC（ The post DTCC、トークン化サービスの開発を前進──50社超とデジタル資産導入を推進 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Tokenization",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "グローバル金融市場のポストトレード基盤を担うDTCC（Depository Trust & Clearing Corporation）は、子会社DTC（ The post DTCC、トークン化サービスの開発を前進──50社超とデジタル資産導入を推進 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "4月の回復を分解する──ビットコインとイーサリアムに生じた“需給構造の分岐”【エックスウィン】",
+      "link": "https://www.nadanews.com/347399/",
+      "pub_date": "2026-05-05T08:16:00+09:00",
+      "pub_date_utc": "2026-05-04T23:16:00+00:00",
+      "description": "● BTCは+11.85%、ETHは+7.28%と伸び率に明確な差● 価格水準・高値更新ともにBTCが主導● BTCは需要主導、ETHは供給変化主導の上昇● 4 The post 4月の回復を分解する──ビットコインとイーサリアムに生じた“需給構造の分岐”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● BTCは+11.85%、ETHは+7.28%と伸び率に明確な差● 価格水準・高値更新ともにBTCが主導● BTCは需要主導、ETHは供給変化主導の上昇● 4 The post 4月の回復を分解する──ビットコインとイーサリアムに生じた“需給構造の分岐”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "ETH相場、歴史的な好調月に突入──米大口勢の買い戻りは見えず【価格分析】",
+      "link": "https://www.nadanews.com/347354/",
+      "pub_date": "2026-05-05T08:00:00+09:00",
+      "pub_date_utc": "2026-05-04T23:00:00+00:00",
+      "description": "・イーサリアム（ETH）価格は5月相場を上昇して開始したが、米国の機関投資家需要はなお低調。・上場投資信託（ETF）からの資金流出とコインベース（Coinbas The post ETH相場、歴史的な好調月に突入──米大口勢の買い戻りは見えず【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・イーサリアム（ETH）価格は5月相場を上昇して開始したが、米国の機関投資家需要はなお低調。・上場投資信託（ETF）からの資金流出とコインベース（Coinbas The post ETH相場、歴史的な好調月に突入──米大口勢の買い戻りは見えず【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "予測市場、機関投資家向け金融商品へ進化　マクロヘッジ需要が後押し",
+      "link": "https://cointelegraph.jp/news/bernstein-prediction-markets-institutional-block-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-05T07:00:00+09:00",
+      "pub_date_utc": "2026-05-04T22:00:00+00:00",
+      "description": "バーンスタインのレポートによれば、予測市場は個人投資家の投機的なプラットフォームから、機関投資家向けの金融商品へと進化しつつある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "バーンスタインのレポートによれば、予測市場は個人投資家の投機的なプラットフォームから、機関投資家向けの金融商品へと進化しつつある。",
+      "category": "分析・レポート",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "米SEC、予測市場連動ETFの審査延期　開示と構造の追加情報を要求",
+      "link": "https://cointelegraph.jp/news/prediction-market-etf-sec-delay-mechanics-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-05T06:00:00+09:00",
+      "pub_date_utc": "2026-05-04T21:00:00+00:00",
+      "description": "米証券取引委員会（SEC）は、予測市場に連動する初の上場投資信託（ETF）の上場を延期した。商品構造や開示内容について追加情報を求めたためだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米証券取引委員会（SEC）は、予測市場に連動する初の上場投資信託（ETF）の上場を延期した。商品構造や開示内容について追加情報を求めたためだ。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "イーサリアムL2「Base」がゼロ知識証明導入へ──最大7日かかった出金を1日程度に短縮",
+      "link": "https://www.nadanews.com/347257/",
+      "pub_date": "2026-05-05T02:00:00+09:00",
+      "pub_date_utc": "2026-05-04T17:00:00+00:00",
+      "description": "暗号技術スタートアップのSuccinct Labs（サクシンクト・ラボ）は米時間4日、同社のゼロ知識仮想マシン「SP1」が大手暗号資産（仮想通貨）取引所Coin The post イーサリアムL2「Base」がゼロ知識証明導入へ──最大7日かかった出金を1日程度に短縮 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号技術スタートアップのSuccinct Labs（サクシンクト・ラボ）は米時間4日、同社のゼロ知識仮想マシン「SP1」が大手暗号資産（仮想通貨）取引所Coin The post イーサリアムL2「Base」がゼロ知識証明導入へ──最大7日かかった出金を1日程度に短縮 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Base"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "ビットコイン 8万ドル突破で上昇加速なるか　次の焦点は8万4000ドル",
+      "link": "https://cointelegraph.jp/news/bitcoin-in-disbelief-rally-as-traders-eye-84k-btc-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-05T00:54:01+09:00",
+      "pub_date_utc": "2026-05-04T15:54:01+00:00",
+      "description": "ビットコイン（BTC）は月曜日のアジア時間に8万ドルを突破し、市場アナリストは上昇モメンタムが強まる局面に入ったとの見方を示している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は月曜日のアジア時間に8万ドルを突破し、市場アナリストは上昇モメンタムが強まる局面に入ったとの見方を示している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "ビットコイン、機関投資家の需要拡大で9万6000ドル視野　供給圧迫が上昇後押し",
+      "link": "https://cointelegraph.jp/news/bitcoin-price-eyes-96k-as-institutions-absorb-500-of-daily-btc-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-05T00:28:33+09:00",
+      "pub_date_utc": "2026-05-04T15:28:33+00:00",
+      "description": "ビットコイン（BTC）は、機関投資家が日次の新規供給量の5倍以上を吸収していることから、6月までに9万6000ドルへ上昇する可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は、機関投資家が日次の新規供給量の5倍以上を吸収していることから、6月までに9万6000ドルへ上昇する可能性がある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "Anthropic評価額、BTC時価総額超えの可能性──マスク氏対OpenAIの訴訟で予測市場が反応【価格分析】",
+      "link": "https://www.nadanews.com/347339/",
+      "pub_date": "2026-05-04T22:04:11+09:00",
+      "pub_date_utc": "2026-05-04T13:04:11+00:00",
+      "description": "・イーロン・マスク氏の証言によりOpenAIへの監視が強まり、同社の評価額をめぐる不透明感が高まっている。・企業需要の拡大とOpenAIをめぐる騒動の波及を背景 The post Anthropic評価額、BTC時価総額超えの可能性──マスク氏対OpenAIの訴訟で予測市場が反応【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・イーロン・マスク氏の証言によりOpenAIへの監視が強まり、同社の評価額をめぐる不透明感が高まっている。・企業需要の拡大とOpenAIをめぐる騒動の波及を背景 The post Anthropic評価額、BTC時価総額超えの可能性──マスク氏対OpenAIの訴訟で予測市場が反応【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "サトシ・ナカモト保有の初期ビットコインを量子脅威からどう守るか、凍結案巡り議論",
+      "link": "https://coinpost.jp/?p=706667",
+      "pub_date": "2026-05-04T12:06:32+09:00",
+      "pub_date_utc": "2026-05-04T03:06:32+00:00",
+      "description": "ギャラクシー・デジタルのソーン氏が「ビットコイン2026」に出席し、量子コンピュータ対策に関して業界の共通認識が形成されつつあると報告した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ギャラクシー・デジタルのソーン氏が「ビットコイン2026」に出席し、量子コンピュータ対策に関して業界の共通認識が形成されつつあると報告した。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
+      "title": "日本の予測市場を予測する【記者コラム】",
+      "link": "https://www.nadanews.com/347273/",
+      "pub_date": "2026-05-04T11:22:54+09:00",
+      "pub_date_utc": "2026-05-04T02:22:54+00:00",
+      "description": "ゴールデンウイークに、漫画「銀と金」を読み返していた。 「カイジ」で知られる福本伸行さんの作品だが、その中にギャンブラーの心理を突いたシーンがある。 裏社会で生 The post 日本の予測市場を予測する【記者コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Opinion",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ゴールデンウイークに、漫画「銀と金」を読み返していた。 「カイジ」で知られる福本伸行さんの作品だが、その中にギャンブラーの心理を突いたシーンがある。 裏社会で生 The post 日本の予測市場を予測する【記者コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Blur"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-05T10:51:47.543259+09:00"
+    },
+    {
       "title": "イーサリアムL1処理能力、次期大型アップグレード「グラムステルダム」で3倍超に届く可能性",
       "link": "https://coinpost.jp/?p=706659",
       "pub_date": "2026-05-04T10:05:08+09:00",
@@ -7057,8 +7378,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-04T10:51:32.811449+09:00",
-  "total_count": 395,
+  "last_updated": "2026-05-05T10:51:47.543259+09:00",
+  "total_count": 413,
   "sources": [
     "NADA NEWS",
     "CoinPost",
