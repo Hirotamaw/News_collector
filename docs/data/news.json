@@ -1,6 +1,381 @@
 {
   "articles": [
     {
+      "title": "米上場セカンス、転換社債償還でビットコインを売却　昨年末の約半分に減少",
+      "link": "https://coinpost.jp/?p=706764",
+      "pub_date": "2026-05-06T10:46:15+09:00",
+      "pub_date_utc": "2026-05-06T01:46:15+00:00",
+      "description": "米上場セカンスが転換社債償還のため2025年末から1,025BTCを売却、4月末保有残高は1,114BTCに。実現損1,170万ドルと評価損2,930万ドルが重なりQ1純損失は5,430万ドルに達した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米上場セカンスが転換社債償還のため2025年末から1,025BTCを売却、4月末保有残高は1,114BTCに。実現損1,170万ドルと評価損2,930万ドルが重なりQ1純損失は5,430万ドルに達した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "トンコインが8時間で30％上昇──テレグラムが6年ぶりにTONへの本格関与を再開【価格分析】",
+      "link": "https://www.nadanews.com/347443/",
+      "pub_date": "2026-05-06T10:33:28+09:00",
+      "pub_date_utc": "2026-05-06T01:33:28+00:00",
+      "description": "・トンコイン（TON）は、Pavel Durov氏がテレグラム（Telegram）のバリデーション参加拡大を明らかにした後、8時間で30％上昇した。・Teleg The post トンコインが8時間で30％上昇──テレグラムが6年ぶりにTONへの本格関与を再開【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・トンコイン（TON）は、Pavel Durov氏がテレグラム（Telegram）のバリデーション参加拡大を明らかにした後、8時間で30％上昇した。・Teleg The post トンコインが8時間で30％上昇──テレグラムが6年ぶりにTONへの本格関与を再開【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Toncoin"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "「量子コンピュータのリスクはビットコイン価格下落の主因ではない可能性」グレースケール見解",
+      "link": "https://coinpost.jp/?p=706751",
+      "pub_date": "2026-05-06T09:52:08+09:00",
+      "pub_date_utc": "2026-05-06T00:52:08+00:00",
+      "description": "グレースケールのリサーチ責任者が、量子リスクは仮想通貨ビットコイン価格下落の主因ではない可能性が高いと分析した。量子関連株とBTCの相関を解説している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "グレースケールのリサーチ責任者が、量子リスクは仮想通貨ビットコイン価格下落の主因ではない可能性が高いと分析した。量子関連株とBTCの相関を解説している。",
+      "category": "マーケット",
+      "main_entities": [
+        "Grayscale"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "HYPEのDAT保有比率が流通量の約9%に、BTCやETHなどを上回る＝レポート",
+      "link": "https://coinpost.jp/?p=706758",
+      "pub_date": "2026-05-06T09:37:22+09:00",
+      "pub_date_utc": "2026-05-06T00:37:22+00:00",
+      "description": "ビットコイン・スイスの分析によると、HYPEのDAT保有比率が流通量の約9%に達し、BTC・ETH・SOL・BNBを上回る。ETF申請の進展も加わり、需給構造が注目される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットコイン・スイスの分析によると、HYPEのDAT保有比率が流通量の約9%に達し、BTC・ETH・SOL・BNBを上回る。ETF申請の進展も加わり、需給構造が注目される。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "State StreetとGalaxy、オンチェーン現金管理ファンド「SWEEP」をローンチ",
+      "link": "https://www.nadanews.com/347436/",
+      "pub_date": "2026-05-06T09:00:00+09:00",
+      "pub_date_utc": "2026-05-06T00:00:00+00:00",
+      "description": "State Street Investment Management（ステート・ストリート・インベストメント・マネジメント）と、Galaxy Digital（ギ The post State StreetとGalaxy、オンチェーン現金管理ファンド「SWEEP」をローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "State Street Investment Management（ステート・ストリート・インベストメント・マネジメント）と、Galaxy Digital（ギ The post State StreetとGalaxy、オンチェーン現金管理ファンド「SWEEP」をローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "米CME、ビットコイン・ボラティリティ先物を6月1日に上場へ",
+      "link": "https://coinpost.jp/?p=706746",
+      "pub_date": "2026-05-06T08:56:19+09:00",
+      "pub_date_utc": "2026-05-05T23:56:19+00:00",
+      "description": "CMEグループが6月1日、世界初の規制対応ビットコイン・ボラティリティ先物を上場予定。BVXに連動し、価格方向性ではなく変動リスクを直接取引できる新商品で、規制当局の審査を経て提供される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "CMEグループが6月1日、世界初の規制対応ビットコイン・ボラティリティ先物を上場予定。BVXに連動し、価格方向性ではなく変動リスクを直接取引できる新商品で、規制当局の審査を経て提供される。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "仮想通貨PAC、予備選挙を前にインディアナ州の候補者支援に50万ドルを投入",
+      "link": "https://cointelegraph.jp/news/crypto-pac-spending-indiana-candidate-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-06T08:48:31+09:00",
+      "pub_date_utc": "2026-05-05T23:48:31+00:00",
+      "description": "インディアナ州の予備選挙を数日後に控え、「Defend American Jobs」PACは、同州第4選挙区で再選を目指す共和党下院議員のメディア支援に約51万4,000ドルを支出したと報告した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "インディアナ州の予備選挙を数日後に控え、「Defend American Jobs」PACは、同州第4選挙区で再選を目指す共和党下院議員のメディア支援に約51万4,000ドルを支出したと報告した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "ビットコインのショート清算が数カ月ぶりの高値を後押し：次は9万ドルか？",
+      "link": "https://cointelegraph.jp/news/bitcoin-eyes-clear-path-to-90k-as-79b-shorts-unwind-since-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-06T08:43:50+09:00",
+      "pub_date_utc": "2026-05-05T23:43:50+00:00",
+      "description": "ショートの清算と未決済建玉の増加は、ビットコイン価格を9万ドル付近まで押し上げようとする強気派の計画の兆候である可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ショートの清算と未決済建玉の増加は、ビットコイン価格を9万ドル付近まで押し上げようとする強気派の計画の兆候である可能性がある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "Forward IndustriesとRockawayX、Solana上でのオンチェーン再保険構築を目指すOnReに出資",
+      "link": "https://cointelegraph.jp/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-06T08:37:38+09:00",
+      "pub_date_utc": "2026-05-05T23:37:38+00:00",
+      "description": "オンチェーン再保険が機関投資家の参入を促す中、投資家らは保険リスクと資本フローをブロックチェーン上に移行させるモデルを支持している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "オンチェーン再保険が機関投資家の参入を促す中、投資家らは保険リスクと資本フローをブロックチェーン上に移行させるモデルを支持している。",
+      "category": "Security Token",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "KrakenとMoneyGramが提携──暗号資産を現金で引き出せるグローバル出金網を構築",
+      "link": "https://www.nadanews.com/347434/",
+      "pub_date": "2026-05-06T08:30:00+09:00",
+      "pub_date_utc": "2026-05-05T23:30:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は、国際送金ネットワーク大手MoneyGram（マネーグラム）との戦略的グローバル提携を発表した。今回の提携 The post KrakenとMoneyGramが提携──暗号資産を現金で引き出せるグローバル出金網を構築 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は、国際送金ネットワーク大手MoneyGram（マネーグラム）との戦略的グローバル提携を発表した。今回の提携 The post KrakenとMoneyGramが提携──暗号資産を現金で引き出せるグローバル出金網を構築 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Kraken"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "TDコーウェン「銀行と仮想通貨に妥協点なし」　クラリティ法案成立リスクが高まる",
+      "link": "https://coinpost.jp/?p=706742",
+      "pub_date": "2026-05-06T08:25:44+09:00",
+      "pub_date_utc": "2026-05-05T23:25:44+00:00",
+      "description": "米投資銀行TDカウエンは、銀行5団体がステーブルコインのイールド妥協案に反発したことを受け、クラリティ法案の今年中の成立リスクがさらに高まったと警告した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米投資銀行TDカウエンは、銀行5団体がステーブルコインのイールド妥協案に反発したことを受け、クラリティ法案の今年中の成立リスクがさらに高まったと警告した。",
+      "category": "DeFi",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "リップル社CEO、ステーブルコインの妥協案成立後も市場構造法案は「確定事項ではない」と発言",
+      "link": "https://cointelegraph.jp/news/ripple-ceo-market-structure-progress-stablecoin-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-06T08:23:03+09:00",
+      "pub_date_utc": "2026-05-05T23:23:03+00:00",
+      "description": "米議員らが法案進展に繋がるステーブルコインの利回りに関する妥協案を発表したことを受け、ブラッド・ガーリングハウス氏は火曜日の仮想通貨カンファレンスで「CLARITY法案」の進捗について語った。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米議員らが法案進展に繋がるステーブルコインの利回りに関する妥協案を発表したことを受け、ブラッド・ガーリングハウス氏は火曜日の仮想通貨カンファレンスで「CLARITY法案」の進捗について語った。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "Coinbase、従業員の約14％を削減へ──AIネイティブな組織運営へ転換",
+      "link": "https://www.nadanews.com/347432/",
+      "pub_date": "2026-05-06T08:00:00+09:00",
+      "pub_date_utc": "2026-05-05T23:00:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）は、従業員の約14％を削減すると発表した。ナスダック上場企業である同社は、市場低迷への対応と、AIを中 The post Coinbase、従業員の約14％を削減へ──AIネイティブな組織運営へ転換 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）取引所Coinbase（コインベース）は、従業員の約14％を削減すると発表した。ナスダック上場企業である同社は、市場低迷への対応と、AIを中 The post Coinbase、従業員の約14％を削減へ──AIネイティブな組織運営へ転換 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Base"
+      ],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "ビットコインはなぜ93,000ドルが上値目安となるのか──CMEギャップの構造分析【エックスウィン】",
+      "link": "https://www.nadanews.com/347438/",
+      "pub_date": "2026-05-06T07:50:00+09:00",
+      "pub_date_utc": "2026-05-05T22:50:00+00:00",
+      "description": "● CMEギャップは「価格の空白」であり、多くの投資家が意識するポイント● 埋めにいく理由は価格の性質ではなく「ポジションの整理」にある● 現在は先物ポジション The post ビットコインはなぜ93,000ドルが上値目安となるのか──CMEギャップの構造分析【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● CMEギャップは「価格の空白」であり、多くの投資家が意識するポイント● 埋めにいく理由は価格の性質ではなく「ポジションの整理」にある● 現在は先物ポジション The post ビットコインはなぜ93,000ドルが上値目安となるのか──CMEギャップの構造分析【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "BTCと原油の相関が反転──ETFに約12億ドル流入、停戦リスク下でロング偏重が鮮明に【価格分析】",
+      "link": "https://www.nadanews.com/347416/",
+      "pub_date": "2026-05-05T21:21:02+09:00",
+      "pub_date_utc": "2026-05-05T12:21:02+00:00",
+      "description": "・ビットコイン（BTC）は8万500ドルを上回って上昇を続ける一方、原油価格は112ドル超の記録的高値圏で推移している。・先物データでは10億ドル規模のロング偏 The post BTCと原油の相関が反転──ETFに約12億ドル流入、停戦リスク下でロング偏重が鮮明に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・ビットコイン（BTC）は8万500ドルを上回って上昇を続ける一方、原油価格は112ドル超の記録的高値圏で推移している。・先物データでは10億ドル規模のロング偏 The post BTCと原油の相関が反転──ETFに約12億ドル流入、停戦リスク下でロング偏重が鮮明に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "米SEC、予測市場ETFに追加情報要求　上場一時延期",
+      "link": "https://coinpost.jp/?p=706733",
+      "pub_date": "2026-05-05T13:17:20+09:00",
+      "pub_date_utc": "2026-05-05T04:17:20+00:00",
+      "description": "米SECが予測市場連動型ETFの上場を延期した。3社・24本超が対象で、商品設計と開示の追加情報を要求している。予測市場を巡っては、インサイダー取引への警戒感やCFTCと州政府との管轄権争いも背景にある。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米SECが予測市場連動型ETFの上場を延期した。3社・24本超が対象で、商品設計と開示の追加情報を要求している。予測市場を巡っては、インサイダー取引への警戒感やCFTCと州政府との管轄権争いも背景にある。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [
+        "CFTC"
+      ],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "ビットコイン 3カ月ぶり高値更新　8万ドル定着には8万1500ドルが分岐点",
+      "link": "https://cointelegraph.jp/news/bitcoin-eyes-80k-support-flip-with-key-holder-cost-basis-in-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-05T11:38:32+09:00",
+      "pub_date_utc": "2026-05-05T02:38:32+00:00",
+      "description": "仮想通貨市場はビットコインが8万ドルを上回ったことで楽観ムードが広がっているが、強気トレンドを確実なものにするには短期保有者のコスト水準を上抜ける必要がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "仮想通貨市場はビットコインが8万ドルを上回ったことで楽観ムードが広がっているが、強気トレンドを確実なものにするには短期保有者のコスト水準を上抜ける必要がある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "ビットマイン、保有イーサリアムが518万枚に到達　強気姿勢を維持",
+      "link": "https://coinpost.jp/?p=706722",
+      "pub_date": "2026-05-05T11:31:44+09:00",
+      "pub_date_utc": "2026-05-05T02:31:44+00:00",
+      "description": "ビットマインが保有する仮想通貨イーサリアムが時価1.9兆円相当に達した。ETH総供給量の4.29%超に相当する。リー会長は仮想通貨市場の回復に強気の見解を示している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットマインが保有する仮想通貨イーサリアムが時価1.9兆円相当に達した。ETH総供給量の4.29%超に相当する。リー会長は仮想通貨市場の回復に強気の見解を示している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "BTC 8万ドル突破後のシナリオは？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+      "link": "https://cointelegraph.jp/news/price-predictions-54-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-05T11:17:23+09:00",
+      "pub_date_utc": "2026-05-05T02:17:23+00:00",
+      "description": "ビットコインは8万ドルの維持を狙い、強気派が主導権争いを続けている。アルトコインも追随するのか。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインは8万ドルの維持を狙い、強気派が主導権争いを続けている。アルトコインも追随するのか。",
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "ビットコイン・オンチェーン活動が2年ぶり低水準、価格回復との乖離が鮮明＝Santiment",
+      "link": "https://coinpost.jp/?p=706724",
+      "pub_date": "2026-05-05T11:07:03+09:00",
+      "pub_date_utc": "2026-05-05T02:07:03+00:00",
+      "description": "オンチェーン分析のサンティメントが、BTCが8万ドルを回復するなかオンチェーン活動が2年ぶり低水準に落ち込んでいると指摘。価格上昇の持続性に注意が必要だと警告した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "オンチェーン分析のサンティメントが、BTCが8万ドルを回復するなかオンチェーン活動が2年ぶり低水準に落ち込んでいると指摘。価格上昇の持続性に注意が必要だと警告した。",
+      "category": "分析・レポート",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
+      "title": "「全部トップにしていく」──SBI北尾氏が語った金融の構造競争【編集長コラム】",
+      "link": "https://www.nadanews.com/347330/",
+      "pub_date": "2026-05-05T11:00:00+09:00",
+      "pub_date_utc": "2026-05-05T02:00:00+00:00",
+      "description": "ゴールデンウィークの合間の5月1日、SBIホールディングスは重要な発表を立て続けに行った。 ビットバンクの子会社化、BTCなどが貯まるクレジットカードの発行、V The post 「全部トップにしていく」──SBI北尾氏が語った金融の構造競争【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Opinion",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ゴールデンウィークの合間の5月1日、SBIホールディングスは重要な発表を立て続けに行った。 ビットバンクの子会社化、BTCなどが貯まるクレジットカードの発行、V The post 「全部トップにしていく」──SBI北尾氏が語った金融の構造競争【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "bitbank",
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-06T10:50:56.008947+09:00"
+    },
+    {
       "title": "テザーゴールド、2026年第1四半期準備金が36%増　時価総額約5200億円に",
       "link": "https://coinpost.jp/?p=706718",
       "pub_date": "2026-05-05T10:38:37+09:00",
@@ -7378,8 +7753,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-05T10:51:47.543259+09:00",
-  "total_count": 413,
+  "last_updated": "2026-05-06T10:50:56.008947+09:00",
+  "total_count": 434,
   "sources": [
     "NADA NEWS",
     "CoinPost",
