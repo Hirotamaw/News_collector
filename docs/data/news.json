@@ -1,6 +1,447 @@
 {
   "articles": [
     {
+      "title": "ビットコイン 再び上昇局面か？ 次の焦点は9万2000ドル",
+      "link": "https://cointelegraph.jp/news/bitcoins-sth-cost-basis-suggests-92k-is-the-next-stop-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-07T10:50:20+09:00",
+      "pub_date_utc": "2026-05-07T01:50:20+00:00",
+      "description": "ビットコイン（BTC）は水曜日のアジア時間に買いが再開し、数カ月ぶり高値となる8万2240ドルまで上昇した。次の主要ターゲットは9万2000ドルとなる可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は水曜日のアジア時間に買いが再開し、数カ月ぶり高値となる8万2240ドルまで上昇した。次の主要ターゲットは9万2000ドルとなる可能性がある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "ストラテジー、「ビットコイン売却」による配当原資の可能性に言及＝報道",
+      "link": "https://www.neweconomy.jp/posts/571268",
+      "pub_date": "2026-05-07T10:26:25+09:00",
+      "pub_date_utc": "2026-05-07T01:26:25+00:00",
+      "description": "Q1は約125億ドルの純損失 米ナスダック上場のビットコイン（BTC）保有企業ストラテジー（Strategy）のエグゼクティブ・チェアマンであるマイケル・セイラー（Michael Saylor）氏が、同社の配当支払いに関",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Q1は約125億ドルの純損失 米ナスダック上場のビットコイン（BTC）保有企業ストラテジー（Strategy）のエグゼクティブ・チェアマンであるマイケル・セイラー（Michael Saylor）氏が、同社の配当支払いに関",
+      "category": "ビジネス",
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "コア・サイエンティフィック、マイニング企業を約660億円で買収　AIデータセンター拡張へ",
+      "link": "https://coinpost.jp/?p=706900",
+      "pub_date": "2026-05-07T10:15:19+09:00",
+      "pub_date_utc": "2026-05-07T01:15:19+00:00",
+      "description": "コア・サイエンティフィック（CORZ）がビットコインマイナーのPolaris DSを約660億円で買収。オクラホマ州拠点の電力容量を1.5GWへ拡大し、AI向けデータセンター事業を加速する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "コア・サイエンティフィック（CORZ）がビットコインマイナーのPolaris DSを約660億円で買収。オクラホマ州拠点の電力容量を1.5GWへ拡大し、AI向けデータセンター事業を加速する。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "“NIKKEI・NADAデジタルアセットカンファレンス2026” を11月に開催",
+      "link": "https://www.nadanews.com/347487/",
+      "pub_date": "2026-05-07T10:11:27+09:00",
+      "pub_date_utc": "2026-05-07T01:11:27+00:00",
+      "description": "NADA NEWSを運営するN.Avenueは、日本経済新聞社メディアビジネスと共同で、デジタル資産領域のフラッグシップカンファレンス「NIKKEI・NADAデ The post “NIKKEI・NADAデジタルアセットカンファレンス2026” を11月に開催 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "EVENT",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "NADA NEWSを運営するN.Avenueは、日本経済新聞社メディアビジネスと共同で、デジタル資産領域のフラッグシップカンファレンス「NIKKEI・NADAデ The post “NIKKEI・NADAデジタルアセットカンファレンス2026” を11月に開催 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "イベント・人事",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "南米コロンビア大統領、カリブ海沿岸でビットコイン採掘を提案",
+      "link": "https://coinpost.jp/?p=706829",
+      "pub_date": "2026-05-07T09:50:11+09:00",
+      "pub_date_utc": "2026-05-07T00:50:11+00:00",
+      "description": "南米コロンビアのペトロ大統領は5月6日、カリブ海沿岸地域でビットコイン採掘を推進する構想を発表した。再生可能エネルギーの余剰電力を活用し、パラグアイやベネズエラのモデルに倣って外国資本誘致と地域開発を目指している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "南米コロンビアのペトロ大統領は5月6日、カリブ海沿岸地域でビットコイン採掘を推進する構想を発表した。再生可能エネルギーの余剰電力を活用し、パラグアイやベネズエラのモデルに倣って外国資本誘致と地域開発を目指している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "「メタ社などのステーブルコイン採用は仮想通貨にも追い風になる可能性」ビットワイズ幹部が見解",
+      "link": "https://coinpost.jp/?p=706848",
+      "pub_date": "2026-05-07T08:25:57+09:00",
+      "pub_date_utc": "2026-05-06T23:25:57+00:00",
+      "description": "ビットワイズの最高投資責任者は、ステーブルコインが広く普及することの影響について論じた。大手企業の採用が増えれば仮想通貨ビットコインやDeFiにとっても追い風になりうると指摘している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットワイズの最高投資責任者は、ステーブルコインが広く普及することの影響について論じた。大手企業の採用が増えれば仮想通貨ビットコインやDeFiにとっても追い風になりうると指摘している。",
+      "category": "DeFi",
+      "main_entities": [
+        "Meta"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "オンド・リップル・JPモルガン、初のトークン化米国債国際決済に成功",
+      "link": "https://coinpost.jp/?p=706849",
+      "pub_date": "2026-05-07T07:55:26+09:00",
+      "pub_date_utc": "2026-05-06T22:55:26+00:00",
+      "description": "オンド・ファイナンスはJPモルガン、マスターカード、リップルと共同でトークン化米国債の国際間・銀行間償還に初めて成功した。XRPレジャーを利用し、従来の銀行営業時間外での即時決済を実現している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "オンド・ファイナンスはJPモルガン、マスターカード、リップルと共同でトークン化米国債の国際間・銀行間償還に初めて成功した。XRPレジャーを利用し、従来の銀行営業時間外での即時決済を実現している。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple",
+        "JPMorgan"
+      ],
+      "related_entities": [
+        "Mastercard",
+        "Ledger"
+      ],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "アルトコインは上昇継続か　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+      "link": "https://cointelegraph.jp/news/price-predictions-56-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-07T07:49:48+09:00",
+      "pub_date_utc": "2026-05-06T22:49:48+00:00",
+      "description": "ビットコインが8万4,000ドルに達すれば売り手が現れる可能性があるが、アルトコインのチャートは引き続き価格の新高値を予測している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインが8万4,000ドルに達すれば売り手が現れる可能性があるが、アルトコインのチャートは引き続き価格の新高値を予測している。",
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "米上院議員、仮想通貨市場構造法案の採決が8月までに行われる可能性を示唆",
+      "link": "https://cointelegraph.jp/news/kirsten-gillibrand-crypto-market-structure-august-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-07T07:35:32+09:00",
+      "pub_date_utc": "2026-05-06T22:35:32+00:00",
+      "description": "キルステン・ギリブランド氏は、CLARITY法案の採決前に、議員が「インサイダーの立場を利用して業界から利益を得る」可能性を排除するための倫理規定に対処する必要があると述べた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "キルステン・ギリブランド氏は、CLARITY法案の採決前に、議員が「インサイダーの立場を利用して業界から利益を得る」可能性を排除するための倫理規定に対処する必要があると述べた。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "「絶対に売らない」から「金融プラットフォーム」へ──Strategy社が変え始めたビットコイン市場の構造【エックスウィン】",
+      "link": "https://www.nadanews.com/347478/",
+      "pub_date": "2026-05-07T07:31:30+09:00",
+      "pub_date_utc": "2026-05-06T22:31:30+00:00",
+      "description": "● Strategy社は「BTCを永久保有する企業」から、「BTCを中心に資本を循環させる金融プラットフォーム」へ変化し始めている。● STRCなどの優先株を通 The post 「絶対に売らない」から「金融プラットフォーム」へ──Strategy社が変え始めたビットコイン市場の構造【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● Strategy社は「BTCを永久保有する企業」から、「BTCを中心に資本を循環させる金融プラットフォーム」へ変化し始めている。● STRCなどの優先株を通 The post 「絶対に売らない」から「金融プラットフォーム」へ──Strategy社が変え始めたビットコイン市場の構造【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "ビットコイン・ドミナンスが61%を突破：アルトコインは追随するか？",
+      "link": "https://cointelegraph.jp/news/bitcoin-market-dominance-moves-above-61-will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-07T07:30:59+09:00",
+      "pub_date_utc": "2026-05-06T22:30:59+00:00",
+      "description": "ビットコイン（BTC）が仮想通貨市場の資金流入を牽引し、市場占有率（ドミナンス）は61%を超えた。一方で、バイナンス上場のアルトコインの取引シェアが3月に49%に達したとのデータも示されている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）が仮想通貨市場の資金流入を牽引し、市場占有率（ドミナンス）は61%を超えた。一方で、バイナンス上場のアルトコインの取引シェアが3月に49%に達したとのデータも示されている。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Binance"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "Hut 8の投資家、第1四半期の赤字を軽視　株価は33%急騰",
+      "link": "https://cointelegraph.jp/news/hut-8s-stock-surge-q1-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-07T07:20:37+09:00",
+      "pub_date_utc": "2026-05-06T22:20:37+00:00",
+      "description": "同社は隣接するハイパフォーマンス・コンピューティング（HPC）分野への多角化を継続しており、新たにAIエネルギーリースの契約を発表した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "同社は隣接するハイパフォーマンス・コンピューティング（HPC）分野への多角化を継続しており、新たにAIエネルギーリースの契約を発表した。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "トランプ政権の仮想通貨顧問、ビットコイン準備金の詳細を今後数週間以内に公表すると発言",
+      "link": "https://coinpost.jp/?p=706830",
+      "pub_date": "2026-05-07T07:16:18+09:00",
+      "pub_date_utc": "2026-05-06T22:16:18+00:00",
+      "description": "トランプ政権の仮想通貨顧問パトリック・ウィット氏は、今後数週間以内にビットコイン準備金に関する新情報発表を行うと述べた。大統領令の法制化を目指すARMA法案の提出も控えており、国家備蓄としての法的枠組みの整備に向けた動きが再び活発化。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "トランプ政権の仮想通貨顧問パトリック・ウィット氏は、今後数週間以内にビットコイン準備金に関する新情報発表を行うと述べた。大統領令の法制化を目指すARMA法案の提出も控えており、国家備蓄としての法的枠組みの整備に向けた動きが再び活発化。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "Kraken Pro、米個人向けにCFTC規制下のスポット証拠金取引を開始",
+      "link": "https://www.nadanews.com/347476/",
+      "pub_date": "2026-05-07T07:00:00+09:00",
+      "pub_date_utc": "2026-05-06T22:00:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は、米国の個人トレーダー向けに、Kraken Pro（クラーケン・プロ）上で規制下のスポット証拠金取引の提供 The post Kraken Pro、米個人向けにCFTC規制下のスポット証拠金取引を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は、米国の個人トレーダー向けに、Kraken Pro（クラーケン・プロ）上で規制下のスポット証拠金取引の提供 The post Kraken Pro、米個人向けにCFTC規制下のスポット証拠金取引を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "Kraken",
+        "CFTC"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "アーベがケルプDAO攻撃者の資産を強制清算、2.9億ドルの被害回復が前進",
+      "link": "https://coinpost.jp/?p=706831",
+      "pub_date": "2026-05-07T06:50:39+09:00",
+      "pub_date_utc": "2026-05-06T21:50:39+00:00",
+      "description": "分散型貸付プロトコルのAaveは5月7日、Kelp DAO攻撃者のrsETHポジションを清算したと発表した。DeFi United主導の救済計画に基づき、確保された約3.2億ドルの資金を用いて被害を受けたユーザーへの補償と市場の安定化が進められている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "分散型貸付プロトコルのAaveは5月7日、Kelp DAO攻撃者のrsETHポジションを清算したと発表した。DeFi United主導の救済計画に基づき、確保された約3.2億ドルの資金を用いて被害を受けたユーザーへの補償と市場の安定化が進められている。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Aave"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "CME Group、BTCボラティリティ先物を6月1日にローンチへ──価格ではなく変動率を取引対象に",
+      "link": "https://www.nadanews.com/347474/",
+      "pub_date": "2026-05-07T06:30:00+09:00",
+      "pub_date_utc": "2026-05-06T21:30:00+00:00",
+      "description": "世界的なデリバティブ市場運営会社CME Group（CMEグループ）は、デジタル資産関連商品の拡充として、ビットコイン（BTC）ボラティリティ先物を6月1日にロ The post CME Group、BTCボラティリティ先物を6月1日にローンチへ──価格ではなく変動率を取引対象に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "世界的なデリバティブ市場運営会社CME Group（CMEグループ）は、デジタル資産関連商品の拡充として、ビットコイン（BTC）ボラティリティ先物を6月1日にロ The post CME Group、BTCボラティリティ先物を6月1日にローンチへ──価格ではなく変動率を取引対象に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "ホワイトハウスがクラリティー法案の7月4日成立を目標設定、来週にも上院委員会の採決へ",
+      "link": "https://coinpost.jp/?p=706832",
+      "pub_date": "2026-05-07T06:20:47+09:00",
+      "pub_date_utc": "2026-05-06T21:20:47+00:00",
+      "description": "ホワイトハウスの仮想通貨顧問パトリック・ウィット氏が7月4日の独立記念日を法案成立の目標日に設定した。倫理条項をめぐる民主党との交渉は進展しており、上院銀行委員会の採決は来週にも行われる可能性がある。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ホワイトハウスの仮想通貨顧問パトリック・ウィット氏が7月4日の独立記念日を法案成立の目標日に設定した。倫理条項をめぐる民主党との交渉は進展しており、上院銀行委員会の採決は来週にも行われる可能性がある。",
+      "category": "規制・法律",
+      "main_entities": [
+        "ホワイトハウス"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "Ripple、JPMorgan、Mastercard、Ondoが連携──XRP Ledgerでトークン化米国債ファンドを国際決済",
+      "link": "https://www.nadanews.com/347470/",
+      "pub_date": "2026-05-07T06:00:00+09:00",
+      "pub_date_utc": "2026-05-06T21:00:00+00:00",
+      "description": "Ripple（リップル）、JPMorgan（JPモルガン）、Mastercard（マスターカード）、Ondo Finance（オンド・ファイナンス）は、トークン The post Ripple、JPMorgan、Mastercard、Ondoが連携──XRP Ledgerでトークン化米国債ファンドを国際決済 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ripple（リップル）、JPMorgan（JPモルガン）、Mastercard（マスターカード）、Ondo Finance（オンド・ファイナンス）は、トークン The post Ripple、JPMorgan、Mastercard、Ondoが連携──XRP Ledgerでトークン化米国債ファンドを国際決済 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple",
+        "JPMorgan"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Mastercard",
+        "Ledger"
+      ],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "ソラナとGoogle CloudがAI決済「Pay.sh」発表、x402でAPI利用を自律化",
+      "link": "https://coinpost.jp/?p=706833",
+      "pub_date": "2026-05-07T05:55:55+09:00",
+      "pub_date_utc": "2026-05-06T20:55:55+00:00",
+      "description": "ソラナ財団は5月6日、Google Cloudと提携しAIエージェント向け決済ゲートウェイ「Pay.sh」を立ち上げた。ソラナ基盤のステーブルコインを使用し、アカウント不要でGeminiやBigQueryなどのAPIをリクエストごとに支払える革新的な仕組みを提供。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ソラナ財団は5月6日、Google Cloudと提携しAIエージェント向け決済ゲートウェイ「Pay.sh」を立ち上げた。ソラナ基盤のステーブルコインを使用し、アカウント不要でGeminiやBigQueryなどのAPIをリクエストごとに支払える革新的な仕組みを提供。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [
+        "Gemini",
+        "Google"
+      ],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "VanEckが強気予測、「ビットコインが5年以内に100万ドルに」　根拠は？",
+      "link": "https://coinpost.jp/?p=706834",
+      "pub_date": "2026-05-07T05:40:01+09:00",
+      "pub_date_utc": "2026-05-06T20:40:01+00:00",
+      "description": "VanEckのマシュー・シーゲル氏がCNBCで、ビットコインが5年以内に100万ドルに達する可能性があると披露。若い世代の投資意向や中央銀行によるBTC購入開始を根拠として挙げており、ビットワイズなど他社も同様の予測を示している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "VanEckのマシュー・シーゲル氏がCNBCで、ビットコインが5年以内に100万ドルに達する可能性があると披露。若い世代の投資意向や中央銀行によるBTC購入開始を根拠として挙げており、ビットワイズなど他社も同様の予測を示している。",
+      "category": "マーケット",
+      "main_entities": [
+        "VanEck"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "モルガン・スタンレー、E*Tradeで仮想通貨現物取引を開始　860万顧客に拡大へ",
+      "link": "https://coinpost.jp/?p=706813",
+      "pub_date": "2026-05-07T05:00:00+09:00",
+      "pub_date_utc": "2026-05-06T20:00:00+00:00",
+      "description": "モルガン・スタンレーが5月6日、E*Tradeプラットフォームで仮想通貨現物取引のパイロット提供を開始。手数料は50bpでコインベースやロビンフッドを下回り、年内に全860万顧客への開放を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "モルガン・スタンレーが5月6日、E*Tradeプラットフォームで仮想通貨現物取引のパイロット提供を開始。手数料は50bpでコインベースやロビンフッドを下回り、年内に全860万顧客への開放を目指す。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Morgan Stanley"
+      ],
+      "related_entities": [
+        "Coinbase"
+      ],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "Taurus、EU加盟27カ国でトークン化証券展開へ──MiFID IIライセンス取得",
+      "link": "https://www.nadanews.com/347458/",
+      "pub_date": "2026-05-06T22:19:55+09:00",
+      "pub_date_utc": "2026-05-06T13:19:55+00:00",
+      "description": "スイスを拠点とするフィンテック企業Taurus（トーラス）は5月6日、キプロス証券取引委員会（CySEC）から、EUの金融商品規制であるMiFID II（ミフィ The post Taurus、EU加盟27カ国でトークン化証券展開へ──MiFID IIライセンス取得 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "スイスを拠点とするフィンテック企業Taurus（トーラス）は5月6日、キプロス証券取引委員会（CySEC）から、EUの金融商品規制であるMiFID II（ミフィ The post Taurus、EU加盟27カ国でトークン化証券展開へ──MiFID IIライセンス取得 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Sui"
+      ],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "リップル、北朝鮮脅威インテリジェンスをCrypto ISACで共有開始　仮想通貨業界の集団防衛強化",
+      "link": "https://coinpost.jp/?p=706780",
+      "pub_date": "2026-05-06T13:47:34+09:00",
+      "pub_date_utc": "2026-05-06T04:47:34+00:00",
+      "description": "リップル社が北朝鮮関連脅威インテリジェンスをCrypto ISACで業界で初めて共有開始する。Drift Protocolハック（被害額約440億円）を契機に、業界でインテリジェンス共有の動きが高まった。詐欺ドメイン・攻撃者プロフィール等を共有し、仮想通貨業界の集団防衛体制強化を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "リップル社が北朝鮮関連脅威インテリジェンスをCrypto ISACで業界で初めて共有開始する。Drift Protocolハック（被害額約440億円）を契機に、業界でインテリジェンス共有の動きが高まった。詐欺ドメイン・攻撃者プロフィール等を共有し、仮想通貨業界の集団防衛体制強化を目指す。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
+      "title": "ストラテジー、2026年1～3月期決算　ビットコイン含み損で2兆円の損失計上",
+      "link": "https://coinpost.jp/?p=706768",
+      "pub_date": "2026-05-06T12:22:09+09:00",
+      "pub_date_utc": "2026-05-06T03:22:09+00:00",
+      "description": "最大のビットコイン・トレジャリー企業ストラテジーが2026年1〜3月期決算を発表。BTC価格の急落により144億ドルの含み損が発生。一方、5月時点では含み益に転換している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "最大のビットコイン・トレジャリー企業ストラテジーが2026年1〜3月期決算を発表。BTC価格の急落により144億ドルの含み損が発生。一方、5月時点では含み益に転換している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-07T10:54:49.841722+09:00"
+    },
+    {
       "title": "米上場セカンス、転換社債償還でビットコインを売却　昨年末の約半分に減少",
       "link": "https://coinpost.jp/?p=706764",
       "pub_date": "2026-05-06T10:46:15+09:00",
@@ -7753,8 +8194,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-06T10:50:56.008947+09:00",
-  "total_count": 434,
+  "last_updated": "2026-05-07T10:54:49.841722+09:00",
+  "total_count": 458,
   "sources": [
     "NADA NEWS",
     "CoinPost",
