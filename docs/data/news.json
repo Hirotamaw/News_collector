@@ -1,6 +1,222 @@
 {
   "articles": [
     {
+      "title": "今週の主要仮想通貨材料まとめ、ETHのグラムステルダム集中作業やソラナとグーグルのAI決済発表など",
+      "link": "https://coinpost.jp/?p=707320",
+      "pub_date": "2026-05-10T09:30:56+09:00",
+      "pub_date_utc": "2026-05-10T00:30:56+00:00",
+      "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [
+        "Ripple",
+        "Google"
+      ],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "週刊仮想通貨ニュース｜ビットコインの量子脅威対策や5年以内100万ドル到達の強気予測に高い関心",
+      "link": "https://coinpost.jp/?p=707333",
+      "pub_date": "2026-05-10T09:25:34+09:00",
+      "pub_date_utc": "2026-05-10T00:25:34+00:00",
+      "description": "今週は、仮想通貨ビットコインの量子コンピュータ対策、VanEckのマシュー・シーゲル氏によるビットコイン価格の強気予測、ホワイトハウスによるクラリティー法案の成立目標設定に関する記事が関心を集めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "今週は、仮想通貨ビットコインの量子コンピュータ対策、VanEckのマシュー・シーゲル氏によるビットコイン価格の強気予測、ホワイトハウスによるクラリティー法案の成立目標設定に関する記事が関心を集めた。",
+      "category": "規制・法律",
+      "main_entities": [
+        "VanEck"
+      ],
+      "related_entities": [
+        "ホワイトハウス"
+      ],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "「全部トップにしていく」──SBI北尾氏が語った金融の構造競争【編集長コラム】／米ビットコイン準備金の詳細、数週間以内に発表へ【日曜日に読みたい厳選10本】",
+      "link": "https://www.nadanews.com/347890/",
+      "pub_date": "2026-05-10T08:00:00+09:00",
+      "pub_date_utc": "2026-05-09T23:00:00+00:00",
+      "description": "ゴールデンウィークの合間の5月1日、SBIホールディングスは重要な発表を立て続けに行った。ビットバンクの子会社化、BTCなどが貯まるクレジットカードの発行、Vi The post 「全部トップにしていく」──SBI北尾氏が語った金融の構造競争【編集長コラム】／米ビットコイン準備金の詳細、数週間以内に発表へ【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Weekend",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ゴールデンウィークの合間の5月1日、SBIホールディングスは重要な発表を立て続けに行った。ビットバンクの子会社化、BTCなどが貯まるクレジットカードの発行、Vi The post 「全部トップにしていく」──SBI北尾氏が語った金融の構造競争【編集長コラム】／米ビットコイン準備金の詳細、数週間以内に発表へ【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "bitbank",
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "ビットコイン・ドミナンス低下はアルトシーズンの前兆か──市場内部で始まる“資金ローテーション”【エックスウィン】",
+      "link": "https://www.nadanews.com/347906/",
+      "pub_date": "2026-05-10T07:55:22+09:00",
+      "pub_date_utc": "2026-05-09T22:55:22+00:00",
+      "description": "● BTCドミナンス低下とアルト出来高増加により、市場内部で資金ローテーションの兆候が見え始めている。● Crypto QuantアナリストCryptoOnch The post ビットコイン・ドミナンス低下はアルトシーズンの前兆か──市場内部で始まる“資金ローテーション”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● BTCドミナンス低下とアルト出来高増加により、市場内部で資金ローテーションの兆候が見え始めている。● Crypto QuantアナリストCryptoOnch The post ビットコイン・ドミナンス低下はアルトシーズンの前兆か──市場内部で始まる“資金ローテーション”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "ビットコイン一時8万ドル割れ、米雇用統計の大幅上振れで逆風──欧州勢はStrategy株を買い増し【価格分析】",
+      "link": "https://www.nadanews.com/347958/",
+      "pub_date": "2026-05-10T07:00:00+09:00",
+      "pub_date_utc": "2026-05-09T22:00:00+00:00",
+      "description": "・米雇用統計で労働市場が予想以上に底堅いことが示された後、ビットコイン（BTC）は一時8万ドルを下回った。・原油価格の上昇と中東での海運混乱により、投入コストと The post ビットコイン一時8万ドル割れ、米雇用統計の大幅上振れで逆風──欧州勢はStrategy株を買い増し【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "・米雇用統計で労働市場が予想以上に底堅いことが示された後、ビットコイン（BTC）は一時8万ドルを下回った。・原油価格の上昇と中東での海運混乱により、投入コストと The post ビットコイン一時8万ドル割れ、米雇用統計の大幅上振れで逆風──欧州勢はStrategy株を買い増し【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "分析・レポート",
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "ストライクCEO、ウォール街参入はビットコインに影響なし　「むしろ当然の流れ」",
+      "link": "https://cointelegraph.jp/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-10T05:15:40+09:00",
+      "pub_date_utc": "2026-05-09T20:15:40+00:00",
+      "description": "ビットコイン（BTC）決済アプリ「ストライク」のジャック・マラーズCEOは、ウォール街のビットコイン参入がビットコインそのものに脅威や矛盾をもたらすことはないとの見解を示した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）決済アプリ「ストライク」のジャック・マラーズCEOは、ウォール街のビットコイン参入がビットコインそのものに脅威や矛盾をもたらすことはないとの見解を示した。",
+      "category": "イベント・人事",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "CLARITY法案、仮想通貨プロジェクトを「米国に呼び戻す」＝コンセンシス幹部",
+      "link": "https://cointelegraph.jp/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-10T04:59:44+09:00",
+      "pub_date_utc": "2026-05-09T19:59:44+00:00",
+      "description": "デジタル資産市場明確化法案（CLARITY法案）の成立は、仮想通貨業界を米国に呼び戻すことにつながる。仮想通貨インフラ企業コンセンシスのビル・ヒューズ上級法律顧問兼グローバル規制責任者が指摘した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "デジタル資産市場明確化法案（CLARITY法案）の成立は、仮想通貨業界を米国に呼び戻すことにつながる。仮想通貨インフラ企業コンセンシスのビル・ヒューズ上級法律顧問兼グローバル規制責任者が指摘した。",
+      "category": "規制・法律",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "マイニング企業テラウルフ、第1四半期に4億2700万ドルの純損失　AI転換でHPC収益は急拡大",
+      "link": "https://cointelegraph.jp/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-10T04:43:36+09:00",
+      "pub_date_utc": "2026-05-09T19:43:36+00:00",
+      "description": "ビットコイン（BTC）マイナーのテラウルフは、2026年第1四半期に4億2700万ドルの純損失を計上した。前年同期の6140万ドルの損失から大幅に拡大した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）マイナーのテラウルフは、2026年第1四半期に4億2700万ドルの純損失を計上した。前年同期の6140万ドルの損失から大幅に拡大した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "トランプ・メディア1〜3月期決算、仮想通貨下落などで大幅損失　キャッシュフローは黒字維持",
+      "link": "https://coinpost.jp/?p=707576",
+      "pub_date": "2026-05-09T13:15:18+09:00",
+      "pub_date_utc": "2026-05-09T04:15:18+00:00",
+      "description": "トランプ・メディアが2026年1～3月期決算を発表。仮想通貨などの含み損が響き大幅な純損失を計上。一方、金融資産は前年比3倍に拡大し営業キャッシュフローは黒字だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "トランプ・メディアが2026年1～3月期決算を発表。仮想通貨などの含み損が響き大幅な純損失を計上。一方、金融資産は前年比3倍に拡大し営業キャッシュフローは黒字だ。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "米CLARITY法案、5月14日にも上院銀行委で採決か　仮想通貨業界に規制明確化の転機",
+      "link": "https://cointelegraph.jp/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-09T12:38:34+09:00",
+      "pub_date_utc": "2026-05-09T03:38:34+00:00",
+      "description": "米国の仮想通貨業界に規制の明確性をもたらすことを目的としたCLARITY法案が、木曜日に上院銀行委員会で採決される見通しとなった。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米国の仮想通貨業界に規制の明確性をもたらすことを目的としたCLARITY法案が、木曜日に上院銀行委員会で採決される見通しとなった。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "クラリティ法案、5月14日に上院委員会で審議へ",
+      "link": "https://www.nadanews.com/347918/",
+      "pub_date": "2026-05-09T12:28:55+09:00",
+      "pub_date_utc": "2026-05-09T03:28:55+00:00",
+      "description": "米国上院の銀行・住宅・都市問題委員会は、米時間5月14日に暗号資産市場構造法「クラリティ法案（H.R.3633）」に関する非公開会合を開催することを9日までに発 The post クラリティ法案、5月14日に上院委員会で審議へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "米国上院の銀行・住宅・都市問題委員会は、米時間5月14日に暗号資産市場構造法「クラリティ法案（H.R.3633）」に関する非公開会合を開催することを9日までに発 The post クラリティ法案、5月14日に上院委員会で審議へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
+      "title": "ジーキャッシュ、量子コンピュータ耐性ロードマップを公表　クロスチェーン流入も好調",
+      "link": "https://coinpost.jp/?p=707564",
+      "pub_date": "2026-05-09T11:00:31+09:00",
+      "pub_date_utc": "2026-05-09T02:00:31+00:00",
+      "description": "プライバシー仮想通貨ジーキャッシュの開発企業CEOは、量子回復性ウォレットを1か月以内に展開し、18か月以内に完全なポスト量子化を目指すと表明した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "プライバシー仮想通貨ジーキャッシュの開発企業CEOは、量子回復性ウォレットを1か月以内に展開し、18か月以内に完全なポスト量子化を目指すと表明した。",
+      "category": "イベント・人事",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-10T10:53:52.957105+09:00"
+    },
+    {
       "title": "米上院銀行委員会、クラリティー法案を5月14日にマークアップ予定",
       "link": "https://coinpost.jp/?p=707533",
       "pub_date": "2026-05-09T10:20:37+09:00",
@@ -9872,8 +10088,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-09T10:54:17.116530+09:00",
-  "total_count": 551,
+  "last_updated": "2026-05-10T10:53:52.957105+09:00",
+  "total_count": 563,
   "sources": [
     "NADA NEWS",
     "CoinPost",
