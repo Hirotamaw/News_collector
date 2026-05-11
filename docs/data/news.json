@@ -1,6 +1,217 @@
 {
   "articles": [
     {
+      "title": "12年以上休眠の古参ホルダー、500BTCを移動　含み益は約88倍に＝Lookonchain",
+      "link": "https://coinpost.jp/?p=707647",
+      "pub_date": "2026-05-11T10:56:01+09:00",
+      "pub_date_utc": "2026-05-11T01:56:01+00:00",
+      "description": "12年以上休眠していたビットコインの古参ホルダーのウォレットが500BTCを移動。取得時の約88倍となる約4,062万ドル相当で、含み益は約4,017万ドルに達する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "12年以上休眠していたビットコインの古参ホルダーのウォレットが500BTCを移動。取得時の約88倍となる約4,062万ドル相当で、含み益は約4,017万ドルに達する。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "カントン・ネットワーク、470億円規模の資金調達を計画＝報道",
+      "link": "https://coinpost.jp/?p=707614",
+      "pub_date": "2026-05-11T10:23:33+09:00",
+      "pub_date_utc": "2026-05-11T01:23:33+00:00",
+      "description": "金融機関向けブロックチェーン「カントン・ネットワーク」運営会社が、a16zクリプト主導で約470億円の資金調達を目指している。大手企業から注目を集める中での動きだ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "金融機関向けブロックチェーン「カントン・ネットワーク」運営会社が、a16zクリプト主導で約470億円の資金調達を目指している。大手企業から注目を集める中での動きだ。",
+      "category": "ビジネス",
+      "main_entities": [
+        "a16z"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "「Web3川柳コンテスト2026」受賞作品発表！5月20日17時30分〜、Xスペースで開催【NADA NEWS】",
+      "link": "https://www.nadanews.com/347845/",
+      "pub_date": "2026-05-11T09:00:00+09:00",
+      "pub_date_utc": "2026-05-11T00:00:00+00:00",
+      "description": "「Web3川柳コンテスト2026」の受賞の発表会を、2026年5月20日（水）17時30分〜18時30分にXスペースにて実施します。 当日は、特別審査員による審 The post 「Web3川柳コンテスト2026」受賞作品発表！5月20日17時30分〜、Xスペースで開催【NADA NEWS】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "EVENT",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "「Web3川柳コンテスト2026」の受賞の発表会を、2026年5月20日（水）17時30分〜18時30分にXスペースにて実施します。 当日は、特別審査員による審 The post 「Web3川柳コンテスト2026」受賞作品発表！5月20日17時30分〜、Xスペースで開催【NADA NEWS】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "イベント・人事",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "モルガン・スタンレーのビットコインETF、運用開始1カ月で約304億円を純流入　日次流出はゼロ",
+      "link": "https://coinpost.jp/?p=707593",
+      "pub_date": "2026-05-11T08:43:49+09:00",
+      "pub_date_utc": "2026-05-10T23:43:49+00:00",
+      "description": "モルガン・スタンレーのビットコインETF「MSBT」が運用開始1カ月で約304億円を純流入。日次流出ゼロという記録を達成し、機関投資家の強い需要を示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "モルガン・スタンレーのビットコインETF「MSBT」が運用開始1カ月で約304億円を純流入。日次流出ゼロという記録を達成し、機関投資家の強い需要を示した。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Morgan Stanley"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "韓国の仮想通貨保有額、1年余りで半減　株式市場好調が資金吸収",
+      "link": "https://coinpost.jp/?p=707590",
+      "pub_date": "2026-05-11T08:13:31+09:00",
+      "pub_date_utc": "2026-05-10T23:13:31+00:00",
+      "description": "韓国の仮想通貨保有額が1年余りで半減。株式市場への資金流出に加え、AML規制強化や2027年の22%課税方針が市場の重しとなっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "韓国の仮想通貨保有額が1年余りで半減。株式市場への資金流出に加え、AML規制強化や2027年の22%課税方針が市場の重しとなっている。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "円ステーブルコインは世界で戦えるか──FireblocksCEOが語る、日本の勝機と次の金融インフラ【取材】",
+      "link": "https://www.nadanews.com/346273/",
+      "pub_date": "2026-05-11T08:00:00+09:00",
+      "pub_date_utc": "2026-05-10T23:00:00+00:00",
+      "description": "デジタル資産の重心が「投機対象」から「金融インフラ」へと移るなか、ステーブルコインとトークン化資産は、銀行、決済事業者、資産運用会社を巻き込みながら急速に存在感 The post 円ステーブルコインは世界で戦えるか──FireblocksCEOが語る、日本の勝機と次の金融インフラ【取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "デジタル資産の重心が「投機対象」から「金融インフラ」へと移るなか、ステーブルコインとトークン化資産は、銀行、決済事業者、資産運用会社を巻き込みながら急速に存在感 The post 円ステーブルコインは世界で戦えるか──FireblocksCEOが語る、日本の勝機と次の金融インフラ【取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [
+        "Fireblocks",
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "イーサリアム、対ビットコインで1年間に35%下落：価格の下落トレンドは続くのか？",
+      "link": "https://cointelegraph.jp/news/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-11T07:31:51+09:00",
+      "pub_date_utc": "2026-05-10T22:31:51+00:00",
+      "description": "ビットコインに対するイーサリアムの継続的な下落トレンドは、2024年から2025年に見られた弱気構造を反映しており、さらに40%下落するリスクが浮上している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインに対するイーサリアムの継続的な下落トレンドは、2024年から2025年に見られた弱気構造を反映しており、さらに40%下落するリスクが浮上している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "ビットコイン、週次終値にかけて8万ドルを維持も、トレーダーらは「調整はまだ終わっていない」と予測",
+      "link": "https://cointelegraph.jp/news/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-11T07:24:43+09:00",
+      "pub_date_utc": "2026-05-10T22:24:43+00:00",
+      "description": "ビットコインは週末の暴落を回避し8万ドル台を維持したが、トレーダーらは本格的な上昇の前に一度8万ドルを下回る調整局面が来ると見ている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインは週末の暴落を回避し8万ドル台を維持したが、トレーダーらは本格的な上昇の前に一度8万ドルを下回る調整局面が来ると見ている。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "「冬の時代」に選ばれた暗号資産──BTC・ETH・XRP・BNB・SOL比較分析【エックスウィン】",
+      "link": "https://www.nadanews.com/347998/",
+      "pub_date": "2026-05-11T07:22:18+09:00",
+      "pub_date_utc": "2026-05-10T22:22:18+00:00",
+      "description": "全体所感 2025年10月から2026年4月までの暗号資産市場は、一見すると「全面弱気」と「全面回復」が交互に訪れたように見えた。しかし実際には、市場内部ではか The post 「冬の時代」に選ばれた暗号資産──BTC・ETH・XRP・BNB・SOL比較分析【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "全体所感 2025年10月から2026年4月までの暗号資産市場は、一見すると「全面弱気」と「全面回復」が交互に訪れたように見えた。しかし実際には、市場内部ではか The post 「冬の時代」に選ばれた暗号資産──BTC・ETH・XRP・BNB・SOL比較分析【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "トランプ・メディア、仮想通貨投資の失敗により四半期で4億600万ドルの赤字を計上",
+      "link": "https://cointelegraph.jp/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-11T07:14:21+09:00",
+      "pub_date_utc": "2026-05-10T22:14:21+00:00",
+      "description": "トランプ・メディアの4億5,900万ドルの純損失は、主に昨夏の値上がり時に購入したビットコインと、Crypto.comとの提携で取得したCronosトークンの含み損によるものである。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "トランプ・メディアの4億5,900万ドルの純損失は、主に昨夏の値上がり時に購入したビットコインと、Crypto.comとの提携で取得したCronosトークンの含み損によるものである。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Crypto.com"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "セイラー氏、第1四半期決算で売却を示唆した後に一転してビットコイン買い増しを予告",
+      "link": "https://cointelegraph.jp/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-11T07:07:11+09:00",
+      "pub_date_utc": "2026-05-10T22:07:11+00:00",
+      "description": "ストラテジー社のビットコイン1枚あたりの平均取得単価は約7万5,537ドルであり、同社のデータによれば、本稿執筆時点でBTC投資の利益は約7.6%に達している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ストラテジー社のビットコイン1枚あたりの平均取得単価は約7万5,537ドルであり、同社のデータによれば、本稿執筆時点でBTC投資の利益は約7.6%に達している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
+      "title": "サンフランシスコ市場レポート── CLARITY法、最終局面と“オンチェーン金融国家”への転換",
+      "link": "https://www.nadanews.com/347988/",
+      "pub_date": "2026-05-10T11:20:22+09:00",
+      "pub_date_utc": "2026-05-10T02:20:22+00:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、現在の米国暗号資産市場における最重要テーマであるCLARITY法と The post サンフランシスコ市場レポート── CLARITY法、最終局面と“オンチェーン金融国家”への転換 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、現在の米国暗号資産市場における最重要テーマであるCLARITY法と The post サンフランシスコ市場レポート── CLARITY法、最終局面と“オンチェーン金融国家”への転換 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-11T11:03:25.764887+09:00"
+    },
+    {
       "title": "今週の主要仮想通貨材料まとめ、ETHのグラムステルダム集中作業やソラナとグーグルのAI決済発表など",
       "link": "https://coinpost.jp/?p=707320",
       "pub_date": "2026-05-10T09:30:56+09:00",
@@ -10088,8 +10299,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-10T10:53:52.957105+09:00",
-  "total_count": 563,
+  "last_updated": "2026-05-11T11:03:25.764887+09:00",
+  "total_count": 575,
   "sources": [
     "NADA NEWS",
     "CoinPost",
