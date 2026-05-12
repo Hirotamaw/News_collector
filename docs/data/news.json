@@ -1,6 +1,706 @@
 {
   "articles": [
     {
+      "title": "Anthropic、トークン化された自社株に警告　権利は認めず「無効」を明言",
+      "link": "https://coinpost.jp/?p=708007",
+      "pub_date": "2026-05-12T10:46:06+09:00",
+      "pub_date_utc": "2026-05-12T01:46:06+00:00",
+      "description": "Anthropicが未承認の株式譲渡を「無効」と警告。SPVやトークン化証券、先渡契約を対象とし、HiiveやForgeなどを名指しした。二次市場の評価額は約1兆ドル規模に達している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "Anthropicが未承認の株式譲渡を「無効」と警告。SPVやトークン化証券、先渡契約を対象とし、HiiveやForgeなどを名指しした。二次市場の評価額は約1兆ドル規模に達している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "バイナンスがユーザー保護にAI活用、15カ月間で計約1.7兆円の潜在的被害を阻止",
+      "link": "https://coinpost.jp/?p=707989",
+      "pub_date": "2026-05-12T10:44:55+09:00",
+      "pub_date_utc": "2026-05-12T01:44:55+00:00",
+      "description": "仮想通貨取引所バイナンスは、2025年1月から15カ月間にAIを活用して詐欺による潜在的被害から合計で約1.7兆円を保護したと公表。取り組みの成果に加え、ユーザー保護策を説明している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "仮想通貨取引所バイナンスは、2025年1月から15カ月間にAIを活用して詐欺による潜在的被害から合計で約1.7兆円を保護したと公表。取り組みの成果に加え、ユーザー保護策を説明している。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Binance"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ステーブルコイン決済は”日常”になるか──ネットスターズ×ソラナが示した使われる条件【取材】",
+      "link": "https://www.nadanews.com/347381/",
+      "pub_date": "2026-05-12T10:00:00+09:00",
+      "pub_date_utc": "2026-05-12T01:00:00+00:00",
+      "description": "「Web3を実社会に根づかせたい」 ネットスターズ代表取締役社長CEOの李剛氏がこう語ったのは4月8日、Web3とAIに特化した国際テクノロジーカンファレンス「 The post ステーブルコイン決済は”日常”になるか──ネットスターズ×ソラナが示した使われる条件【取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "「Web3を実社会に根づかせたい」 ネットスターズ代表取締役社長CEOの李剛氏がこう語ったのは4月8日、Web3とAIに特化した国際テクノロジーカンファレンス「 The post ステーブルコイン決済は”日常”になるか──ネットスターズ×ソラナが示した使われる条件【取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "クリーンスパーク、1～3月期に590億円超の損失　保有ビットコインが大きく影響",
+      "link": "https://coinpost.jp/?p=707984",
+      "pub_date": "2026-05-12T09:50:21+09:00",
+      "pub_date_utc": "2026-05-12T00:50:21+00:00",
+      "description": "ビットコインマイニング企業クリーンスパークが2026年1〜3月期決算を発表。ビットコイン評価損で純損失を計上。AI・HPC関連の事業開発を進めている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットコインマイニング企業クリーンスパークが2026年1〜3月期決算を発表。ビットコイン評価損で純損失を計上。AI・HPC関連の事業開発を進めている。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "イーサリアム財団、78億円相当のETHをステーキング解除　Glamsterdam準備と体制刷新も発表",
+      "link": "https://coinpost.jp/?p=707955",
+      "pub_date": "2026-05-12T08:15:04+09:00",
+      "pub_date_utc": "2026-05-11T23:15:04+00:00",
+      "description": "イーサリアム財団は2万1271ETHをアンステーキング。同時に開発者会合でGlamsterdamの準備状況を公表し、200Mガスリミット下限とプロトコルクラスター長3名の刷新も発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "イーサリアム財団は2万1271ETHをアンステーキング。同時に開発者会合でGlamsterdamの準備状況を公表し、200Mガスリミット下限とプロトコルクラスター長3名の刷新も発表した。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "イーサリアムDAT企業シャープリンク、2026年1Qは純損失1100億円相当",
+      "link": "https://coinpost.jp/?p=707956",
+      "pub_date": "2026-05-12T07:50:10+09:00",
+      "pub_date_utc": "2026-05-11T22:50:10+00:00",
+      "description": "米上場のシャープリンクは2026年第1四半期決算で純損失6億8560万ドルを計上。ETH保有量は5月4日時点で87万2984枚に拡大し、ギャラクシー・デジタルと共同で1.25億ドル規模のオンチェーンファンド設立を発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米上場のシャープリンクは2026年第1四半期決算で純損失6億8560万ドルを計上。ETH保有量は5月4日時点で87万2984枚に拡大し、ギャラクシー・デジタルと共同で1.25億ドル規模のオンチェーンファンド設立を発表した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ストラテジー社、4,300万ドルのビットコイン買い増しで取得を再開",
+      "link": "https://cointelegraph.jp/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-12T07:49:39+09:00",
+      "pub_date_utc": "2026-05-11T22:49:39+00:00",
+      "description": "マイケル・セイラー会長が配当原資としてのBTC売却の可能性を示唆し、投資家の反応が分かれる中、ストラテジー社は先週4,300万ドル相当のビットコインを追加した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "マイケル・セイラー会長が配当原資としてのBTC売却の可能性を示唆し、投資家の反応が分かれる中、ストラテジー社は先週4,300万ドル相当のビットコインを追加した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "リップル、機関投資家向けプライムブローカレッジ拡大に向け2億ドルの融資枠を確保",
+      "link": "https://cointelegraph.jp/news/ripple-secures-200m-credit-facility-expand-institutional-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-12T07:38:13+09:00",
+      "pub_date_utc": "2026-05-11T22:38:13+00:00",
+      "description": "ニューバーガー・バーマンからの資金調達により、仮想通貨および伝統的市場で取引を行う機関投資家に対し、マージンローン（証拠金融資）やその他のブローカレッジサービスの提供能力を強化する。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ニューバーガー・バーマンからの資金調達により、仮想通貨および伝統的市場で取引を行う機関投資家に対し、マージンローン（証拠金融資）やその他のブローカレッジサービスの提供能力を強化する。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "仮想通貨ETFなど、先週は1300億円超が純流入　BTC・ETH・XRP・ソラナなどの商品で需要増",
+      "link": "https://coinpost.jp/?p=707965",
+      "pub_date": "2026-05-12T07:22:11+09:00",
+      "pub_date_utc": "2026-05-11T22:22:11+00:00",
+      "description": "コインシェアーズは、仮想通貨投資商品全体の先週における資金フローは約1,349億円の純流入だったと報告。ビットコインやイーサリアム、XRP、ソラナなどの商品に広く資金が流入した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "コインシェアーズは、仮想通貨投資商品全体の先週における資金フローは約1,349億円の純流入だったと報告。ビットコインやイーサリアム、XRP、ソラナなどの商品に広く資金が流入した。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "「トランプ訪中」で何が変わるのか──ビットコイン市場が本当に注目すべきポイント【エックスウィン】",
+      "link": "https://www.nadanews.com/348175/",
+      "pub_date": "2026-05-12T07:22:00+09:00",
+      "pub_date_utc": "2026-05-11T22:22:00+00:00",
+      "description": "● 今回のトランプ訪中で重要なのは、「中国解禁」ではなく制度金融・供給網を巡る限定的な経済緩和である。● 市場の焦点は、BTC価格だけでなく“暗号資産の金融イン The post 「トランプ訪中」で何が変わるのか──ビットコイン市場が本当に注目すべきポイント【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● 今回のトランプ訪中で重要なのは、「中国解禁」ではなく制度金融・供給網を巡る限定的な経済緩和である。● 市場の焦点は、BTC価格だけでなく“暗号資産の金融イン The post 「トランプ訪中」で何が変わるのか──ビットコイン市場が本当に注目すべきポイント【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "Circle、AIエージェント向け支払いツールでUSDCの普及を加速",
+      "link": "https://cointelegraph.jp/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-12T07:21:25+09:00",
+      "pub_date_utc": "2026-05-11T22:21:25+00:00",
+      "description": "新たなツール群により、AIエージェントはウォレットの保持、サービスの探索、そしてブロックチェーンネットワークを跨いだプログラム可能なUSDC決済が可能になる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "新たなツール群により、AIエージェントはウォレットの保持、サービスの探索、そしてブロックチェーンネットワークを跨いだプログラム可能なUSDC決済が可能になる。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Circle"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ビットコインに2023年以来の「ゴールデンクロス」が出現：BTC価格は上昇するか？",
+      "link": "https://cointelegraph.jp/news/bitcoin-golden-cross-appears-first-time-since-2023-will-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-12T07:13:09+09:00",
+      "pub_date_utc": "2026-05-11T22:13:09+00:00",
+      "description": "ビットコインのMVRVは、BTCの市場構造が強化されるにつれて強気な勢いへのシフトを示唆しており、これは新しい強気相場の初期の兆候である可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインのMVRVは、BTCの市場構造が強化されるにつれて強気な勢いへのシフトを示唆しており、これは新しい強気相場の初期の兆候である可能性がある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "MoonPay、Dawn Labsを買収──予測市場取引向けAIツール「Dawn CLI」を発表",
+      "link": "https://www.nadanews.com/348173/",
+      "pub_date": "2026-05-12T07:00:00+09:00",
+      "pub_date_utc": "2026-05-11T22:00:00+00:00",
+      "description": "暗号資産（仮想通貨）決済プラットフォームのMoonPay（ムーンペイ）は、Dawn Labs（ドーン・ラボ）を買収し、予測市場取引向けのAI搭載ツール「Dawn The post MoonPay、Dawn Labsを買収──予測市場取引向けAIツール「Dawn CLI」を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）決済プラットフォームのMoonPay（ムーンペイ）は、Dawn Labs（ドーン・ラボ）を買収し、予測市場取引向けのAI搭載ツール「Dawn The post MoonPay、Dawn Labsを買収──予測市場取引向けAIツール「Dawn CLI」を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "リップル・プライム、ニューバーガー・バーマンから2億ドル融資枠を確保",
+      "link": "https://coinpost.jp/?p=707957",
+      "pub_date": "2026-05-12T06:50:17+09:00",
+      "pub_date_utc": "2026-05-11T21:50:17+00:00",
+      "description": "リップル社のプライムブローカー部門「リップル・プライム」が、米運用大手ニューバーガー・バーマンから2億ドルの融資枠を確保した。株式、債券、仮想通貨を一つの与信枠で取引できる次世代の金融インフラを構築し、機関投資家の資本効率を最大化する狙い。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "リップル社のプライムブローカー部門「リップル・プライム」が、米運用大手ニューバーガー・バーマンから2億ドルの融資枠を確保した。株式、債券、仮想通貨を一つの与信枠で取引できる次世代の金融インフラを構築し、機関投資家の資本効率を最大化する狙い。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "AIが暗号資産犯罪の防波堤に──Binance、1兆6000億円超の損失防止を報告",
+      "link": "https://www.nadanews.com/348170/",
+      "pub_date": "2026-05-12T06:30:00+09:00",
+      "pub_date_utc": "2026-05-11T21:30:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Binance（バイナンス）は、AIを悪用した暗号資産犯罪の拡大と、それに対抗するAI活用型セキュリティの重要性についてブログで分析し The post AIが暗号資産犯罪の防波堤に──Binance、1兆6000億円超の損失防止を報告 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）取引所Binance（バイナンス）は、AIを悪用した暗号資産犯罪の拡大と、それに対抗するAI活用型セキュリティの重要性についてブログで分析し The post AIが暗号資産犯罪の防波堤に──Binance、1兆6000億円超の損失防止を報告 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Binance"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ソラナの新コンセンサス「Alpenglow」、テストネット稼働開始",
+      "link": "https://coinpost.jp/?p=707958",
+      "pub_date": "2026-05-12T06:25:24+09:00",
+      "pub_date_utc": "2026-05-11T21:25:24+00:00",
+      "description": "ソラナの研究開発企業Anzaは11日、新コンセンサス「Alpenglow」がテストクラスターで稼働開始したと発表。メインネット移行は今年第3四半期末から第4四半期初めを想定。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ソラナの研究開発企業Anzaは11日、新コンセンサス「Alpenglow」がテストクラスターで稼働開始したと発表。メインネット移行は今年第3四半期末から第4四半期初めを想定。",
+      "category": "Blockchain",
+      "main_entities": [
+        "Solana Foundation"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "米銀行協会CEO、ステーブルコイン報酬規制の強化を要求──Clarity法案の上院銀行委審議前に銀行幹部へ働きかけ",
+      "link": "https://www.nadanews.com/348168/",
+      "pub_date": "2026-05-12T06:00:00+09:00",
+      "pub_date_utc": "2026-05-11T21:00:00+00:00",
+      "description": "American Bankers Association（米国銀行協会：ABA）のRob Nichols（ロブ・ニコルズ）CEOは、米上院銀行委員会による暗号資 The post 米銀行協会CEO、ステーブルコイン報酬規制の強化を要求──Clarity法案の上院銀行委審議前に銀行幹部へ働きかけ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "American Bankers Association（米国銀行協会：ABA）のRob Nichols（ロブ・ニコルズ）CEOは、米上院銀行委員会による暗号資 The post 米銀行協会CEO、ステーブルコイン報酬規制の強化を要求──Clarity法案の上院銀行委審議前に銀行幹部へ働きかけ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ビットマイン、先週イーサリアム購入ペースを大幅減速　従来の約4分の1に",
+      "link": "https://coinpost.jp/?p=707959",
+      "pub_date": "2026-05-12T05:55:33+09:00",
+      "pub_date_utc": "2026-05-11T20:55:33+00:00",
+      "description": "トム・リー率いるビットマインは先週仮想通貨イーサリアムの購入ペースを大幅に減速させた。先週の取得数は約2.6万枚にとどまり、従来の週10万枚超から低下した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "トム・リー率いるビットマインは先週仮想通貨イーサリアムの購入ペースを大幅に減速させた。先週の取得数は約2.6万枚にとどまり、従来の週10万枚超から低下した。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "クラリティー法案マークアップ目前　米銀行協会CEO、ステーブルコイン報酬条項に修正要求",
+      "link": "https://coinpost.jp/?p=707960",
+      "pub_date": "2026-05-12T05:40:40+09:00",
+      "pub_date_utc": "2026-05-11T20:40:40+00:00",
+      "description": "米銀行協会のニコルズCEOが5月14日のクラリティー法マークアップを前に加盟銀行へ書簡を送付。ステーブルコインへの利回り類似報酬が預金流出を招くと警告し、議員への働きかけを呼びかけた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米銀行協会のニコルズCEOが5月14日のクラリティー法マークアップを前に加盟銀行へ書簡を送付。ステーブルコインへの利回り類似報酬が預金流出を招くと警告し、議員への働きかけを呼びかけた。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "サークル、Arcトークン先行販売で約350億円調達　SBIやブラックロックなど出資",
+      "link": "https://coinpost.jp/?p=707943",
+      "pub_date": "2026-05-12T05:00:04+09:00",
+      "pub_date_utc": "2026-05-11T20:00:04+00:00",
+      "description": "米ステーブルコイン大手サークルが新ブロックチェーンArcのトークン先行販売で2.22億ドルを調達。a16z cryptが主導し、SBIやブラックロックも参加。完全希薄化評価額は30億ドルに達した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米ステーブルコイン大手サークルが新ブロックチェーンArcのトークン先行販売で2.22億ドルを調達。a16z cryptが主導し、SBIやブラックロックも参加。完全希薄化評価額は30億ドルに達した。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Circle",
+        "BlackRock",
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "a16z"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "【5/11話題】ECB総裁と英中銀総裁のステーブルコインへの懸念、Zcashが量子耐性ウォレット導入、アプトスの新戦略など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/572622",
+      "pub_date": "2026-05-11T23:43:46+09:00",
+      "pub_date_utc": "2026-05-11T14:43:46+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category": "Stablecoin",
+      "main_entities": [
+        "ECB"
+      ],
+      "related_entities": [
+        "Aptos",
+        "Apple"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "JVCEA、暗号資産審査の「第三者委員会」設置へ──金商法移行で体制強化",
+      "link": "https://www.nadanews.com/348019/",
+      "pub_date": "2026-05-11T21:41:26+09:00",
+      "pub_date_utc": "2026-05-11T12:41:26+00:00",
+      "description": "自民党ブロックチェーン推進議員連盟は5月11日、永田町の衆議院第一議員会館で第36回会合を開催した。会合では、JVCEA（日本暗号資産等取引業協会）代表理事の小 The post JVCEA、暗号資産審査の「第三者委員会」設置へ──金商法移行で体制強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Industries",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "自民党ブロックチェーン推進議員連盟は5月11日、永田町の衆議院第一議員会館で第36回会合を開催した。会合では、JVCEA（日本暗号資産等取引業協会）代表理事の小 The post JVCEA、暗号資産審査の「第三者委員会」設置へ──金商法移行で体制強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "イベント・人事",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "【5/17まで】ピザポテト12袋セットが当たる！コインチェック×カルビー、ビットコインピザデー記念キャンペーンを実施",
+      "link": "https://www.nadanews.com/348078/",
+      "pub_date": "2026-05-11T20:36:13+09:00",
+      "pub_date_utc": "2026-05-11T11:36:13+00:00",
+      "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のコインチェックは11日 The post 【5/17まで】ピザポテト12袋セットが当たる！コインチェック×カルビー、ビットコインピザデー記念キャンペーンを実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Campaign",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のコインチェックは11日 The post 【5/17まで】ピザポテト12袋セットが当たる！コインチェック×カルビー、ビットコインピザデー記念キャンペーンを実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "世界の暗号資産ETP、先週は8億5800万ドルの流入：CoinShares",
+      "link": "https://www.nadanews.com/348144/",
+      "pub_date": "2026-05-11T20:30:00+09:00",
+      "pub_date_utc": "2026-05-11T11:30:00+00:00",
+      "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ）が5月11日に公表した最新のレポートによると、世界の暗号資産ETP（上場取引型金融商品）への The post 世界の暗号資産ETP、先週は8億5800万ドルの流入：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ）が5月11日に公表した最新のレポートによると、世界の暗号資産ETP（上場取引型金融商品）への The post 世界の暗号資産ETP、先週は8億5800万ドルの流入：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "Crypto.com、UAEのSVFライセンス取得──政府手数料の暗号資産決済が可能に",
+      "link": "https://www.nadanews.com/348116/",
+      "pub_date": "2026-05-11T19:15:00+09:00",
+      "pub_date_utc": "2026-05-11T10:15:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Crypto.com（クリプト・ドットコム）のアラブ首長国連邦（UAE）法人であるForis DAX Middle East FZEは The post Crypto.com、UAEのSVFライセンス取得──政府手数料の暗号資産決済が可能に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）取引所Crypto.com（クリプト・ドットコム）のアラブ首長国連邦（UAE）法人であるForis DAX Middle East FZEは The post Crypto.com、UAEのSVFライセンス取得──政府手数料の暗号資産決済が可能に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "Crypto.com"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "イングランド銀行総裁、ステーブルコイン規制でアメリカとの「攻防」を予想：報道",
+      "link": "https://www.nadanews.com/348137/",
+      "pub_date": "2026-05-11T19:05:00+09:00",
+      "pub_date_utc": "2026-05-11T10:05:00+00:00",
+      "description": "イングランド銀行（BoE）のAndrew Bailey（アンドリュー・ベイリー）総裁は5月8日、ステーブルコインの世界的な規制基準をめぐり、アメリカと他国の規制 The post イングランド銀行総裁、ステーブルコイン規制でアメリカとの「攻防」を予想：報道 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "イングランド銀行（BoE）のAndrew Bailey（アンドリュー・ベイリー）総裁は5月8日、ステーブルコインの世界的な規制基準をめぐり、アメリカと他国の規制 The post イングランド銀行総裁、ステーブルコイン規制でアメリカとの「攻防」を予想：報道 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "JCBA、「暗号資産ステーキングビジネスに関するベストプラクティス」公表",
+      "link": "https://www.neweconomy.jp/posts/572615",
+      "pub_date": "2026-05-11T16:42:39+09:00",
+      "pub_date_utc": "2026-05-11T07:42:39+00:00",
+      "description": "JCBAによる「暗号資産ステーキングビジネスに関するベストプラクティス」 日本暗号資産ビジネス協会（JCBA）が、「暗号資産ステーキングビジネスに関するベストプラクティス」の策定を5月7日に公表した。 JCBAは、日本国",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "JCBAによる「暗号資産ステーキングビジネスに関するベストプラクティス」 日本暗号資産ビジネス協会（JCBA）が、「暗号資産ステーキングビジネスに関するベストプラクティス」の策定を5月7日に公表した。 JCBAは、日本国",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "クラーケン運営元ペイワード、6億ドルでリープと買収契約。B2Bインフラ基盤の決済機能を拡充へ",
+      "link": "https://www.neweconomy.jp/posts/572599",
+      "pub_date": "2026-05-11T16:30:09+09:00",
+      "pub_date_utc": "2026-05-11T07:30:09+00:00",
+      "description": "PaywardがReapと買収最終契約 米暗号資産（仮想通貨）取引所クラーケン（Kraken）運営元のペイワード（Payward）が、法人向け決済インフラ企業リープ（Reap）を買収する正式契約を締結したと5月7日に発表",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "PaywardがReapと買収最終契約 米暗号資産（仮想通貨）取引所クラーケン（Kraken）運営元のペイワード（Payward）が、法人向け決済インフラ企業リープ（Reap）を買収する正式契約を締結したと5月7日に発表",
+      "category": "ビジネス",
+      "main_entities": [
+        "Kraken"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ブラックロック、「ステーブルコイン準備資産を利用想定したMMF」を米SECに登録届け出",
+      "link": "https://www.neweconomy.jp/posts/572592",
+      "pub_date": "2026-05-11T16:20:45+09:00",
+      "pub_date_utc": "2026-05-11T07:20:45+00:00",
+      "description": "BlackRockがステーブルコイン準備資産MMFの登録を届け出 米資産運用大手ブラックロック（BlackRock）が、ステーブルコイン発行体の準備資産運用を想定した政府証券型MMFに関する登録届出書「フォームN-1A（",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "BlackRockがステーブルコイン準備資産MMFの登録を届け出 米資産運用大手ブラックロック（BlackRock）が、ステーブルコイン発行体の準備資産運用を想定した政府証券型MMFに関する登録届出書「フォームN-1A（",
+      "category": "Stablecoin",
+      "main_entities": [
+        "BlackRock",
+        "SEC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "英中銀総裁、米ステーブルコイン規制に懸念。換金リスクや国際基準の必要性訴える＝報道",
+      "link": "https://www.neweconomy.jp/posts/572578",
+      "pub_date": "2026-05-11T15:59:32+09:00",
+      "pub_date_utc": "2026-05-11T06:59:32+00:00",
+      "description": "ステーブルコイン巡り欧米対立鮮明に イングランド銀行（BoE）のアンドリュー・ベイリー（Andrew Bailey）総裁が、ステーブルコインの国際規制をめぐり、米トランプ政権と国際的な規制当局の間で「対立（wrestle",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ステーブルコイン巡り欧米対立鮮明に イングランド銀行（BoE）のアンドリュー・ベイリー（Andrew Bailey）総裁が、ステーブルコインの国際規制をめぐり、米トランプ政権と国際的な規制当局の間で「対立（wrestle",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "中東情勢の緩和期待と緊迫化に左右されつつもビットコイン8万ドル台回復、CLARITY法案の前進も（仮想通貨市場レポート 5/11 号）",
+      "link": "https://www.neweconomy.jp/features/sbivct/572530",
+      "pub_date": "2026-05-11T15:27:20+09:00",
+      "pub_date_utc": "2026-05-11T06:27:20+00:00",
+      "description": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 5/3~5/9週のサマリー 米・イラン和平枠組みへの期待からビットコインは一時82,000ドル台後半まで上昇",
+      "category_raw": "BTC",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 5/3~5/9週のサマリー 米・イラン和平枠組みへの期待からビットコインは一時82,000ドル台後半まで上昇",
+      "category": "分析・レポート",
+      "main_entities": [
+        "SBI VC Trade"
+      ],
+      "related_entities": [
+        "SBI Holdings"
+      ],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "アミナバンク、「カントンコイン（CC）」の取引・カストディ対応開始、銀行で世界初",
+      "link": "https://www.neweconomy.jp/posts/572545",
+      "pub_date": "2026-05-11T15:09:58+09:00",
+      "pub_date_utc": "2026-05-11T06:09:58+00:00",
+      "description": "アミナバンクがCC対応開始 アミナバンク（AMINA Bank）が、カントンネットワーク（Canton Network）のネイティブトークン「カントンコイン（CC）」の取引およびカストディ提供を開始したと5月6日に発表し",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "アミナバンクがCC対応開始 アミナバンク（AMINA Bank）が、カントンネットワーク（Canton Network）のネイティブトークン「カントンコイン（CC）」の取引およびカストディ提供を開始したと5月6日に発表し",
+      "category": "ビジネス",
+      "main_entities": [
+        "Toncoin"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ビットコイン現物ETF、6週連続の純流入　先週は約975億円の資金流入",
+      "link": "https://coinpost.jp/?p=707737",
+      "pub_date": "2026-05-11T14:54:33+09:00",
+      "pub_date_utc": "2026-05-11T05:54:33+00:00",
+      "description": "ビットコイン現物ETFに先週約975億円の純流入、6週連続のプラス。IBITが流入をけん引し、累積純流入額は593億ドル超に。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ビットコイン現物ETFに先週約975億円の純流入、6週連続のプラス。IBITが流入をけん引し、累積純流入額は593億ドル超に。",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "スイ、今年中に秘匿取引を導入へ　プライバシー決済と大規模決済に対応",
+      "link": "https://coinpost.jp/?p=707715",
+      "pub_date": "2026-05-11T14:14:33+09:00",
+      "pub_date_utc": "2026-05-11T05:14:33+00:00",
+      "description": "Mysten LabsのアビオドゥンCPOが、Suiブロックチェーンで2026年中に秘匿取引機能を導入すると表明。プライバシー決済と大規模決済への対応を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "Mysten LabsのアビオドゥンCPOが、Suiブロックチェーンで2026年中に秘匿取引機能を導入すると表明。プライバシー決済と大規模決済への対応を目指す。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Sui"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "レイヤーゼロ、rsETH事案巡り謝罪。1/1DVN停止や設定見直しへ",
+      "link": "https://www.neweconomy.jp/posts/572506",
+      "pub_date": "2026-05-11T14:02:56+09:00",
+      "pub_date_utc": "2026-05-11T05:02:56+00:00",
+      "description": "レイヤーゼロがrsETH事案巡り謝罪 クロスチェーン通信プロトコル「レイヤーゼロ（LayerZero）」を開発するレイヤーゼロラボ（LayerZero Labs）が、リキッドリステーキングプロトコル「ケルプDAO（Kel",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "レイヤーゼロがrsETH事案巡り謝罪 クロスチェーン通信プロトコル「レイヤーゼロ（LayerZero）」を開発するレイヤーゼロラボ（LayerZero Labs）が、リキッドリステーキングプロトコル「ケルプDAO（Kel",
+      "category": "ビジネス",
+      "main_entities": [
+        "Liquid"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ブラックロック、トークン化MMF関連商品2件をSECに申請",
+      "link": "https://coinpost.jp/?p=707697",
+      "pub_date": "2026-05-11T13:30:41+09:00",
+      "pub_date_utc": "2026-05-11T04:30:41+00:00",
+      "description": "ブラックロックがステーブルコイン保有者向けのオンチェーン対応MMF関連商品2件をSECに申請した。両ファンドは、ステーブルコインで資産を保有する投資家が、規制準拠型の安全資産で利回りを獲得できるように設計されている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ブラックロックがステーブルコイン保有者向けのオンチェーン対応MMF関連商品2件をSECに申請した。両ファンドは、ステーブルコインで資産を保有する投資家が、規制準拠型の安全資産で利回りを獲得できるように設計されている。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "BlackRock",
+        "SEC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "ストラテジーのセイラー会長、ビットコイン売却可能性について詳細語る",
+      "link": "https://coinpost.jp/?p=707678",
+      "pub_date": "2026-05-11T13:02:24+09:00",
+      "pub_date_utc": "2026-05-11T04:02:24+00:00",
+      "description": "ストラテジーのセイラー会長が仮想通貨ビットコイン売却の可能性と戦略的意図を解説した。損益分岐点や、純購入者の立場を維持する意欲も示している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ストラテジーのセイラー会長が仮想通貨ビットコイン売却の可能性と戦略的意図を解説した。損益分岐点や、純購入者の立場を維持する意欲も示している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "Zcash、1か月以内に量子耐性ウォレット導入へ",
+      "link": "https://www.neweconomy.jp/posts/572497",
+      "pub_date": "2026-05-11T13:00:54+09:00",
+      "pub_date_utc": "2026-05-11T04:00:54+00:00",
+      "description": "12〜18か月で完全耐量子化目指す プライバシーコイン「ジーキャッシュ（Zcash）」の主要UI開発を担うZcashオープン・デベロップメント・ラボ（Zcash Open Development Lab：ZODL）のCE",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "12〜18か月で完全耐量子化目指す プライバシーコイン「ジーキャッシュ（Zcash）」の主要UI開発を担うZcashオープン・デベロップメント・ラボ（Zcash Open Development Lab：ZODL）のCE",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
+      "title": "クラーケン運営元ペイワード、連邦信託会社免許を米OCCに申請",
+      "link": "https://www.neweconomy.jp/posts/572473",
+      "pub_date": "2026-05-11T12:29:32+09:00",
+      "pub_date_utc": "2026-05-11T03:29:32+00:00",
+      "description": "ペイワードが連邦信託会社免許を申請 米暗号資産（仮想通貨）取引所クラーケン（Kraken）運営元のペイワード（Payward）が、米通貨監督庁（OCC）に対し、連邦信託会社（ナショナル・トラスト・カンパニー）免許の申請を",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ペイワードが連邦信託会社免許を申請 米暗号資産（仮想通貨）取引所クラーケン（Kraken）運営元のペイワード（Payward）が、米通貨監督庁（OCC）に対し、連邦信託会社（ナショナル・トラスト・カンパニー）免許の申請を",
+      "category": "ビジネス",
+      "main_entities": [
+        "Kraken"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-12T10:59:55.160030+09:00"
+    },
+    {
       "title": "12年以上休眠の古参ホルダー、500BTCを移動　含み益は約88倍に＝Lookonchain",
       "link": "https://coinpost.jp/?p=707647",
       "pub_date": "2026-05-11T10:56:01+09:00",
@@ -10299,8 +10999,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-11T11:03:25.764887+09:00",
-  "total_count": 575,
+  "last_updated": "2026-05-12T10:59:55.160030+09:00",
+  "total_count": 614,
   "sources": [
     "NADA NEWS",
     "CoinPost",
