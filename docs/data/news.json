@@ -1,6 +1,548 @@
 {
   "articles": [
     {
+      "title": "フィデリティ、機関投資家向けトークン化流動性ファンド「FILQ」開始。ムーディーズはMMFの最高評価",
+      "link": "https://www.neweconomy.jp/posts/573639",
+      "pub_date": "2026-05-15T10:47:14+09:00",
+      "pub_date_utc": "2026-05-15T01:47:14+00:00",
+      "description": "ムーディーズは「FILQ」にMMF最高水準「Aaa-mf」付与 資産運用会社フィデリティ・インターナショナル（Fidelity International）が、機関投資家およびプロ投資家向けトークン化流動性ファンド「フィ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ムーディーズは「FILQ」にMMF最高水準「Aaa-mf」付与 資産運用会社フィデリティ・インターナショナル（Fidelity International）が、機関投資家およびプロ投資家向けトークン化流動性ファンド「フィ",
+      "category": "ビジネス",
+      "main_entities": [
+        "Fidelity"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "コンセンシスとレジャー、米IPO計画を延期・停止か＝報道",
+      "link": "https://www.neweconomy.jp/posts/573620",
+      "pub_date": "2026-05-15T09:53:16+09:00",
+      "pub_date_utc": "2026-05-15T00:53:16+00:00",
+      "description": "暗号資産企業の米IPO計画見直し広がる イーサリアム（Ethereum）開発企業コンセンシス（Consensys）および暗号資産（仮想通貨）ハードウェアウォレット開発企業レジャー（Ledger）が、米国IPO（新規株式公",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "暗号資産企業の米IPO計画見直し広がる イーサリアム（Ethereum）開発企業コンセンシス（Consensys）および暗号資産（仮想通貨）ハードウェアウォレット開発企業レジャー（Ledger）が、米国IPO（新規株式公",
+      "category": "ビジネス",
+      "main_entities": [
+        "Ledger"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "米上院銀行委員会が「CLARITY法」可決、上院本会議審議へ前進",
+      "link": "https://www.neweconomy.jp/posts/573619",
+      "pub_date": "2026-05-15T09:52:47+09:00",
+      "pub_date_utc": "2026-05-15T00:52:47+00:00",
+      "description": "業界歓迎の一方、倫理規定をめぐる対立も 米上院銀行委員会が、暗号資産（仮想通貨）業界を連邦レベルで包括的に規制する暗号資産市場構造法案「クラリティ法案（CLARITY Act）」を賛成15・反対9の超党派の賛成多数で米国",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "業界歓迎の一方、倫理規定をめぐる対立も 米上院銀行委員会が、暗号資産（仮想通貨）業界を連邦レベルで包括的に規制する暗号資産市場構造法案「クラリティ法案（CLARITY Act）」を賛成15・反対9の超党派の賛成多数で米国",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "CFTCのノーアクション・レター、イベント契約の報告規則を緩和",
+      "link": "https://cointelegraph.jp/news/cftc-issues-no-action-letter-prediction-market-data-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T07:48:28+09:00",
+      "pub_date_utc": "2026-05-14T22:48:28+00:00",
+      "description": "予測市場を巡る争いが拡大する中、CFTCは全額担保付きのイベント契約に対し、特定のスワップ報告規則から除外するノーアクション・レリーフを発行した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "予測市場を巡る争いが拡大する中、CFTCは全額担保付きのイベント契約に対し、特定のスワップ報告規則から除外するノーアクション・レリーフを発行した。",
+      "category": "規制・法律",
+      "main_entities": [
+        "CFTC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "CLARITY法案の採決を控え、アナリストが注視するビットコインの価格水準",
+      "link": "https://cointelegraph.jp/news/analysts-these-bitcoin-price-levels-ahead-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T07:41:53+09:00",
+      "pub_date_utc": "2026-05-14T22:41:53+00:00",
+      "description": "投資家が米国上院でのCLARITY法案の修正案審議（マークアップ）に備える中、ビットコイン価格は8万ドルを下回る水準で推移しており、主要な価格水準に向けて急激な変動が起こる可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "投資家が米国上院でのCLARITY法案の修正案審議（マークアップ）に備える中、ビットコイン価格は8万ドルを下回る水準で推移しており、主要な価格水準に向けて急激な変動が起こる可能性がある。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "ビットコイン、データが示す『米国マネー』の存在感──日経新聞コメントの背景【エックスウィン】",
+      "link": "https://www.nadanews.com/348609/",
+      "pub_date": "2026-05-15T07:40:00+09:00",
+      "pub_date_utc": "2026-05-14T22:40:00+00:00",
+      "description": "● Coinbase Premium Gapは、米国機関投資家による現物需要の回復兆候を示し始めている。● 取引所残高（Exchange Reserve）は継続 The post ビットコイン、データが示す『米国マネー』の存在感──日経新聞コメントの背景【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● Coinbase Premium Gapは、米国機関投資家による現物需要の回復兆候を示し始めている。● 取引所残高（Exchange Reserve）は継続 The post ビットコイン、データが示す『米国マネー』の存在感──日経新聞コメントの背景【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Base"
+      ],
+      "related_entities": [
+        "Coinbase",
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "ストラテジー社のビットコイン・エンジンに「280億ドルの壁」：Delphi Digital",
+      "link": "https://cointelegraph.jp/news/strategys-bitcoin-engine-28b-strc-ceiling-delphi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T07:22:00+09:00",
+      "pub_date_utc": "2026-05-14T22:22:00+00:00",
+      "description": "ストラテジー社は、優先株「STRC」の発行上限である280億ドルに近づいている。しかし、Delphiのリサーチャーは、ビットコイン蓄積を加速させる別の資金調達メカニズムについても言及している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ストラテジー社は、優先株「STRC」の発行上限である280億ドルに近づいている。しかし、Delphiのリサーチャーは、ビットコイン蓄積を加速させる別の資金調達メカニズムについても言及している。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "JPモルガン、第1四半期にビットコインETFへのエクスポージャーを拡大　ブラックロックのIBITが牽引",
+      "link": "https://cointelegraph.jp/news/jpmorgan-bitcoin-etf-buy-blackrock-ibit-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T07:07:15+09:00",
+      "pub_date_utc": "2026-05-14T22:07:15+00:00",
+      "description": "同銀行は第1四半期、ブラックロックの「iShares Bitcoin Trust（IBIT）」の保有報告数を174%増加させたほか、特定のビットコイン、イーサ、ソラナ関連ファンドへのエクスポージャーも追加した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "同銀行は第1四半期、ブラックロックの「iShares Bitcoin Trust（IBIT）」の保有報告数を174%増加させたほか、特定のビットコイン、イーサ、ソラナ関連ファンドへのエクスポージャーも追加した。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "BlackRock",
+        "JPMorgan"
+      ],
+      "related_entities": [
+        "Solana Foundation"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "暗号資産データ企業Dune、従業員の25％を削減──AI活用と機関投資家向けデータ事業に集中",
+      "link": "https://www.nadanews.com/348605/",
+      "pub_date": "2026-05-15T07:00:00+09:00",
+      "pub_date_utc": "2026-05-14T22:00:00+00:00",
+      "description": "暗号資産（仮想通貨）データ企業Dune（デューン）は、従業員の25％を削減したと発表した。共同創業者兼CEOのFredrik Haga（フレドリック・ハガ）氏が The post 暗号資産データ企業Dune、従業員の25％を削減──AI活用と機関投資家向けデータ事業に集中 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）データ企業Dune（デューン）は、従業員の25％を削減したと発表した。共同創業者兼CEOのFredrik Haga（フレドリック・ハガ）氏が The post 暗号資産データ企業Dune、従業員の25％を削減──AI活用と機関投資家向けデータ事業に集中 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "イベント・人事",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "CME Group、Nasdaq CME Crypto Index先物をローンチへ",
+      "link": "https://www.nadanews.com/348602/",
+      "pub_date": "2026-05-15T06:30:00+09:00",
+      "pub_date_utc": "2026-05-14T21:30:00+00:00",
+      "description": "デリバティブ市場大手のCME Group（CMEグループ）は、Nasdaq CME Crypto Index（ナスダックCMEクリプト・インデックス）先物を6月 The post CME Group、Nasdaq CME Crypto Index先物をローンチへ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "デリバティブ市場大手のCME Group（CMEグループ）は、Nasdaq CME Crypto Index（ナスダックCMEクリプト・インデックス）先物を6月 The post CME Group、Nasdaq CME Crypto Index先物をローンチへ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "DeFi",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "米上院銀行委、クラリティ法案を可決──民主党議員の一部も支持",
+      "link": "https://www.nadanews.com/348599/",
+      "pub_date": "2026-05-15T06:00:00+09:00",
+      "pub_date_utc": "2026-05-14T21:00:00+00:00",
+      "description": "米上院銀行委員会は5月14日、暗号資産（仮想通貨）市場を包括的に規制する「Clarity Act（クラリティ法案）」を15対9で可決し、上院本会議での審議へ進め The post 米上院銀行委、クラリティ法案を可決──民主党議員の一部も支持 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "米上院銀行委員会は5月14日、暗号資産（仮想通貨）市場を包括的に規制する「Clarity Act（クラリティ法案）」を15対9で可決し、上院本会議での審議へ進め The post 米上院銀行委、クラリティ法案を可決──民主党議員の一部も支持 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "規制・法律",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "【5/14話題】クラリティ法案審議前に100件超の修正案、メタプラネットの2026年Q1決算、ビットワイズがJupiter Lend起用など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/573606",
+      "pub_date": "2026-05-15T00:09:01+09:00",
+      "pub_date_utc": "2026-05-14T15:09:01+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category": "規制・法律",
+      "main_entities": [
+        "Meta"
+      ],
+      "related_entities": [
+        "Apple"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "米大手VC「a16z」、今夏に日本拠点設立へ──高市首相明かす",
+      "link": "https://www.nadanews.com/348594/",
+      "pub_date": "2026-05-15T00:07:36+09:00",
+      "pub_date_utc": "2026-05-14T15:07:36+00:00",
+      "description": "米大手ベンチャーキャピタル（VC）のAndreessen Horowitz（アンドリーセン・ホロウィッツ、a16z）が、今夏に米国外で初となる海外拠点を日本に設 The post 米大手VC「a16z」、今夏に日本拠点設立へ──高市首相明かす first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "米大手ベンチャーキャピタル（VC）のAndreessen Horowitz（アンドリーセン・ホロウィッツ、a16z）が、今夏に米国外で初となる海外拠点を日本に設 The post 米大手VC「a16z」、今夏に日本拠点設立へ──高市首相明かす first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "a16z"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "フィスコ、暗号資産事業から撤退",
+      "link": "https://www.nadanews.com/348582/",
+      "pub_date": "2026-05-14T20:22:40+09:00",
+      "pub_date_utc": "2026-05-14T11:22:40+00:00",
+      "description": "暗号資産（仮想通貨）発行業者としても知られる東証グロース市場上場企業のフィスコは14日、暗号資産・ブロックチェーン事業を事業内容から外し、2026年12月期第1 The post フィスコ、暗号資産事業から撤退 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "暗号資産（仮想通貨）発行業者としても知られる東証グロース市場上場企業のフィスコは14日、暗号資産・ブロックチェーン事業を事業内容から外し、2026年12月期第1 The post フィスコ、暗号資産事業から撤退 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "ビットコイン、価格調整が進めば7万ドルまで下落する可能性も：CryptoQuant",
+      "link": "https://www.nadanews.com/348583/",
+      "pub_date": "2026-05-14T19:25:00+09:00",
+      "pub_date_utc": "2026-05-14T10:25:00+00:00",
+      "description": "オンチェーンデータ分析企業CryptoQuant（クリプトクワント）は5月13日に公開したレポートで、利益確定売りとアメリカの投資家需要の低迷がビットコイン（B The post ビットコイン、価格調整が進めば7万ドルまで下落する可能性も：CryptoQuant first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Bitcoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "オンチェーンデータ分析企業CryptoQuant（クリプトクワント）は5月13日に公開したレポートで、利益確定売りとアメリカの投資家需要の低迷がビットコイン（B The post ビットコイン、価格調整が進めば7万ドルまで下落する可能性も：CryptoQuant first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "分析・レポート",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "Circle、AIエージェントネイティブツール群「Agent Stack」をリリース",
+      "link": "https://www.nadanews.com/348577/",
+      "pub_date": "2026-05-14T18:40:00+09:00",
+      "pub_date_utc": "2026-05-14T09:40:00+00:00",
+      "description": "米ドル建てステーブルコイン「USDコイン（USDC）」発行元のCircle（サークル）は5月12日、AI（人工知能）エージェント向け金融インフラ「Agent S The post Circle、AIエージェントネイティブツール群「Agent Stack」をリリース first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Other Protocols",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "米ドル建てステーブルコイン「USDコイン（USDC）」発行元のCircle（サークル）は5月12日、AI（人工知能）エージェント向け金融インフラ「Agent S The post Circle、AIエージェントネイティブツール群「Agent Stack」をリリース first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Circle"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Infura"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "OKJ、ベラチェーン（BERA）を5月20日より取り扱い開始",
+      "link": "https://www.nadanews.com/348570/",
+      "pub_date": "2026-05-14T17:26:03+09:00",
+      "pub_date_utc": "2026-05-14T08:26:03+00:00",
+      "description": "オーケーコイン・ジャパン株式会社は、同社が運営する暗号資産（仮想通貨）取引所のOKJにおいて、5月20日よりベラチェーン（BERA）を取り扱うことを発表した。 The post OKJ、ベラチェーン（BERA）を5月20日より取り扱い開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Other Cryptocurrencies",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "オーケーコイン・ジャパン株式会社は、同社が運営する暗号資産（仮想通貨）取引所のOKJにおいて、5月20日よりベラチェーン（BERA）を取り扱うことを発表した。 The post OKJ、ベラチェーン（BERA）を5月20日より取り扱い開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "DTCC、チェーンリンク活用で24時間365日の担保管理基盤構築へ",
+      "link": "https://www.neweconomy.jp/posts/573447",
+      "pub_date": "2026-05-14T17:09:55+09:00",
+      "pub_date_utc": "2026-05-14T08:09:55+00:00",
+      "description": "DTCCのコラテラル・アップチェーンにチェーンリンク統合 米証券市場の決済・保管インフラを担うDTCCが、同社の担保管理基盤「コラテラル・アップチェーン（Collateral AppChain）」にチェーンリンク（Cha",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "DTCCのコラテラル・アップチェーンにチェーンリンク統合 米証券市場の決済・保管インフラを担うDTCCが、同社の担保管理基盤「コラテラル・アップチェーン（Collateral AppChain）」にチェーンリンク（Cha",
+      "category": "ビジネス",
+      "main_entities": [
+        "Chainlink"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "仏銀行大手Societe Generale、ステーブルコイン「EURCV」「USDCV」をCanton Networkに展開",
+      "link": "https://www.nadanews.com/348534/",
+      "pub_date": "2026-05-14T17:00:00+09:00",
+      "pub_date_utc": "2026-05-14T08:00:00+00:00",
+      "description": "仏銀行大手Societe Generale（ソシエテ・ジェネラル）は5月13日、ユーロ建てステーブルコイン「EUR CoinVertible（ティッカー：EUR The post 仏銀行大手Societe Generale、ステーブルコイン「EURCV」「USDCV」をCanton Networkに展開 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "仏銀行大手Societe Generale（ソシエテ・ジェネラル）は5月13日、ユーロ建てステーブルコイン「EUR CoinVertible（ティッカー：EUR The post 仏銀行大手Societe Generale、ステーブルコイン「EURCV」「USDCV」をCanton Networkに展開 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Circle"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Toncoin"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "ステラ開発財団、英領バミューダ政府のオンチェーン経済化計画を支援へ",
+      "link": "https://www.neweconomy.jp/posts/573440",
+      "pub_date": "2026-05-14T16:56:53+09:00",
+      "pub_date_utc": "2026-05-14T07:56:53+00:00",
+      "description": "Stellar開発財団がバミューダ政府を支援へ ステラ（Stellar）ブロックチェーン支援の非営利組織ステラ開発財団（Stellar Development Foundation：SDF）が、英領バミューダ政府とともに",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Stellar開発財団がバミューダ政府を支援へ ステラ（Stellar）ブロックチェーン支援の非営利組織ステラ開発財団（Stellar Development Foundation：SDF）が、英領バミューダ政府とともに",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "日本初、三井物産デジタルAMが底地をデジタル証券化。イオン大宮店の土地に10万円から投資可能に",
+      "link": "https://www.neweconomy.jp/posts/573432",
+      "pub_date": "2026-05-14T16:15:03+09:00",
+      "pub_date_utc": "2026-05-14T07:15:03+00:00",
+      "description": "日本初の底地のデジタル証券化 三井物産デジタル・アセットマネジメントが、底地をデジタル証券化した「三井物産グループのデジタル証券～イオン大宮～（譲渡制限付）」の公開および募集開始を5月14日に発表した。底地のデジタル証券",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "日本初の底地のデジタル証券化 三井物産デジタル・アセットマネジメントが、底地をデジタル証券化した「三井物産グループのデジタル証券～イオン大宮～（譲渡制限付）」の公開および募集開始を5月14日に発表した。底地のデジタル証券",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "チャールズシュワブ、ビットコインとイーサリアムの現物取引を提供開始。米国の一部個人顧客向けに",
+      "link": "https://www.neweconomy.jp/posts/573417",
+      "pub_date": "2026-05-14T15:50:55+09:00",
+      "pub_date_utc": "2026-05-14T06:50:55+00:00",
+      "description": "Charles Schwabが暗号資産取引サービス提供開始 米大手金融サービス企業チャールズシュワブ（Charles Schwab）が、暗号資産（仮想通貨）の現物取引サービス「シュワブクリプト（Schwab Crypto",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Charles Schwabが暗号資産取引サービス提供開始 米大手金融サービス企業チャールズシュワブ（Charles Schwab）が、暗号資産（仮想通貨）の現物取引サービス「シュワブクリプト（Schwab Crypto",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "ビットコイン 200日移動平均線で失速リスク　仮想通貨アナリストが弱気市場転落を警告",
+      "link": "https://cointelegraph.jp/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-14T15:36:12+09:00",
+      "pub_date_utc": "2026-05-14T06:36:12+00:00",
+      "description": "ビットコイン（BTC）は、200日移動平均線に基づく歴史的な「主要な弱気市場レジスタンス水準」に到達したことで、下落トレンドへ転じるリスクがある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は、200日移動平均線に基づく歴史的な「主要な弱気市場レジスタンス水準」に到達したことで、下落トレンドへ転じるリスクがある。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "サークル、AIエージェント向けUSDC金融基盤「エージェント・スタック」公開",
+      "link": "https://www.neweconomy.jp/posts/573406",
+      "pub_date": "2026-05-14T15:21:49+09:00",
+      "pub_date_utc": "2026-05-14T06:21:49+00:00",
+      "description": "USDC活用のAIエージェント向けインフラ展開 米ドルステーブルコイン「USDC」などを発行するサークル（Circle）が、AIエージェント向け金融基盤「エージェント・スタック（Agent Stack）」の公開を5月12",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "USDC活用のAIエージェント向けインフラ展開 米ドルステーブルコイン「USDC」などを発行するサークル（Circle）が、AIエージェント向け金融基盤「エージェント・スタック（Agent Stack）」の公開を5月12",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Circle"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "米大手銀行、金融システムのデジタル化は「ゆっくり始まり急加速」＝ムーディーズがレポート",
+      "link": "https://cointelegraph.jp/news/moodys-us-banks-tokenized-finance-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-14T15:15:05+09:00",
+      "pub_date_utc": "2026-05-14T06:15:05+00:00",
+      "description": "米大手銀行や金融市場仲介業者は、金融システムのデジタル化移行について、当初は緩やかに進行し、その後転換点を迎えて急速に加速すると予想している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米大手銀行や金融市場仲介業者は、金融システムのデジタル化移行について、当初は緩やかに進行し、その後転換点を迎えて急速に加速すると予想している。",
+      "category": "分析・レポート",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "仏大手銀行ソシエテ、「USDCV」と「EURCV」をカントンネットワークに展開へ",
+      "link": "https://www.neweconomy.jp/posts/573396",
+      "pub_date": "2026-05-14T15:03:04+09:00",
+      "pub_date_utc": "2026-05-14T06:03:04+00:00",
+      "description": "ソシエテのUSDCVとEURCVがCanton展開へ 仏大手銀行ソシエテジェネラル（Societe Generale）が、米ドル建てステーブルコインとユーロ建てステーブルコインを、カントンネットワーク（Canton Ne",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ソシエテのUSDCVとEURCVがCanton展開へ 仏大手銀行ソシエテジェネラル（Societe Generale）が、米ドル建てステーブルコインとユーロ建てステーブルコインを、カントンネットワーク（Canton Ne",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Circle"
+      ],
+      "related_entities": [
+        "Toncoin"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "「仮想通貨政策」を投票判断材料に　米国有権者の4％のみ　世論調査で温度差浮き彫り",
+      "link": "https://cointelegraph.jp/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-14T14:39:28+09:00",
+      "pub_date_utc": "2026-05-14T05:39:28+00:00",
+      "description": "米国人有権者のうち、選挙の候補者への投票を決める際に仮想通貨政策を重視すると答えた人は、わずか4％にとどまった。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米国人有権者のうち、選挙の候補者への投票を決める際に仮想通貨政策を重視すると答えた人は、わずか4％にとどまった。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "ジェーン・ストリート、ビットコインETFの保有を縮小　一方でイーサリアムETFを積み増し",
+      "link": "https://cointelegraph.jp/news/jane-street-slashes-bitcoin-etfs-adds-ether-funds-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-14T14:26:41+09:00",
+      "pub_date_utc": "2026-05-14T05:26:41+00:00",
+      "description": "ウォール街のマーケットメーカー、ジェーン・ストリートは2026年第1四半期、ビットコインETFの保有比率を引き下げる一方、イーサリアムETFへのエクスポージャーを拡大した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ウォール街のマーケットメーカー、ジェーン・ストリートは2026年第1四半期、ビットコインETFの保有比率を引き下げる一方、イーサリアムETFへのエクスポージャーを拡大した。",
+      "category": "暗号資産ETF",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "フィデリティ系運用会社、トークン化流動性ファンドを立ち上げ　チェーンリンクを活用",
+      "link": "https://cointelegraph.jp/news/fidelity-filq-tokenized-fund-chainlink-sygnum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-14T14:09:49+09:00",
+      "pub_date_utc": "2026-05-14T05:09:49+00:00",
+      "description": "約1兆ドルの顧客資産を運用するグローバル資産運用会社フィデリティ・インターナショナルは、ムーディーズ・レーティングスの評価を受けたトークン化流動性ファンドを立ち上げた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "約1兆ドルの顧客資産を運用するグローバル資産運用会社フィデリティ・インターナショナルは、ムーディーズ・レーティングスの評価を受けたトークン化流動性ファンドを立ち上げた。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Fidelity"
+      ],
+      "related_entities": [
+        "Chainlink"
+      ],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
+      "title": "ビットコイン 6月に10万ドルまで回復できるか？ ストラテジーの買い圧力とステーブルコイン支配率低下で追い風",
+      "link": "https://cointelegraph.jp/news/bitcoin-100k-in-q2-strategy-strc-unlocks-buy-3k-btc-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-14T11:37:03+09:00",
+      "pub_date_utc": "2026-05-14T02:37:03+00:00",
+      "description": "ビットコイン（BTC）は、ストラテジーの買い付け余力回復やステーブルコイン支配率の低下を背景に、6月までに10万ドルへ到達する可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は、ストラテジーの買い付け余力回復やステーブルコイン支配率の低下を背景に、6月までに10万ドルへ到達する可能性がある。",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-15T11:05:50.190413+09:00"
+    },
+    {
       "title": "NyxのAI監査システム「SPECA」、イーサリアム財団の研究助成金に採択",
       "link": "https://www.neweconomy.jp/posts/573281",
       "pub_date": "2026-05-14T11:04:03+09:00",
@@ -12224,8 +12766,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-14T11:07:20.582588+09:00",
-  "total_count": 682,
+  "last_updated": "2026-05-15T11:05:50.190413+09:00",
+  "total_count": 712,
   "sources": [
     "NADA NEWS",
     "CoinPost",
