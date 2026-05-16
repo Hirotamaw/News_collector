@@ -1,6 +1,860 @@
 {
   "articles": [
     {
+      "title": "トランプ一族信託、購入した仮想通貨・半導体関連銘柄を開示",
+      "link": "https://coinpost.jp/?p=709097",
+      "pub_date": "2026-05-16T10:45:23+09:00",
+      "pub_date_utc": "2026-05-16T01:45:23+00:00",
+      "description": "トランプ大統領一族のファミリートラストが2026年1～3月期にコインベースなどの仮想通貨関連株を購入したことが、米政府倫理局への提出書類で明らかになった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "トランプ大統領一族のファミリートラストが2026年1～3月期にコインベースなどの仮想通貨関連株を購入したことが、米政府倫理局への提出書類で明らかになった。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "制度強気と金利ショックの交差点──ビットコイン市場が試され始めた“静かな分岐点”【BitTrade Market Weekly】",
+      "link": "https://www.nadanews.com/348852/",
+      "pub_date": "2026-05-16T10:00:00+09:00",
+      "pub_date_utc": "2026-05-16T01:00:00+00:00",
+      "description": "2026年5月15日付の日本経済新聞「中東混迷でビットコイン2割高　株・金上回る上昇率、無国籍性に評価」の記事の中で、筆者は、「主に米国の機関投資家や『クジラ』 The post 制度強気と金利ショックの交差点──ビットコイン市場が試され始めた“静かな分岐点”【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "2026年5月15日付の日本経済新聞「中東混迷でビットコイン2割高　株・金上回る上昇率、無国籍性に評価」の記事の中で、筆者は、「主に米国の機関投資家や『クジラ』 The post 制度強気と金利ショックの交差点──ビットコイン市場が試され始めた“静かな分岐点”【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "ARK Invest"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "IREN、約4800億円の転換社債発行を完了　AI・データセンター投資を本格加速",
+      "link": "https://coinpost.jp/?p=709068",
+      "pub_date": "2026-05-16T09:45:45+09:00",
+      "pub_date_utc": "2026-05-16T00:45:45+00:00",
+      "description": "AIクラウド事業者のIRENが、総額30億ドルの転換社債発行を完了したと発表した。エヌビディアとの戦略提携を背景に、AIデータセンターへの大規模投資を加速させる方針だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "AIクラウド事業者のIRENが、総額30億ドルの転換社債発行を完了したと発表した。エヌビディアとの戦略提携を背景に、AIデータセンターへの大規模投資を加速させる方針だ。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "IREN、4700億円超の転換社債発行を完了──AIクラウド基盤拡大へ資金確保",
+      "link": "https://www.nadanews.com/348830/",
+      "pub_date": "2026-05-16T09:30:00+09:00",
+      "pub_date_utc": "2026-05-16T00:30:00+00:00",
+      "description": "ビットコイン（BTC）マイニング企業からAIクラウドインフラ企業への転換を進めるIREN（アイレン）は、30億ドル（約4700億円、1ドル＝155円換算）規模の The post IREN、4700億円超の転換社債発行を完了──AIクラウド基盤拡大へ資金確保 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン（BTC）マイニング企業からAIクラウドインフラ企業への転換を進めるIREN（アイレン）は、30億ドル（約4700億円、1ドル＝155円換算）規模の The post IREN、4700億円超の転換社債発行を完了──AIクラウド基盤拡大へ資金確保 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Infura"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "クロスチェーンプロトコルThorchain、約17億円相当の資産が不正流出か",
+      "link": "https://coinpost.jp/?p=709082",
+      "pub_date": "2026-05-16T09:25:15+09:00",
+      "pub_date_utc": "2026-05-16T00:25:15+00:00",
+      "description": "THORChainは、問題が発生して取引を停止。約17億円相当の資産が不正流出したとみられ、仮想通貨ビットコインや、イーサリアムなどのブロックチェーンの資産に影響が出ているようだ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "THORChainは、問題が発生して取引を停止。約17億円相当の資産が不正流出したとみられ、仮想通貨ビットコインや、イーサリアムなどのブロックチェーンの資産に影響が出ているようだ。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "Strategy、約2300億円相当の転換社債を割引価格で買い戻しへ──資金確保にビットコイン売却も検討",
+      "link": "https://www.nadanews.com/348828/",
+      "pub_date": "2026-05-16T09:00:00+09:00",
+      "pub_date_utc": "2026-05-16T00:00:00+00:00",
+      "description": "ビットコイン（BTC）を大量保有するStrategy（ストラテジー）は、15億ドル（約2300億円、1ドル＝155円換算）相当の転換社債を割引価格で買い戻す計画 The post Strategy、約2300億円相当の転換社債を割引価格で買い戻しへ──資金確保にビットコイン売却も検討 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン（BTC）を大量保有するStrategy（ストラテジー）は、15億ドル（約2300億円、1ドル＝155円換算）相当の転換社債を割引価格で買い戻す計画 The post Strategy、約2300億円相当の転換社債を割引価格で買い戻しへ──資金確保にビットコイン売却も検討 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "トランプ一家、CoinbaseやMARA株を購入──政府倫理局への開示資料で判明",
+      "link": "https://www.nadanews.com/348825/",
+      "pub_date": "2026-05-16T08:30:00+09:00",
+      "pub_date_utc": "2026-05-15T23:30:00+00:00",
+      "description": "米国のドナルド・トランプ大統領とその家族が、2026年第1四半期に暗号資産（仮想通貨）関連企業の株式を購入していたことが、新たな開示書類で明らかになった。 米政 The post トランプ一家、CoinbaseやMARA株を購入──政府倫理局への開示資料で判明 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "米国のドナルド・トランプ大統領とその家族が、2026年第1四半期に暗号資産（仮想通貨）関連企業の株式を購入していたことが、新たな開示書類で明らかになった。 米政 The post トランプ一家、CoinbaseやMARA株を購入──政府倫理局への開示資料で判明 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Cardano",
+        "Base"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "Coinbase、USDコインのHyperliquidでの展開を主導",
+      "link": "https://www.nadanews.com/348809/",
+      "pub_date": "2026-05-16T08:00:00+09:00",
+      "pub_date_utc": "2026-05-15T23:00:00+00:00",
+      "description": "Coinbase（Coinbase）は5月14日、分散型取引所（DEX）のHyperliquid（ハイパーリキッド）において、USDコイン（USDC）の公式トレ The post Coinbase、USDコインのHyperliquidでの展開を主導 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Coinbase（Coinbase）は5月14日、分散型取引所（DEX）のHyperliquid（ハイパーリキッド）において、USDコイン（USDC）の公式トレ The post Coinbase、USDコインのHyperliquidでの展開を主導 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "DeFi",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Liquid",
+        "Cardano",
+        "Base",
+        "Circle"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "米上院「クラリティー法」採決の壁、公職者の利益相反防ぐ「倫理条項」が焦点に",
+      "link": "https://coinpost.jp/?p=709069",
+      "pub_date": "2026-05-16T07:56:48+09:00",
+      "pub_date_utc": "2026-05-15T22:56:48+00:00",
+      "description": "米上院銀行委員会を通過した仮想通貨市場構造法案「クラリティー法」は、本会議採決に向けて「公職者の利益相反問題」が最大の焦点となっている。民主党が厳格な規制を求める中、法案成立の行方を左右する正念場を迎えている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米上院銀行委員会を通過した仮想通貨市場構造法案「クラリティー法」は、本会議採決に向けて「公職者の利益相反問題」が最大の焦点となっている。民主党が厳格な規制を求める中、法案成立の行方を左右する正念場を迎えている。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "「日本国債ショック」はビットコイン市場へ波及するのか──ビットコインとの意外な接点【エックスウィン】",
+      "link": "https://www.nadanews.com/348845/",
+      "pub_date": "2026-05-16T07:55:33+09:00",
+      "pub_date_utc": "2026-05-15T22:55:33+00:00",
+      "description": "● 日本の長期金利上昇は、単なる「正常化」ではなく、財政・金融政策への信認低下を映し始めている可能性がある● 日銀が国債を買い続けても金利上昇が止まらず、「YC The post 「日本国債ショック」はビットコイン市場へ波及するのか──ビットコインとの意外な接点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● 日本の長期金利上昇は、単なる「正常化」ではなく、財政・金融政策への信認低下を映し始めている可能性がある● 日銀が国債を買い続けても金利上昇が止まらず、「YC The post 「日本国債ショック」はビットコイン市場へ波及するのか──ビットコインとの意外な接点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "マーケット",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "JPYC、発行上限を「1日100万円」から「1回100万円」へ──Kaiaチェーン追加も",
+      "link": "https://www.nadanews.com/348833/",
+      "pub_date": "2026-05-16T07:06:32+09:00",
+      "pub_date_utc": "2026-05-15T22:06:32+00:00",
+      "description": "JPYC社は15日、日本円ステーブルコインJPYCの発行・償還プラットフォーム「JPYC EX」のアップデートを実施したことを発表した。 今回のアップデートでは The post JPYC、発行上限を「1日100万円」から「1回100万円」へ──Kaiaチェーン追加も first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "JPYC社は15日、日本円ステーブルコインJPYCの発行・償還プラットフォーム「JPYC EX」のアップデートを実施したことを発表した。 今回のアップデートでは The post JPYC、発行上限を「1日100万円」から「1回100万円」へ──Kaiaチェーン追加も first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "Stablecoin",
+      "main_entities": [
+        "日本円ステーブルコイン"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "JPYC EXが大型アップデート、発行上限を1回100万円に変更",
+      "link": "https://coinpost.jp/?p=709070",
+      "pub_date": "2026-05-16T07:05:16+09:00",
+      "pub_date_utc": "2026-05-15T22:05:16+00:00",
+      "description": "国内ステーブルコイン発行企業JPYC株式会社がJPYC EXの大型アップデートを実施。発行上限ルールを1日あたりから1回あたり100万円に変更し、KakaoとLINEが統合したKaiaチェーンへの対応も新たに開始した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "国内ステーブルコイン発行企業JPYC株式会社がJPYC EXの大型アップデートを実施。発行上限ルールを1日あたりから1回あたり100万円に変更し、KakaoとLINEが統合したKaiaチェーンへの対応も新たに開始した。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "日本円ステーブルコイン"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "21SharesのHYPE現物ETF、過去最高出来高を記録　コインベースの提携発表が呼び水に",
+      "link": "https://coinpost.jp/?p=709071",
+      "pub_date": "2026-05-16T06:35:23+09:00",
+      "pub_date_utc": "2026-05-15T21:35:23+00:00",
+      "description": "仮想通貨ハイパーリキッド（HYPE）関連ETFへの資金流入が加速。21SharesのETFが1日810万ドルの取引高を記録し、コインベースによるUSDCサポート拡大が市場の関心を集めている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "仮想通貨ハイパーリキッド（HYPE）関連ETFへの資金流入が加速。21SharesのETFが1日810万ドルの取引高を記録し、コインベースによるUSDCサポート拡大が市場の関心を集めている。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Liquid",
+        "Circle"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "CLARITY法案、米上院銀行委員会を通過　超党派支持も「倫理問題」で火種残す",
+      "link": "https://cointelegraph.jp/news/crypto-clarity-act-faces-partisan-fight-ethics-senate-floor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-16T06:00:00+09:00",
+      "pub_date_utc": "2026-05-15T21:00:00+00:00",
+      "description": "民主党議員らは、現行のCLARITY法案草案について重大な倫理上の懸念を表明している。特に、ドナルド・トランプ大統領による仮想通貨プロジェクトへの関与が問題視されている。",
+      "category_raw": "Features",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "民主党議員らは、現行のCLARITY法案草案について重大な倫理上の懸念を表明している。特に、ドナルド・トランプ大統領による仮想通貨プロジェクトへの関与が問題視されている。",
+      "category": "規制・法律",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "米大手取引所ICE・CME、ハイパーリキッド規制をCFTCに要請",
+      "link": "https://coinpost.jp/?p=709072",
+      "pub_date": "2026-05-16T05:55:33+09:00",
+      "pub_date_utc": "2026-05-15T20:55:33+00:00",
+      "description": "米ICEとCMEが、匿名取引を可能にする仮想通貨デリバティブ取引所ハイパーリキッドについて、制裁回避や価格操作リスクを理由に米CFTCへの登録を求めていることが明らかになった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "米ICEとCMEが、匿名取引を可能にする仮想通貨デリバティブ取引所ハイパーリキッドについて、制裁回避や価格操作リスクを理由に米CFTCへの登録を求めていることが明らかになった。",
+      "category": "規制・法律",
+      "main_entities": [
+        "CFTC"
+      ],
+      "related_entities": [
+        "Liquid"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "ストラテジー、転換社債を約2200億円で買い戻し　負債圧縮へ",
+      "link": "https://coinpost.jp/?p=709054",
+      "pub_date": "2026-05-16T05:00:04+09:00",
+      "pub_date_utc": "2026-05-15T20:00:04+00:00",
+      "description": "ストラテジーが2029年満期の無利息転換社債15億ドル分を約13.8億ドルで買い戻すことを米SECへのForm 8-Kで公表した。決済は5月19日を予定し、買い戻し後も同シリーズの残高は約15億ドルが残る。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ストラテジーが2029年満期の無利息転換社債15億ドル分を約13.8億ドルで買い戻すことを米SECへのForm 8-Kで公表した。決済は5月19日を予定し、買い戻し後も同シリーズの残高は約15億ドルが残る。",
+      "category": "規制・法律",
+      "main_entities": [
+        "SEC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "重要サポートで攻防　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+      "link": "https://cointelegraph.jp/news/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-16T02:52:03+09:00",
+      "pub_date_utc": "2026-05-15T17:52:03+00:00",
+      "description": "ビットコインは7万6000ドルを上回っている限り強気基調を維持しているが、主要アルトコインのいくつかは短期的に弱気へ転じる兆候を見せている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインは7万6000ドルを上回っている限り強気基調を維持しているが、主要アルトコインのいくつかは短期的に弱気へ転じる兆候を見せている。",
+      "category": "マーケット",
+      "main_entities": [
+        "Solana Foundation",
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "イーサリアム 1700ドルへの下落リスク浮上　取引所流入増加で弱気警戒",
+      "link": "https://cointelegraph.jp/news/ethereum-analysts-see-downside-risks-bears-20-eth-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-16T01:49:07+09:00",
+      "pub_date_utc": "2026-05-15T16:49:07+00:00",
+      "description": "市場アナリストらは、イーサリアム（ETH）が「下振れリスク」に直面しており、1700ドル付近まで20％下落する可能性があると指摘している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "市場アナリストらは、イーサリアム（ETH）が「下振れリスク」に直面しており、1700ドル付近まで20％下落する可能性があると指摘している。",
+      "category": "マーケット",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "ビットコイン 8万2000ドルが壁に　ETF流出続く中で次の上昇条件とは？",
+      "link": "https://cointelegraph.jp/news/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-16T01:06:11+09:00",
+      "pub_date_utc": "2026-05-15T16:06:11+00:00",
+      "description": "ビットコイン（BTC）は木曜日、上院銀行委員会によるCLARITY法案前進を追い風に8万2000ドルまで上昇した。しかし、その後は強い上値抵抗とETF需要減速を背景に上昇が停滞している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は木曜日、上院銀行委員会によるCLARITY法案前進を追い風に8万2000ドルまで上昇した。しかし、その後は強い上値抵抗とETF需要減速を背景に上昇が停滞している。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "ハイパーリキッドのHYPEが急騰　ETF上場とコインベース提携で強気加速",
+      "link": "https://cointelegraph.jp/news/why-is-hyperliquid-hype-price-up-23-percent-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-16T00:31:45+09:00",
+      "pub_date_utc": "2026-05-15T15:31:45+00:00",
+      "description": "分散型取引所ハイパーリキッドのネイティブトークン「HYPE」は、過去24時間で23％超上昇し、金曜日には47ドル付近まで上昇した。これは2025年10月以来の高値となる。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "分散型取引所ハイパーリキッドのネイティブトークン「HYPE」は、過去24時間で23％超上昇し、金曜日には47ドル付近まで上昇した。これは2025年10月以来の高値となる。",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [
+        "Liquid"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "仮想通貨取引所OKX、韓国コインワン株取得を協議か　韓国市場で再編加速",
+      "link": "https://cointelegraph.jp/news/okx-reportedly-eyeing-south-korea-move-with-coinone-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T23:25:39+09:00",
+      "pub_date_utc": "2026-05-15T14:25:39+00:00",
+      "description": "大手仮想通貨取引所OKXは、韓国投資証券（KIS）と共同で韓国の仮想通貨取引所コインワンの大規模株式取得を協議していると報じられている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "大手仮想通貨取引所OKXは、韓国投資証券（KIS）と共同で韓国の仮想通貨取引所コインワンの大規模株式取得を協議していると報じられている。",
+      "category": "ビジネス",
+      "main_entities": [
+        "OKX"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "韓国ハナ金融、アップビット運営会社ドゥナム株6.5%取得へ　仮想通貨分野進出を加速",
+      "link": "https://cointelegraph.jp/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T22:57:56+09:00",
+      "pub_date_utc": "2026-05-15T13:57:56+00:00",
+      "description": "韓国大手金融グループのハナ金融グループは、仮想通貨取引所アップビット運営会社ドゥナムの株式を取得する。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "韓国大手金融グループのハナ金融グループは、仮想通貨取引所アップビット運営会社ドゥナムの株式を取得する。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Upbit"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "金融庁、仮想通貨仲介業の登録説明会を開催　6月上旬施行に向け解釈明確化へ",
+      "link": "https://coinpost.jp/?p=708806",
+      "pub_date": "2026-05-15T19:33:27+09:00",
+      "pub_date_utc": "2026-05-15T10:33:27+00:00",
+      "description": "金融庁は15日、改正資金決済法で新設される仮想通貨・ステーブルコイン仲介業の登録事前説明会を開催。施行は2026年6月上旬の見込みで、「画面遷移の有無」は媒介判定の決定要素でないとの解釈も示された。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "金融庁は15日、改正資金決済法で新設される仮想通貨・ステーブルコイン仲介業の登録事前説明会を開催。施行は2026年6月上旬の見込みで、「画面遷移の有無」は媒介判定の決定要素でないとの解釈も示された。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "金融庁"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "【5/15話題】米上院銀行委員会が「CLARITY法」可決、イングランド銀行がステーブルコイン規制案を再考へなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/573741",
+      "pub_date": "2026-05-15T19:32:11+09:00",
+      "pub_date_utc": "2026-05-15T10:32:11+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Apple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "アライド、「クリプト関連事業」を「資産AX事業」へ改称──オンチェーンとDAT構想推進",
+      "link": "https://www.nadanews.com/348780/",
+      "pub_date": "2026-05-15T19:20:46+09:00",
+      "pub_date_utc": "2026-05-15T10:20:46+00:00",
+      "description": "マーケティング支援事業を展開する東証グロース上場のアライドアーキテクツは15日、オンラインで事業戦略説明会を開催した。 同日開示した2026年12月期第1四半期 The post アライド、「クリプト関連事業」を「資産AX事業」へ改称──オンチェーンとDAT構想推進 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケティング支援事業を展開する東証グロース上場のアライドアーキテクツは15日、オンラインで事業戦略説明会を開催した。 同日開示した2026年12月期第1四半期 The post アライド、「クリプト関連事業」を「資産AX事業」へ改称──オンチェーンとDAT構想推進 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "イベント・人事",
+      "main_entities": [
+        "Cardano"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "Strategyの優先株STRC、1日の取引高が過去最高の15億ドルに",
+      "link": "https://www.nadanews.com/348785/",
+      "pub_date": "2026-05-15T18:55:00+09:00",
+      "pub_date_utc": "2026-05-15T09:55:00+00:00",
+      "description": "ビットコイン財務企業Strategy（ストラテジー）の永久優先株「STRC」の取引高が、5月14日に15億3000万ドル（約2448億円、1ドル=160円換算） The post Strategyの優先株STRC、1日の取引高が過去最高の15億ドルに first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン財務企業Strategy（ストラテジー）の永久優先株「STRC」の取引高が、5月14日に15億3000万ドル（約2448億円、1ドル=160円換算） The post Strategyの優先株STRC、1日の取引高が過去最高の15億ドルに first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "ビジネス",
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "BTC（ビットコイン）は米イラン情勢に警戒も、米中首脳会談後のリスクオン期待が下支えか【マネックス証券】",
+      "link": "https://www.nadanews.com/348795/",
+      "pub_date": "2026-05-15T18:52:19+09:00",
+      "pub_date_utc": "2026-05-15T09:52:19+00:00",
+      "description": "● 今週のビットコインは、米国株が高値を更新する中でも、ETFフローの悪化や中東リスク、米金融政策・規制を巡る不透明感が重なり、上値の重い展開となった。 ● 来 The post BTC（ビットコイン）は米イラン情勢に警戒も、米中首脳会談後のリスクオン期待が下支えか【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "● 今週のビットコインは、米国株が高値を更新する中でも、ETFフローの悪化や中東リスク、米金融政策・規制を巡る不透明感が重なり、上値の重い展開となった。 ● 来 The post BTC（ビットコイン）は米イラン情勢に警戒も、米中首脳会談後のリスクオン期待が下支えか【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "マネックスグループ"
+      ],
+      "related_entities": [
+        "Cardano"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "アンソロピックのAI「Claude」、11年休眠の約5BTCウォレット復旧支援か",
+      "link": "https://www.neweconomy.jp/posts/573734",
+      "pub_date": "2026-05-15T18:15:40+09:00",
+      "pub_date_utc": "2026-05-15T09:15:40+00:00",
+      "description": "Claude活用で長期休眠ビットコインウォレット復旧との投稿 暗号資産（仮想通貨）投資家のCprkrn氏が、アンソロピック（Anthropic）のAI「クロード（Claude）」を活用し、2015年以来約11年間アクセス",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Claude活用で長期休眠ビットコインウォレット復旧との投稿 暗号資産（仮想通貨）投資家のCprkrn氏が、アンソロピック（Anthropic）のAI「クロード（Claude）」を活用し、2015年以来約11年間アクセス",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "GMOコイン、「外国為替FX」に7通貨ペア追加へ",
+      "link": "https://www.neweconomy.jp/posts/573726",
+      "pub_date": "2026-05-15T18:04:01+09:00",
+      "pub_date_utc": "2026-05-15T09:04:01+00:00",
+      "description": "GMOコインの外国為替FXに7通貨ペア追加へ 国内暗号資産（仮想通貨）取引所GMOコイン提供の「外国為替FX（外国為替証拠金取引）」において、新たに7通貨ペアが取り扱われる予定だと5月15日に発表された。取扱い開始は5月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "GMOコインの外国為替FXに7通貨ペア追加へ 国内暗号資産（仮想通貨）取引所GMOコイン提供の「外国為替FX（外国為替証拠金取引）」において、新たに7通貨ペアが取り扱われる予定だと5月15日に発表された。取扱い開始は5月",
+      "category": "ビジネス",
+      "main_entities": [
+        "GMOコイン"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "コインベース、ハイパーリキッドUSDC展開の中核役割担う。公式トレジャリーデプロイヤーに",
+      "link": "https://www.neweconomy.jp/posts/573719",
+      "pub_date": "2026-05-15T17:48:47+09:00",
+      "pub_date_utc": "2026-05-15T08:48:47+00:00",
+      "description": "ハイパーリキッドUSDC展開強化、USDHは段階終了へ 米コインベース（Coinbase）が、分散型デリバティブ取引基盤「ハイパーリキッド（Hyperliquid）」におけるUSDCの公式「トレジャリーデプロイヤー」にな",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ハイパーリキッドUSDC展開強化、USDHは段階終了へ 米コインベース（Coinbase）が、分散型デリバティブ取引基盤「ハイパーリキッド（Hyperliquid）」におけるUSDCの公式「トレジャリーデプロイヤー」にな",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Coinbase",
+        "Circle"
+      ],
+      "related_entities": [
+        "Liquid",
+        "Base"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "スペースX、5月中にもIPO目論見書を公開へ　ビットコイン保有が初開示か＝報道",
+      "link": "https://coinpost.jp/?p=708995",
+      "pub_date": "2026-05-15T17:25:00+09:00",
+      "pub_date_utc": "2026-05-15T08:25:00+00:00",
+      "description": "スペースXが来週にもIPO目論見書を公開する見通し。8,285BTCのビットコイン保有が初めて公式開示される見込みで、仮想通貨市場への影響も注目される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "スペースXが来週にもIPO目論見書を公開する見通し。8,285BTCのビットコイン保有が初めて公式開示される見込みで、仮想通貨市場への影響も注目される。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "CMEグループ、「時価総額上位の暗号資産バスケット先物契約」上場へ",
+      "link": "https://www.neweconomy.jp/posts/573698",
+      "pub_date": "2026-05-15T16:50:41+09:00",
+      "pub_date_utc": "2026-05-15T07:50:41+00:00",
+      "description": "Nasdaq CME Crypto Index futures取引開始へ 金融・商品デリバティブ取引所運営の米CMEグループ（CME Group）が、時価総額上位の暗号資産（仮想通貨）で構成されるバスケット連動先物商品の",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Nasdaq CME Crypto Index futures取引開始へ 金融・商品デリバティブ取引所運営の米CMEグループ（CME Group）が、時価総額上位の暗号資産（仮想通貨）で構成されるバスケット連動先物商品の",
+      "category": "DeFi",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "バイナンスリサーチ、2030年に仮想通貨ユーザー30億人到達を予測",
+      "link": "https://coinpost.jp/?p=708958",
+      "pub_date": "2026-05-15T16:13:04+09:00",
+      "pub_date_utc": "2026-05-15T07:13:04+00:00",
+      "description": "バイナンス・リサーチが2030年に仮想通貨ユーザー30億人到達の可能性を予測。オンボーディングやAI・ソーシャル層の統合が普及拡大の鍵と分析した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "バイナンス・リサーチが2030年に仮想通貨ユーザー30億人到達の可能性を予測。オンボーディングやAI・ソーシャル層の統合が普及拡大の鍵と分析した。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Binance"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "CLARITY法案の進捗と暗号資産市場の展望レポート",
+      "link": "https://www.neweconomy.jp/features/sbivct/573672",
+      "pub_date": "2026-05-15T15:03:43+09:00",
+      "pub_date_utc": "2026-05-15T06:03:43+00:00",
+      "description": "米上院銀行委員会が可決した「CLARITY法案」の進捗と暗号資産市場の展望レポート 米上院銀行委員会が、暗号資産業界を連邦レベルで包括的に規制する暗号資産市場構造法案「クラリティ法案（CLARITY Act）」を米国時間",
+      "category_raw": "BTC",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "米上院銀行委員会が可決した「CLARITY法案」の進捗と暗号資産市場の展望レポート 米上院銀行委員会が、暗号資産業界を連邦レベルで包括的に規制する暗号資産市場構造法案「クラリティ法案（CLARITY Act）」を米国時間",
+      "category": "分析・レポート",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "ビットワイズの「ハイパーリキッド（HYPE）」現物ETF、NYSEアーカで5/15取引開始へ",
+      "link": "https://www.neweconomy.jp/posts/573673",
+      "pub_date": "2026-05-15T14:48:43+09:00",
+      "pub_date_utc": "2026-05-15T05:48:43+00:00",
+      "description": "Bitwise Hyperliquid ETF上場へ 暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が組成した、ハイパーリキッド（Hyperliquid）のネイティブトークンHYPEに連動するステーキング対応",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Bitwise Hyperliquid ETF上場へ 暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が組成した、ハイパーリキッド（Hyperliquid）のネイティブトークンHYPEに連動するステーキング対応",
+      "category": "暗号資産ETF",
+      "main_entities": [
+        "Liquid"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "AI悪用で深刻化する北朝鮮の金融業界サイバー攻撃、2025年被害額が前年比51%増に＝レポート",
+      "link": "https://coinpost.jp/?p=708857",
+      "pub_date": "2026-05-15T14:00:26+09:00",
+      "pub_date_utc": "2026-05-15T05:00:26+00:00",
+      "description": "クラウドストライクの最新レポートで、北朝鮮関連ハッカーが2025年に約20億ドル相当の仮想通貨を金融業界から窃取と判明した。AI活用やIT工作員潜入など手口も巧妙化している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "クラウドストライクの最新レポートで、北朝鮮関連ハッカーが2025年に約20億ドル相当の仮想通貨を金融業界から窃取と判明した。AI活用やIT工作員潜入など手口も巧妙化している。",
+      "category": "障害・攻撃",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "仮想通貨データ企業デューン、従業員25％削減　AIと機関投資家向け事業へ集中",
+      "link": "https://cointelegraph.jp/news/crypto-data-company-dune-cuts-25-of-staff-ai-use-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T13:38:34+09:00",
+      "pub_date_utc": "2026-05-15T04:38:34+00:00",
+      "description": "仮想通貨データ企業デューンは、従業員の25％を削減したと発表した。事業再編を進め、コアデータ製品へ注力するためだという。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "仮想通貨データ企業デューンは、従業員の25％を削減したと発表した。事業再編を進め、コアデータ製品へ注力するためだという。",
+      "category": "ビジネス",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "イングランド銀行、ステーブルコイン規制案を再考へ＝報道",
+      "link": "https://www.neweconomy.jp/posts/573661",
+      "pub_date": "2026-05-15T13:28:45+09:00",
+      "pub_date_utc": "2026-05-15T04:28:45+00:00",
+      "description": "業界圧力受け見直し検討 イングランド銀行（BoE）が、ステーブルコインに関する規制案の見直しを検討しているようだ。「英フィナンシャル・タイムズ（FT）」をはじめ各社が5月14日に報じている。 BoEのサラ・ブリードン（S",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "業界圧力受け見直し検討 イングランド銀行（BoE）が、ステーブルコインに関する規制案の見直しを検討しているようだ。「英フィナンシャル・タイムズ（FT）」をはじめ各社が5月14日に報じている。 BoEのサラ・ブリードン（S",
+      "category": "Stablecoin",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "韓国最大手銀Hana、仮想通貨取引所Upbit運営会社に1000億円超出資　持分比率6.55%に",
+      "link": "https://coinpost.jp/?p=708837",
+      "pub_date": "2026-05-15T13:25:09+09:00",
+      "pub_date_utc": "2026-05-15T04:25:09+00:00",
+      "description": "韓国大手のハナ銀行が、Upbit運営会社Dunamuの株式228万株を6億7000万ドルで取得した。ウォン建てステーブルコインのインフラ構築でも協力する方針で、韓国伝統金融の仮想通貨分野への関与が加速。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "韓国大手のハナ銀行が、Upbit運営会社Dunamuの株式228万株を6億7000万ドルで取得した。ウォン建てステーブルコインのインフラ構築でも協力する方針で、韓国伝統金融の仮想通貨分野への関与が加速。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Upbit"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "仮想通貨取引所ジェミナイ、Q1売上高が42％増　クレジットカード事業拡大で金融サービス企業へ転換加速",
+      "link": "https://cointelegraph.jp/news/gemini-reports-42-revenue-growth-expansion-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T13:17:35+09:00",
+      "pub_date_utc": "2026-05-15T04:17:35+00:00",
+      "description": "仮想通貨企業ジェミナイは2026年第1四半期、売上高が前年同期比42％増加したと発表した。同社は純粋な仮想通貨取引所から、金融サービス企業への転換を進めている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "仮想通貨企業ジェミナイは2026年第1四半期、売上高が前年同期比42％増加したと発表した。同社は純粋な仮想通貨取引所から、金融サービス企業への転換を進めている。",
+      "category": "ビジネス",
+      "main_entities": [
+        "Gemini"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "米CFTC、予測市場向けイベント契約の報告義務巡りノーアクション発出",
+      "link": "https://www.neweconomy.jp/posts/573653",
+      "pub_date": "2026-05-15T12:26:52+09:00",
+      "pub_date_utc": "2026-05-15T03:26:52+00:00",
+      "description": "予測市場向けイベント契約の報告義務巡りノーアクション 米商品先物取引委員会（CFTC）の市場監督部門および清算・リスク部門が、予測市場で利用される「イベント契約」に関する報告及び記録規則について、一部のスワップデータ報告",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "予測市場向けイベント契約の報告義務巡りノーアクション 米商品先物取引委員会（CFTC）の市場監督部門および清算・リスク部門が、予測市場で利用される「イベント契約」に関する報告及び記録規則について、一部のスワップデータ報告",
+      "category": "規制・法律",
+      "main_entities": [
+        "CFTC"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "ビットコイン価格 8万ドルを維持　コインベース・ディスカウントでも底堅さ示す",
+      "link": "https://cointelegraph.jp/news/bitcoin-trades-discount-coinbase-is-76k-retest-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T12:24:58+09:00",
+      "pub_date_utc": "2026-05-15T03:24:58+00:00",
+      "description": "ビットコイン（BTC）は木曜日、7万9000ドル水準を防衛し、底堅さを示した。一方で、一部トレーダーの間では、コインベース上のBTC価格が海外取引所のステーブルコイン建て価格に対してディスカウント状態となっていることから、上昇モメンタム鈍化への懸念も浮上している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン（BTC）は木曜日、7万9000ドル水準を防衛し、底堅さを示した。一方で、一部トレーダーの間では、コインベース上のBTC価格が海外取引所のステーブルコイン建て価格に対してディスカウント状態となっていることから、上昇モメンタム鈍化への懸念も浮上している。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "Coinbase"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "アルトコインシーズン到来の兆候か　バイナンス出来高とTOTAL2構造改善で強気観測",
+      "link": "https://cointelegraph.jp/news/altcoin-quietly-starting-analysts-spot-three-bullish-indicators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T11:49:45+09:00",
+      "pub_date_utc": "2026-05-15T02:49:45+00:00",
+      "description": "仮想通貨市場アナリストらは、バイナンスでのアルトコインのパフォーマンスや取引量増加、アルトシーズン指数の上昇、TOTAL2のマクロ構造改善を背景に、2026年にアルトシーズンが到来する初期兆候が見え始めていると指摘している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "仮想通貨市場アナリストらは、バイナンスでのアルトコインのパフォーマンスや取引量増加、アルトシーズン指数の上昇、TOTAL2のマクロ構造改善を背景に、2026年にアルトシーズンが到来する初期兆候が見え始めていると指摘している。",
+      "category": "マーケット",
+      "main_entities": [
+        "Binance"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "ファセット、ステーブルコイン決済基盤の強化に向け約80億円を調達　SBIグループら出資参加",
+      "link": "https://coinpost.jp/?p=708842",
+      "pub_date": "2026-05-15T11:39:16+09:00",
+      "pub_date_utc": "2026-05-15T02:39:16+00:00",
+      "description": "ファセットがSBIグループらから約80億円のシリーズBを調達。ステーブルコイン決済インフラ「Fasset's Own Network」を軸に、125カ国の新興国市場での中小企業向け金融サービス拡大を加速する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "ファセットがSBIグループらから約80億円のシリーズBを調達。ステーブルコイン決済インフラ「Fasset's Own Network」を軸に、125カ国の新興国市場での中小企業向け金融サービス拡大を加速する。",
+      "category": "Stablecoin",
+      "main_entities": [
+        "SBI Holdings"
+      ],
+      "related_entities": [
+        "Infura"
+      ],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "【XRP価格】クジラ積み増しで上昇期待高まる　1.50ドル突破なら2ドル視野",
+      "link": "https://cointelegraph.jp/news/xrp-whale-wallets-all-time-highs-will-it-push-price-above-1-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-15T11:24:14+09:00",
+      "pub_date_utc": "2026-05-15T02:24:14+00:00",
+      "description": "クジラ（大口投資家）の動向、ネットワーク成長、テクニカル改善を背景に、市場ではXRP/USDが1.50ドルのレジスタンスを突破すれば、さらなる上昇へ向かうとの見方が強まっている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "クジラ（大口投資家）の動向、ネットワーク成長、テクニカル改善を背景に、市場ではXRP/USDが1.50ドルのレジスタンスを突破すれば、さらなる上昇へ向かうとの見方が強まっている。",
+      "category": "マーケット",
+      "main_entities": [
+        "Ripple"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "テザー社・トロン・TRM Labs、24年9月以降に計700億円超の不法資産を凍結",
+      "link": "https://coinpost.jp/?p=708813",
+      "pub_date": "2026-05-15T11:20:14+09:00",
+      "pub_date_utc": "2026-05-15T02:20:14+00:00",
+      "description": "テザー社は、同社とトロンとTRM Labsの共同イニシアチブが計700億円超の違法な資産を凍結したと発表。仮想通貨に関連する金融犯罪をターゲットにして規制上の協調を強化していると説明した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "テザー社は、同社とトロンとTRM Labsの共同イニシアチブが計700億円超の違法な資産を凍結したと発表。仮想通貨に関連する金融犯罪をターゲットにして規制上の協調を強化していると説明した。",
+      "category": "障害・攻撃",
+      "main_entities": [
+        "Tether"
+      ],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
+      "title": "日本発のNyx Foundation、AIエージェント専用イーサリアムレイヤー2「Eris」開発を開始",
+      "link": "https://coinpost.jp/?p=708819",
+      "pub_date": "2026-05-15T10:58:07+09:00",
+      "pub_date_utc": "2026-05-15T01:58:07+00:00",
+      "description": "一般社団法人Nyx Foundationが、AIエージェント専用Ethereum Layer 2「Eris」の開発とAIコンペ「ASCON」のスポンサー募集を開始。DeFiセキュリティの公共財化を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "一般社団法人Nyx Foundationが、AIエージェント専用Ethereum Layer 2「Eris」の開発とAIコンペ「ASCON」のスポンサー募集を開始。DeFiセキュリティの公共財化を目指す。",
+      "category": "Blockchain",
+      "main_entities": [],
+      "related_entities": [],
+      "fetched_at": "2026-05-16T10:57:50.779144+09:00"
+    },
+    {
       "title": "フィデリティ、機関投資家向けトークン化流動性ファンド「FILQ」開始。ムーディーズはMMFの最高評価",
       "link": "https://www.neweconomy.jp/posts/573639",
       "pub_date": "2026-05-15T10:47:14+09:00",
@@ -12766,8 +13620,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-15T11:05:50.190413+09:00",
-  "total_count": 712,
+  "last_updated": "2026-05-16T10:57:50.779144+09:00",
+  "total_count": 759,
   "sources": [
     "NADA NEWS",
     "CoinPost",
