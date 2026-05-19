@@ -8902,10 +8902,14 @@
       "summary": "米ビットコインマイニング大手MARAホールディングスがオハイオ州のガス発電所を15億ドルで買収する。電力・土地・水を集約したインフラでAI・HPC事業の多角化を加速する計画だ。",
       "category": "ビジネス",
       "main_entities": [
-        "Infura"
+        "MARA Holdings"
       ],
       "related_entities": [],
-      "fetched_at": "2026-05-02T10:47:09.814445+09:00"
+      "fetched_at": "2026-05-02T10:47:09.814445+09:00",
+      "all_entities": [
+        "MARA Holdings"
+      ],
+      "manually_edited": true
     },
     {
       "title": "コモンズブリッジ侵害で約1850万SYND不正流出か。SYND急落",
@@ -8920,10 +8924,14 @@
       "summary": "Commonsブリッジ侵害で約1,850万SYND不正取得か イーサリアム（Ethereum）関連インフラを開発するシンジケート（Syndicate）が、同社開発のブリッジ「コモンズ（Commons）」において侵害の調査",
       "category": "障害・攻撃",
       "main_entities": [
-        "Infura"
+        "Syndicate"
       ],
       "related_entities": [],
-      "fetched_at": "2026-05-01T10:59:15.750449+09:00"
+      "fetched_at": "2026-05-01T10:59:15.750449+09:00",
+      "all_entities": [
+        "Syndicate"
+      ],
+      "manually_edited": true
     },
     {
       "title": "USDCで「うなぎ」と「家電」──SBI VCトレードとアプラス、大阪で店舗決済の実証実験",
@@ -14791,12 +14799,12 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-19T11:11:20.502916+09:00",
+  "last_updated": "2026-05-19T22:38:38.192Z",
   "total_count": 824,
   "sources": [
-    "NADA NEWS",
-    "CoinPost",
     "あたらしい経済",
+    "CoinPost",
+    "NADA NEWS",
     "CoinTelegraph JP"
   ]
 }
