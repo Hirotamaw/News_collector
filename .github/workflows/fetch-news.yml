@@ -2,8 +2,17 @@ name: Fetch Crypto News Daily Digest
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # 毎朝9:00 JST
   workflow_dispatch:
+    inputs:
+      mode:
+        description: '取得モード: 24h=過去24時間 / today=当日09:00 JST以降'
+        required: false
+        default: '24h'
+        type: choice
+        options:
+          - 24h
+          - today
 
 permissions:
   contents: write
@@ -12,32 +21,24 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  fetch-and-summarize:
+  fetch-and-analyze:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install requests
-
-      - name: Run fetch and analyze script
+      - name: Fetch and analyze news
         env:
-          # GitHub Secretsからのみ読み込む。コードに直接書かない。
-          # スクリプト内でURLパラメータでなくHTTPヘッダーで送信するため
-          # エラーログにキーが露出しない。
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FETCH_MODE: ${{ inputs.mode || '24h' }}
         run: python scripts/fetch_news.py
-
-      - name: Commit and push updated data
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/news.json docs/data/entities.json
-          git diff --cached --quiet || git commit -m "chore: update news digest $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')"
+          git diff --cached --quiet || git commit -m "chore: fetch news ($(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST'))"
           git push
