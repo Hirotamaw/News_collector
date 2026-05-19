@@ -27,7 +27,7 @@ DATA_FILE     = Path(__file__).parent.parent / "docs" / "data" / "news.json"
 ENTITIES_FILE = Path(__file__).parent.parent / "docs" / "data" / "entities.json"
 MAX_RETRIES   = 3
 RETRY_DELAY   = 5
-GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
 
 SOURCES = [
     {"name": "NADA NEWS",        "top_url": "https://www.nadanews.com/",  "rss_url": "https://www.nadanews.com/feed/",      "color": "#0f6e56"},
