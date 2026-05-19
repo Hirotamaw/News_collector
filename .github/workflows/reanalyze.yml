@@ -1,0 +1,32 @@
+name: Re-analyze Existing Articles
+
+on:
+  workflow_dispatch:   # 手動実行のみ（定期実行しない）
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  reanalyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Re-analyze existing articles
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/reanalyze.py
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json docs/data/entities.json
+          git diff --cached --quiet || git commit -m "chore: reanalyze articles ($(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST'))"
+          git push
