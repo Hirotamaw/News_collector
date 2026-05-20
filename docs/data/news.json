@@ -1,6 +1,979 @@
 {
   "articles": [
     {
+      "title": "米政府、「戦略的ビットコイン準備金」を近日に正式発表か＝報道",
+      "link": "https://www.neweconomy.jp/posts/574878",
+      "pub_date": "2026-05-20T10:48:27+09:00",
+      "pub_date_utc": "2026-05-20T01:48:27+00:00",
+      "description": "ホワイトハウスが戦略的ビットコイン準備金で発表準備 米ホワイトハウスが、米国の「戦略的ビットコイン準備金（Strategic Bitcoin Reserve）」について、近日に正式発表を行う見通しであると、暗号資産（仮想",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ホワイトハウスが戦略的ビットコイン準備金で発表準備 米ホワイトハウスが、米国の「戦略的ビットコイン準備金（Strategic Bitcoin Reserve）」について、近日に正式発表を行う見通しであると、暗号資産（仮想通貨）メディア「ビットコインマガジン（Bitcoin Magazine）」が5月18日に報じた。 同メディアによると、トランプ政権で大統領デジタル資産諮問評議会のエグゼクティブディレクターを務めるパトリック・ウィット（Patrick Witt）氏が、インタビュー番組「ザ・ウルフ・オブ・オール・ストリート（The Wolf Of All Streets）」に出演し、同準備金の設置に向けた大きな法的ハードルを越えたと説明したという。同インタビューは現在YouTubeで確認できる。 ウィット氏は、「法的に問題がなく、資産を適切に保護する形で、すべてを整えるという点で画期的な進展だ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ゴールドマン、XRPとSOL関連ETFポジション売却か。前期保有もQ1報告書で開示せず",
+      "link": "https://www.neweconomy.jp/posts/574865",
+      "pub_date": "2026-05-20T10:40:38+09:00",
+      "pub_date_utc": "2026-05-20T01:40:38+00:00",
+      "description": "GoldmanがQ1でXRPとSOL関連ETFを売却か 米大手投資銀行ゴールドマン・サックス（Goldman Sachs）が、前四半期末時点で保有を開示していたXRPとSOL関連ETFのポジションを売却した可能性がある。",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "GoldmanがQ1でXRPとSOL関連ETFを売却か 米大手投資銀行ゴールドマン・サックス（Goldman Sachs）が、前四半期末時点で保有を開示していたXRPとSOL関連ETFのポジションを売却した可能性がある。同社が、5月15日に米SEC（証券取引委員会）へ提出した今年第1四半期末時点の報告書（Form 13F-HR）には、当該ポジションが記載されていなかった。なお、同社は売却の有無について公表していない。 XRP関連ETF（上場投資信託）については、ビットワイズ（Bitwise）組成の「Bitwise XRP ETF」、フランクリン・テンプルトン（Franklin Templeton）組成の「Franklin XRP Trust」、グレースケール（Grayscale）組成の「Grayscale XRP Trust ETF」、21シェアーズ（21Shares）組成の「21Shar",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "Solana",
+        "Ripple",
+        "Toncoin",
+        "Hyperliquid",
+        "Fidelity",
+        "Grayscale",
+        "VanEck",
+        "Goldman Sachs",
+        "SEC"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "次世代金融インフラの覇権争いを議論、『ポイント・ゼロ・フォーラム2026』が6月スイスで開催予定",
+      "link": "https://coinpost.jp/?p=709695",
+      "pub_date": "2026-05-20T10:40:16+09:00",
+      "pub_date_utc": "2026-05-20T01:40:16+00:00",
+      "description": "スイス国際金融庁とシンガポールのGFTNが主催する「ポイント・ゼロ・フォーラム2026」が6月23〜25日にチューリッヒで開催される。ステーブルコインやAI、量子技術が金融インフラを再構築する現状と各国規制当局の動向を伝える。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "Solana",
+        "Cardano",
+        "Sui",
+        "Tether",
+        "Circle",
+        "Goldman Sachs",
+        "金融庁",
+        "ECB"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ビットコイン採掘マシンメーカーのカナン、純損失141億円に　2026年1～3月期決算",
+      "link": "https://coinpost.jp/?p=709720",
+      "pub_date": "2026-05-20T10:10:40+09:00",
+      "pub_date_utc": "2026-05-20T01:10:40+00:00",
+      "description": "カナンが2026年1～3月期決算で純損失141億円を報告した。ビットコイン市場停滞で売上が前期比で減少している。米テキサス採掘権取得や北欧の熱供給プロジェクトなど新事業も進行中だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "Zcashが主要暗号資産で上昇率トップ──SECの執行措置見送りで規制懸念が後退【価格分析】",
+      "link": "https://www.nadanews.com/349591/",
+      "pub_date": "2026-05-20T10:09:37+09:00",
+      "pub_date_utc": "2026-05-20T01:09:37+00:00",
+      "description": "・Zcashは火曜日に5％上昇し、ビットコイン（BTC）が7万7000ドルを下回るなか、主要暗号資産をアウトパフォームした。・Zcash Foundationは The post Zcashが主要暗号資産で上昇率トップ──SECの執行措置見送りで規制懸念が後退【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Markets Zcashが主要暗号資産で上昇率トップ──SECの執行措置見送りで規制懸念が後退【価格分析】 By Ibrahim Ajibade 2026年5月20日10:09 .st0 { fill: #374149; } 2026年5月20日10:09 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・Zcashは火曜日に5％上昇し、ビットコイン（BTC）が7万7000ドルを下回るなか、主要暗号資産をアウトパフォームした。・Zcash Foundationは、SECが執行措置を勧告することなく調査を終了したと確認した。・デリバティブ市場の活動が活発化するなか、グレイスケールが現物Zcash ETFの計画を進めており、機関投資家の関心も高まった。 googletag",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "SEC"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "「ビットコインは75000ドル割れに注意」ウィンターミュート分析",
+      "link": "https://coinpost.jp/?p=709708",
+      "pub_date": "2026-05-20T07:50:22+09:00",
+      "pub_date_utc": "2026-05-19T22:50:22+00:00",
+      "description": "ウィンターミュートは週次の市場レポートを公開。仮想通貨ビットコインの価格について、76,000ドルから78,000ドルが注視する水準になるとの見方を示している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "NVIDIA",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "仮想通貨ファンド、10億ドル超流出　イラン情勢緊迫化でリスク回避強まる",
+      "link": "https://cointelegraph.jp/news/crypto-funds-1b-outflows-iran-tensions-risk-off-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-20T07:43:42+09:00",
+      "pub_date_utc": "2026-05-19T22:43:42+00:00",
+      "description": "イラン情勢の緊迫化とインフレ再加速を受け、機関投資家はビットコインとイーサ関連商品から資金を引き揚げた。一方、XRPとソラナ関連ファンドには資金流入が続いた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Sam Bourgi、スタッフライター校閲：Robert Lakin、スタッフ編集者仮想通貨ファンド、10億ドル超流出　イラン情勢緊迫化でリスク回避強まる3 時間前ニュース 仮想通貨投資商品は先週、大幅な資金流出を記録した。投資家がインフレ懸念と、米国とイランの持続的停戦を巡る不透明感を背景にリスクを縮小したためだ。コインシェアーズの最新週間リポートによると、デジタル資産の上場投資商品（ETP）は10億7000万ドルの純流出となり、6週間続いた資金流入が途切れた。今年では3番目に大きい週間流出となった。ビットコイン（BTC）関連投資商品が流出の大半を占め、9億8200万ドルが流出した。イーサ（ETH）関連商品は2億4900万ドル流出し、1月30日終了週以来で最大の流出となった。一方、アルトコイン関連ファンドは全体傾向に逆行した。XRP（XRP）関連投資商品には6750万ドルが流入し",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "Ripple",
+        "Sui"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "バーンスタイン、ビットコイン採掘企業はAIインフラで戦略的役割を獲得と指摘",
+      "link": "https://cointelegraph.jp/news/bernstein-bitcoin-miners-gain-strategic-role-in-ai-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-20T07:39:14+09:00",
+      "pub_date_utc": "2026-05-19T22:39:14+00:00",
+      "description": "バーンスタインは、ビットコイン採掘企業が保有する電力インフラが、AIデータセンター拡張において重要な戦略資産になりつつあるとの見方を示した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Sam Bourgi、スタッフライター校閲：Robert Lakin、スタッフ編集者バーンスタイン、ビットコイン採掘企業はAIインフラで戦略的役割を獲得と指摘3 時間前ニュース 調査会社バーンスタインの最新リポートによると、ビットコイン採掘企業は、大規模な電力容量とデータセンター向け不動産を保有していることから、人工知能（AI）インフラ供給網において重要な役割を担いつつある。アナリストのゴータム・チュガニ氏、マヒカ・サプラ氏、サンスカル・チンダリア氏、ハーシュ・ミスラ氏は、上場ビットコイン採掘企業が27ギガワット超の計画済み電力容量を保有しており、ハイパースケーラー、ネオクラウド事業者、半導体メーカー向けに、3.7ギガワット分を対象とした900億ドル超のAI関連契約を発表していると推計した。RANDが4月29日に公表した調査ブリーフでは、米国が2030年までに約82ギガワットの追加",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "IREN",
+        "Microsoft"
+      ],
+      "main_entities": [
+        "IREN"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "「個人投資家」は本当に消えたのか──オンチェーンで進行するビットコイン市場の“制度金融化”【エックスウィン】",
+      "link": "https://www.nadanews.com/349329/",
+      "pub_date": "2026-05-20T07:28:03+09:00",
+      "pub_date_utc": "2026-05-19T22:28:03+00:00",
+      "description": "● CryptoQuantのアナリスト Darkfost @Darkfost_Coc によると、Binanceにおける小口投資家（1BTC未満）のBTC流入量は The post 「個人投資家」は本当に消えたのか──オンチェーンで進行するビットコイン市場の“制度金融化”【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Markets 「個人投資家」は本当に消えたのか──オンチェーンで進行するビットコイン市場の“制度金融化”【エックスウィン】 By エックスウィン 2026年5月20日07:28 .st0 { fill: #374149; } 2026年5月20日07:29 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● CryptoQuantのアナリスト Darkfost @Darkfost_Coc によると、Binanceにおける小口投資家（1BTC未満）のBTC流入量は過去最低水準へ低下している。● ETF承認後は大口投資家・機関投資家層の存在感が急速に強まり、市場構造は「個人主導」から「制度金融主導」へ転換しつつある。● 現在のBTC市場は、従来の“熱狂型バブルサイクル”で",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ビットコイン押し目買い勢、より深い下落局面を注視　次の焦点は7万ドル割れか",
+      "link": "https://cointelegraph.jp/news/bitcoin-traders-may-look-for-deeper-pullback-zones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-20T07:25:52+09:00",
+      "pub_date_utc": "2026-05-19T22:25:52+00:00",
+      "description": "ビットコイン先物市場と板情報のデータから、押し目買いを狙う投資家が7万ドル未満への下落を待っている状況が浮かび上がった。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Biraajmaan Tamuly、スタッフライター校閲：Ray Salmond、スタッフ編集者ビットコイン押し目買い勢、より深い下落局面を注視　次の焦点は7万ドル割れか4 時間前価格分析 ビットコイン（BTC）トレーダーの関心は、先物市場とオーダーブック（板情報）のデータを受けて、6万8000ドル〜7万ドルの価格帯へと移っている。デリバティブ市場では売り圧力が強まっており、日次のビッド・アスク比率はマイナス0.03まで低下した。これは、清算水準を意識した取引の中で、買い手よりも売り手の方が積極的であることを示している。ビットコイン買い注文、6万8000ドル近辺に集中出来高分布を示す「VRVP（Visible Range Volume Profile）」指標では、2025年11月以降で最も取引が集中している価格帯が6万8000ドル〜7万ドルとなっている。この価格帯での取引量の多さは",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "Tether"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "英中銀副総裁、トークン化はコスト削減と競争促進につながる可能性と指摘",
+      "link": "https://cointelegraph.jp/news/boe-breeden-sees-value-supporting-tokenized-uk-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-20T07:21:12+09:00",
+      "pub_date_utc": "2026-05-19T22:21:12+00:00",
+      "description": "英中央銀行は、トークン化市場を支えるためにステーブルコイン改革やほぼ24時間365日の決済体制を検討する中、デジタルマネーは信頼性と相互運用性を維持すべきだと述べた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Sam Bourgi、スタッフライター校閲：Robert Lakin、スタッフ編集者英中銀副総裁、トークン化はコスト削減と競争促進につながる可能性と指摘4 時間前ニュース イングランド銀行（英中央銀行）はデジタルマネーへの取り組みを強化しており、副総裁のサラ・ブリーデン氏は、トークン化がコスト削減や決済迅速化、競争促進につながる可能性があると強調した。ブリーデン氏は火曜日、ロンドンで開催された「シティ・ウィーク」で講演し、トークン化について「資産やマネーをデジタル台帳上で表現すること」だと説明。そのうえで、信頼性と相互運用性が維持されるのであれば、決済や金融市場の効率性と機能性を向上させる可能性があると述べた。また、トークン化預金や規制対象ステーブルコインといった民間部門の革新が普及したとしても、中央銀行マネーが金融システムの基盤、すなわち「アンカー」であり続けると強調した。さらに",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ポリマーケット、未上場企業市場へのアクセス解禁　ナスダック提携で新たな予測市場",
+      "link": "https://coinpost.jp/?p=709698",
+      "pub_date": "2026-05-20T07:20:49+09:00",
+      "pub_date_utc": "2026-05-19T22:20:49+00:00",
+      "description": "予測市場プラットフォーム大手のポリマーケットは19日、未上場企業に関する新たな予測市場のローンチを発表した。米ナスダック・プライベート・マーケットと提携し、一般投資家アクセス解禁を実現。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Kraken",
+        "Solana",
+        "Goldman Sachs",
+        "金融庁",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ウォーレン米議員、暗号資産企業向け国法信託銀行免許を巡りOCCを批判",
+      "link": "https://www.nadanews.com/349316/",
+      "pub_date": "2026-05-20T07:00:00+09:00",
+      "pub_date_utc": "2026-05-19T22:00:00+00:00",
+      "description": "米上院銀行委員会の民主党筆頭委員であるElizabeth Warren（エリザベス・ウォーレン）上院議員は、米通貨監督庁（OCC）のJonathan Gould The post ウォーレン米議員、暗号資産企業向け国法信託銀行免許を巡りOCCを批判 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Government ウォーレン米議員、暗号資産企業向け国法信託銀行免許を巡りOCCを批判 By Shoko Galaviz 2026年5月20日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米上院銀行委員会の民主党筆頭委員であるElizabeth Warren（エリザベス・ウォーレン）上院議員は、米通貨監督庁（OCC）のJonathan Gould（ジョナサン・グールド）長官に書簡を送り、暗号資産（仮想通貨）企業に対する国法信託銀行免許の条件付き承認を批判した。 ウォーレン氏は、OCCが2025年12月以降、少なくとも9社の暗号資産企業に対して、国法信託銀行免許を承認したと指摘。これらの企業は、法律で認められた限定的な信託業務を超える活動を行おうとしてい",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Goldman Sachs"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ビットワイズCIO、ハイパーリキッド（HYPE）を「割安な大型銘柄」と分析",
+      "link": "https://coinpost.jp/?p=709699",
+      "pub_date": "2026-05-20T06:55:56+09:00",
+      "pub_date_utc": "2026-05-19T21:55:56+00:00",
+      "description": "ビットワイズのCIOが5月19日付メモで仮想通貨ハイパーリキッド（HYPE）を「あらゆる資産クラスを扱うスーパーアプリ」と評価し年間収益8〜10億ドルに対して時価総額が割安と指摘した。一方でICEとCMEはCFTC登録を求めてロビー活動を展開している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Hyperliquid",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "Polymarket、未上場企業向け予測市場を開始──OpenAIやAnthropic関連の指標も対象に",
+      "link": "https://www.nadanews.com/349313/",
+      "pub_date": "2026-05-20T06:30:00+09:00",
+      "pub_date_utc": "2026-05-19T21:30:00+00:00",
+      "description": "予測市場プラットフォームのPolymarket（ポリマーケット）は、未上場企業の業績やマイルストーンに連動する新たな予測市場を開始した。対象には、IPO（新規株 The post Polymarket、未上場企業向け予測市場を開始──OpenAIやAnthropic関連の指標も対象に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Markets Polymarket、未上場企業向け予測市場を開始──OpenAIやAnthropic関連の指標も対象に By Shoko Galaviz 2026年5月20日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 予測市場プラットフォームのPolymarket（ポリマーケット）は、未上場企業の業績やマイルストーンに連動する新たな予測市場を開始した。対象には、IPO（新規株式公開）の時期、企業評価額、業績、セカンダリー市場での動きなどが含まれる。 今回の新市場では、Nasdaq Private Market（ナスダック・プライベート・マーケット）が独占的な結果判定用データ提供者となる。ナスダック・プライベート・マーケットは、未上場企業と投資家向けに流",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Goldman Sachs"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "米ストライブ、約48億円で382ビットコインを追加取得",
+      "link": "https://coinpost.jp/?p=709700",
+      "pub_date": "2026-05-20T06:20:05+09:00",
+      "pub_date_utc": "2026-05-19T21:20:05+00:00",
+      "description": "米資産運用会社のストライブ（Strive）は19日、382BTCの追加取得を発表した。総保有量は1万5391BTC（1883億円）に達し、上場企業として世界9位の規模を維持。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "CFTC、ミネソタ州を提訴──予測市場の州内禁止差し止め求める",
+      "link": "https://www.nadanews.com/349310/",
+      "pub_date": "2026-05-20T06:00:00+09:00",
+      "pub_date_utc": "2026-05-19T21:00:00+00:00",
+      "description": "米商品先物取引委員会（CFTC）は、予測市場を州内で禁止する新法をめぐり、ミネソタ州、Tim Walz（ティム・ウォルズ）知事、複数の州当局者を相手取り訴訟を起 The post CFTC、ミネソタ州を提訴──予測市場の州内禁止差し止め求める first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Government",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Government CFTC、ミネソタ州を提訴──予測市場の州内禁止差し止め求める By Shoko Galaviz 2026年5月20日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米商品先物取引委員会（CFTC）は、予測市場を州内で禁止する新法をめぐり、ミネソタ州、Tim Walz（ティム・ウォルズ）知事、複数の州当局者を相手取り訴訟を起こした。訴訟は、ウォルズ氏が予測市場を禁止する包括的法案「SF 4760」に署名してから24時間以内に提起された。 CFTCは、この新法が連邦規制下にあるデリバティブ市場を州が不当に規制しようとするものだと主張している。訴状では、ミネソタ州の法律について、米国で初めて予測市場を明示的に全面禁止する州法だと説明されてい",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Goldman Sachs",
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ウォーレン米議員、仮想通貨関連9社への通貨監督局信託認可は違法と指摘",
+      "link": "https://coinpost.jp/?p=709701",
+      "pub_date": "2026-05-20T05:55:12+09:00",
+      "pub_date_utc": "2026-05-19T20:55:12+00:00",
+      "description": "米上院銀行委員会筆頭理事のウォーレン議員が18日、OCCによるコインベースなど仮想通貨9社への全米信託認可付与が国民銀行法に違反すると指摘。6月1日までに全申請書と通信記録の開示をOCC長官に求めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Solana",
+        "Ripple",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "BNBチェーンで量子耐性テスト完了、処理性能大幅低下の課題浮上",
+      "link": "https://coinpost.jp/?p=709690",
+      "pub_date": "2026-05-20T05:00:26+09:00",
+      "pub_date_utc": "2026-05-19T20:00:26+00:00",
+      "description": "BNBチェーンはBSCで量子耐性暗号「ML-DSA-44」と「pqSTARK」のテストを完了した。署名サイズが約37倍に膨張してTPS（処理速度）が最大50%低下しており、本番導入にはネットワーク拡張が必要だと報告している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "BNBチェーンは、将来の量子コンピュータの脅威に備えるため、BSC（BNBスマートチェーン）上で量子耐性テストを完了しました。このテストの結果、量子耐性署名スキームを導入すると、トランザクションの署名データが従来の約37倍にまで膨張し、それに伴いネットワークの処理性能が大幅に低下するという深刻な課題が浮上しました。BNBチェーンは、この性能低下を解決し、実用レベルでの本番導入を実現するためには、ネットワークの根本的な拡張が不可欠であると結論付けています。この結果は、量子耐性技術の導入がブロックチェーンのパフォーマンスに与える影響の大きさを明確に示しており、今後の技術開発における重要な検討事項となるでしょう。",
+      "summary_error": false,
+      "category": "Blockchain",
+      "all_entities": [
+        "BNBチェーン",
+        "BSC (BNBスマートチェーン)"
+      ],
+      "main_entities": [
+        "BNBチェーン"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ビットコイン担保ローン、88%が利用検討も実利用は14%──市場規模は最大1兆ドル規模と予測",
+      "link": "https://www.nadanews.com/348997/",
+      "pub_date": "2026-05-19T23:00:00+09:00",
+      "pub_date_utc": "2026-05-19T14:00:00+00:00",
+      "description": "個人向けビットコイン（BTC）担保ローンを提供するLednは19日、米国とオーストラリアの暗号資産（仮想通貨）保有者1244人を対象にした調査結果を公表した。 The post ビットコイン担保ローン、88%が利用検討も実利用は14%──市場規模は最大1兆ドル規模と予測 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Business ビットコイン担保ローン、88%が利用検討も実利用は14%──市場規模は最大1兆ドル規模と予測 By 平木 昌宏 2026年5月19日23:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 個人向けビットコイン（BTC）担保ローンを提供するLednは19日、米国とオーストラリアの暗号資産（仮想通貨）保有者1244人を対象にした調査結果を公表した。 調査で浮かび上がったのは、暗号資産を担保に資金を借りたいという潜在需要の大きさと、実際の利用率とのギャップだ。 回答者の88%がデジタル資産を担保にした借り入れを検討すると答えた一方、実際に利用している人は14%にとどまった。 Lednは、この「検討」と「利用」の差を、ビットコイン担保ローン市場の大きな成長",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Tether",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "【5/19話題】米SECが第三者発行の株式連動トークンの制度整備を検討か、英FCAと英中銀の金融市場トークン化共同ロードマップなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/574844",
+      "pub_date": "2026-05-19T21:53:52+09:00",
+      "pub_date_utc": "2026-05-19T12:53:52+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース 米SEC、第三者発行の株式連動トークンの制度整備を検討か＝報道 英FCAと英中銀、金融市場トークン化の共同ロードマップ公表 ビットマインのイーサリアム保有量、527万ETH超に。全供給量の4.37%へ到達 ストラテジーが約20億ドルでビットコイン",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Kraken",
+        "Aave",
+        "Circle",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "SOL、85ドル支持帯を維持──米英でトークン化株式規制の検討進む【価格分析】",
+      "link": "https://www.nadanews.com/349286/",
+      "pub_date": "2026-05-19T21:17:02+09:00",
+      "pub_date_utc": "2026-05-19T12:17:02+00:00",
+      "description": "・ソラナ基盤のトークン化株式プラットフォームPreStocksは、Anthropic関連トークンのセカンダリー市場での譲渡をめぐる論争を受け、自社のSPV構造を The post SOL、85ドル支持帯を維持──米英でトークン化株式規制の検討進む【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Markets SOL、85ドル支持帯を維持──米英でトークン化株式規制の検討進む【価格分析】 By Ibrahim Ajibade 2026年5月19日21:17 .st0 { fill: #374149; } 2026年5月19日21:17 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・ソラナ基盤のトークン化株式プラットフォームPreStocksは、Anthropic関連トークンのセカンダリー市場での譲渡をめぐる論争を受け、自社のSPV構造を擁護した。・PreStocksにおけるSpaceXトークンの取引高は1500万ドルを突破した。トークン化された非公開市場へのエクスポージャー需要は底堅さを維持している。・ソラナ（SOL）のデリバティブ市場では、週末の売りにも",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana",
+        "SEC"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ゴールドマン・サックス、XRP・SOL関連ETFを全売却──BTC ETFは7億ドル超を保有継続【価格分析】",
+      "link": "https://www.nadanews.com/349267/",
+      "pub_date": "2026-05-19T20:26:40+09:00",
+      "pub_date_utc": "2026-05-19T11:26:40+00:00",
+      "description": "・ゴールドマン・サックスは、2026年第1四半期の提出書類によると、エックス・アール・ピー（XRP）とソラナETFのポジションをすべて解消し、イーサリアム（ET The post ゴールドマン・サックス、XRP・SOL関連ETFを全売却──BTC ETFは7億ドル超を保有継続【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Markets",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Markets ゴールドマン・サックス、XRP・SOL関連ETFを全売却──BTC ETFは7億ドル超を保有継続【価格分析】 By Ibrahim Ajibade 2026年5月19日20:26 .st0 { fill: #374149; } 2026年5月19日20:26 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・ゴールドマン・サックスは、2026年第1四半期の提出書類によると、エックス・アール・ピー（XRP）とソラナETFのポジションをすべて解消し、イーサリアム（ETH）ETFへのエクスポージャーも削減した。一方で、ビットコインETFは7億ドル相当を保有し続けている。・モルガン・スタンレーは同時期に、ビットコインETFへのエクスポージャーを12億ドル超に拡大",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "Ripple",
+        "BlackRock",
+        "Grayscale",
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "SEC"
+      ],
+      "main_entities": [
+        "Ripple",
+        "Goldman Sachs"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "東京都運営のスタートアップ拠点TIB、Web3支援を強化──AWAJが正式パートナーとして参画",
+      "link": "https://www.nadanews.com/349263/",
+      "pub_date": "2026-05-19T20:04:22+09:00",
+      "pub_date_utc": "2026-05-19T11:04:22+00:00",
+      "description": "東京都が運営するスタートアップ支援拠点「Tokyo Innovation Base（TIB）」のTIBパートナーとして、Asia Web3 Alliance J The post 東京都運営のスタートアップ拠点TIB、Web3支援を強化──AWAJが正式パートナーとして参画 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Business 東京都運営のスタートアップ拠点TIB、Web3支援を強化──AWAJが正式パートナーとして参画 By 平木 昌宏 2026年5月19日20:04 .st0 { fill: #374149; } 2026年5月19日20:04 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 東京都が運営するスタートアップ支援拠点「Tokyo Innovation Base（TIB）」のTIBパートナーとして、Asia Web3 Alliance Japan（AWAJ）が参画した。19日、AWAJが発表した。 今回の連携を通じて、AWAJはTIBと協力し、国内外のWeb3スタートアップ、投資家、大手企業、行政機関などをつなぐ取り組みを進める。 Web3スタートアップに対し",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Goldman Sachs"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "「皆様の利益を毀損する資金調達には頼らない」、リミックスポイントが声明",
+      "link": "https://www.nadanews.com/349214/",
+      "pub_date": "2026-05-19T19:25:26+09:00",
+      "pub_date_utc": "2026-05-19T10:25:26+00:00",
+      "description": "東証スタンダード上場のリミックスポイントは19日、暗号資産の購入を目的とした新株予約権を含む株式発行、いわゆる希薄化を伴う資金調達は、引き続き行わない方針を公式 The post 「皆様の利益を毀損する資金調達には頼らない」、リミックスポイントが声明 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Business",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Business 「皆様の利益を毀損する資金調達には頼らない」、リミックスポイントが声明 By 平木 昌宏 2026年5月19日19:25 .st0 { fill: #374149; } 2026年5月19日19:25 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 東証スタンダード上場のリミックスポイントは19日、暗号資産の購入を目的とした新株予約権を含む株式発行、いわゆる希薄化を伴う資金調達は、引き続き行わない方針を公式Xで示した。 今後の暗号資産の追加取得や運用は、手元資金などを活用して進めるという。 同社は、デジタルアセットマネジメント事業として、暗号資産の保有・運用を進めている。 ビットコイン（BTC）の取得に加え、保有BTCのレンディング運用にも取り組んでお",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Goldman Sachs"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "SBIネオメディアサミット開催、「感情経済圏」とメディア融合戦略が明らかに",
+      "link": "https://coinpost.jp/?p=709551",
+      "pub_date": "2026-05-19T18:06:00+09:00",
+      "pub_date_utc": "2026-05-19T09:06:00+00:00",
+      "description": "SBIホールディングスが「SBIネオメディアサミット2026」を開催。北尾会長が感情経済圏構想を解説し、ライブドアのグループ参画、信託型円建てステーブルコイン「JPYSC」の6月末発行、スーパーアプリへのメディア機能統合を発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "SBI Holdings",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布",
+      "link": "https://coinpost.jp/?p=709645",
+      "pub_date": "2026-05-19T17:27:23+09:00",
+      "pub_date_utc": "2026-05-19T08:27:23+00:00",
+      "description": "金融庁は2026年5月19日、外国の信託型ステーブルコインを電子決済手段として位置づける内閣府令改正を公布。6月1日から施行される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "LINE NEXTのウォレット「Unifi」、JPYCを5月22日より正式対応",
+      "link": "https://coinpost.jp/?p=709623",
+      "pub_date": "2026-05-19T17:00:40+09:00",
+      "pub_date_utc": "2026-05-19T08:00:40+00:00",
+      "description": "LINE NEXTのウォレット「Unifi」が円建て仮想通貨JPYCを5月22日より正式対応。Kaiaネットワーク上での決済・送金・リワード機能が順次展開される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "JPYC",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "アーベ、rsETH事案で停止していたWETH担保制限を解除",
+      "link": "https://www.neweconomy.jp/posts/574616",
+      "pub_date": "2026-05-19T16:48:45+09:00",
+      "pub_date_utc": "2026-05-19T07:48:45+00:00",
+      "description": "DeFi Unitedによる復旧対応が進展 レンディングプロトコル「アーベ（Aave）」が、rsETHインシデントを受け実施していたWETH関連の一時的な制限措置を解除した。アーベ（Aave）の公式Xアカウントで5月18",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "DeFi Unitedによる復旧対応が進展 レンディングプロトコル「アーベ（Aave）」が、rsETHインシデントを受け実施していたWETH関連の一時的な制限措置を解除した。アーベ（Aave）の公式Xアカウントで5月18日に発表された。 今回解除されたのは、イーサリアム（Ethereum）メインネットやアービトラム（Arbitrum）、ベース（Base）など、Aave V3の複数市場におけるWETHのLTV（担保掛目）制限だ。LTVは、レンディングプロトコルにおける「担保に対して、どこまで借り入れできるか」を示す比率となる。アーベによると、各ネットワークにおけるWETHのLTVは、インシデント発生前の水準へ復元されたという。 今回の措置は、4月18日に発生したリキッドリステーキングトークン「rsETH」を巡るインシデントへの対応として実施されていた予防的制限を解除するものとなる。 同インシ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Arbitrum",
+        "Aave",
+        "Lido",
+        "ConsenSys"
+      ],
+      "main_entities": [
+        "Aave"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "米ナスダック上場のBitcoin Depotがチャプター11申請、暗号資産ATM網を停止し事業清算へ",
+      "link": "https://www.neweconomy.jp/posts/574609",
+      "pub_date": "2026-05-19T16:39:17+09:00",
+      "pub_date_utc": "2026-05-19T07:39:17+00:00",
+      "description": "ビットコインデポが破産申請 米国拠点で暗号資産（仮想通貨）ATMを展開するビットコインデポ（Bitcoin Depot）が、事業の秩序ある縮小と資産売却を目的に、チャプター11（連邦破産法第11章）手続きを開始したと5月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ビットコインデポが破産申請 米国拠点で暗号資産（仮想通貨）ATMを展開するビットコインデポ（Bitcoin Depot）が、事業の秩序ある縮小と資産売却を目的に、チャプター11（連邦破産法第11章）手続きを開始したと5月18日に発表した。 発表によると同社は、テキサス南部地区連邦破産裁判所に対し、チャプター11の申請を行ったとのこと。SEC提出資料によると、申請日は5月17日だ。 同社のビットコインATM網はすでにオフライン化されている。なお同社のカナダ法人も米国裁判所監督のプロセスに含まれており、追ってカナダで再編手続きが開始される予定とのこと。その他の米国外法人については、現地法に基づき清算される予定だという。 ビットコインデポのCEOであるアレックス・ホームズ（Alex Holmes）氏は破産申請の理由について、厳しいコンプライアンス義務や一部の法域での運営禁止などの規制環境の変化が",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "米SEC、第三者発行の株式連動トークンの制度整備を検討か＝報道",
+      "link": "https://www.neweconomy.jp/posts/574601",
+      "pub_date": "2026-05-19T16:30:12+09:00",
+      "pub_date_utc": "2026-05-19T07:30:12+00:00",
+      "description": "第三者発行トークン化株式の容認の可能性 米証券取引委員会（SEC）が、第三者発行による株式連動型のトークン化証券の取引を認める可能性がある新たな枠組みを準備していると「ブルームバーグ（Bloomberg）」が5月19日に",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "第三者発行トークン化株式の容認の可能性 米証券取引委員会（SEC）が、第三者発行による株式連動型のトークン化証券の取引を認める可能性がある新たな枠組みを準備していると「ブルームバーグ（Bloomberg）」が5月19日に報じた。 報道によると、SECは「イノベーション免除（innovation exemption）」と呼ばれる制度の導入を検討しているという。これにより、ブロックチェーン上で発行・取引されるトークン化株式や株式連動型トークンについて、新たな取引ルールが整備される可能性がある。 今回の報道で特に注目されているのは、上場企業自身ではなく、第三者が発行するトークン化株式や株式連動型トークンをSECが一定条件下で認める可能性がある点だ。 同メディアによると、今回議論されているトークンは、公開株そのもののトークン化ではなく、株価への「価格エクスポージャー」を提供する投機的商品に近いとい",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Kraken",
+        "Hyperliquid",
+        "Tesla",
+        "NVIDIA",
+        "SEC"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "自民党デジタル社会推進本部、AIとブロックチェーン活用の次世代金融構想を提言",
+      "link": "https://coinpost.jp/?p=709616",
+      "pub_date": "2026-05-19T16:05:54+09:00",
+      "pub_date_utc": "2026-05-19T07:05:54+00:00",
+      "description": "自民党デジタル社会推進本部が、AIとブロックチェーンを活用した次世代金融インフラ整備に向けた提言を公表。トークン化預金・ステーブルコインの拡大や官民連携による成長投資促進を打ち出した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "フィスコが暗号資産・ブロックチェーン事業から撤退、FSCCのバリューアップ施策終了とバーン中止へ",
+      "link": "https://www.neweconomy.jp/posts/574581",
+      "pub_date": "2026-05-19T15:18:23+09:00",
+      "pub_date_utc": "2026-05-19T06:18:23+00:00",
+      "description": "フィスコが暗号資産・ブロックチェーン事業から撤退 東証グロース上場のフィスコが、暗号資産・ブロックチェーン事業を事業内容から外し、2026年12月期第1四半期から同事業セグメントを廃止したことを5月14日に発表した。 こ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "フィスコが暗号資産・ブロックチェーン事業から撤退 東証グロース上場のフィスコが、暗号資産・ブロックチェーン事業を事業内容から外し、2026年12月期第1四半期から同事業セグメントを廃止したことを5月14日に発表した。 これにより同社は、報告セグメントを従来の「情報サービス事業」、「広告代理業」、「暗号資産・ブロックチェーン事業」の3区分から、残る2区分へ変更した。 なお暗号資産・ブロックチェーン事業の撤退に伴いフィスコは、同社発行の暗号資産フィスココイン（FSCC）について、利用促進に向けた各種バリューアップ施策を終了するとした。 そしてFSCC関連施策を終了する方針としたことから、当初想定していたFSCCの利用拡大施策を継続する前提が失われたと判断し、2025年12月期分として予定していたFSCCの焼却（バーン）についても中止するとのことだ。 ただしフィスコは、今回の決定についてFSCC",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "米国人の仮想通貨利用率、2025年に10%へ回復　FRB調査で3年ぶり高水準",
+      "link": "https://coinpost.jp/?p=709575",
+      "pub_date": "2026-05-19T14:43:03+09:00",
+      "pub_date_utc": "2026-05-19T05:43:03+00:00",
+      "description": "FRBの2025年家計調査で、仮想通貨を利用・投資した米国成人の割合が約10%となり、2022年以来の最高水準を記録した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "金融庁",
+        "FRB"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "GMOトラストのステーブルコイン「GYEN」と「ZUSD」、発行終了手続き開始と新規購入を停止",
+      "link": "https://www.neweconomy.jp/posts/574574",
+      "pub_date": "2026-05-19T14:39:24+09:00",
+      "pub_date_utc": "2026-05-19T05:39:24+00:00",
+      "description": "GYENとZUSDが新規購入停止 GMOトラスト（GMO-Z.com Trust Company）が、同社発行の円建てステーブルコイン「GYEN」と米ドル建てステーブルコイン「ZUSD」の2銘柄について、発行終了手続き（",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "GYENとZUSDが新規購入停止 GMOトラスト（GMO-Z.com Trust Company）が、同社発行の円建てステーブルコイン「GYEN」と米ドル建てステーブルコイン「ZUSD」の2銘柄について、発行終了手続き（orderly wind-down）を開始し、新規購入を停止したと5月15日に発表した。 GMOトラストは、GMOインターネットグループの連結子会社で米国現地法人だ。GYENとZUSDはイーサリアム（Ethereum）、ステラ（Stellar）、ソラナ（Solana）で展開されてきた。GMOインターネットグループは15日、GMOトラストの解散および現地法令に基づく清算手続きを進めることを取締役会で決議した。またGMOトラストは、ニューヨーク銀行法605条に基づく自主解散を開始したという。 5月15日付でGMOトラストは、同社のプラットフォームからGYENとZUSDの購入機能",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "DeFiレンディングプロトコル「モルフォ」、決済特化L1「テンポ」上で利用可能に",
+      "link": "https://www.neweconomy.jp/posts/574568",
+      "pub_date": "2026-05-19T14:31:06+09:00",
+      "pub_date_utc": "2026-05-19T05:31:06+00:00",
+      "description": "MorphoがTempo上で利用可能に DeFi（分散型金融）レンディングプロトコル「モルフォ（Morpho）」が、決済特化レイヤー1ブロックチェーン「テンポ（Tempo）」上で利用可能になった。両プロジェクトの公式Xが",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MorphoがTempo上で利用可能に DeFi（分散型金融）レンディングプロトコル「モルフォ（Morpho）」が、決済特化レイヤー1ブロックチェーン「テンポ（Tempo）」上で利用可能になった。両プロジェクトの公式Xが5月19日に発表した。 発表によると、テンポ上の企業やアプリは、利回り商品、レンディング、オンチェーンクレジットなどのDeFi用途でモルフォを利用できるとのことだ。 テンポは、米決済大手ストライプ（Stripe）と暗号資産（仮想通貨）VCパラダイム（Paradigm）がインキュベートするブロックチェーンだ。ステーブルコインを用いた実世界の決済に対応するための基盤として、即時決済、予測可能な低手数料、高い処理能力、低コストのグローバル取引を特徴としている。 また、エージェントによる決済のほか、グローバル送金、クロスボーダー送金、組み込み型金融、トークン化預金といった既存の決済",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ソラナ、RWA市場が20億ドル規模へ拡大　決済・トークン化金融インフラとしての役割強化＝Messariレポート",
+      "link": "https://coinpost.jp/?p=709534",
+      "pub_date": "2026-05-19T14:30:28+09:00",
+      "pub_date_utc": "2026-05-19T05:30:28+00:00",
+      "description": "Messariの2026年Q1レポートによると、ソラナのRWA市場は前四半期比43%増の20億ドルを突破した。ブラックロックのBUIDLが106%増と急拡大したことが貢献した。オンチェーントランザクションも過去最高を更新し、AI決済基盤としての役割も強化されている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "BlackRock",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ヴィタリック、「形式検証」活用を解説。AI時代のEthereum安全性向上で",
+      "link": "https://www.neweconomy.jp/posts/574560",
+      "pub_date": "2026-05-19T14:23:09+09:00",
+      "pub_date_utc": "2026-05-19T05:23:09+00:00",
+      "description": "AI時代の防御技術として「形式検証」に注目 イーサリアム（Ethereum）共同創設者ヴィタリック・ブテリン（Vitalik Buterin）氏が、ソフトウェアの正しさを数学的に証明する「形式検証（Formal Veri",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "AI時代の防御技術として「形式検証」に注目 イーサリアム（Ethereum）共同創設者ヴィタリック・ブテリン（Vitalik Buterin）氏が、ソフトウェアの正しさを数学的に証明する「形式検証（Formal Verification）」について解説するブログ記事を5月18日に公開した。 同記事のタイトルは「A shallow dive into formal verification（形式検証の基礎を理解する）」だ。ブテリン氏は、AIによるコード生成や脆弱性発見能力が急速に向上する中、暗号資産（仮想通貨）や暗号技術基盤の安全性をどのように担保するかが重要な課題になっているとの認識を示している。 ブテリン氏は記事冒頭で、イーサリアム研究開発コミュニティなどでの、「リーン（Lean）」と呼ばれるプログラミング言語を用いた形式検証の急速な広がりについて説明している。 リーンは、数学的証明を機",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ビットコイン運用プロトコル「エコ」がハッキング被害、約1億3000万円詐取",
+      "link": "https://coinpost.jp/?p=709541",
+      "pub_date": "2026-05-19T13:56:46+09:00",
+      "pub_date_utc": "2026-05-19T04:56:46+00:00",
+      "description": "BTCFiプロトコルのエコがモナド上のブリッジエクスプロイトにより約81.6万ドルの被害。攻撃者は1,000 eBTCを不正発行し、トルネードキャッシュで資金を隠蔽した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
+      "title": "ビットコイン、次回半減期まで10万ブロック未満に",
+      "link": "https://coinpost.jp/?p=709455",
+      "pub_date": "2026-05-19T13:10:08+09:00",
+      "pub_date_utc": "2026-05-19T04:10:08+00:00",
+      "description": "仮想通貨ビットコインの次回半減期まで残り10万ブロックを切った。2028年4月頃に到来する半減期によりマイニング報酬は1.5625BTCへ半減見込みだ。過去の価格パターンも解説する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン、次回半減期まで10万ブロック未満に 金融庁、外国発行ステーブルコインを電子決済手段に正式認定　内閣府令改正を公布 ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Goldman Sachs",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-20T11:10:26.990195+09:00"
+    },
+    {
       "title": "SBIグループのB2C2、MiCAに基づくCASP認可取得",
       "link": "https://www.neweconomy.jp/posts/574478",
       "pub_date": "2026-05-19T11:04:40+09:00",
@@ -14799,12 +15772,12 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-19T22:38:38.192Z",
-  "total_count": 824,
+  "last_updated": "2026-05-20T11:10:26.990195+09:00",
+  "total_count": 864,
   "sources": [
-    "あたらしい経済",
-    "CoinPost",
     "NADA NEWS",
+    "CoinPost",
+    "あたらしい経済",
     "CoinTelegraph JP"
   ]
 }
