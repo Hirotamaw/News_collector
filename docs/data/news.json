@@ -1,6 +1,991 @@
 {
   "articles": [
     {
+      "title": "イングランド銀行、6月にステーブルコイン規制案公表へ",
+      "link": "https://www.neweconomy.jp/posts/575642",
+      "pub_date": "2026-05-22T10:47:54+09:00",
+      "pub_date_utc": "2026-05-22T01:47:54+00:00",
+      "description": "年内最終化を目指す 英中央銀行のイングランド銀行（BoE）のサラ・ブリーデン（Sarah Breeden）副総裁が、5月19日に英ロンドンで開催された「City Week」に登壇し、ステーブルコインやトークン化資産、次世",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "年内最終化を目指す 英中央銀行のイングランド銀行（BoE）のサラ・ブリーデン（Sarah Breeden）副総裁が、5月19日に英ロンドンで開催された「City Week」に登壇し、ステーブルコインやトークン化資産、次世代決済インフラを統合した英国金融システムの将来像について説明した。 ブリーデン副総裁は講演の中で、ステーブルコインに関する規制ドラフトを6月に公表し、年内の最終化を目指す方針を明らかにした。英国では、金融安定性とイノベーションの両立を意識した包括的なデジタル資産規制の整備が進められている。 BOEは昨年11月のコンサルテーションで、急速なステーブルコイン普及による預金流出リスクへの対応策として、個人・法人向けの「保有上限」を提示していた。 一方で今回ブリーデン副総裁は、その代替案として、発行総量に対する一時的なガードレール（上限）の導入を検討していることを示唆した。定期的な",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ビットコインの需要が縮小傾向、2022年3月の弱気相場に類似か＝クリプトクアント分析",
+      "link": "https://coinpost.jp/?p=710348",
+      "pub_date": "2026-05-22T10:35:47+09:00",
+      "pub_date_utc": "2026-05-22T01:35:47+00:00",
+      "description": "クリプトクアントが仮想通貨市場週間レポートを発表。ビットコインは反落し、先物・現物・ETF需要が縮小していると分析。調整継続時の主要サポート水準を提示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ポリマーケットUS、スポーツの複合予測契約をCFTCへ申請",
+      "link": "https://coinpost.jp/?p=710308",
+      "pub_date": "2026-05-22T10:00:59+09:00",
+      "pub_date_utc": "2026-05-22T01:00:59+00:00",
+      "description": "ポリマーケットUSは5月20日、スポーツ複合アウトカム契約をCFTCへ自己認証提出した。同日SECのアトキンス委員長は予測市場連動型ETFについてパブリックコメントを求める方針を表明している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ピザ2枚が1228億円に、『ビットコインピザの日』16年目の現実＝アナリスト",
+      "link": "https://coinpost.jp/?p=710355",
+      "pub_date": "2026-05-22T09:40:22+09:00",
+      "pub_date_utc": "2026-05-22T00:40:22+00:00",
+      "description": "2010年に10,000BTCで購入されたピザ2枚が、現在約1228億円相当に。『ビットコインピザの日』を機に、BTCの劇的な購買力の変化を振り返る。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "米財務省、800億円相当のイラン関連仮想通貨を凍結",
+      "link": "https://coinpost.jp/?p=710309",
+      "pub_date": "2026-05-22T08:45:08+09:00",
+      "pub_date_utc": "2026-05-21T23:45:08+00:00",
+      "description": "米財務省はイラン関連仮想通貨の凍結を加速し、総額約5億ドルに達したと財務長官が明らかにした。イランはホルムズ海峡通過船舶向けにビットコイン決済の海上保険基盤を新設し、制裁網の迂回を図っている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Tether",
+        "米財務省",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "米財務省"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "送金大手マネーグラムがテンポのバリデータに、ステーブルコインを決済に活用へ",
+      "link": "https://coinpost.jp/?p=710322",
+      "pub_date": "2026-05-22T08:00:05+09:00",
+      "pub_date_utc": "2026-05-21T23:00:05+00:00",
+      "description": "マネーグラムは、決済向けブロックチェーンのテンポとの提携を発表。テンポのバリデータになったり、ステーブルコインをベースにした決済を促進したりすることなどを説明した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "アンカレッジとチェーンリンク支援の仮想通貨PAC、2026年中間選挙の支持候補を発表",
+      "link": "https://cointelegraph.jp/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T07:42:04+09:00",
+      "pub_date_utc": "2026-05-21T22:42:04+00:00",
+      "description": "連邦選挙委員会への提出資料によると、このハイブリッドPACへの献金額は17万5000ドルにとどまっているが、複数州の重要選挙を前にメディア出稿を通じて米有権者に影響を及ぼす可能性がある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Turner Wright、スタッフライター校閲：Sam Bourgi、スタッフライターアンカレッジとチェーンリンク支援の仮想通貨PAC、2026年中間選挙の支持候補を発表3 時間前ニュース 米国におけるデジタル資産およびブロックチェーン政策の推進に取り組む候補者を支援するとしていた政治活動委員会（PAC）が、2026年選挙サイクルにおける支持候補を発表した。仮想通貨業界からの資金により、重要選挙へ影響を及ぼす可能性がある。　ブロックチェーン・リーダーシップ・ファンドは木曜日の発表で、2026年米中間選挙に向けて10人の候補者を支持すると明らかにした。内訳は上院選4人、下院選6人。チェーンリンク・ラボとアンカレッジ・デジタルは、フェアシェイクのように2024年米大統領選挙サイクルで巨額支出を行った他の委員会と同様、3月に同PACを立ち上げていた。　支持候補には、アラバマ州、モンタナ",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ブロックチェーン・ドットコム、米SECにIPO申請を秘密裏に提出",
+      "link": "https://cointelegraph.jp/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T07:34:47+09:00",
+      "pub_date_utc": "2026-05-21T22:34:47+00:00",
+      "description": "仮想通貨サービス企業は、デジタル資産業界全体で企業が株式市場への上場を検討するなか、米国での新規株式公開（IPO）手続きを開始した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Nate Kostar、スタッフライター校閲：Sam Bourgi、スタッフライターブロックチェーン・ドットコム、米SECにIPO申請を秘密裏に提出3 時間前ニュース 仮想通貨サービス企業のブロックチェーン・ドットコムは、米国での新規株式公開（IPO）に向けて秘密裏に申請を行った。仮想通貨企業が株式市場に回帰するなか、同社は上場を目指す最新のデジタル資産関連企業となった。　同社は、クラスA普通株の募集に関連し、米証券取引委員会（SEC）にS-1登録届出書の草案を提出したと明らかにした。価格や株式数はまだ決定されていない。　木曜日の発表によると、今回のIPO計画は市場環境およびSECの審査を条件としている。秘密裏のS-1提出は、企業が財務情報や募集内容を公表する前にIPO手続きを開始し、規制当局からフィードバックを受けることを可能にする。　2011年創業のブロックチェーン・ドットコム",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Kraken",
+        "Hyperliquid",
+        "Google",
+        "SEC"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "MoonPay、Decent.xyzを買収──200超のチェーン対応「MoonPay Trade」をローンチ",
+      "link": "https://www.nadanews.com/351538/",
+      "pub_date": "2026-05-22T07:30:00+09:00",
+      "pub_date_utc": "2026-05-21T22:30:00+00:00",
+      "description": "暗号資産（仮想通貨）決済ネットワークのMoonPay（ムーンペイ）は、クロスチェーン・ルーティングと流動性インフラを手がけるDecent.xyz（ディーセント. The post MoonPay、Decent.xyzを買収──200超のチェーン対応「MoonPay Trade」をローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス MoonPay、Decent.xyzを買収──200超のチェーン対応「MoonPay Trade」をローンチ By Shoko Galaviz 2026年5月22日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）決済ネットワークのMoonPay（ムーンペイ）は、クロスチェーン・ルーティングと流動性インフラを手がけるDecent.xyz（ディーセント.xyz、以下「ディーセント」）を買収し、新サービス「MoonPay Trade」をローンチしたと発表した。買収額は公表されていない。 MoonPay Tradeは、金融機関、企業、アプリケーションが単一のAPIを通じて、さまざまなブロックチェーンやプロトコルにアクセスできる技術基盤だ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Core Scientific",
+        "Solana",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "米商務省が量子コンピュータ開発に約3200億円投資、IBM・グローバルファウンドリーズなど9社と覚書締結",
+      "link": "https://coinpost.jp/?p=710311",
+      "pub_date": "2026-05-22T07:25:23+09:00",
+      "pub_date_utc": "2026-05-21T22:25:23+00:00",
+      "description": "米商務省は5月21日、CHIPS法に基づき量子コンピュータ関連9社に総額20億ドルの連邦助成を行う意向書を締結した。IBMは10億ドルを受給し、量子ウェーハ製造専門の新会社「アンデロン」をニューヨーク州に設立する方針だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "CFTC、NHLと予測市場巡り覚書締結",
+      "link": "https://cointelegraph.jp/news/cftc-national-hockey-league-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T07:23:35+09:00",
+      "pub_date_utc": "2026-05-21T22:23:35+00:00",
+      "description": "金融規制当局であるCFTCは3月にメジャーリーグとも同様の合意を締結しており、スポーツ賭博を巡って予測市場プラットフォームを追及する州当局に対して訴訟提起を続けている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Turner Wright、スタッフライター校閲：Sam Bourgi、スタッフライターCFTC、NHLと予測市場巡り覚書締結4 時間前ニュース 共和党のマイケル・セリグ委員長単独体制下にある米商品先物取引委員会（CFTC）は、「プロホッケーの健全性を保護し、公正かつ透明性の高い予測市場を維持する」ことを目的として、ナショナルホッケーリーグ（NHL）と覚書（MOU）を締結したと発表した。木曜日の発表でセリグ氏は、CFTCがカルシやポリマーケットのようなプラットフォームに対する「排他的管轄権」を維持する中、今回の措置は予測市場利用者を「インサイダー取引、不正、その他の乱用」から保護することを目的としていると述べた。CFTCは3月、メジャーリーグベースボール（MLB）とも同様の合意を締結していた。同時期にMLBは、ポリマーケットを公式予測市場取引所に指定すると発表している。CFTCによ",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "Kevin Warsh新FRB議長時代はビットコイン市場をどう変えるのか──最初に現れるオンチェーン変化とは【エックスウィン】",
+      "link": "https://www.nadanews.com/351542/",
+      "pub_date": "2026-05-22T07:15:00+09:00",
+      "pub_date_utc": "2026-05-21T22:15:00+00:00",
+      "description": "● 新FRB議長に就任するKevin Warshは、「利下げ期待型」ではなく、“金融システム正常化”を重視するタイプと見られている。● ビットコイン市場では、短 The post Kevin Warsh新FRB議長時代はビットコイン市場をどう変えるのか──最初に現れるオンチェーン変化とは【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット Kevin Warsh新FRB議長時代はビットコイン市場をどう変えるのか──最初に現れるオンチェーン変化とは【エックスウィン】 By エックスウィン 2026年5月22日07:15 .st0 { fill: #374149; } 2026年5月22日07:17 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 新FRB議長に就任するKevin Warshは、「利下げ期待型」ではなく、“金融システム正常化”を重視するタイプと見られている。● ビットコイン市場では、短期的には「流動性縮小懸念」が先行しやすい一方、中長期では“法定通貨への不信”がBTC物語を強める可能性もある。● オンチェーンで最初に変化が出やすいのは、「Coinbase Premium」「Ex",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "bitbank",
+        "FRB"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "長期保有者の供給量1500万BTC突破、ビットコイン新安値更新の可能性「極めて低い」",
+      "link": "https://cointelegraph.jp/news/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T07:13:08+09:00",
+      "pub_date_utc": "2026-05-21T22:13:08+00:00",
+      "description": "長期投資家がビットコイン供給量全体の71％超を保有していることから、ビットコインが再び6万ドルを下回る可能性は極めて低いことがデータで示された。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Biraajmaan Tamuly、スタッフライター校閲：Ray Salmond、スタッフ編集者長期保有者の供給量1500万BTC突破、ビットコイン新安値更新の可能性「極めて低い」4 時間前マーケット ビットコイン（BTC）が6万ドルを下回る可能性は「極めて低い」との見方が出ている。BTC長期保有者の保有量が、総供給量の71.6％まで増加したことを示すデータが背景にある。加えて、重要なテクニカル指標も2月以来初めて強気シグナルへ転換した。ビットコイン価格、新安値回避の可能性＝アナリスト仮想通貨アナリストのスカイコデリック氏は、週足相対力指数（RSI）が50水準を再テストしたことを受け、ビットコインが新たな安値を更新する可能性は「極めて低くなった」と述べた。過去には、RSIが売られ過ぎ圏から50水準を回復した後、ビットコインは長期的上昇局面へ移行していた。BTC/USD, one-w",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "Blockchain.com、米IPOに向け非公開でS-1提出",
+      "link": "https://www.nadanews.com/351534/",
+      "pub_date": "2026-05-22T07:00:00+09:00",
+      "pub_date_utc": "2026-05-21T22:00:00+00:00",
+      "description": "暗号資産（仮想通貨）サービス企業Blockchain.com Group Holdings（ブロックチェーン・ドットコム・グループ）は、米国でのIPO（新規株式 The post Blockchain.com、米IPOに向け非公開でS-1提出 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Blockchain.com、米IPOに向け非公開でS-1提出 By Shoko Galaviz 2026年5月22日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）サービス企業Blockchain.com Group Holdings（ブロックチェーン・ドットコム・グループ）は、米国でのIPO（新規株式公開）に向け、米証券取引委員会（SEC）に「Form S-1」の登録届出書のドラフトを非公開で提出したと発表した。対象は同社のクラスA普通株式で、発行株式数や想定価格レンジはまだ決まっていない。 同社によると、IPOの実施は市場環境やその他の条件、SECによる審査完了を前提としている。今回の発表は、証券の販売申込みや購入勧誘を意",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "bitFlyer",
+        "bitbank",
+        "Circle",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "バイナンス、スペースXのプレIPO先物取引開始",
+      "link": "https://coinpost.jp/?p=710310",
+      "pub_date": "2026-05-22T06:45:15+09:00",
+      "pub_date_utc": "2026-05-21T21:45:15+00:00",
+      "description": "バイナンスは5月21日、スペースXのIPO前先物取引SPCXUSDTの取引を開始した。同社は前日のSEC提出書類でビットコイン1万8712枚の保有を初めて公式に開示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "Solana",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "CFTCとNHLが覚書を締結──スポーツ予測市場の拡大受け情報共有へ",
+      "link": "https://www.nadanews.com/351532/",
+      "pub_date": "2026-05-22T06:30:00+09:00",
+      "pub_date_utc": "2026-05-21T21:30:00+00:00",
+      "description": "米商品先物取引委員会（CFTC）とNHL（北米プロアイスホッケーリーグ）は、プロホッケーと関連する予測市場の健全性を守るため、覚書を締結した。両者は今後、CFT The post CFTCとNHLが覚書を締結──スポーツ予測市場の拡大受け情報共有へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 CFTCとNHLが覚書を締結──スポーツ予測市場の拡大受け情報共有へ By Shoko Galaviz 2026年5月22日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米商品先物取引委員会（CFTC）とNHL（北米プロアイスホッケーリーグ）は、プロホッケーと関連する予測市場の健全性を守るため、覚書を締結した。両者は今後、CFTC規制下の取引所で提供されるホッケー関連イベント契約について、情報共有や連携を進める。 CFTCとNHLは、今回の覚書により、プロホッケーの公正性と、透明で公平な予測市場の維持を目指す。両者はそれぞれ担当者を指定し、定期的に連絡を取りながら、インテグリティに関する問題を協議し、機密情報を共有する。 NHLはすでに、関連市",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却",
+      "link": "https://coinpost.jp/?p=710312",
+      "pub_date": "2026-05-22T06:20:32+09:00",
+      "pub_date_utc": "2026-05-21T21:20:32+00:00",
+      "description": "米国の著名投資家で億万長者のマーク・キューバン氏が，保有する仮想通貨ビットコインの大半を売却したことを明かした。ビットコインがインフレや地政学的リスクに対するヘッジとして機能しなかったことに失望を示しており、業界での議論を呼んでいる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "OrdinalsやBRC-20が所得隠しに使われ始めている：Chainalysis",
+      "link": "https://www.nadanews.com/351504/",
+      "pub_date": "2026-05-22T06:00:00+09:00",
+      "pub_date_utc": "2026-05-21T21:00:00+00:00",
+      "description": "ブロックチェーン分析プラットフォームのChainalysis（チェイナリシス）は5月20日付の報告で、脱税を企てる者たちが、ビットコインのOrdinals（オー The post OrdinalsやBRC-20が所得隠しに使われ始めている：Chainalysis first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "犯罪",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "犯罪 OrdinalsやBRC-20が所得隠しに使われ始めている：Chainalysis By 井上 俊彦 2026年5月22日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ブロックチェーン分析プラットフォームのChainalysis（チェイナリシス）は5月20日付の報告で、脱税を企てる者たちが、ビットコインのOrdinals（オーディナルズ）やBRC-20トークン、その他の暗号資産（仮想通貨）を税務当局から資産を隠す手段として利用し始めていると指摘した。「脱税や所得隠しは古くから存在する金融犯罪だが、その手口は急速に進化している」と報告書は述べている。 具体的な事例として、イタリア財務警察が摘発した、ある人物による複数年にわたる脱税スキームが紹介されてい",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "Chainalysis"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "17名の米超党派議員、ビットコイン準備金を法制化するARMA法案を提出",
+      "link": "https://coinpost.jp/?p=710313",
+      "pub_date": "2026-05-22T05:50:40+09:00",
+      "pub_date_utc": "2026-05-21T20:50:40+00:00",
+      "description": "米共和党下院議員が5月21日、政府保有ビットコインを最低20年間維持する「ARMA法案」を新たに提出した。超党派議員17名が共同提案者に加わり、大統領令を法的拘束力ある制度へ格上げすることを目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 ビットコイン、次回半減期まで10万ブロック未満に 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googleta",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "米FRBが決済口座の設立提案を公表しパブコメ募集開始、トランプ大統領令を受け",
+      "link": "https://coinpost.jp/?p=710288",
+      "pub_date": "2026-05-22T05:00:45+09:00",
+      "pub_date_utc": "2026-05-21T20:00:45+00:00",
+      "description": "米連邦準備制度理事会が5月20日、適格金融機関向け「決済口座」の設立提案を公表しパブリックコメントの募集を開始した。仮想通貨業界含むフィンテック企業への口座付与拡大を求めるトランプ大統領令の翌日の公表として注目されている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "FRB"
+      ],
+      "main_entities": [
+        "FRB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ピザ2枚が1240億円に！？5月22日「ビットコイン・ピザ・デー」特別企画：激動の価格推移をプレイバック！",
+      "link": "https://www.nadanews.com/348913/",
+      "pub_date": "2026-05-22T00:00:00+09:00",
+      "pub_date_utc": "2026-05-21T15:00:00+00:00",
+      "description": "5月22日は、暗号資産（仮想通貨）の歴史で最も有名な記念日「ビットコイン・ピザ・デー（Bitcoin Pizza Day）」。ビットコイン（BTC）が現実の商品 The post ピザ2枚が1240億円に！？5月22日「ビットコイン・ピザ・デー」特別企画：激動の価格推移をプレイバック！ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン ピザ2枚が1240億円に！？5月22日「ビットコイン・ピザ・デー」特別企画：激動の価格推移をプレイバック！ By 橋本 祐樹 2026年5月22日00:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 5月22日は、暗号資産（仮想通貨）の歴史で最も有名な記念日「ビットコイン・ピザ・デー（Bitcoin Pizza Day）」。ビットコイン（BTC）が現実の商品と初めて交換され、決済手段としての第一歩を踏み出した日として、世界中のコミュニティでお祝いされています。 この記念日は2010年、米フロリダ州のプログラマー、ラズロ・ハニエツ（Laszlo Hanyecz）氏が、1万BTCとピザ2枚を交換したことに由来します。 googletag.cmd.push",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "【5/21話題】パシフィックメタがKomlock labを完全子会社化、FRBがフィンテック企業向け決済口座を提案、スペースXのBTC保有数が開示など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/575503",
+      "pub_date": "2026-05-21T21:41:05+09:00",
+      "pub_date_utc": "2026-05-21T12:41:05+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース パシフィックメタ、Komlock labを完全子会社化、ダブルジャンプとも資本業務提携 FRB、フィンテック・暗号資産企業向け「限定決済口座」提案。Fed決済網へのアクセス拡大へ スペースX、1万8712BTC保有をSEC届出書で開示。平均取得単",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Ripple",
+        "Sui",
+        "Circle",
+        "SBI Holdings",
+        "FRB",
+        "Fireblocks",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "【6/4まで】コインチェック、ETH年率最大約20.0%相当のキャンペーンを実施",
+      "link": "https://www.nadanews.com/351505/",
+      "pub_date": "2026-05-21T20:50:56+09:00",
+      "pub_date_utc": "2026-05-21T11:50:56+00:00",
+      "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のコインチェックは21日 The post 【6/4まで】コインチェック、ETH年率最大約20.0%相当のキャンペーンを実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "キャンペーン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "キャンペーン 【6/4まで】コインチェック、ETH年率最大約20.0%相当のキャンペーンを実施 By NADA NEWS編集部 2026年5月21日20:50 .st0 { fill: #374149; } 2026年5月21日20:51 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のコインチェックは21日より、イーサリアム（ETH）を対象とした「ETH年率、最大約20.0%提供キャンペーン」を実施している。 キャンペーン期間は、2026年5月21日18時から6月4日23時59分まで。 同キャンペーンは、期間中にエントリーのうえ、合",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "マネックスグループ",
+        "bitbank",
+        "Sui"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "メタプラネット、楽天証券「6月株主優待人気ランキング」で1位に",
+      "link": "https://www.nadanews.com/351500/",
+      "pub_date": "2026-05-21T20:22:59+09:00",
+      "pub_date_utc": "2026-05-21T11:22:59+00:00",
+      "description": "東証スタンダード上場でビットコイントレジャリー戦略を進めるメタプラネットは、楽天証券の投資情報メディア「トウシル」で5月19日に掲載された6月株主優待人気ランキ The post メタプラネット、楽天証券「6月株主優待人気ランキング」で1位に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス メタプラネット、楽天証券「6月株主優待人気ランキング」で1位に By NADA NEWS編集部 2026年5月21日20:22 .st0 { fill: #374149; } 2026年5月21日20:23 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 東証スタンダード上場でビットコイントレジャリー戦略を進めるメタプラネットは、楽天証券の投資情報メディア「トウシル」で5月19日に掲載された6月株主優待人気ランキングで1位となった。 同ランキングでは、メタプラネットの優待品例として「ホテル宿泊割引、ビットコイン関連、優待プログラム」が紹介されている。 メタプラネットのサイモン・ゲロヴィッチCEOは21日、Xで「楽天証券『6月株主優待人気ランキング』で第1位とな",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "日立、アンソロピックと戦略提携。フィジカルAIの社会実装と29万人規模の業務改革推進へ",
+      "link": "https://www.neweconomy.jp/posts/575501",
+      "pub_date": "2026-05-21T19:07:12+09:00",
+      "pub_date_utc": "2026-05-21T10:07:12+00:00",
+      "description": "日立がアンソロピックと戦略提携 日立製作所が、AIモデル「クロード（Claude）」を提供する米アンソロピック（Anthropic）との戦略的パートナーシップ締結を5月19日に発表した。 今回の提携では、社会インフラ領域",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "日立がアンソロピックと戦略提携 日立製作所が、AIモデル「クロード（Claude）」を提供する米アンソロピック（Anthropic）との戦略的パートナーシップ締結を5月19日に発表した。 今回の提携では、社会インフラ領域における「フィジカルAI」の安全な社会実装と、日立グループ約29万人規模での自社業務改革を並行して進める方針が示された。 まず両社は、日立の社会課題を解決する事業モデル「ルマーダ3.0（Lumada 3.0）」を強化し、電力、交通、製造、金融などのミッションクリティカル領域で、システム開発・運用の高度化やセキュリティ強化を進めるという。 日立は、AIが現在「サイバー空間」から実世界へ直接働きかける「フィジカルAI」へ進化しているとの認識を示している。そのうえで、製造・保守・インフラ運営などの現場では、人手不足や負担増を背景に、安全性や信頼性を重視したAI活用ニーズが高まって",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "米議員ら、暗号資産税制改正法案を提出──少額取引の免税措置の検討求める",
+      "link": "https://www.nadanews.com/351489/",
+      "pub_date": "2026-05-21T19:00:00+09:00",
+      "pub_date_utc": "2026-05-21T10:00:00+00:00",
+      "description": "超党派の米議員グループは5月19日、暗号資産（仮想通貨）活動への課税に明確性、一貫性、常識的なガードレールをもたらす「PARITY Act（パリティー法案）」の The post 米議員ら、暗号資産税制改正法案を提出──少額取引の免税措置の検討求める first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米議員ら、暗号資産税制改正法案を提出──少額取引の免税措置の検討求める By 廣瀬 優香 2026年5月21日19:00 .st0 { fill: #374149; } 2026年5月21日22:16 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 超党派の米議員グループは5月19日、暗号資産（仮想通貨）活動への課税に明確性、一貫性、常識的なガードレールをもたらす「PARITY Act（パリティー法案）」の最新版を提出した。Steven Horsford（スティーブン・ホースフォード）下院議員が同日に発表した。 同法案の提出に関わったMax Miller（マックス・ミラー）下院議員は声明で、「米国がイノベーションにおいて世界をリードし続ける中、我々の税制は暗",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "レイヤーゼロ、KelpDAO「rsETH」インシデント詳細レポート公開。単独DVN構成での署名拒否へ",
+      "link": "https://www.neweconomy.jp/posts/575493",
+      "pub_date": "2026-05-21T18:44:12+09:00",
+      "pub_date_utc": "2026-05-21T09:44:12+00:00",
+      "description": "レイヤーゼロラボ、ケルプDAOインシデントの詳細レポート公開 クロスチェーン通信プロトコル「レイヤーゼロ（LayerZero）」を開発するレイヤーゼロラボ（LayerZero Labs）が、分散型金融（DeFi）プロトコ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "レイヤーゼロラボ、ケルプDAOインシデントの詳細レポート公開 クロスチェーン通信プロトコル「レイヤーゼロ（LayerZero）」を開発するレイヤーゼロラボ（LayerZero Labs）が、分散型金融（DeFi）プロトコル「ケルプDAO（KelpDAO）」のリステーキングトークン「rsETH」ブリッジを巡るインシデントの詳細レポートを5月20日に公開した。 同インシデントは4月18日に発生した。レイヤーゼロのクロスチェーンメッセージングプロトコルを利用して構築されたKelpDAOのrsETHブリッジが攻撃を受け、116,500rsETHが不正にアンロック・流出した事案だ。これにより約2億9,200万ドル（約464.3億円）相当の被害が発生した。 レイヤーゼロラボのレポートによると、同社は米サイバーセキュリティ企業のマンディアント（Mandiant）とクラウドストライク（CrowdStrik",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "グレースケール関連とみられる2アドレス、過去1週間でHYPEを約40億円分買い集め＝Lookonchain",
+      "link": "https://coinpost.jp/?p=710269",
+      "pub_date": "2026-05-21T18:32:46+09:00",
+      "pub_date_utc": "2026-05-21T09:32:46+00:00",
+      "description": "グレースケール関連とみられる2アドレスが過去1週間でHYPEを約2,495万ドル分購入し、大半をステーキングに転送したことがLookonchainとArkhamのオンチェーンデータで明らかになった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Hyperliquid",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "Securitize、第1四半期の売上高が過去最高を記録",
+      "link": "https://www.nadanews.com/351493/",
+      "pub_date": "2026-05-21T18:25:00+09:00",
+      "pub_date_utc": "2026-05-21T09:25:00+00:00",
+      "description": "現実資産（RWA）トークン化プラットフォーム大手の証券化会社Securitize（セキュリタイズ）は5月20日、2026年第1四半期（1〜3月）決算を発表し、売 The post Securitize、第1四半期の売上高が過去最高を記録 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Finance",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Finance Securitize、第1四半期の売上高が過去最高を記録 By 井上 俊彦 2026年5月21日18:25 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 現実資産（RWA）トークン化プラットフォーム大手の証券化会社Securitize（セキュリタイズ）は5月20日、2026年第1四半期（1〜3月）決算を発表し、売上高は1950万ドル（約31億2000万円）と前年同期比39%増となり、四半期ベースで過去最高を更新した。BlackRock（ブラックロック）の「BUIDL」をはじめとするトークン化ファンドからの手数料収入が業績を押し上げた。純損失790万ドル（約12億6400万円）だが、調整後EBITDA（利払い前・税引き前・減価償却前利益）は80万ドル（約",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "「中国のバフェット」段永平氏、サークル株20万株を初取得",
+      "link": "https://coinpost.jp/?p=710228",
+      "pub_date": "2026-05-21T17:29:16+09:00",
+      "pub_date_utc": "2026-05-21T08:29:16+00:00",
+      "description": "「中国のバフェット」と称される段永平氏が2026年Q1の13F申告でCircle（CRCL）株20万株を初取得。約1,908万ドル相当のポジションを開示し、ステーブルコイン市場への関心転換として注目される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Circle",
+        "SEC"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "AI Financial、トランプ関連「WLFI」72億枚超保有。現金化に制約、事業継続に懸念",
+      "link": "https://www.neweconomy.jp/posts/575452",
+      "pub_date": "2026-05-21T16:56:46+09:00",
+      "pub_date_utc": "2026-05-21T07:56:46+00:00",
+      "description": "WLFI保有と内部統制の重大欠陥を開示 ドナルド・トランプ（Donald Trump）米大統領とその家族が関わる暗号資産（仮想通貨）プロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty Fina",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "WLFI保有と内部統制の重大欠陥を開示 ドナルド・トランプ（Donald Trump）米大統領とその家族が関わる暗号資産（仮想通貨）プロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty Financial：WLF）」に関連する、米ナスダック上場のAIファイナンシャル・コーポレーション（AI Financial Corporation：AIFC、旧アルト5シグマ）が、WLFのガバナンストークン「WLFI」の巨額保有と、その流動性制限を米証券取引委員会（SEC）への提出書類で明らかにした。 同社が5月18日に提出した2026年第1四半期の10-Q報告書によると、AIファイナンシャルは四半期末時点で、7,283,585,650枚のWLFIトークンを保有している。これらのトークンの公正価値は約7億636万ドル（約1123億1124万円）とされる一方、取得原価は約14億5,",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "暗号資産カストディ企業コッパー、約5億ドル規模で会社売却を模索か＝報道",
+      "link": "https://www.neweconomy.jp/posts/575433",
+      "pub_date": "2026-05-21T16:48:24+09:00",
+      "pub_date_utc": "2026-05-21T07:48:24+00:00",
+      "description": "Copperが約5億ドルで売却模索か 暗号資産（仮想通貨）カストディ企業コッパー（Copper）が、約5億ドル（約795億円）で会社売却を模索していると、5月20日に「コインデスク（CoinDesk）」が事情に詳しい関係",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Copperが約5億ドルで売却模索か 暗号資産（仮想通貨）カストディ企業コッパー（Copper）が、約5億ドル（約795億円）で会社売却を模索していると、5月20日に「コインデスク（CoinDesk）」が事情に詳しい関係者の話として報じた。 報道によると、米投資銀行キャンター・フィッツジェラルド（Cantor Fitzgerald）が、コッパーの売却プロセスを支援するため起用されたという。 コッパーは、取引所外決済システム「クリアループ（ClearLoop）」を中核事業として注力している。クリアループは、参加者が資産をオンチェーンに移さず、コッパーのカストディ（保管）内でDVP（Delivery Versus Payment）型の決済を行えるシステムだ。 コッパーの公式サイトによると、クリアループ関連の月間名目取引高は500億ドル（約7.9兆円）超となっている。なおDVP決済とは、証券決済",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "Goldman Sachs"
+      ],
+      "main_entities": [
+        "Goldman Sachs"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "モルガン・スタンレー、ソラナ現物ETFの修正申請を提出　ステーキング報酬も分配へ",
+      "link": "https://coinpost.jp/?p=710202",
+      "pub_date": "2026-05-21T16:47:02+09:00",
+      "pub_date_utc": "2026-05-21T07:47:02+00:00",
+      "description": "モルガン・スタンレーがティッカー「MSOL」のソラナ現物ETF修正申請をSECに提出。ステーキング報酬の月次分配機能を搭載し、NYSE Arca上場を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "Morgan Stanley",
+        "SEC"
+      ],
+      "main_entities": [
+        "Solana",
+        "Morgan Stanley"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ウィンターミュート、DeFi向けボールトキュレーション事業立ち上げ。モルフォ上でUSDC建て2本展開",
+      "link": "https://www.neweconomy.jp/posts/575422",
+      "pub_date": "2026-05-21T16:16:55+09:00",
+      "pub_date_utc": "2026-05-21T07:16:55+00:00",
+      "description": "WintermuteがDeFi向けボールト事業立ち上げ 暗号資産（仮想通貨）のアルゴリズム取引・流動性提供を手がけるウィンターミュート（Wintermute）が、DeFi（分散型金融）レンディング市場向けボールトキュレー",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "WintermuteがDeFi向けボールト事業立ち上げ 暗号資産（仮想通貨）のアルゴリズム取引・流動性提供を手がけるウィンターミュート（Wintermute）が、DeFi（分散型金融）レンディング市場向けボールトキュレーション事業「アーミテージ（Armitage）」の立ち上げを5月19日に発表した。 ボールトは、ユーザーが預け入れた資産をスマートコントラクトを通じてオンチェーンの貸付市場などへ配分する仕組みだ。なお発表および利用規約によると、アーミテージは英国・米国の居住者や、同地域からアクセスする者を対象としていない。 アーミテージでは、USDC建てのボールト「Wintermute USDC Prime」と「Wintermute USDC Select」の2本が、イーサリアム（Ethereum）上のDeFiレンディングプロトコル「モルフォ（Morpho）」で展開されている。 「Winte",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Lido",
+        "Circle"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "スペースX、1万8712BTC保有をSEC届出書で開示。平均取得単価は約3万5300ドル",
+      "link": "https://www.neweconomy.jp/posts/575410",
+      "pub_date": "2026-05-21T15:20:55+09:00",
+      "pub_date_utc": "2026-05-21T06:20:55+00:00",
+      "description": "スペースXが約18,700BTC保有を正式開示 イーロン・マスク（Elon Musk）氏率いる宇宙企業スペースX（SpaceX）が、米証券取引委員会（SEC）へ5月20日付で提出したForm S-1登録届出書で、ビットコ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "スペースXが約18,700BTC保有を正式開示 イーロン・マスク（Elon Musk）氏率いる宇宙企業スペースX（SpaceX）が、米証券取引委員会（SEC）へ5月20日付で提出したForm S-1登録届出書で、ビットコインを18,712BTC保有していることを明らかにした。 今回の開示は、スペースXがIPO（新規株式公開）に向けて提出した届出書によるものだ。これまで同社のビットコイン保有量については、オンチェーン分析企業アーカム（Arkham）などによる推定が広く参照されていた。今回は、財務諸表上の正式な保有量や取得原価がSEC提出資料で明らかになった形となる。 提出資料によると、スペースXは2026年3月31日時点で、総取得原価約6億6,100万ドル（約1,050億円）のビットコイン（BTC）を保有しているという。平均取得単価は1BTCあたり約35,300ドル（約561万円）となる。 ",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "Tesla",
+        "SEC"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超",
+      "link": "https://coinpost.jp/?p=710149",
+      "pub_date": "2026-05-21T15:12:08+09:00",
+      "pub_date_utc": "2026-05-21T06:12:08+00:00",
+      "description": "スペースXのIPO申請書でビットコイン1万8,712枚の保有が判明。事前推計の2倍超で、上場後は公開企業中テスラを上回る規模のビットコイン保有企業となる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Tesla",
+        "SEC"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ビットゴー、「Crypto-as-a-Service」にライトニング決済追加。企業のBTC決済導入を支援",
+      "link": "https://www.neweconomy.jp/posts/575390",
+      "pub_date": "2026-05-21T14:43:58+09:00",
+      "pub_date_utc": "2026-05-21T05:43:58+00:00",
+      "description": "ビットゴーの暗号資産サービスがLN対応を開始 デジタル資産インフラ企業ビットゴーホールディングス（BitGo Holdings）が、同社提供の「クリプト・アズ・ア・サービス（Crypto-as-a-Service）」ソリ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ビットゴーの暗号資産サービスがLN対応を開始 デジタル資産インフラ企業ビットゴーホールディングス（BitGo Holdings）が、同社提供の「クリプト・アズ・ア・サービス（Crypto-as-a-Service）」ソリューションにおける、ライトニングネットワーク（Lightning Network：LN）への対応開始を5月20日に発表した。 ビットゴーのクリプト・アズ・ア・サービスは、企業が自社プロダクトにデジタル資産機能を組み込むためのAPI駆動型フレームワークだ。同プラットフォームの目的は、カストディ、ウォレットインフラ、取引ワークフロー、決済機能などをサポートし、企業が規制対応済みのデジタル資産インフラを独自に運用する際の複雑さを軽減することだ。 またLNは、ビットコイン上に構築されたレイヤー2プロトコルだ。ビットコインのブロックチェーン外で取引を処理するオフチェーンの決済チャネル",
+      "summary_error": true,
+      "category": "Tokenized Deposit",
+      "all_entities": [
+        "OKX",
+        "Sui"
+      ],
+      "main_entities": [
+        "OKX"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "RWAトークン化市場が314億ドル突破　2030年にベースケースで1.6兆ドル規模へ＝バイナンス・リサーチ予測",
+      "link": "https://coinpost.jp/?p=710111",
+      "pub_date": "2026-05-21T14:30:06+09:00",
+      "pub_date_utc": "2026-05-21T05:30:06+00:00",
+      "description": "バイナンス・リサーチの最新レポートによると、現実資産（RWA）のトークン化市場は2026年5月時点で314億ドルに達し、2025年初頭比で約5倍に拡大した。2030年の基本シナリオでは1.6兆ドル規模への成長が見込まれる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "イランの保険関連サイト「ホルムズセーフ」、ビットコイン決済対応の海上貨物保険サービス開始か＝報道",
+      "link": "https://www.neweconomy.jp/posts/575367",
+      "pub_date": "2026-05-21T14:29:53+09:00",
+      "pub_date_utc": "2026-05-21T05:29:53+00:00",
+      "description": "ホルムズ海峡向け貨物保険にBTC決済対応か イランの保険関連サイト「ホルムズセーフ（Hormuz Safe）」が、ホルムズ海峡を通過する海上貨物向けにビットコイン（BTC）決済対応の保険サービスを開始したと、現地メディア",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ホルムズ海峡向け貨物保険にBTC決済対応か イランの保険関連サイト「ホルムズセーフ（Hormuz Safe）」が、ホルムズ海峡を通過する海上貨物向けにビットコイン（BTC）決済対応の保険サービスを開始したと、現地メディア「ファーズ通信（Farsnews）」が5月16日に報じた。 なお、ホルムズセーフのサイト上では同サービスの詳細な発表は確認できず、トップページには「Coming Soon」と表示されている。 ファーズ通信によると、同サービスはペルシャ湾、ホルムズ海峡、周辺水路を通過する貨物を対象に、暗号学的に検証可能な保険証券を提供するという。同サービスの利用に伴う支払いは、ビットコイン（BTC）で決済されるとのこと。 また、保険手続きの確認が完了した時点で当該貨物が補償対象となり、貨物所有者には署名済みの受領書が交付されるという。 さらにファーズ通信は、イラン経済財政省が4月下旬ごろから",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ハイパーリキッド現物ETF「THYP」、日次取引高が約22億円まで成長",
+      "link": "https://coinpost.jp/?p=710037",
+      "pub_date": "2026-05-21T13:49:06+09:00",
+      "pub_date_utc": "2026-05-21T04:49:06+00:00",
+      "description": "米21シェアーズのハイパーリキッド現物ETF「THYP」の日次取引高が、上場初日の約8倍に拡大している。専門家がビットコインやイーサリアムの現物ETFとの比較を行った。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ハイパーリキッドETF、取引量が50％急増　「新規ETFでは異例の動き」",
+      "link": "https://cointelegraph.jp/news/hyperliquid-etfs-see-50-volume-jump-with-perfectly-timed-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-21T13:22:32+09:00",
+      "pub_date_utc": "2026-05-21T04:22:32+00:00",
+      "description": "米国上場のHYPE関連ETFが水曜日に取引量を50％伸ばした。アナリストらは、新規ETFとしては異例の動きだと指摘している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Jesse Coghlan、スタッフ編集者校閲：Felix Ng、スタッフ編集者ハイパーリキッドETF、取引量が50％急増　「新規ETFでは異例の動き」22 時間前ニュース 米国上場のHYPE関連ETFが水曜日に取引量を50％伸ばした。アナリストらは、新規ETFとしては異例の動きだと指摘している。SoSoValueデータによれば、ビットワイズと21シェアーズが提供する2本のハイパーリキッド（HYPE）ETFは、今月の上場以降、累計取引額が約4100万ドルに達した。ブルームバーグETFアナリストのエリック・バルチュナス氏は、水曜日のX投稿で、「ETFが上場後に取引量を増やし続けるのは非常に珍しい」と指摘した。「通常は初日に大きく盛り上がった後、取引量は減少するか、何カ月もほぼ忘れ去られる」と説明した。そのうえで、「今回のように初週で成長を続けるケースは珍しい」と述べた。バルチュナス氏",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "Solana",
+        "Hyperliquid",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "ビットコイン供給量の約10％、量子コンピューター脅威にさらされる可能性＝グラスノード分析",
+      "link": "https://cointelegraph.jp/news/nearly-10-bitcoin-supply-structurally-unsafe-quantum-breakthrough-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-21T12:46:44+09:00",
+      "pub_date_utc": "2026-05-21T03:46:44+00:00",
+      "description": "データ分析企業グラスノードによると、量子コンピューターの進展により、ビットコイン（BTC）総供給量の約10％が「構造的に安全ではない」状態にあるという。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Zoltan Vardai、スタッフライター校閲：Robert Lakin、スタッフ編集者ビットコイン供給量の約10％、量子コンピューター脅威にさらされる可能性＝グラスノード分析22 時間前ニュース データ分析企業グラスノードによると、量子コンピューターの進展により、ビットコイン（BTC）総供給量の約10％が「構造的に安全ではない」状態にあるという。これは、特定の出力形式が設計上、公開鍵を露出する仕様となっているためだ。グラスノードは水曜日のX投稿で、こうした「構造的に脆弱な」BTCは約192万BTCに達すると説明した。対象には、初期サトシ時代のPay-to-Public-Key（P2PK）出力、旧式マルチシグ構造であるPay-to-Multisig（P2MS）、さらに現代型のPay-to-Taproot（P2TR）出力が含まれる。内訳を見ると、ビットコイン創設者サトシ・ナカモト氏",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Fidelity",
+        "Grayscale",
+        "ARK Invest"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "テザー、トゥエンティワン・キャピタルの株式取得　ビットコイン保有企業への支配強化",
+      "link": "https://cointelegraph.jp/news/tether-buys-softbank-stake-twenty-one-capital-xxi-bitcoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-21T11:54:39+09:00",
+      "pub_date_utc": "2026-05-21T02:54:39+00:00",
+      "description": "テザーは水曜日、ソフトバンクグループが保有していたトゥエンティワン・キャピタルの株式を取得したと発表した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Sam Bourgi、スタッフライター校閲：Robert Lakin、スタッフ編集者テザー、トゥエンティワン・キャピタルの株式取得　ビットコイン保有企業への支配強化23 時間前ニュース テザーは水曜日、ソフトバンクグループが保有していたトゥエンティワン・キャピタルの株式を取得したと発表した。トゥエンティワン・キャピタルは、ビットコイン（BTC）トレジャリー戦略を軸に、融資、マイニング、資本市場サービスへ事業拡大を進めている企業だ。今回の取引により、テザーは上場ビットコイン保有企業の中でも最大規模の企業の1社に対する支配力をさらに強めた形となる。発表によれば、テザーはソフトバンクが保有していた約26％の株式を取得した。取得額は非公表だ。ソフトバンクは、2025年設立のトゥエンティワン・キャピタルにおける初期出資企業の1社だった。トゥエンティワン・キャピタルは、キャンター・フィッツジェ",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
+      "title": "スペースX、ビットコイン1万8712BTC保有を開示　保有額は14億5000万ドル",
+      "link": "https://cointelegraph.jp/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-21T11:35:41+09:00",
+      "pub_date_utc": "2026-05-21T02:35:41+00:00",
+      "description": "イーロン・マスク氏率いる宇宙企業スペースXが、最新の提出書類でビットコイン（BTC）を1万8712BTCを保有していることを明らかにした。保有額は約14億5000万ドル相当となる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Brayden Lindrea、スタッフライター校閲：Felix Ng、スタッフ編集者スペースX、ビットコイン1万8712BTC保有を開示　保有額は14億5000万ドル2026年5月21日ニュース イーロン・マスク氏率いる宇宙企業スペースXが、最新の提出書類でビットコイン（BTC）を1万8712BTCを保有していることを明らかにした。保有額は約14億5000万ドル相当となる。この数量は、これまでブロックチェーン分析企業が推定していた数量を1万BTC近く上回っている。スペースXは6月12日、株式公開に向けたS-1登録届出書を提出した。その中で、ビットコインを平均取得価格3万5320ドルで購入していたことを開示した。今回報告された保有量は、公開企業ベースで世界7位規模に相当する。スペースXのBTC保有量（2025年12月31日時点） Source: SECスペースXは、資本市場史上最大",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-22T11:12:27.681094+09:00"
+    },
+    {
       "title": "欧州銀行連合「Qivalis」、ユーロステーブルコイン発行に向け新たに25行が参加",
       "link": "https://coinpost.jp/?p=709979",
       "pub_date": "2026-05-21T10:50:01+09:00",
@@ -16692,8 +17677,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-21T11:10:01.883547+09:00",
-  "total_count": 903,
+  "last_updated": "2026-05-22T11:12:27.681094+09:00",
+  "total_count": 947,
   "sources": [
     "NADA NEWS",
     "CoinPost",
