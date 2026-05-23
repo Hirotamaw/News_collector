@@ -1,6 +1,1147 @@
 {
   "articles": [
     {
+      "title": "KalshiとPolymarket、ネバダ・ワシントン州訴訟で差し止め認められず",
+      "link": "https://www.nadanews.com/351815/",
+      "pub_date": "2026-05-23T10:45:00+09:00",
+      "pub_date_utc": "2026-05-23T01:45:00+00:00",
+      "description": "予測市場大手のKalshi（カルシ）とPolymarket（ポリマーケット）は、米ネバダ州とワシントン州で進む賭博関連訴訟を止めるための申し立てで敗れた。5月2 The post KalshiとPolymarket、ネバダ・ワシントン州訴訟で差し止め認められず first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 KalshiとPolymarket、ネバダ・ワシントン州訴訟で差し止め認められず By Shoko Galaviz 2026年5月23日10:45 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 予測市場大手のKalshi（カルシ）とPolymarket（ポリマーケット）は、米ネバダ州とワシントン州で進む賭博関連訴訟を止めるための申し立てで敗れた。5月21日に出された命令で、第9巡回区控訴裁判所のパネル（3人体制の合議体）は、両社による下級審判断の差し止め請求を退け、訴訟を州裁判所に戻した。 裁判所は、両社がこれらの訴訟を連邦裁判所で扱うべきだと主張するうえで、勝訴の見込みを十分に示せなかったと判断した。カルシとポリマーケットは、スポーツや政治などのイベント",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=710701",
+      "pub_date": "2026-05-23T10:25:08+09:00",
+      "pub_date_utc": "2026-05-23T01:25:08+00:00",
+      "description": "仮想通貨ビットコインは5月22日から23日朝にかけて下落し、円建てでは節目となる1,200万円を割り込んだ。背景には、米国で新たに議論されている「ビットコイン準備金法案」において、市場で期待されていた「100万BTCの購入義務」といった強い内容が盛り込まれず政策期待が後退したことがある。",
+      "category_raw": "市況・解説",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "NEARトークン価格高騰、6月末までに動的リシャーディング導入　AIエージェント対応も視野",
+      "link": "https://coinpost.jp/?p=710697",
+      "pub_date": "2026-05-23T10:00:48+09:00",
+      "pub_date_utc": "2026-05-23T01:00:48+00:00",
+      "description": "ニアプロトコルが次回アップグレードの一環として動的リシャーディングを2026年6月末までに導入する計画だ。シャードの自動分割でAIエージェントによる商取引への対応も目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Near Protocol"
+      ],
+      "main_entities": [
+        "Near Protocol"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "買い手はUSDC、売り手は日本円──クロスボーダー決済サービス「トレーダム ペイメント」開始",
+      "link": "https://www.nadanews.com/351789/",
+      "pub_date": "2026-05-23T10:00:00+09:00",
+      "pub_date_utc": "2026-05-23T01:00:00+00:00",
+      "description": "海外の買い手はUSDCなどのステーブルコインで支払い、日本企業は日本円で受け取る──。ステーブルコインを活用した新たなクロスボーダー決済サービスが登場した。 為 The post 買い手はUSDC、売り手は日本円──クロスボーダー決済サービス「トレーダム ペイメント」開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス 買い手はUSDC、売り手は日本円──クロスボーダー決済サービス「トレーダム ペイメント」開始 By NADA NEWS編集部 2026年5月23日10:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 海外の買い手はUSDCなどのステーブルコインで支払い、日本企業は日本円で受け取る──。ステーブルコインを活用した新たなクロスボーダー決済サービスが登場した。 為替リスク管理サービスなどを手がけるトレーダムは5月22日、規制対応型クロスボーダー決済サービス「トレーダム ペイメント」の提供開始を発表した。 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684848749222-0')",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Sui",
+        "JPYC"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "恐怖と制度化期待が交錯する市場──ビットコイン市場は「方向感」より“流動性”が主役となる局面へ【BitTrade Market Weekly】",
+      "link": "https://www.nadanews.com/351810/",
+      "pub_date": "2026-05-23T09:00:00+09:00",
+      "pub_date_utc": "2026-05-23T00:00:00+00:00",
+      "description": "今週の暗号資産市場は、「全面弱気」というより、“期待と警戒が交錯する不安定な1週間”だった。ビットコインは週前半に1BTC＝約1,250万円台まで上昇する場面も The post 恐怖と制度化期待が交錯する市場──ビットコイン市場は「方向感」より“流動性”が主役となる局面へ【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 恐怖と制度化期待が交錯する市場──ビットコイン市場は「方向感」より“流動性”が主役となる局面へ【BitTrade Market Weekly】 By 荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト 2026年5月23日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 今週の暗号資産市場は、「全面弱気」というより、“期待と警戒が交錯する不安定な1週間”だった。ビットコインは週前半に1BTC＝約1,250万円台まで上昇する場面も見られたが、その後は売り圧力に押され、週後半には一時1,210万円付近まで急落した。特に後半は戻り売りが強く、短期的なリスク回避姿勢が市場全体に広がる展開となった。一方で、下落局面でも一定の押し目買いは確認",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "bitbank",
+        "BitTrade"
+      ],
+      "main_entities": [
+        "BitTrade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "米ビットワイズ・21シェアーズのHYPE現物ETF、25億円相当HYPEを追加購入　累計流入は100億円超",
+      "link": "https://coinpost.jp/?p=710656",
+      "pub_date": "2026-05-23T08:40:05+09:00",
+      "pub_date_utc": "2026-05-22T23:40:05+00:00",
+      "description": "ビットワイズと21シェアーズのHYPE現物ETFが直近24時間で合計1610万ドル分HYPEトークンを購入。累計純流入は6396万ドルに達し、5月21日には過去最高値62.18ドルを更新した。",
+      "category_raw": "ハイパーリキッド（HYPE）ニュース・最新情報一覧",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "米ビットコイン準備金法案に「100万BTCの購入義務」含まれず──詳細判明",
+      "link": "https://www.nadanews.com/351790/",
+      "pub_date": "2026-05-23T08:11:12+09:00",
+      "pub_date_utc": "2026-05-22T23:11:12+00:00",
+      "description": "米議会下院に提出されたビットコイン戦略準備金法案「アメリカン・リザーブ・モダナイゼーション法（ARMA）」の草案詳細が23日、明らかになった。The Block The post 米ビットコイン準備金法案に「100万BTCの購入義務」含まれず──詳細判明 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米ビットコイン準備金法案に「100万BTCの購入義務」含まれず──詳細判明 By 栃山 直樹 2026年5月23日08:11 .st0 { fill: #374149; } 2026年5月23日08:11 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米議会下院に提出されたビットコイン戦略準備金法案「アメリカン・リザーブ・モダナイゼーション法（ARMA）」の草案詳細が23日、明らかになった。The Blockなどによると、以前の法案で提案されていた、米国政府に対する100万BTCの新規購入義務は今回の法案には盛り込まれていない。 共和党のニック・ベギッチ下院議員と民主党のジャレッド・ゴールデン下院議員が共同で提出した同法案は、米国政府が保有するビットコイン",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "予測市場大手ポリマーケット、9000万円超が不正流出　顧客資産は影響なしと説明",
+      "link": "https://coinpost.jp/?p=710680",
+      "pub_date": "2026-05-23T07:55:20+09:00",
+      "pub_date_utc": "2026-05-22T22:55:20+00:00",
+      "description": "予測市場大手ポリマーケットは、資産が不正流出したことを公表。流出額は約9,123万円であることやユーザーの資産は影響ないこと、事業は通常通り継続していることなどを説明した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "トランプメディア、320億円相当ビットコインを取引所へ送金",
+      "link": "https://coinpost.jp/?p=710657",
+      "pub_date": "2026-05-23T07:20:12+09:00",
+      "pub_date_utc": "2026-05-22T22:20:12+00:00",
+      "description": "ブロックチェーン分析企業アーカムのデータによると、トランプ・メディアに帰属するビットコインアドレスが2650BTCを取引所Crypto.comのアドレスへ送金した。送金の目的は不明。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "「200日線」で止められたビットコイン──オンチェーンで見える“反発限界”の正体【エックスウィン】",
+      "link": "https://www.nadanews.com/351779/",
+      "pub_date": "2026-05-23T07:02:28+09:00",
+      "pub_date_utc": "2026-05-22T22:02:28+00:00",
+      "description": "● BTCは200日移動平均線付近で反落し、2022年ベア相場と似た“戻り高値形成”パターンが警戒されている。● CryptoQuantによると、ETFフロー・ The post 「200日線」で止められたビットコイン──オンチェーンで見える“反発限界”の正体【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 「200日線」で止められたビットコイン──オンチェーンで見える“反発限界”の正体【エックスウィン】 By エックスウィン 2026年5月23日07:02 .st0 { fill: #374149; } 2026年5月23日07:02 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● BTCは200日移動平均線付近で反落し、2022年ベア相場と似た“戻り高値形成”パターンが警戒されている。● CryptoQuantによると、ETFフロー・現物需要・先物需要が同時に弱まり、4〜5月反発相場のエネルギーが低下している。● Coinbase Premiumのマイナス継続は、米国機関投資家の本格的な現物需要が戻っていない可能性を示している。 筆者（エックスウィン代表",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "米下院がカルシ・ポリマーケットにインサイダー取引調査、議員の参加禁止立法も視野",
+      "link": "https://coinpost.jp/?p=710658",
+      "pub_date": "2026-05-23T07:00:19+09:00",
+      "pub_date_utc": "2026-05-22T22:00:19+00:00",
+      "description": "米下院監視委員会のジェームズ・コマー委員長が5月22日、予測市場カルシとポリマーケットのインサイダー取引調査を開始したと発表。両社CEOに内部記録の提出を求めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "SEC、米国株トークン化の免除制度公表を延期　第三者発行の株主権利保証が課題",
+      "link": "https://coinpost.jp/?p=710659",
+      "pub_date": "2026-05-23T06:20:26+09:00",
+      "pub_date_utc": "2026-05-22T21:20:26+00:00",
+      "description": "米証券取引委員会（SEC）は株式トークン化資産の取引を対象とした「イノベーション免除」制度の発表を延期した。証券取引所関係者や市場参加者から、発行企業の同意を要しない第三者トークンの取り扱いへの懸念が相次いでおり、投資家の権利保護や制裁回避リスクが制度設計の焦点となっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance",
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ビットコインマイニング企業MARA、CEO警護に430万ドル支出　レンチ攻撃増加で防弾車も導入",
+      "link": "https://cointelegraph.jp/news/mara-spends-430k-ceo-vehicle-armoring-wrench-attacks-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T06:00:00+09:00",
+      "pub_date_utc": "2026-05-22T21:00:00+00:00",
+      "description": "ビットコインマイニング企業MARAホールディングスは2025年、フレッド・ティールCEOの個人警護に430万ドルを支出した。これには43万780ドルをかけた防弾車両の装甲化も含まれている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Zoltan Vardai、スタッフライター校閲：Bryan O'Shea、スタッフ編集者ビットコインマイニング企業MARA、CEO警護に430万ドル支出　レンチ攻撃増加で防弾車も導入5 時間前ニュース ビットコインマイニング企業MARAホールディングスは2025年、フレッド・ティールCEOの個人警護に430万ドルを支出した。これには43万780ドルをかけた防弾車両の装甲化も含まれている。仮想通貨業界では、経営陣や投資家を狙った物理的襲撃事件が増加している。時価総額50億ドル超を誇る世界7位のビットコインマイニング企業MARAは、4月30日に米証券取引委員会（SEC）へ提出したDEF 14A書類の中で、ティールCEOの住宅セキュリティ設備に約5万8810ドルを支出したことも明らかにした。さらに、他の経営陣向けセキュリティ対策費用も計上している。提出資料によれば、MARAは2025年",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず",
+      "link": "https://coinpost.jp/?p=710660",
+      "pub_date": "2026-05-23T05:50:33+09:00",
+      "pub_date_utc": "2026-05-22T20:50:33+00:00",
+      "description": "米下院に提出されたARMA法案の草案が明らかになった。政府保有ビットコインを最低20年間売却禁止とする一方、一部で報じられた100万BTC購入目標の条項は法案に存在しないことをThe Blockが確認した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "米ICEとOKXが原油の永久先物を共同提供、1.2億人規模の仮想通貨ユーザーにアクセス開放",
+      "link": "https://coinpost.jp/?p=710411",
+      "pub_date": "2026-05-23T05:00:11+09:00",
+      "pub_date_utc": "2026-05-22T20:00:11+00:00",
+      "description": "ニューヨーク証券取引所を傘下に持つインターコンチネンタル取引所（ICE）と仮想通貨取引所OKXが、ICEのブレント原油・WTI価格を基準とした永久先物契約を共同提供すると発表した。OKXが許認可を持つ地域で順次展開へ。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ポリマーケットでハッキング侵害　内部運用ウォレットの秘密鍵流出か　「ユーザー資金は安全」と強調",
+      "link": "https://cointelegraph.jp/news/polymarket-uma-adapter-appears-exploited-520k-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T03:44:09+09:00",
+      "pub_date_utc": "2026-05-22T18:44:09+00:00",
+      "description": "予測市場プラットフォーム「ポリマーケット」は、インフラの一部でセキュリティ侵害が発生したことを認めた。トップアップ運用に使用されていたウォレットの秘密鍵流出が原因の可能性があるという。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Zoltan Vardai、スタッフライター校閲：Bryan O'Shea、スタッフ編集者ポリマーケットでハッキング侵害　内部運用ウォレットの秘密鍵流出か　「ユーザー資金は安全」と強調7 時間前速報 予測市場プラットフォーム「ポリマーケット」は、インフラの一部でセキュリティ侵害が発生したことを認めた。トップアップ運用に使用されていたウォレットの秘密鍵流出が原因の可能性があるという。一方で、同社はユーザー資金や市場結果判定には影響がないと説明している。ポリマーケット開発チームは金曜日、Xへの投稿で「コントラクトおよび中核インフラは影響を受けていない」と発表した。ポリマーケットのプロダクト責任者アカンシュ・ジェイン氏や複数の従業員も、ユーザー資金と市場解決プロセスは安全だと強調している。ブロックチェーン調査を手掛けるZachXBT氏は当初、ポリゴン上で稼働する「UMA コンディショナル",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Polygon"
+      ],
+      "main_entities": [
+        "Polygon"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ポリマーケットが日本参入を模索か　2030年までの認可取得目指す＝報道",
+      "link": "https://cointelegraph.jp/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T03:07:05+09:00",
+      "pub_date_utc": "2026-05-22T18:07:05+00:00",
+      "description": "予測市場プラットフォーム「ポリマーケット」が、日本市場参入を模索していると報じられた。世界的に予測市場への規制監視が強まる中での動きとなる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Helen Partz、スタッフライター校閲：Bryan O'Shea、スタッフ編集者ポリマーケットが日本参入を模索か　2030年までの認可取得目指す＝報道8 時間前ニュース 予測市場プラットフォーム「ポリマーケット」が、世界的に予測市場への規制監視が強まる中、日本市場参入を模索していると報じられた。ブルームバーグによれば、ポリマーケットは仮想通貨企業ジュピターの日本責任者マイク・エイドリン氏を起用し、日本で予測市場を認可対象とするためのロビー活動も準備しているとされる。ポリマーケットは、日本市場を「大きく未開拓の機会」とみており、2030年までの政府からの認可取得を目指している。今回の動きは、ポリマーケットや競合のカルシなどの予測市場プラットフォームが、世界各国で規制圧力を強められている中で浮上した。日本の厳格な賭博規制が障壁に日本ではオンライン賭博に関する法律が厳格で、競馬や公",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ビットコイン、米市場開始後に7万7000ドル割れ　ダウ最高値更新も売り圧力続く",
+      "link": "https://cointelegraph.jp/news/bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T02:28:07+09:00",
+      "pub_date_utc": "2026-05-22T17:28:07+00:00",
+      "description": "ビットコイン（BTC）は金曜日、米株市場が過去最高値を更新する中で、再び売り圧力に直面した。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：William Suberg、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコイン、米市場開始後に7万7000ドル割れ　ダウ最高値更新も売り圧力続く8 時間前マーケット ビットコイン（BTC）は金曜日、米株市場が過去最高値を更新する中で、再び売り圧力に直面した。米株高と逆行　BTCは7万7000ドル割れトレーディングビューのデータによれば、BTC/USDはウォール街取引開始後に7万7000ドルを下回り、この日は約1.2％下落した。BTC/USD one-hour chart. Source: Cointelegraph/TradingView今週は、米市場オープン後に仮想通貨市場へ売り圧力がかかる展開が続いており、今回もその流れを引き継いだ形となった。一方、株式市場ではダウ工業株30種平均が過去最高値を更新した。この動きには、米国のドナルド・トランプ大統領も反応",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Binance"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "スペースXのIPOでナスダックのBTCエクスポージャー拡大か　ビットコインへの影響は？",
+      "link": "https://cointelegraph.jp/news/space-x-ipo-bad-news-for-tech-stocks-but-what-about-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T01:39:20+09:00",
+      "pub_date_utc": "2026-05-22T16:39:20+00:00",
+      "description": "イーロン・マスク氏率いる宇宙企業スペースXは、6月に750億ドル規模のIPOを計画している。実現すれば、ビットコイン（BTC）保有企業としては近年最大級の上場案件となる可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Yashu Gola、スタッフライター校閲：Allen Scott、スタッフ編集者スペースXのIPOでナスダックのBTCエクスポージャー拡大か　ビットコインへの影響は？9 時間前マーケット イーロン・マスク氏率いる宇宙企業スペースXは、6月に750億ドル規模のIPOを計画している。実現すれば、ビットコイン（BTC）保有企業としては近年最大級の上場案件となる可能性がある。ナスダックのビットコイン比率上昇へスペースXは最近提出したS-1書類で、1万8712BTCを保有していることを開示した。現在の価値は約14億5000万ドルに相当する。これは、IPO準備中または最近上場申請を行った企業の中で最大規模のビットコイン保有量となる。Source: SpaceX's S1 Filingナスダックは現在、「ファストエントリー」ルールを採用しており、超大型IPO銘柄は上場から15営業日以内にナスダ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "JPMorgan",
+        "Tesla",
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "XRP 新規ウォレット急増も1.40ドルが壁に　ETF資金流入続く中で反発模索",
+      "link": "https://cointelegraph.jp/news/xrp-adds-4300-new-wallets-in-24-hours-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T01:08:05+09:00",
+      "pub_date_utc": "2026-05-22T16:08:05+00:00",
+      "description": "XRPレジャーでは過去24時間で新規アドレス数が急増したものの、1.40ドル付近の上値抵抗が重しとなり、XRP価格の上昇は抑えられている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Nancy Lubale、スタッフライター校閲：Allen Scott、スタッフ編集者XRP 新規ウォレット急増も1.40ドルが壁に　ETF資金流入続く中で反発模索10 時間前アルトコイン XRPレジャーでは過去24時間で新規アドレス数が急増したものの、1.40ドル付近の上値抵抗が重しとなり、XRP価格の上昇は抑えられている。XRPレジャー、新規ウォレット数が急増Santimentによれば、XRPレジャーは24時間で4300件の新規ウォレットを追加し、「2026年で4番目に大きな増加」を記録した。下記データでは、5月20日の新規XRPウォレット数は4300件となり、前日の約2500件から大幅増加した。同様に、デイリーアクティブアドレス数も同期間で3万2000件から4万3520件へ増加している。Santimentは木曜日、Xへの投稿で「XRPは今年最大級のネットワーク成長局面を迎えて",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "【5/22話題】ポリマーケットが日本市場での認可取得目指す、JPYCのシリーズBは50億円、ブロックチェーンドットコムが米IPO準備など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/575805",
+      "pub_date": "2026-05-22T21:21:30+09:00",
+      "pub_date_utc": "2026-05-22T12:21:30+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース ポリマーケット、日本で認可取得目指しロビー活動準備か＝報道 JPYC、シリーズB資金調達は累計50億円へ LINE NEXTのWeb3ウォレット「Unifi」、日本円ステーブルコイン「JPYC」利用可能に ハッシュポートの「HashPort Wa",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Kraken",
+        "Solana",
+        "Circle",
+        "JPYC",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "【6/4まで】10万円相当のBTCが当たる！SBI VCトレード、ビットコインピザデー記念キャンペーンを実施",
+      "link": "https://www.nadanews.com/351766/",
+      "pub_date": "2026-05-22T20:41:17+09:00",
+      "pub_date_utc": "2026-05-22T11:41:17+00:00",
+      "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のSBI VCトレードは The post 【6/4まで】10万円相当のBTCが当たる！SBI VCトレード、ビットコインピザデー記念キャンペーンを実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "キャンペーン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "キャンペーン 【6/4まで】10万円相当のBTCが当たる！SBI VCトレード、ビットコインピザデー記念キャンペーンを実施 By 平木 昌宏 2026年5月22日20:41 .st0 { fill: #374149; } 2026年5月22日20:41 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のSBI VCトレードは22日、ビットコインピザデー16周年を記念したビットコイン購入キャンペーンを開始した。 キャンペーン期間は、2026年5月22日11時から6月4日23時59分まで。 期間中にVCTRADEサービスの販売所でビットコイ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "Sui、ガス料金不要のステーブルコイン送金を開始",
+      "link": "https://www.nadanews.com/351761/",
+      "pub_date": "2026-05-22T19:40:00+09:00",
+      "pub_date_utc": "2026-05-22T10:40:00+00:00",
+      "description": "レイヤー1ブロックチェーンのSui（スイ）は5月20日、ガス代（取引手数料）を支払うことなくステーブルコインを送金できるプロトコルレベルの新機能をメインネットで The post Sui、ガス料金不要のステーブルコイン送金を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "stablecoin Sui、ガス料金不要のステーブルコイン送金を開始 By 井上 俊彦 2026年5月22日19:40 .st0 { fill: #374149; } 2026年5月22日22:39 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); レイヤー1ブロックチェーンのSui（スイ）は5月20日、ガス代（取引手数料）を支払うことなくステーブルコインを送金できるプロトコルレベルの新機能をメインネットで開始したとXで発表した。これによって、Suiネットワーク上のステーブルコイン送金手数料は0.00ドルとなる。 新機能では、ユーザーや企業が手数料用にSUIトークンの残高を別途用意する必要なしに、対応ステーブルコインでP2P送金を完結できる。対応するのはUSDコイン（U",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "OKX",
+        "bitFlyer",
+        "bitbank",
+        "Sui",
+        "Circle",
+        "JPYC",
+        "金融庁",
+        "Fireblocks"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "JPYC、シリーズB累計約50億円を調達へ──いよぎん、明治安田生命らが出資",
+      "link": "https://www.nadanews.com/351719/",
+      "pub_date": "2026-05-22T18:44:42+09:00",
+      "pub_date_utc": "2026-05-22T09:44:42+00:00",
+      "description": "日本円ステーブルコイン「JPYC」を発行・運営するJPYC株式会社は22日、シリーズBラウンドで累計約50億円を調達する見込みだと発表した。 今回のラウンドには The post JPYC、シリーズB累計約50億円を調達へ──いよぎん、明治安田生命らが出資 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス JPYC、シリーズB累計約50億円を調達へ──いよぎん、明治安田生命らが出資 By 平木 昌宏 2026年5月22日18:44 .st0 { fill: #374149; } 2026年5月22日18:44 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 日本円ステーブルコイン「JPYC」を発行・運営するJPYC株式会社は22日、シリーズBラウンドで累計約50億円を調達する見込みだと発表した。 今回のラウンドには、追加投資家としてLife Design Fundのほか、いよぎんホールディングス、阿波銀キャピタル、明治安田生命の関連ファンドが参加した。 調達資金は、システムおよびアプリケーション開発、人材採用、発行・償還や決済関連事業の拡充、新たなユースケース創",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "JPYC"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "OKJ、ヘデラ（HBAR）を5月28日より取り扱い開始",
+      "link": "https://www.nadanews.com/351752/",
+      "pub_date": "2026-05-22T18:28:09+09:00",
+      "pub_date_utc": "2026-05-22T09:28:09+00:00",
+      "description": "オーケーコイン・ジャパン株式会社は、同社が運営する暗号資産（仮想通貨）取引所のOKJにおいて、5月28日よりヘデラ（HBAR）を取り扱うことを発表した。 ヘデラ The post OKJ、ヘデラ（HBAR）を5月28日より取り扱い開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Other Cryptocurrencies",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Other Cryptocurrencies OKJ、ヘデラ（HBAR）を5月28日より取り扱い開始 By 大谷 惇途 2026年5月22日18:28 .st0 { fill: #374149; } 2026年5月22日18:28 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); オーケーコイン・ジャパン株式会社は、同社が運営する暗号資産（仮想通貨）取引所のOKJにおいて、5月28日よりヘデラ（HBAR）を取り扱うことを発表した。 ヘデラ（HBAR）は、独自の分散台帳技術「Hashgraph」を採用したパブリックネットワーク。高速な処理性能と低コストを特徴としており、企業や開発者向けの分散型アプリケーション基盤として利用が進められている。運営には、GoogleやIBMなど",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "韓国の地方銀行「iMバンク」、カイア上でウォン建てステーブルコインの技術検証を完了",
+      "link": "https://www.neweconomy.jp/posts/575793",
+      "pub_date": "2026-05-22T17:56:09+09:00",
+      "pub_date_utc": "2026-05-22T08:56:09+00:00",
+      "description": "iM BankがKaiaでウォン建てステーブルコインのPoC完了 韓国の地方銀行iMバンク（iM Bank）が、カイア（Kaia）ブロックチェーン上でウォン建てステーブルコインの技術検証（PoC）を完了したと5月20日に",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "iM BankがKaiaでウォン建てステーブルコインのPoC完了 韓国の地方銀行iMバンク（iM Bank）が、カイア（Kaia）ブロックチェーン上でウォン建てステーブルコインの技術検証（PoC）を完了したと5月20日に発表した。 このPoCは、iMバンクがデジタル資産金融インフラ企業オープンアセット（OpenAsset）と進めていたウォン建てステーブルコインの技術検証だ。 同PoCでは、ウォン建てステーブルコインの発行、チャージ、決済、精算、焼却までの全ライフサイクルを、実際の金融環境を想定して実装することに焦点が当てられたとのこと。 iMバンクは、オープンアセットのウォン建てステーブルコイン発行代行ソリューション「オープンミント（OpenMint）」を基盤に、PoC環境でiMバンク専用のウォン建てステーブルコイン「iMKRW」をカイア上に発行したという。 また、デジタル資産ウォレットサ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "bitFlyer、ビットコインピザデーに合わせ児童養護施設へピザ1168枚を寄贈",
+      "link": "https://www.nadanews.com/351646/",
+      "pub_date": "2026-05-22T17:50:16+09:00",
+      "pub_date_utc": "2026-05-22T08:50:16+00:00",
+      "description": "暗号資産交換業者のbitFlyerは22日、ビットコインピザデーに合わせ、東京都内の児童養護施設へ合計1168枚のピザを寄贈したと発表した。 同社の取り組みは2 The post bitFlyer、ビットコインピザデーに合わせ児童養護施設へピザ1168枚を寄贈 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス bitFlyer、ビットコインピザデーに合わせ児童養護施設へピザ1168枚を寄贈 By NADA NEWS編集部 2026年5月22日17:50 .st0 { fill: #374149; } 2026年5月22日17:50 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産交換業者のbitFlyerは22日、ビットコインピザデーに合わせ、東京都内の児童養護施設へ合計1168枚のピザを寄贈したと発表した。 同社の取り組みは2024年から継続しており、今年で3年目。これまでの累計提供枚数は3169枚に達した。 2026年の提供日は5月15日で、提供先は東京都内の児童養護施設。ピザの提供にはPIZZAREVOが協力した。 ビットコインピザデーは、2010年5",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ビットコイン 上昇トレンドを90日間継続　「弱気市場ではなく強気相場型ラリー」との分析も",
+      "link": "https://cointelegraph.jp/news/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T17:45:16+09:00",
+      "pub_date_utc": "2026-05-22T08:45:16+00:00",
+      "description": "ビットコイン（BTC）は過去90日間にわたり上昇トレンドを維持しており、「強気市場型ラリー」が進行しているとの分析が出ている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：William Suberg、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコイン 上昇トレンドを90日間継続　「弱気市場ではなく強気相場型ラリー」との分析も17 時間前マーケット ビットコイン（BTC）は過去90日間にわたり上昇トレンドを維持しており、「強気市場型ラリー」が進行しているとの分析が出ている。「弱気市場の反発とは異なる動き」トレーダー兼アナリストのマシュー・ハイランド氏は木曜日、Xへの投稿でビットコインがマクロ的な安値から反発した今回の動きは、過去に例がないと指摘した。同氏は、「今回のBTCラリーは、弱気市場の反発ではなく、強気市場ラリーに近い」と総括した。BTC/USD one-day chart. Source: Cointelegraph/TradingViewハイランド氏によれば、BTC/USDは2月最終週から新たな上昇トレンドに入っている",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "コインベース・プレミアム低下で機関投資家売りを示唆　ビットコイン現物需要の弱さ浮き彫りに",
+      "link": "https://cointelegraph.jp/news/coinbase-premium-hits-monthly-low-as-institutional-selling-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T17:19:59+09:00",
+      "pub_date_utc": "2026-05-22T08:19:59+00:00",
+      "description": "機関投資家の仮想通貨市場参加を示す主要指標の1つである「コインベース・プレミアム」が、さらにマイナス圏へ沈んでいる。機関投資家による売り圧力の高まりを示唆する動きだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Martin Young、スタッフライター校閲：Felix Ng、スタッフ編集者コインベース・プレミアム低下で機関投資家売りを示唆　ビットコイン現物需要の弱さ浮き彫りに18 時間前ニュース 機関投資家の仮想通貨市場参加を示す主要指標の1つである「コインベース・プレミアム」が、さらにマイナス圏へ沈んでいる。機関投資家による売り圧力の高まりを示唆する動きだ。コインベース・プレミアムは4月下旬以降、おおむねマイナス圏で推移していたが、過去7日間で下落が加速した。5月21日にはマイナス0.0983％となり、今月最低水準を記録した。クリプトクアントのアナリスト、ダークフォスト氏は木曜日、「機関投資家の売り圧力が最近強まっている」と指摘した。さらに、「コインベース・アドバンスドを利用する機関投資家・プロ投資家が、バイナンスの投資家より積極的に売却していることを示している」と述べた。機関投資家、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "JPYC、シリーズBで累計約50億円の調達完了へ　日本円ステーブルコインの社会実装を加速",
+      "link": "https://coinpost.jp/?p=710602",
+      "pub_date": "2026-05-22T17:14:05+09:00",
+      "pub_date_utc": "2026-05-22T08:14:05+00:00",
+      "description": "JPYC株式会社がシリーズBラウンドで累計約50億円の資金調達を完了予定。発行7ヶ月で総取引高350億円超を達成し、日本円仮想通貨の社会実装を加速する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "JPYC",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "クラーケン運営ペイワード、UAEドバイでVARA予備承認取得",
+      "link": "https://www.neweconomy.jp/posts/575795",
+      "pub_date": "2026-05-22T16:54:35+09:00",
+      "pub_date_utc": "2026-05-22T07:54:35+00:00",
+      "description": "クラーケがUAE展開を拡大へ 暗号資産（仮想通貨）取引所クラーケン（Kraken）の親会社ペイワード（Payward）が、アラブ首長国連邦（UAE）ドバイの規制機関「VARA（Virtual Asset Regulato",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "クラーケがUAE展開を拡大へ 暗号資産（仮想通貨）取引所クラーケン（Kraken）の親会社ペイワード（Payward）が、アラブ首長国連邦（UAE）ドバイの規制機関「VARA（Virtual Asset Regulatory Authority）」から、ブローカーディーラーおよび投資・運用ライセンスの予備承認を取得した。ペイワードが5月21日に発表した。 今回の予備承認を受け、正式なVASPライセンス取得後には、クラーケンはUAEの顧客向けに、現物取引、証拠金取引、OTC取引、ステーキング、ユーザー間の暗号資産送金、機関投資家向けサービス「クラーケン・プライム（Kraken Prime）」などを提供する予定だ。 また、UAE顧客は、欧州、米国、APAC市場に接続されたクラーケンのグローバルオーダーブックへアクセス可能になる見通し。さらに、現地規制下のペイワード子会社を通じて、ディルハム（A",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Kraken",
+        "OKX",
+        "KuCoin",
+        "Solana"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "デリバティブ取引プロトコル「バリエーショナル」、シリーズAラウンドで50Mドル調達",
+      "link": "https://www.neweconomy.jp/posts/575784",
+      "pub_date": "2026-05-22T16:43:59+09:00",
+      "pub_date_utc": "2026-05-22T07:43:59+00:00",
+      "description": "RWAデリバティブ市場を90日で100超展開へ デリバティブ取引プロトコル「バリエーショナル（Variational）」が、シリーズAラウンドで5,000万ドル（約79.5億円）を調達した。5月20日に同プロトコル公式X",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "RWAデリバティブ市場を90日で100超展開へ デリバティブ取引プロトコル「バリエーショナル（Variational）」が、シリーズAラウンドで5,000万ドル（約79.5億円）を調達した。5月20日に同プロトコル公式Xで発表された。 同プロトコルチームの発表によると、同ラウンドはドラゴンフライ（Dragonfly）が主導し、ベイン・キャピタル・クリプト（Bain Capital Crypto）、コインベース・ベンチャーズ（Coinbase Ventures）などが参加したとのこと。 バリエーショナルは、株式指数や個別株、コモディティ、外国為替（FX）などに連動するRWAデリバティブ市場を、暗号資産（仮想通貨）と同じ単一口座から取引できる環境の構築を目指している。 同プロトコルチームは、5月6日に公式Xアカウントで公開した記事で、90日以内に100以上のRWA市場をオンチェーン展開する計画",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Kraken",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "JPYC、シリーズB資金調達は累計50億円へ",
+      "link": "https://www.neweconomy.jp/posts/575774",
+      "pub_date": "2026-05-22T16:35:23+09:00",
+      "pub_date_utc": "2026-05-22T07:35:23+00:00",
+      "description": "JPYCのシリーズB調達は累計50億円へ 日本円ステーブルコイン「JPYC」を発行・運営するJPYC社が、シリーズBラウンドにおける累計資金調達額が約50億円となる予定だと5月22日に発表した。 同社は今年2月、同ラウン",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "JPYCのシリーズB調達は累計50億円へ 日本円ステーブルコイン「JPYC」を発行・運営するJPYC社が、シリーズBラウンドにおける累計資金調達額が約50億円となる予定だと5月22日に発表した。 同社は今年2月、同ラウンドのファーストクローズにおいて、総額17.8億円の資金調達完了予定を発表。続けて4月には、同ラウンドセカンドクローズにて28億円の追加資金調達を完了する予定だと発表していた。 ファーストクローズには、アステリア主導のもとビットフライヤーホールディングスなど10社以上が参加した。またセカンドクローズではメタプラネットやSUMISEI INNOVATION FUND、北洋銀行、横浜キャピタルなど10社以上が参加した。 そして今回追加投資したのは、Life Design Fund、IHD STRATEGY FUND、あわぎん未来創造、明治安田未来共創といった投資事業有限責任組合だ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "JPYC",
+        "三井住友銀行",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ポリマーケット、日本で認可取得目指しロビー活動準備か＝報道",
+      "link": "https://www.neweconomy.jp/posts/575756",
+      "pub_date": "2026-05-22T16:07:26+09:00",
+      "pub_date_utc": "2026-05-22T07:07:26+00:00",
+      "description": "ポリマーケットが日本市場での認可取得目指す ブロックチェーン・暗号資産（仮想通貨）活用の予測市場プラットフォーム「ポリマーケット（Polymarket）」が、日本で予測市場を提供するための認可取得に向け、ロビー活動を行う",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ポリマーケットが日本市場での認可取得目指す ブロックチェーン・暗号資産（仮想通貨）活用の予測市場プラットフォーム「ポリマーケット（Polymarket）」が、日本で予測市場を提供するための認可取得に向け、ロビー活動を行う準備を進めていると、「ブルームバーグ（Bloomberg）」が5月22日に報じた。 報道によると関係者は、2030年までに日本政府からの承認取得を目指していると話したという。また日本での取り組みは、ソラナ（Solana）関連の暗号資産プロジェクト「ジュピター（Jupiter）」の日本責任者を務めているマイク・エイドリン（Mike Eidlin）氏が主導していることも明かされた。 なおジュピターが提供する予測市場向けAPIは、ポリマーケットやカルシ（Kalshi）の流動性を集約し、ソラナ上のアプリに予測市場取引機能を組み込める仕組みとなっている。 また4月29日には、暗号資産",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "グラスノード分析、ビットコイン供給量の30%超で公開鍵露出を確認　量子リスクへの備えを提言",
+      "link": "https://coinpost.jp/?p=710556",
+      "pub_date": "2026-05-22T15:58:06+09:00",
+      "pub_date_utc": "2026-05-22T06:58:06+00:00",
+      "description": "グラスノードの分析によると、ビットコイン発行済み供給の約30%にあたる604万BTCがすでに公開鍵露出状態にあり、量子コンピュータによる将来的なリスクにさらされている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ハッシュポートの「HashPort Wallet」、ビットコイン（BTC）に対応へ。現物の直接管理可能に",
+      "link": "https://www.neweconomy.jp/posts/575726",
+      "pub_date": "2026-05-22T15:29:12+09:00",
+      "pub_date_utc": "2026-05-22T06:29:12+00:00",
+      "description": "HashPort WalletがBTCに対応へ 国産Web3ウォレットアプリ 「ハッシュポートウォレット（HashPort Wallet）」 が、6月16日よりビットコイン現物（BTC）への対応を開始する。同ウォレット提",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "HashPort WalletがBTCに対応へ 国産Web3ウォレットアプリ 「ハッシュポートウォレット（HashPort Wallet）」 が、6月16日よりビットコイン現物（BTC）への対応を開始する。同ウォレット提供元のハッシュポート（HashPort）が5月22日に発表した。 今回の対応によりハッシュポートウォレットは、ビットコイン現物を直接管理・入庫できるようになった。なお同ウォレットではこれまでcbBTC、WBTC、tBTC、BTC.b、BTCB など、複数チェーン上のBTC関連資産に対応していた。 ハッシュポートウォレットは、2025年大阪・関西万博公式アプリ「EXPO2025デジタルウォレット」がリニューアルしたWeb3ウォレットアプリだ。同ウォレットは日本国内で100万人以上のユーザーを抱えるという。 今年2月、同ウォレットはステーキングサービスプロバイダー「キルン（Ki",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ソラナ上でUNIが利用可能に、サンライズ経由で",
+      "link": "https://www.neweconomy.jp/posts/575710",
+      "pub_date": "2026-05-22T15:08:24+09:00",
+      "pub_date_utc": "2026-05-22T06:08:24+00:00",
+      "description": "UNIがソラナ上で利用可能に ワームホールラボ（Wormhole Labs）が開発する資産導入基盤「サンライズ（Sunrise）」が、分散型取引所（DEX）「ユニスワップ（Uniswap）」のガバナンストークン「UNI」",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "UNIがソラナ上で利用可能に ワームホールラボ（Wormhole Labs）が開発する資産導入基盤「サンライズ（Sunrise）」が、分散型取引所（DEX）「ユニスワップ（Uniswap）」のガバナンストークン「UNI」をソラナ（Solana）上で利用可能にした。サンライズおよびワームホール（Wormhole）の公式Xアカウントより5月21日に発表された。 サンライズは、他チェーンの資産をソラナへ導入するための資産ゲートウェイだ。同基盤では、資産の移転だけでなく、流動性供給やソラナの分散型金融（DeFi）エコシステムへの統合を同時に行うことで、「正規市場（canonical market）」の形成を目指していると説明している。 発表によると、UNIはサンライズを通じてソラナ上へ導入され、ワームホールのネイティブ・トークン・トランスファー（Native Token Transfers：NTT",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana",
+        "Avalanche",
+        "Sui",
+        "Uniswap",
+        "Aave"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "世界最大級マイニングプールF2Pool共同創設者、スペースXの火星ミッションへ",
+      "link": "https://coinpost.jp/?p=710528",
+      "pub_date": "2026-05-22T15:06:07+09:00",
+      "pub_date_utc": "2026-05-22T06:06:07+00:00",
+      "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ブロックチェーンドットコムが米IPO準備、SECへS1草案を非公開提出",
+      "link": "https://www.neweconomy.jp/posts/575704",
+      "pub_date": "2026-05-22T15:02:02+09:00",
+      "pub_date_utc": "2026-05-22T06:02:02+00:00",
+      "description": "ブロックチェーンドットコムがIPO準備開始 暗号資産（仮想通貨）サービスを提供する「ブロックチェーンドットコム（Blockchain.com）」の関連会社ブロックチェーンドットコム・グループ・ホールディングス（Block",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ブロックチェーンドットコムがIPO準備開始 暗号資産（仮想通貨）サービスを提供する「ブロックチェーンドットコム（Blockchain.com）」の関連会社ブロックチェーンドットコム・グループ・ホールディングス（Blockchain.com Group Holdings）が、新規株式公開（IPO）に向けた登録届出書案を米証券取引委員会（SEC）へ非公開で提出したと5月21日に発表した。 ブロックチェーンドットコム・グループ・ホールディングスの発表によると、提出したのはフォームS-1（Form S-1）によるドラフト登録届出書だ。募集・売出予定の株式数および価格帯は現時点で未定となっている。またIPOは、市場環境やその他条件、SECによる審査プロセス完了などを前提として実施される予定だ。 米国では、IPOを目指す企業が正式公開前の段階で、SECへ非公開で登録書類を提出する「コンフィデンシャル・",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Kraken",
+        "Circle",
+        "SEC",
+        "ConsenSys"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "LINEウォレット「Unifi」がJPYCに対応、新アプリ不要でステーブルコイン決済へ",
+      "link": "https://coinpost.jp/?p=710507",
+      "pub_date": "2026-05-22T14:10:40+09:00",
+      "pub_date_utc": "2026-05-22T05:10:40+00:00",
+      "description": "JPYC株式会社は、LINE NEXT社のweb3ウォレット「Unifi」に日本円ステーブルコイン「JPYC」が正式採用されたと発表。LINEアプリ上でのKaiaネットワーク経由のJPYC利用は国内初の事例となる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Avalanche",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Avalanche"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "【速報】ポリマーケットが日本参入目指す、2030年までの承認に向けロビー活動開始＝報道",
+      "link": "https://coinpost.jp/?p=710307",
+      "pub_date": "2026-05-22T13:30:49+09:00",
+      "pub_date_utc": "2026-05-22T04:30:49+00:00",
+      "description": "海外予測市場大手ポリマーケットが日本で代表者を任命し、2030年の省庁承認取得を目標に活動を開始した。日本は現在、同社の地理的制限リストに含まれている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "LINE NEXTのWeb3ウォレット「Unifi」、日本円ステーブルコイン「JPYC」利用可能に",
+      "link": "https://www.neweconomy.jp/posts/575677",
+      "pub_date": "2026-05-22T13:10:15+09:00",
+      "pub_date_utc": "2026-05-22T04:10:15+00:00",
+      "description": "UnifiでJPYC利用可能に ラインネクスト（LINE NEXT）が提供開始したWeb3ウォレット「ユニファイ（Unifi）」において、日本円連動ステーブルコイン「JPYC」が利用可能になった。JPYC発行元のJPYC",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "UnifiでJPYC利用可能に ラインネクスト（LINE NEXT）が提供開始したWeb3ウォレット「ユニファイ（Unifi）」において、日本円連動ステーブルコイン「JPYC」が利用可能になった。JPYC発行元のJPYC社が5月22日に発表した。 ラインネクストは、LINEヤフーのグループ会社でグローバルweb3事業を行う企業。またユニファイは、LINEアプリ上で利用可能なノンカストディアル型ウォレット。LINEアカウントだけで即座に利用開始できる。提供地域はグローバルとされている。また同ウォレットでは、預け入れ額に応じて基本年率4〜5%の利息が提供される。 ラインネクストは2月27日、ユニファイにおいてJPYCの採用が正式決定したと発表していた。 また5月15日には、JPYCの対応チェーンとして「カイア（Kaia）」の追加が発表されている。 カイアは2024年8月にローンチした、フィンシ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Uniswap",
+        "JPYC"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "仮想通貨市場の低迷で企業閉鎖相次ぐ　1週間で少なくとも5社が事業終了",
+      "link": "https://cointelegraph.jp/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T13:07:47+09:00",
+      "pub_date_utc": "2026-05-22T04:07:47+00:00",
+      "description": "長引く仮想通貨市場の低迷により、ユーザー活動や投資資金への下押し圧力が強まる中、少なくとも5つの仮想通貨関連企業が今週、事業終了を発表した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Jesse Coghlan、スタッフ編集者校閲：Felix Ng、スタッフ編集者仮想通貨市場の低迷で企業閉鎖相次ぐ　1週間で少なくとも5社が事業終了22 時間前ニュース 長引く仮想通貨市場の低迷により、ユーザー活動や投資資金への下押し圧力が強まる中、少なくとも5つの仮想通貨関連企業が今週、事業終了を発表した。仮想通貨トレーディングカードプラットフォーム「ファンタジー.top」、クロスチェーンインフラ企業「エバークリア」、イーサリアムのレイヤー2ブロックチェーン「ZEROネットワーク」は木曜日、それぞれ事業終了を発表した。いずれも市場適合性の不足や、十分な収益を確保できなかったことが背景にある。同じ週には、イーサリアムインフラ企業「シンジケート・ラボ」が、縮小するロールアップ市場を理由に5年間の事業を終了すると発表したほか、仮想通貨ATM企業「ビットコイン・デポ」が月曜日、財務悪化と",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Solana",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ビットコイン需要が4カ月ぶり低水準　保ち合い長期化の可能性も",
+      "link": "https://cointelegraph.jp/news/bitcoins-less-aggressive-demand-may-lead-to-months-of-consolidation-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T12:43:22+09:00",
+      "pub_date_utc": "2026-05-22T03:43:22+00:00",
+      "description": "ビットコイン（BTC）の需要がここ数日で急減している。価格が8万ドル超の上値抵抗帯に直面したことを受け、アナリストらは主要サポートを維持できない状況が長期的な保ち合いにつながる可能性を指摘している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Nancy Lubale、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコイン需要が4カ月ぶり低水準　保ち合い長期化の可能性も22 時間前マーケット ビットコイン（BTC）の需要がここ数日で急減している。価格が8万ドル超の上値抵抗帯に直面したことを受け、アナリストらは主要サポートを維持できない状況が長期的な保ち合いにつながる可能性を指摘している。ビットコイン需要、4カ月ぶり低水準に地政学的リスクやマクロ経済の不透明感を背景に、トレーダーや投資家がリスク回避姿勢を強める中、ビットコインの推定需要は1月中旬以来の最低水準まで低下した。カプリオール・インベストメンツの「ビットコイン推定需要」指標によれば、ビットコイン需要は2025年12月22日以降マイナス圏にあり、2月下旬に一時改善したものの、木曜日にはマイナス3138BTCまで急低下した。BTC推定需要. Sour",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "米財務省、シナロア・カルテル関連のイーサリアムアドレス制裁　麻薬資金を仮想通貨で洗浄か",
+      "link": "https://cointelegraph.jp/news/us-sanctions-sinaloa-cartel-ethereum-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T12:00:10+09:00",
+      "pub_date_utc": "2026-05-22T03:00:10+00:00",
+      "description": "米財務省外国資産管理局（OFAC）は、メキシコのシナロア・カルテルに関連する資金洗浄ネットワークに紐づく6つのイーサリアムアドレスを制裁対象に指定した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Zoltan Vardai、スタッフライター校閲：Bryan O'Shea、スタッフ編集者米財務省、シナロア・カルテル関連のイーサリアムアドレス制裁　麻薬資金を仮想通貨で洗浄か23 時間前ニュース 米財務省外国資産管理局（OFAC）は、メキシコのシナロア・カルテルに関連する資金洗浄ネットワークに紐づく6つのイーサリアムアドレスを制裁対象に指定した。この資金洗浄ネットワークは、麻薬取引による収益を仮想通貨へ変換していたとされる。OFACは水曜日、シナロア・カルテルの金融ネットワーク2件に関与した11人と2法人への制裁措置の一環として、これらのイーサリアムアドレスを特別指定国民（SDN）リストへ追加した。SDNリストは、資産凍結や取引禁止の対象となる個人・団体・資産をまとめた米国の制裁リストだ。米財務省によると、そのうちの1つのネットワークはアルマンド・デ・ヘスス・オヘダ・アビレス氏が",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Bybit",
+        "米財務省"
+      ],
+      "main_entities": [
+        "米財務省"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "仮想通貨の少額取引免税検討・マイナー報酬5年繰り延べ、米税制改革法案を提出",
+      "link": "https://coinpost.jp/?p=710425",
+      "pub_date": "2026-05-22T11:58:51+09:00",
+      "pub_date_utc": "2026-05-22T02:58:51+00:00",
+      "description": "米超党派議員が仮想通貨初の包括税制法案「PARITY法」を提出。少額取引免税の検討指示、マイナー報酬の最大5年課税繰り延べ、損出し節税の封鎖などを盛り込む。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "米財務省"
+      ],
+      "main_entities": [
+        "米財務省"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "スイ、ガス代無料のステーブルコイン送金を提供開始",
+      "link": "https://coinpost.jp/?p=710405",
+      "pub_date": "2026-05-22T11:45:06+09:00",
+      "pub_date_utc": "2026-05-22T02:45:06+00:00",
+      "description": "仮想通貨スイがメインネットでガス代不要のステーブルコイン送金機能を開始した。USDCなど様々な銘柄に対応し、高頻度送金の商業利用や企業・AIエージェントの採用促進を狙う。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却 新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は goog",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Sui",
+        "Circle"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "仮想通貨取引所バイナンス、スペースX連動の「Pre-IPO」先物開始",
+      "link": "https://cointelegraph.jp/news/binance-launches-spacex-linked-perpetual-futures-ahead-of-potential-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T11:41:12+09:00",
+      "pub_date_utc": "2026-05-22T02:41:12+00:00",
+      "description": "バイナンスは、未上場企業の予想評価額に連動する無期限先物契約（パーペチュアル）を開始した。第1弾として、スペースX関連商品の「SPCXUSDT Pre-IPO パーペチュアル」を導入し、テザーのUSDT建てで決済を行う。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Nate Kostar、スタッフライター校閲：Robert Lakin、スタッフ編集者仮想通貨取引所バイナンス、スペースX連動の「Pre-IPO」先物開始23 時間前ニュース バイナンスは、未上場企業の予想評価額に連動する無期限先物契約（パーペチュアル）を開始した。第1弾として、スペースX関連商品の「SPCXUSDT Pre-IPO パーペチュアル」を導入し、テザーのUSDT建てで決済を行う。バイナンスによれば、Pre-IPO無期限先物は、企業が株式公開前に示す評価額レンジや最終公募価格など、公開情報に基づくIPO価格指標を反映する仕組みとなっている。企業が上場した後は、契約価格は市場価格に連動する形へ移行する予定だ。最初の契約である「SPCXUSDT Pre-IPO パーペチュアル」は、スペースXの予想時価総額に連動する商品だ。バイナンスは今後、他の未上場企業に連動したPre-I",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Tether",
+        "Tesla",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ビットコイン 7万8000ドル回復失敗も　大口トレーダーは強気姿勢維持",
+      "link": "https://cointelegraph.jp/news/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T11:20:49+09:00",
+      "pub_date_utc": "2026-05-22T02:20:49+00:00",
+      "description": "ビットコイン（BTC）は木曜日、7万8000ドル付近まで上昇したものの、米小売大手ウォルマートの弱気見通しや、米国の金融政策引き締め観測の強まりを受けて、上昇モメンタムを維持できなかった。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Marcel Pechman、スタッフライター校閲：Ray Salmond、スタッフ編集者ビットコイン 7万8000ドル回復失敗も　大口トレーダーは強気姿勢維持2026年5月22日マーケット ビットコイン（BTC）は木曜日、7万8000ドル付近まで上昇したものの、米小売大手ウォルマートの弱気見通しや、米国の金融政策引き締め観測の強まりを受けて、上昇モメンタムを維持できなかった。それでも、プロのビットコイントレーダーは強気ポジションを積み増している。次の上昇ターゲットとして8万2000ドルが視野に入る可能性がある。バイナンスとOKXにおけるトップトレーダーのBTCロング・ショート比率. Source: CoinGlassトップトレーダーのロング・ショート比率は過去2週間で最高水準に上昇し、7万6000ドルのサポートに対する信頼感の高まりを示した。バイナンスでは、ロング優勢を示す約8％",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "FRB"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
+      "title": "ビットコイン 8万ドル攻防へ　40億ドル超のショート清算リスク浮上",
+      "link": "https://cointelegraph.jp/news/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-22T11:00:15+09:00",
+      "pub_date_utc": "2026-05-22T02:00:15+00:00",
+      "description": "ビットコイン（BTC）の8万ドル付近で流動性の偏在が進んでおり、この水準を超えると40億ドル超のショートポジションが清算リスクにさらされる状況となっている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Biraajmaan Tamuly、スタッフライター校閲：Ray Salmond、スタッフ編集者ビットコイン 8万ドル攻防へ　40億ドル超のショート清算リスク浮上2026年5月22日価格分析 ビットコイン（BTC）の8万ドル付近で流動性の偏在が進んでおり、この水準を超えると40億ドル超のショートポジションが清算リスクにさらされる状況となっている。ビットコインは7万6100ドル付近のサポートを2日間維持し、短期時間足でも強気シグナルを形成したことで、この構図はさらに強まった。BTCショートの清算が8万ドル上に集中1時間足チャートでは、ビットコイン価格と相対力指数（RSI）の間で強気ダイバージェンスが形成された。モメンタムの改善に加え、7万6100ドル付近で高値と安値を切り上げており、買い圧力の強さを示唆している。BTCは今週、7万6100ドルのサポートを複数回防衛した後、木曜日に7万",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "Tether"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-23T10:59:30.732325+09:00"
+    },
+    {
       "title": "イングランド銀行、6月にステーブルコイン規制案公表へ",
       "link": "https://www.neweconomy.jp/posts/575642",
       "pub_date": "2026-05-22T10:47:54+09:00",
@@ -17677,8 +18818,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-22T11:12:27.681094+09:00",
-  "total_count": 947,
+  "last_updated": "2026-05-23T10:59:30.732325+09:00",
+  "total_count": 997,
   "sources": [
     "NADA NEWS",
     "CoinPost",
