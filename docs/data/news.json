@@ -1,6 +1,451 @@
 {
   "articles": [
     {
+      "title": "中期経営計画に記載されたトークン化預金「ゆうちょDCJPY」は、どこへ向かうのか──勝手に考えてみた【編集長コラム】",
+      "link": "https://www.nadanews.com/351900/",
+      "pub_date": "2026-05-24T10:15:00+09:00",
+      "pub_date_utc": "2026-05-24T01:15:00+00:00",
+      "description": "ゆうちょ銀行が5月15日に発表した中期経営計画（2026〜2028年度）には、“トークン化預金「ゆうちょDCJPY」”という言葉が記載されていた。 ゆうちょ銀行 The post 中期経営計画に記載されたトークン化預金「ゆうちょDCJPY」は、どこへ向かうのか──勝手に考えてみた【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム 中期経営計画に記載されたトークン化預金「ゆうちょDCJPY」は、どこへ向かうのか──勝手に考えてみた【編集長コラム】 By 増田隆幸 2026年5月24日10:15 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ゆうちょ銀行が5月15日に発表した中期経営計画（2026〜2028年度）には、“トークン化預金「ゆうちょDCJPY」”という言葉が記載されていた。 ゆうちょ銀行は2025年9月1日、2026年度中に「トークン化預金」の取り扱いを開始する検討に入ったと正式に発表。11月には不動産分野での活用をディーカレットDCP、シノケングループとともに発表している。 だが、「全国に2万局」「1.2億口座」を持つ巨大銀行がトークン化預金を使って何をするのか、何を狙",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "今週の主要仮想通貨材料まとめ（5/22）｜トランプメディアのBTC現物ETF申請撤回・HYPE価格高騰など",
+      "link": "https://coinpost.jp/?p=710413",
+      "pub_date": "2026-05-24T09:30:44+09:00",
+      "pub_date_utc": "2026-05-24T00:30:44+00:00",
+      "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、320億円相当ビットコインを取引所へ送金 ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance",
+        "Solana",
+        "Ripple",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "週刊仮想通貨ニュースまとめ（5/22）｜金融庁の海外ステーブルコインの内閣府令改正・ビットコイン次回半減期カウントダウンが話題に",
+      "link": "https://coinpost.jp/?p=710439",
+      "pub_date": "2026-05-24T09:25:45+09:00",
+      "pub_date_utc": "2026-05-24T00:25:45+00:00",
+      "description": "今週は、米政府のビットコイン準備金法整備の進展、ビットコインの次回半減期、金融庁の外国発行ステーブルコインの内閣府令改正に関する記事が関心を集めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、320億円相当ビットコインを取引所へ送金 ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Circle",
+        "JPYC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "イーサリアム市場で何が起きているのか──“買われているのに下がる”相場の正体【エックスウィン】",
+      "link": "https://www.nadanews.com/351890/",
+      "pub_date": "2026-05-24T09:10:00+09:00",
+      "pub_date_utc": "2026-05-24T00:10:00+00:00",
+      "description": "● トランプ大統領の「ホルムズ海峡は開放される」というSNS投稿を受け、BTC・ETHは一時反発した。● しかしETH市場では依然として、「買いが入っているのに The post イーサリアム市場で何が起きているのか──“買われているのに下がる”相場の正体【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット イーサリアム市場で何が起きているのか──“買われているのに下がる”相場の正体【エックスウィン】 By エックスウィン 2026年5月24日09:10 .st0 { fill: #374149; } 2026年5月24日09:12 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● トランプ大統領の「ホルムズ海峡は開放される」というSNS投稿を受け、BTC・ETHは一時反発した。● しかしETH市場では依然として、「買いが入っているのに価格が上がらない」という弱い構造が続いている。● 現在の焦点は、「本当に新しい資金が戻っているのか」、それとも単なるショートカバー反発なのかである。 週末の暗号資産市場は、トランプ大統領のSNS投稿をきっかけに一時的な反発を見せ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "【取材】NFTからAGI、そしてワールドカップへ──サイバーアーティストが語る、デジタルアートの次なる舞台",
+      "link": "https://www.nadanews.com/351855/",
+      "pub_date": "2026-05-24T08:45:00+09:00",
+      "pub_date_utc": "2026-05-23T23:45:00+00:00",
+      "description": "ニキータ・レプランスキー（Nikita Replyanski）は、アート、テクノロジーデザイン、ファッションの交差点で活動するサイバーアーティストだ。3Dゲーム The post 【取材】NFTからAGI、そしてワールドカップへ──サイバーアーティストが語る、デジタルアートの次なる舞台 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム 【取材】NFTからAGI、そしてワールドカップへ──サイバーアーティストが語る、デジタルアートの次なる舞台 By Ibrahim Ajibade 2026年5月24日08:45 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ニキータ・レプランスキー（Nikita Replyanski）は、アート、テクノロジーデザイン、ファッションの交差点で活動するサイバーアーティストだ。3Dゲームアートのバックグラウンドを持ち、デジタル制作で10年以上の経験を積んできた。その制作活動は、サイバー美学、AR、3Dプリントによるウェアラブル作品を通じて、人間性を領域横断的に探求するものへと発展している。 SFやサイバーパンク文化から着想を得るレプランスキーは、物理世界とデジ",
+      "summary_error": true,
+      "category": "NFT",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言／SBI北尾氏が語った「感情経済圏」──合理性の先に見つけた“熱狂”の経営戦略とは【日曜日に読みたい厳選10本】",
+      "link": "https://www.nadanews.com/351871/",
+      "pub_date": "2026-05-24T08:00:00+09:00",
+      "pub_date_utc": "2026-05-23T23:00:00+00:00",
+      "description": "自民党「次世代AI・オンチェーン金融構想PT」がまとめた提言が5月19日、公表された。同PTは12日の第5回会合で提言案をまとめていたが、この日の自民党政調審議 The post 【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言／SBI北尾氏が語った「感情経済圏」──合理性の先に見つけた“熱狂”の経営戦略とは【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム 【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言／SBI北尾氏が語った「感情経済圏」──合理性の先に見つけた“熱狂”の経営戦略とは【日曜日に読みたい厳選10本】 By 橋本 祐樹 2026年5月24日08:00 .st0 { fill: #374149; } 2026年5月24日08:08 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 自民党「次世代AI・オンチェーン金融構想PT」がまとめた提言が5月19日、公表された。同PTは12日の第5回会合で提言案をまとめていたが、この日の自民党政調審議会で了承された。──先週の土曜日から一昨日の金曜日までに公開した記事のなかから、日",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "SBI Holdings",
+        "金融庁"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "ECB、ユーロ建てステーブルコイン拡大に警戒感　銀行融資や金融政策への影響懸念",
+      "link": "https://cointelegraph.jp/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-24T06:00:00+09:00",
+      "pub_date_utc": "2026-05-23T21:00:00+00:00",
+      "description": "欧州中央銀行（ECB）は金曜日、ユーロ建てステーブルコイン発行拡大案について、銀行融資を弱体化させ、金融政策運営を複雑化させる可能性があるとして、EU財務相らへ警告した。ロイターが関係筋3人の話として報じた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Amin Haqshanas、スタッフライター校閲：Bryan O'Shea、スタッフ編集者ECB、ユーロ建てステーブルコイン拡大に警戒感　銀行融資や金融政策への影響懸念5 時間前ニュース 欧州中央銀行（ECB）は金曜日、ユーロ建てステーブルコイン発行拡大案について、銀行融資を弱体化させ、金融政策運営を複雑化させる可能性があるとして、EU財務相らへ警告した。ロイターが関係筋3人の話として報じた。今回の反発は、ブリュッセル拠点シンクタンク「ブリューゲル」が作成した政策提言書を受けたものだ。提言書の執筆者らは、キプロスで開催されたEU経済・財務相理事会（ECOFIN）の非公式会合で提案内容を説明した。提案では、ユーロ建てステーブルコイン市場が米ドル建てステーブルコインと戦うためには、発行体への流動性規制緩和や、ECB資金供給アクセス付与が必要だと主張していた。提言書によれば、欧州居住者",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Circle",
+        "ECB"
+      ],
+      "main_entities": [
+        "ECB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "バイナンスCEO、イラン制裁回避関連で「8.5億ドル処理」とのWSJ報道に反論",
+      "link": "https://cointelegraph.jp/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-24T00:30:00+09:00",
+      "pub_date_utc": "2026-05-23T15:30:00+00:00",
+      "description": "バイナンスのリチャード・テンCEOは、制裁対象のイラン人金融業者に関連する8億5000万ドル規模の取引を同取引所が処理し、最終的にイラン革命防衛隊（IRGC）へ流れていたとするウォール・ストリート・ジャーナルの報道に反論した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Amin Haqshanas、スタッフライター校閲：Bryan O'Shea、スタッフ編集者バイナンスCEO、イラン制裁回避関連で「8.5億ドル処理」とのWSJ報道に反論10 時間前ニュース バイナンスのリチャード・テンCEOは、制裁対象のイラン人金融業者に関連する8億5000万ドル規模の取引を同取引所が処理し、最終的にイラン革命防衛隊（IRGC）へ流れていたとするウォール・ストリート・ジャーナルの報道に反論した。テン氏は金曜日、WSJ報道について「根本的に不正確だ」とXで主張した。同氏は、バイナンスが制裁対象者との取引を許可したことはなく、問題視された取引は「当該人物が米国制裁対象となる以前」に行われていたと説明した。さらに、バイナンスはWSJから問い合わせを受ける前に問題を調査しており、同社が提供した事実関係は記事へ反映されなかったと述べた。WSJ「秘密決済ネットワークが8.5",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "ナスダックの現金決済型ビットコイン指数オプション　SECが上場を承認　CFTC判断が次の焦点に",
+      "link": "https://cointelegraph.jp/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-24T00:05:00+09:00",
+      "pub_date_utc": "2026-05-23T15:05:00+00:00",
+      "description": "米証券取引委員会（SEC）は、ナスダックが提案していた現金決済型ビットコイン指数オプションの上場を承認した。商品はフィラデルフィア証券取引所（Phlx）で取引される予定だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Amin Haqshanas、スタッフライター校閲：Bryan O'Shea、スタッフ編集者ナスダックの現金決済型ビットコイン指数オプション　SECが上場を承認　CFTC判断が次の焦点に11 時間前ニュース 米証券取引委員会（SEC）は、ナスダックが提案していた現金決済型ビットコイン指数オプションの上場を承認した。商品はフィラデルフィア証券取引所（Phlx）で取引される予定だ。今回承認されたオプションは、ナスダック・ビットコイン指数に連動する欧州型契約となる。同指数は、主要仮想通貨取引所から200ミリ秒ごとに更新される「CME CF ビットコイン・リアルタイム・インデックス」の100分の1を追跡するベンチマークだ。SECは今回、迅速審査ベースで承認を行い、金曜日に公式サイト上で公開した。新たな契約は現金決済型であり、満期時にビットコイン現物価格と権利行使価格との差額が支払われる仕組",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "BTCが7万6000ドル割れ──FRBウォラー理事が利上げ可能性に言及、金・原油も下落【価格分析】",
+      "link": "https://www.nadanews.com/351834/",
+      "pub_date": "2026-05-23T15:08:35+09:00",
+      "pub_date_utc": "2026-05-23T06:08:35+00:00",
+      "description": "・ビットコイン（BTC）は7万6000ドルを下回った。FRB理事クリストファー・ウォラー氏のタカ派的な発言を受け、トレーダーが金融政策の一段の引き締めリスクを織 The post BTCが7万6000ドル割れ──FRBウォラー理事が利上げ可能性に言及、金・原油も下落【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット BTCが7万6000ドル割れ──FRBウォラー理事が利上げ可能性に言及、金・原油も下落【価格分析】 By Ibrahim Ajibade 2026年5月23日15:08 .st0 { fill: #374149; } 2026年5月23日15:08 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・ビットコイン（BTC）は7万6000ドルを下回った。FRB理事クリストファー・ウォラー氏のタカ派的な発言を受け、トレーダーが金融政策の一段の引き締めリスクを織り込み直したためだ。・金と原油も下落した。イラン戦争をめぐる地政学的緊張が続くなか、市場が流動性拡大期待の後退に反応したためだ。・トークン化株式に関する免除措置をめぐるSECの判断延期も、マイナーや上場投資信",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BitTrade",
+        "SEC",
+        "ECB"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "米下院監視委、KalshiとPolymarketを調査──予測市場のインサイダー取引対策を確認へ",
+      "link": "https://www.nadanews.com/351833/",
+      "pub_date": "2026-05-23T14:15:00+09:00",
+      "pub_date_utc": "2026-05-23T05:15:00+00:00",
+      "description": "米下院監視・政府改革委員会のJames Comer（ジェームズ・コーマー）委員長は、予測市場大手Kalshi（カルシ）とPolymarket（ポリマーケット）に The post 米下院監視委、KalshiとPolymarketを調査──予測市場のインサイダー取引対策を確認へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米下院監視委、KalshiとPolymarketを調査──予測市場のインサイダー取引対策を確認へ By Shoko Galaviz 2026年5月23日14:15 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米下院監視・政府改革委員会のJames Comer（ジェームズ・コーマー）委員長は、予測市場大手Kalshi（カルシ）とPolymarket（ポリマーケット）に対し、インサイダー取引対策に関する議会調査を開始したと、CNBCが報じた。 コーマー氏は、カルシのTarek Mansour（タレク・マンスール）CEOとポリマーケットのShayne Coplan（シェイン・コプラン）CEOに書簡を送り、本人確認、地域制限の実施、不審な取引活動の検知方法に関す",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "CFTC",
+        "金融庁",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持",
+      "link": "https://coinpost.jp/?p=710654",
+      "pub_date": "2026-05-23T14:00:49+09:00",
+      "pub_date_utc": "2026-05-23T05:00:49+00:00",
+      "description": "米金融大手バンク・オブ・アメリカが2026年第1四半期の13F報告書を提出。ビットコイン・イーサリアム・XRP・ソラナのETFを合計約5300万ドル分保有し、株式含む仮想通貨関連総額は22億ドルを超えた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、320億円相当ビットコインを取引所へ送金 ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana",
+        "Ripple",
+        "BlackRock",
+        "Fidelity",
+        "Grayscale",
+        "VanEck",
+        "Goldman Sachs",
+        "SEC"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "マイケル・セイラー氏、ビットコイン売却の可能性を否定せず　「絶対売らない」姿勢に変化",
+      "link": "https://cointelegraph.jp/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T13:36:36+09:00",
+      "pub_date_utc": "2026-05-23T04:36:36+00:00",
+      "description": "ストラテジーのマイケル・セイラー会長は、同社が年内にも一部ビットコイン（BTC）を売却する可能性を否定しなかった。長年掲げてきた「絶対に売らない」という姿勢を最近になって軟化させている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Ciaran Lyons、スタッフライター校閲：Felix Ng、スタッフ編集者マイケル・セイラー氏、ビットコイン売却の可能性を否定せず　「絶対売らない」姿勢に変化21 時間前ニュース ストラテジーのマイケル・セイラー会長は、同社が年内にも一部ビットコイン（BTC）を売却する可能性を否定しなかった。長年掲げてきた「絶対に売らない」という姿勢を最近になって軟化させている。セイラー氏は金曜日、ナタリー・ブルネル氏とのYouTubeインタビューで、「年末までにビットコインを一部売却する可能性は十分あると思う」と述べた。同氏はまた、株式発行や社債などを組み合わせた資金調達に加え、米ドルや現金保有の管理も柔軟に行う可能性が高いと説明した。「我々は非常に慎重かつプログラム的な形でこれを実行している。多変量モデルを動かしながら、本当にリアルタイムで運用している」と語った。ストラテジーのセイラー氏",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Google"
+      ],
+      "main_entities": [
+        "Google"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "SEC、トークン化資産の免除案を延期か──第三者発行トークンに懸念：Bloomberg Law",
+      "link": "https://www.nadanews.com/351818/",
+      "pub_date": "2026-05-23T13:30:00+09:00",
+      "pub_date_utc": "2026-05-23T04:30:00+00:00",
+      "description": "米証券取引委員会（SEC）が、トークン化資産に関する規制上の立場を明確にするための免除案の公表を延期したと、Bloomberg Lawが報じた。関係者によると、 The post SEC、トークン化資産の免除案を延期か──第三者発行トークンに懸念：Bloomberg Law first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 SEC、トークン化資産の免除案を延期か──第三者発行トークンに懸念：Bloomberg Law By Shoko Galaviz 2026年5月23日13:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米証券取引委員会（SEC）が、トークン化資産に関する規制上の立場を明確にするための免除案の公表を延期したと、Bloomberg Lawが報じた。関係者によると、SECスタッフは「イノベーション免除」とされる案の文言を公表する予定で、すでに草案も作成・確認されていたという。 延期の背景には、第三者が発行するトークンへの懸念がある。Bloomberg Lawによれば、特に問題視されているのは、対象となる上場企業の同意や裏付けなしに発行される、いわゆる第三者",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SEC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "カルシとポリマーケット、米控訴裁判所で敗訴　違法賭博訴訟は州に差し戻し",
+      "link": "https://coinpost.jp/?p=710722",
+      "pub_date": "2026-05-23T13:25:45+09:00",
+      "pub_date_utc": "2026-05-23T04:25:45+00:00",
+      "description": "米国の控訴裁判所は、予測市場大手カルシとポリマーケットが求めた州裁判の一時停止を却下した。違法賭博をめぐるネバダ州・ワシントン州との訴訟は州裁判所で続行される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、320億円相当ビットコインを取引所へ送金 ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "ビットコイン・ピザデー16周年　「1万BTCのピザ購入」が示した歴史的転換点",
+      "link": "https://cointelegraph.jp/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-23T13:15:54+09:00",
+      "pub_date_utc": "2026-05-23T04:15:54+00:00",
+      "description": "ビットコインコミュニティは金曜日、「ビットコイン・ピザデー」16周年を祝った。これは、現実世界の商品が初めてビットコインで購入された、史上初のビットコインの商業利用を記念する日だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Vince Quill、スタッフライター校閲：Sam Bourgi、スタッフライタービットコイン・ピザデー16周年　「1万BTCのピザ購入」が示した歴史的転換点22 時間前ニュース ビットコインコミュニティは金曜日、「ビットコイン・ピザデー」16周年を祝った。これは、現実世界の商品が初めてビットコインで購入された、史上初のビットコインの商業利用を記念する日だ。2010年5月、ソフトウェア開発者ラズロ・ハニエツ氏は、オンライン掲示板で「パパ・ジョンズ」のピザ2枚と引き換えに1万BTCを支払うと投稿した。当時、この1万BTCの価値は約41ドルだった。現在の価格ベースでは、この1万BTCは7億6700万ドル超に相当する。また、2025年10月につけた過去最高値約12万6000ドル時点では、その価値は12億ドル以上に達していた。仮想通貨取引所ワジールX創業者のニシャル・シェティ氏は、「ビッ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行",
+      "link": "https://www.nadanews.com/351820/",
+      "pub_date": "2026-05-23T12:48:38+09:00",
+      "pub_date_utc": "2026-05-23T03:48:38+00:00",
+      "description": "金融庁は22日、令和7年資金決済法改正に係る政令・内閣府令等を公布し、パブリックコメントの結果を公表した。 関連する政令・内閣府令等は、事務ガイドライン等とあわ The post 金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行 By 平木 昌宏 2026年5月23日12:48 .st0 { fill: #374149; } 2026年5月23日12:48 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 金融庁は22日、令和7年資金決済法改正に係る政令・内閣府令等を公布し、パブリックコメントの結果を公表した。 関連する政令・内閣府令等は、事務ガイドライン等とあわせて6月1日から施行・適用される。 今回の制度整備では、ステーブルコインなどの電子決済手段、暗号資産（仮想通貨）関連サービスの仲介、資金移動業、国境を跨いで行う収納代行などに関するルールが定められた。 電子決済手段に関しては、特定信託受",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "米グレースケールのHYPE現物ETF申請、修正案を再度提出　3本目のETF実現間近か",
+      "link": "https://coinpost.jp/?p=710653",
+      "pub_date": "2026-05-23T12:00:32+09:00",
+      "pub_date_utc": "2026-05-23T03:00:32+00:00",
+      "description": "仮想通貨資産運用企業グレースケールがHYPE現物ETFの第3次修正申請を提出した。承認されればビットワイズ・21シェアーズに続く3本目のHYPE ETFとなる。",
+      "category_raw": "ハイパーリキッド（HYPE）ニュース・最新情報一覧",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、320億円相当ビットコインを取引所へ送金 ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Hyperliquid",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
+      "title": "米SEC、ナスダックのビットコイン指数オプション上場を承認",
+      "link": "https://coinpost.jp/?p=710655",
+      "pub_date": "2026-05-23T11:30:56+09:00",
+      "pub_date_utc": "2026-05-23T02:30:56+00:00",
+      "description": "米SECは5月22日、ナスダックPHLXによるビットコイン指数オプションの上場規則変更を加速承認した。現金決済・ヨーロピアン型の新商品で、上場にはCFTCの免除承認が別途必要となる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています トランプメディア、320億円相当ビットコインを取引所へ送金 ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-24T11:08:33.042621+09:00"
+    },
+    {
       "title": "KalshiとPolymarket、ネバダ・ワシントン州訴訟で差し止め認められず",
       "link": "https://www.nadanews.com/351815/",
       "pub_date": "2026-05-23T10:45:00+09:00",
@@ -18818,8 +19263,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-23T10:59:30.732325+09:00",
-  "total_count": 997,
+  "last_updated": "2026-05-24T11:08:33.042621+09:00",
+  "total_count": 1016,
   "sources": [
     "NADA NEWS",
     "CoinPost",
