@@ -1,6 +1,266 @@
 {
   "articles": [
     {
+      "title": "OKJに「へデラ（HBAR）」上場へ、国内6例目",
+      "link": "https://www.neweconomy.jp/posts/575950",
+      "pub_date": "2026-05-25T11:26:07+09:00",
+      "pub_date_utc": "2026-05-25T02:26:07+00:00",
+      "description": "OKJにHBAR上場へ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産「ヘデラ（HBAR）」の取り扱い予定を5月22日に発表した。取扱い開始は5月28日17:00の予定だ。 なおHBARが国内暗号資産取引所に上場するの",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "OKJにHBAR上場へ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産「ヘデラ（HBAR）」の取り扱い予定を5月22日に発表した。取扱い開始は5月28日17:00の予定だ。 なおHBARが国内暗号資産取引所に上場するのは6例目となる。現在ビットポイント、SBI VCトレード、バイナンスジャパン、コイントレード、ビットトレードで同銘柄は取引されている。 OKJによるHBAR取り扱い対象サービスは、取引所、販売所、積立、入出庫になるとのこと。対応ネットワークはヘデラネットワーク（Hedera Network）となる。 HBARは、独自の分散型台帳技術「ハッシュグラフ」を採用するHedera（ヘデラ）ネットワークのネイティブトークンとして発行される暗号資産。暗号資産の時価総額では第26位となっている。Google、IBMなどの世界的大手企業が、ヘデラのネットワークの運営や意思決定を行う評議会に",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "BitTrade",
+        "Solana",
+        "Polygon",
+        "Ripple",
+        "Avalanche",
+        "Cardano",
+        "Sui",
+        "Aptos",
+        "Toncoin",
+        "Arbitrum",
+        "Optimism",
+        "Google"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "韓国で仮想通貨への課税撤廃求める署名5万人超　常任委員会での審査要件満たす",
+      "link": "https://coinpost.jp/?p=710758",
+      "pub_date": "2026-05-25T10:30:25+09:00",
+      "pub_date_utc": "2026-05-25T01:30:25+00:00",
+      "description": "韓国で2027年1月に予定される仮想通貨への22％課税撤廃を求める署名が5万人を超え、国会常任委員会への付託要件を満たした。株式との格差に反発する投資家の声が高まっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 今週の主要仮想通貨材料まとめ（5/22）｜トランプメディアのBTC現物ETF申請撤回・HYPE価格高騰など トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "ビットコインはヘッジ：中東リスク、インフレ不安、そして“次の金融危機”を警戒するアメリカ市場【サンフランシスコレポート】",
+      "link": "https://www.nadanews.com/351941/",
+      "pub_date": "2026-05-25T10:00:00+09:00",
+      "pub_date_utc": "2026-05-25T01:00:00+00:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、現在のアメリカ市場で広がっている「中東リスク」と「金融不安」につい The post ビットコインはヘッジ：中東リスク、インフレ不安、そして“次の金融危機”を警戒するアメリカ市場【サンフランシスコレポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 ビットコインはヘッジ：中東リスク、インフレ不安、そして“次の金融危機”を警戒するアメリカ市場【サンフランシスコレポート】 By Delia Rojo 2026年5月25日10:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、現在のアメリカ市場で広がっている「中東リスク」と「金融不安」についてお伝えします。 現在、アメリカ市場ではイラン情勢が非常に大きなテーマになっています。複数の米メディアでは、アメリカとイランの間で停戦や制裁緩和を含む提案が協議されている可能性が報じられています。報道によると、ホルムズ海峡再開、イラン産原油輸出、一部制裁緩和、凍結資産問題、核協議な",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "FRB"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "エルサルバドル、7日間で8BTCのビットコイン追加購入　保有量7662BTC超",
+      "link": "https://coinpost.jp/?p=710765",
+      "pub_date": "2026-05-25T09:47:20+09:00",
+      "pub_date_utc": "2026-05-25T00:47:20+00:00",
+      "description": "エルサルバドルのビットコイン局データによると、同国のビットコイン保有量が7,662.37BTCに到達。直近7日間で8BTCを追加取得し、総評価額は約5億9,054万ドルに上る。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 今週の主要仮想通貨材料まとめ（5/22）｜トランプメディアのBTC現物ETF申請撤回・HYPE価格高騰など トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "IMF"
+      ],
+      "main_entities": [
+        "IMF"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "セイラー氏、「今週はビットコインでなく債券を購入」　「充電期間」と示唆",
+      "link": "https://coinpost.jp/?p=710753",
+      "pub_date": "2026-05-25T08:30:24+09:00",
+      "pub_date_utc": "2026-05-24T23:30:24+00:00",
+      "description": "ストラテジーのセイラー氏がX投稿で今週のビットコイン購入見送りを告白。「BitVac充電中」と次の大口買いを示唆し、市場関係者が注目している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 今週の主要仮想通貨材料まとめ（5/22）｜トランプメディアのBTC現物ETF申請撤回・HYPE価格高騰など トランプメディア、320億円相当ビットコインを取引所へ送金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "トム・リー氏のイーサリアム保有、含み損73億5000万ドルに拡大　ETH見通し悪化で",
+      "link": "https://cointelegraph.jp/news/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-25T08:18:08+09:00",
+      "pub_date_utc": "2026-05-24T23:18:08+00:00",
+      "description": "ETHの弱気チャート形成は1600ドルへの25％下落を示唆しており、今後数週間でビットマインの含み損は100億ドル超に膨らむリスクがある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Yashu Gola、スタッフライター校閲：Allen Scott、スタッフ編集者トム・リー氏のイーサリアム保有、含み損73億5000万ドルに拡大　ETH見通し悪化で3 時間前アルトコイン トム・リー氏率いるビットマインは、イーサリアム財務戦略において約73億ドルの含み損に直面している。イーサ（ETH）のトレーダーらは、悪化する市場心理、ETF流出、そして1600ドルを示唆する弱気チャート形成を見極めている。重要ポイント：ビットマインは、2025年8月高値から57％下落する中でも、損失拡大をよそにETH購入を続けている。ETH価格のテクニカル分析は25％下落を警告しており、その場合ビットマインの損失は100億ドルを超える。Bitmine's ETH treasury dashboard. Source: DropStab.COMリー氏、損失拡大でもETH買い継続イーサは、コインベー",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "ビットコイン現物ETF「10日で9日流出」は買いシグナルか、Santimentが逆張りの論理を分析",
+      "link": "https://coinpost.jp/?p=710749",
+      "pub_date": "2026-05-25T08:00:52+09:00",
+      "pub_date_utc": "2026-05-24T23:00:52+00:00",
+      "description": "Santimentが5月第3週レポートを公開。ビットコイン現物ETFの10日で9日流出を個人投資家の投げ売りと分析し、MVRV・ホルダー数など複数のオンチェーン指標が積み増しの好機を示すと解説。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 今週の主要仮想通貨材料まとめ（5/22）｜トランプメディアのBTC現物ETF申請撤回・HYPE価格高騰など ビットコイン、中東停戦期待を下支えに200日線再突破が焦点に｜bitbankアナリスト寄稿 仮想通貨取引所のキャンペーン・特典情報【2026",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "ロシアが外国貿易決済にのみ仮想通貨を認める計画とは",
+      "link": "https://cointelegraph.jp/explained/russia-crypto-bill-cross-border-settlements-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-25T07:40:22+09:00",
+      "pub_date_utc": "2026-05-24T22:40:22+00:00",
+      "description": "ロシアの新たな仮想通貨規則は国内決済ではなく国際貿易に焦点を当てている。制裁、規制、政策が、この統制されたアプローチを形作っている。",
+      "category_raw": "徹底解説",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ロシアが外国貿易決済にのみ仮想通貨を認める計画とは(function(a,c,b){a[b]=a[b]||[];a[b].push({\"gtm.start\":(new Date).getTime(),event:\"gtm.js\"})})(window,document,\"dataLayer\");{\"@context\":\"http://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"name\":\"ロシアが外国貿易決済にのみ仮想通貨を認める計画とは\",\"description\":\"ロシアが外国貿易決済にのみ仮想通貨を認める計画とは\",\"headline\":\"ロシアが外国貿易決済にのみ仮想通貨を認める計画とは\",\"author\":\"Cointelegraph\",\"inLanguage\":\"日本語 (Japanese)\",\"mainEntityOfPage\":\"",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "ブテリン氏、イーサリアム財団への批判に反論　中立性維持を改めて表明",
+      "link": "https://cointelegraph.jp/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-25T07:33:42+09:00",
+      "pub_date_utc": "2026-05-24T22:33:42+00:00",
+      "description": "イーサリアム財団が保有するETHは流通量全体の1％未満に過ぎず、他のプロトコル財団が通常ネイティブトークン供給量の10〜50％を保有しているのとは対照的だと、創設者は述べた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Vince Quill、スタッフライター校閲：Robert Lakin、スタッフ編集者ブテリン氏、イーサリアム財団への批判に反論　中立性維持を改めて表明3 時間前ニュース イーサリアム共同創設者のヴィタリック・ブテリン氏は、イーサリアム・エコシステムにおけるイーサリアム財団の役割に対する批判の高まりに反論した。批判派は、同財団がトークン価格の支援やマーケティングでより積極的な役割を果たすよう求めている。ブテリン氏は、財団は引き続き、その使命に定められている検閲耐性、オープンソースソフトウエアコード、長期的研究、サイバーセキュリティ、イーサリアム・プロトコルの分散化推進に注力すると述べた。「イーサリアム財団（EF）は『イーサリアムの中心』ではない。むしろ『明確な目的を持つ1つのノードであり、他のノードと並列する存在』だ。我々は常にEFは後者であるべきだと述べてきた。しかし、イーサリア",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Lido"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "債券価格急騰は「構造的」転換とビットコイン「スーパーサイクル」を示唆＝アナリスト",
+      "link": "https://cointelegraph.jp/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-25T07:22:26+09:00",
+      "pub_date_utc": "2026-05-24T22:22:26+00:00",
+      "description": "かつて低リスク資産とみなされていた国債に亀裂が生じ始めるなか、債券投資家は「パニック状態」にあると、ビットメックスのリサーチャー、シャン・ウー氏は指摘した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Vince Quill、スタッフライター校閲：Robert Lakin、スタッフ編集者債券価格急騰は「構造的」転換とビットコイン「スーパーサイクル」を示唆＝アナリスト4 時間前ニュース 仮想通貨取引所ビットメックスのシニアリサーチアナリスト、シャン・ウー氏によると、政府債券利回りの上昇は、投資家が価値希薄化する資産からインフレ供給が不可能な資産へ逃避することで、ビットコイン価格の上昇を伴う「スーパーサイクル」を生み出す「構造的」転換を示している。ウー氏によれば、米30年国債利回りは火曜日に5.14％を突破し、日本国債10年物利回りも2.8％に達した。こうした利回り水準は長期的には持続不可能であり、各国政府は通貨価値の希薄化か、「ソブリン債務崩壊」のどちらかを選ばざるを得なくなると、ウー氏は述べた。Bond yields for US and Japanese government ",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "ビットコインETF流出・需要低下・ロング過熱──市場で進む“静かな崩れ”とは何か【エックスウィン】",
+      "link": "https://www.nadanews.com/351931/",
+      "pub_date": "2026-05-25T07:02:56+09:00",
+      "pub_date_utc": "2026-05-24T22:02:56+00:00",
+      "description": "● 米国現物BTC ETFでは累計17.4億ドル超の流出が発生し、Coinbase Premiumも大きくマイナス圏へ沈下。米国機関投資家の現物需要低下が示唆さ The post ビットコインETF流出・需要低下・ロング過熱──市場で進む“静かな崩れ”とは何か【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット ビットコインETF流出・需要低下・ロング過熱──市場で進む“静かな崩れ”とは何か【エックスウィン】 By エックスウィン 2026年5月25日07:02 .st0 { fill: #374149; } 2026年5月25日07:02 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 米国現物BTC ETFでは累計17.4億ドル超の流出が発生し、Coinbase Premiumも大きくマイナス圏へ沈下。米国機関投資家の現物需要低下が示唆されている。● 一方でFunding Rateは依然プラス圏を維持しており、個人投資家のロング偏重は継続。現物需要不在のまま先物ロングだけが積み上がる不安定構造となっている。● Open Interest低下、Whale vs",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
+      "title": "ビットコイン、中東停戦期待を下支えに200日線再突破が焦点に｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=710519",
+      "pub_date": "2026-05-24T11:30:14+09:00",
+      "pub_date_utc": "2026-05-24T02:30:14+00:00",
+      "description": "ビットコイン（BTC）対円相場は今週、米・イラン停戦交渉への期待感を背景に1230万円台で底堅く推移。原油価格や米金利の動向が上値を抑えるなか、停戦合意が実現すれば200日移動平均線の突破も視野に入る。",
+      "category_raw": "市況・解説",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI 今週の主要仮想通貨材料まとめ（5/22）｜トランプメディアのBTC現物ETF申請撤回・HYPE価格高騰など ビットコイン、中東停戦期待を下支えに200日線再突破が焦点に｜bitbankアナリスト寄稿 仮想通貨取引所のキャンペーン・特典情報【2026",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitbank"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-25T11:27:45.332274+09:00"
+    },
+    {
       "title": "中期経営計画に記載されたトークン化預金「ゆうちょDCJPY」は、どこへ向かうのか──勝手に考えてみた【編集長コラム】",
       "link": "https://www.nadanews.com/351900/",
       "pub_date": "2026-05-24T10:15:00+09:00",
@@ -19263,8 +19523,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-24T11:08:33.042621+09:00",
-  "total_count": 1016,
+  "last_updated": "2026-05-25T11:27:45.332274+09:00",
+  "total_count": 1028,
   "sources": [
     "NADA NEWS",
     "CoinPost",
