@@ -1,6 +1,879 @@
 {
   "articles": [
     {
+      "title": "米ビットコイン現物ETF、1月下旬以来最大の週間純流出",
+      "link": "https://www.nadanews.com/352101/",
+      "pub_date": "2026-05-26T10:55:00+09:00",
+      "pub_date_utc": "2026-05-26T01:55:00+00:00",
+      "description": "SoSoValueのデータによると、米国のビットコイン（BTC）現物ETF（上場投資信託）は5月22日までの1週間で約12億6000万ドル（約1953億円、1ド The post 米ビットコイン現物ETF、1月下旬以来最大の週間純流出 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 米ビットコイン現物ETF、1月下旬以来最大の週間純流出 By 廣瀬 優香 2026年5月26日10:55 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); SoSoValueのデータによると、米国のビットコイン（BTC）現物ETF（上場投資信託）は5月22日までの1週間で約12億6000万ドル（約1953億円、1ドル155円換算）の純流出となり、1月下旬以来最大の週間純流出を記録した。 また、米国のビットコインETFは5月15日から5月22日まで6営業日連続の流出となり、同期間の合計流出額は約15億5000万ドル（約2403億円）に達した。 同期間で最も大きな純流出を記録したのが5月18日で、この日だけで6億4864万ドル（約1005億円）が流出。これは、1月",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "仮想通貨やDeFiなどを狙った攻撃「TrapDoor」、セキュリティ企業Socketが警告",
+      "link": "https://coinpost.jp/?p=711014",
+      "pub_date": "2026-05-26T09:55:42+09:00",
+      "pub_date_utc": "2026-05-26T00:55:42+00:00",
+      "description": "ソケットは、TrapDoorという攻撃が仮想通貨やDeFi、AI、セキュリティの開発者をターゲットにしていると警告。標的にはソラナ、スイ、アプトスのウォレットデータなどが含まれているという。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Solana",
+        "Sui",
+        "Aptos"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "米議員、ビットコイン準備金の目標を供給量の5%と言及　6ヶ月以内の法制化促す",
+      "link": "https://coinpost.jp/?p=710989",
+      "pub_date": "2026-05-26T09:35:07+09:00",
+      "pub_date_utc": "2026-05-26T00:35:07+00:00",
+      "description": "ビットコイン戦略準備金法案「ARMA」を提出したベギッチ米下院議員がFox Businessに、ビットコイン戦略準備金の目標として供給量の5%相当を言及。中間選挙前の6ヶ月以内に法制化が必要と警告した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "“どのチェーンが強いか”ではない──企業の基盤選定は“用途起点”へ、Avalanche・Base・Solana・Suiを横断議論",
+      "link": "https://www.nadanews.com/345052/",
+      "pub_date": "2026-05-26T09:00:00+09:00",
+      "pub_date_utc": "2026-05-26T00:00:00+00:00",
+      "description": "企業がWeb3やブロックチェーン活用を進めるうえで、どの基盤をどう選ぶべきかについて考えるイベント「今、選ぶべきチェーンとは？」が4月10日、開催された。N.A The post “どのチェーンが強いか”ではない──企業の基盤選定は“用途起点”へ、Avalanche・Base・Solana・Suiを横断議論 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "EVENT",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "EVENT “どのチェーンが強いか”ではない──企業の基盤選定は“用途起点”へ、Avalanche・Base・Solana・Suiを横断議論 By 瑞澤 圭 2026年5月26日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 企業がWeb3やブロックチェーン活用を進めるうえで、どの基盤をどう選ぶべきかについて考えるイベント「今、選ぶべきチェーンとは？」が4月10日、開催された。N.Avenue/NADA NEWSが主催し、シーエーシー（CAC）の協賛で実施された。 会場では、同社の担当者がAvalanche、Base、Solana、Suiの各チェーンの特徴を紹介したほか、有識者セッションも行われ、それぞれのチェーンがどのような事業文脈で選ばれ得るか議論された",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Avalanche"
+      ],
+      "main_entities": [
+        "Solana",
+        "Avalanche"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "投資プラットフォーム『ムームー』、仮想通貨取引を米テキサス州に拡大",
+      "link": "https://coinpost.jp/?p=710990",
+      "pub_date": "2026-05-26T08:15:15+09:00",
+      "pub_date_utc": "2026-05-25T23:15:15+00:00",
+      "description": "米ナスダックに上場するフートゥー・ホールディングス傘下の投資プラットフォーム『ムームー』は、仮想通貨取引サービスをテキサス州に拡大し、外部Web3ウォレットとの直接入出金機能を米国ユーザー向けに導入した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "「米国株ショート急増」は本当に危険信号なのか──ビットコイン市場へ波及する“静かな構造変化”とは【エックスウィン】",
+      "link": "https://www.nadanews.com/352092/",
+      "pub_date": "2026-05-26T07:55:00+09:00",
+      "pub_date_utc": "2026-05-25T22:55:00+00:00",
+      "description": "● 米国株市場ではショート残高やDays-to-Coverが歴史的高水準へ達しているが、実態は“全面弱気”ではなく、機関投資家によるヘッジ需要拡大の側面が強い。 The post 「米国株ショート急増」は本当に危険信号なのか──ビットコイン市場へ波及する“静かな構造変化”とは【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 「米国株ショート急増」は本当に危険信号なのか──ビットコイン市場へ波及する“静かな構造変化”とは【エックスウィン】 By エックスウィン 2026年5月26日07:55 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 米国株市場ではショート残高やDays-to-Coverが歴史的高水準へ達しているが、実態は“全面弱気”ではなく、機関投資家によるヘッジ需要拡大の側面が強い。● 現在の市場は「ロングを持ちながらショートも積み上げる」グロスアップ構造となっており、指数全体よりも“市場内部の歪み”が拡大している。● ビットコインは短期的には株式リスクオフと連動しやすいが、2025年以降は一部でS&P500との乖離も発生しており、“流動性”と“制度資金”が新たな分",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Goldman Sachs"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ECB、ユーロ建てステーブルコイン拡大案に慎重姿勢　──金融安定リスクを警戒：Reuters",
+      "link": "https://www.nadanews.com/352087/",
+      "pub_date": "2026-05-26T07:30:00+09:00",
+      "pub_date_utc": "2026-05-25T22:30:00+00:00",
+      "description": "欧州中央銀行（ECB）は、ユーロ建てステーブルコインの発行拡大を促す提案に対し、金融安定や金融政策運営へのリスクが大きいとして慎重な姿勢を示したと、ロイターが関 The post ECB、ユーロ建てステーブルコイン拡大案に慎重姿勢　──金融安定リスクを警戒：Reuters first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 ECB、ユーロ建てステーブルコイン拡大案に慎重姿勢　──金融安定リスクを警戒：Reuters By Shoko Galaviz 2026年5月26日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 欧州中央銀行（ECB）は、ユーロ建てステーブルコインの発行拡大を促す提案に対し、金融安定や金融政策運営へのリスクが大きいとして慎重な姿勢を示したと、ロイターが関係者3人の話として報じた。 提案は、ブリュッセル拠点の経済シンクタンクBruegel（ブリューゲル）が、キプロス・ニコシアで開かれたEU財務当局者の非公式会合で示したものだ。内容は、暗号資産（仮想通貨）発行体に対する流動性要件を緩和し、場合によってはECB資金へのアクセスを認めることで、ドル建てト",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "金融庁",
+        "ECB"
+      ],
+      "main_entities": [
+        "ECB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "コインベースCEOの金融改革構想、同社の製品ロードマップと一致",
+      "link": "https://cointelegraph.jp/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-26T07:24:36+09:00",
+      "pub_date_utc": "2026-05-25T22:24:36+00:00",
+      "description": "ブライアン・アームストロング氏が掲げた世界金融刷新の構想は、株式、予測市場、ステーブルコイン決済への進出を進める同社戦略と一致している。一方で、一部の優先事項は依然として理想段階にとどまっている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Christina Comben、スタッフライター校閲：Bryan O'Shea、スタッフ編集者コインベースCEOの金融改革構想、同社の製品ロードマップと一致3 時間前ニュース ブライアン・アームストロング氏は月曜日、世界金融を刷新するための8項目の青写真を投稿した。その内容は、コインベースが「何でもできる」プラットフォームを目指して進める株式、予測市場、ステーブルコイン基盤への拡張戦略と密接に一致している。コインベースCEOである同氏がXに投稿した優先事項には、現実資産のトークン化、24時間365日のグローバル取引、ステーブルコイン決済、AI活用型コンプライアンス、オープンアクセス、資本形成、規制、健全な通貨が含まれている。コインベースは、取引所間で世界資本市場のより大きなシェア獲得競争が進む中、仮想通貨取引から決済、トークン化資産、金融インフラへと事業領域を広げている。同社は、",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Kraken",
+        "NVIDIA"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "スクイッドとセーフ・ラボ、320万ドル流出はサードパーティ製モジュールが原因と説明",
+      "link": "https://cointelegraph.jp/news/squid-safe-labs-third-party-module-3-2-million-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-26T07:19:09+09:00",
+      "pub_date_utc": "2026-05-25T22:19:09+00:00",
+      "description": "約300万ドルがセーフウォレットから流出した問題について、スクイッドは外部のセーフ用モジュールが原因だと説明し、自社の中核システムには影響がなかったとしている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Helen Partz、スタッフライター校閲：Robert Lakin、スタッフ編集者スクイッドとセーフ・ラボ、320万ドル流出はサードパーティ製モジュールが原因と説明4 時間前ニュース サードパーティ製のセーフ用モジュールを悪用したとみられる攻撃により、イーサリアムおよびベース上のウォレットから約320万ドルが流出した。複数のチームは、原因が外部モジュールにあると指摘している。ブロックチェーンセキュリティプラットフォーム「ブロックエイド」は月曜日、この事件に関与したコントラクトが「SquidRouterModule」と表示されていたと報告した。これにより当初、クロスチェーンプロトコル「スクイッド」との関連性を巡って混乱が生じた。その後スクイッドはXへの投稿で、この問題は同社の中核プロトコルとは無関係であり、セーフウォレットに統合されていたサードパーティ製モジュールに関係するものだ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Uniswap"
+      ],
+      "main_entities": [
+        "Uniswap"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "XRP価格、1.40ドル付近の「バリューゾーン」で推移　クジラが1.7億ドル相当を取引所から引き出し",
+      "link": "https://cointelegraph.jp/news/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-26T07:14:14+09:00",
+      "pub_date_utc": "2026-05-25T22:14:14+00:00",
+      "description": "クジラ投資家がBinanceから1億7000万ドル相当のXRPを引き出した。価格は1.35〜1.40ドルの重要な蓄積・サポートゾーンを維持している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Nancy Lubale、スタッフライター校閲：Allen Scott、スタッフ編集者XRP価格、1.40ドル付近の「バリューゾーン」で推移　クジラが1.7億ドル相当を取引所から引き出し4 時間前アルトコイン XRP は、大口投資家が最近1億7000万ドル相当を買い集めたとされる重要な「バリューゾーン」内で取引されており、市場流動性の引き締まりを示唆している。主なポイント： XRPクジラは、約1億7080万ドル相当となる1億2200万XRPを Binance から引き出した。これは1.35〜1.40ドルの重要サポート帯で強い蓄積が起きていることを示唆している。 取引所からの流出増加と、現物XRP ETFへの安定した資金流入は、供給減少と投資需要拡大を示している。 価格が1.50ドルのレジスタンスを突破した場合、XRPは2.33ドルを目指す可能性がある。ボリンジャーバンドは大きな値動",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Ripple"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "米ビットコイン現物ETFが6日連続流出、アルトコインへのローテーションが鮮明に",
+      "link": "https://coinpost.jp/?p=710991",
+      "pub_date": "2026-05-26T07:10:23+09:00",
+      "pub_date_utc": "2026-05-25T22:10:23+00:00",
+      "description": "米ビットコイン現物ETFは5月14日以降6営業日で計15.5億ドルが流出した。2026年の累計純流入はファーサイド集計で5.36億ドル、SoSoValue集計で4.74億ドルまで縮小。アナリストは「機関投資家の需要は消えておらず、アルトコインETFへのローテーションが起きている」と指摘。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "BlackRock",
+        "Fidelity"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "仮想通貨PACの資金がテキサス予備選決選投票に流入、予測市場は挑戦者優勢を示す",
+      "link": "https://cointelegraph.jp/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-26T07:04:36+09:00",
+      "pub_date_utc": "2026-05-25T22:04:36+00:00",
+      "description": "仮想通貨業界寄りのProtect Progress PACは、民主党候補を支援する追加メディア支出として75万ドルを投じたと報告した。同PACは現職のアル・グリーン下院議員について、「デジタル資産に積極的に敵対している」と批判している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Turner Wright、スタッフライター校閲：Robert Lakin、スタッフ編集者仮想通貨PACの資金がテキサス予備選決選投票に流入、予測市場は挑戦者優勢を示す4 時間前ニュース 米仮想通貨業界と連携する利益団体から数百万ドル規模の支出支援を受けたテキサス州の連邦議会候補2人が、今週行われる上院・下院予備選の決選投票に進んでいる。火曜日には、テキサス州第18選挙区の民主党有権者が、現職のアル・グリーンと挑戦者クリスチャン・メネフィーのどちらを11月の本選候補とするかを決める。また州全体では、共和党上院予備選でテキサス州司法長官ケン・パクストンと現職ジョン・コーニン上院議員の決選投票が行われる。両選挙とも、3月の予備選でいずれの候補も過半数を獲得できなかったため決選投票に持ち込まれた。仮想通貨業界は、政治活動委員会（PAC）による広告・メディア支出を通じて両選挙に関与しており",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "Tetherとジョージア政府、ラリ連動型ステーブルコイン「GELT」をローンチへ",
+      "link": "https://www.nadanews.com/352085/",
+      "pub_date": "2026-05-26T07:00:00+09:00",
+      "pub_date_utc": "2026-05-25T22:00:00+00:00",
+      "description": "ステーブルコイン発行大手のTether（テザー）は、ジョージア政府の支援を受け、同国通貨ラリを表すステーブルコイン「GELT」をローンチする計画を発表した。GE The post Tetherとジョージア政府、ラリ連動型ステーブルコイン「GELT」をローンチへ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "stablecoin Tetherとジョージア政府、ラリ連動型ステーブルコイン「GELT」をローンチへ By Shoko Galaviz 2026年5月26日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ステーブルコイン発行大手のTether（テザー）は、ジョージア政府の支援を受け、同国通貨ラリを表すステーブルコイン「GELT」をローンチする計画を発表した。GELTはジョージア・ラリをデジタルに表現したものとして設計され、低コストの取引、ほぼ即時の決済、プログラム可能な支払いを可能にすることを目指す。 発表によると、GELTは国境を越えた商取引、フィンテック開発、デジタル決済、ジョージアおよび周辺地域でのプログラム可能な金融インフラへのアクセス拡大を支援す",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "Tether",
+        "JPYC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "インドネシア、Polymarketへのアクセス遮断",
+      "link": "https://www.nadanews.com/352082/",
+      "pub_date": "2026-05-26T06:30:00+09:00",
+      "pub_date_utc": "2026-05-25T21:30:00+00:00",
+      "description": "インドネシア通信・デジタル省は、暗号資産（仮想通貨）系の予測市場プラットフォームPolymarket（ポリマーケット）へのアクセスを遮断した。同国では国内法によ The post インドネシア、Polymarketへのアクセス遮断 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 インドネシア、Polymarketへのアクセス遮断 By Shoko Galaviz 2026年5月26日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); インドネシア通信・デジタル省は、暗号資産（仮想通貨）系の予測市場プラットフォームPolymarket（ポリマーケット）へのアクセスを遮断した。同国では国内法により賭博が違法とされており、当局はオンライン賭博への取り締まりを強めている。 同省のデジタル空間監督局長Alexander Sabar（アレクサンダー・サバル）氏は声明で、ポリマーケットの活動は「不確実な結果に対する賭けや投機」を含むもので、インドネシア法に違反すると説明した。同省は、包括的なアクセス制限を行うため、ポリマーケットに関連する",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ETH保有企業ビットマイン、米大型指数『Russell 1000』予備リストに掲載　パッシブ資金流入の可能性",
+      "link": "https://coinpost.jp/?p=710992",
+      "pub_date": "2026-05-26T06:25:07+09:00",
+      "pub_date_utc": "2026-05-25T21:25:07+00:00",
+      "description": "米上場のイーサリアム・トレジャリー企業ビットマイン（BMNR）がFTSE Russellの大型株指数「Russell 1000」予備リストに掲載された。時価総額は最低基準の57億ドルを上回っており、パッシブ指数連動ファンドによる数十億ドル規模の強制買いが発生する可能性がある。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書",
+      "link": "https://www.nadanews.com/352076/",
+      "pub_date": "2026-05-26T06:00:00+09:00",
+      "pub_date_utc": "2026-05-25T21:00:00+00:00",
+      "description": "暗号資産（仮想通貨）投資会社のKeyrock（キーロック）は22日、AI（人工知能）エージェントによる決済処理が過去12カ月で構想段階から現実のものへと移行し、 The post AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "stablecoin AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書 By 井上 俊彦 2026年5月26日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）投資会社のKeyrock（キーロック）は22日、AI（人工知能）エージェントによる決済処理が過去12カ月で構想段階から現実のものへと移行し、2025年5月から2026年4月までの間に1億7600万件の取引を通じて7300万ドル（約116億8000万円、1ドル=160円換算）が決済されたとする調査報告書を発表した。暗号資産決済システムは1ドル未満の少額取引を効率的に処理できることから、ステーブルコインがAIエージェントのデフォルトの決済レイヤーとなったと指",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "Circle"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "インドネシアがポリマーケットを遮断、予測市場を「オンライン賭博」とみなす",
+      "link": "https://coinpost.jp/?p=710993",
+      "pub_date": "2026-05-26T05:45:38+09:00",
+      "pub_date_utc": "2026-05-25T20:45:38+00:00",
+      "description": "インドネシア通信デジタル省は5月22日、予測市場プラットフォームのPolymarketへのアクセスを正式に遮断した。仮想通貨やブロックチェーンを用いた予測市場も賭博と判断し、関連SNSアカウントの追跡も進めている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金",
+      "link": "https://coinpost.jp/?p=710965",
+      "pub_date": "2026-05-26T05:00:30+09:00",
+      "pub_date_utc": "2026-05-25T20:00:30+00:00",
+      "description": "オンチェーン分析のOnchain Lensは25日、サトシ・ナカモト時代から活動するビットコインOGマイナーが2650 BTCをFalconXとCumberlandに入金したと報告した。クジラはなお6000BTCを保有。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "【5/25話題】バイナンス共同CEOがイラン制裁回避報道を否定、ECBがユーロ建てステーブルコイン拡大に警鐘など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/576185",
+      "pub_date": "2026-05-25T21:33:44+09:00",
+      "pub_date_utc": "2026-05-25T12:33:44+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース バイナンス共同CEO、イラン制裁回避報道を否定。WSJ報道に反論 ユーロ建てステーブルコイン拡大案にECBが懸念、銀行融資や金利運営に影響も＝関係者 米SEC、トークン化株式の新制度を延期＝報道 ムーンペイのChatGPT向けアプリが利用可能に、",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "BitTrade",
+        "Hyperliquid",
+        "Circle",
+        "Grayscale",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "海外からのステーブルコイン決済を日本円で受領、「トレーダム ペイメント」開始",
+      "link": "https://coinpost.jp/?p=710866",
+      "pub_date": "2026-05-25T20:56:17+09:00",
+      "pub_date_utc": "2026-05-25T11:56:17+00:00",
+      "description": "トレーダムが22日、海外からのステーブルコイン支払いを日本企業が日本円で受け取れる決済サービスを開始。改正資金決済法の経過措置を踏まえた収納代行スキームを採用し、SWIFTより低コストな越境決済を狙う。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Binance",
+        "Lido",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "サトシ時代のビットコインクジラ、2億ドル以上のBTCを移動",
+      "link": "https://www.nadanews.com/352073/",
+      "pub_date": "2026-05-25T19:10:00+09:00",
+      "pub_date_utc": "2026-05-25T10:10:00+00:00",
+      "description": "オンチェーン分析プラットフォームのOnchain Lens（オンチェーン・レンズ）は25日、Xへの投稿で、ビットコイン（BTC）のサトシ・ナカモト氏の活動時期に The post サトシ時代のビットコインクジラ、2億ドル以上のBTCを移動 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン サトシ時代のビットコインクジラ、2億ドル以上のBTCを移動 By 井上 俊彦 2026年5月25日19:10 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); オンチェーン分析プラットフォームのOnchain Lens（オンチェーン・レンズ）は25日、Xへの投稿で、ビットコイン（BTC）のサトシ・ナカモト氏の活動時期にさかのぼる初期保有者とみられる大口保有者（クジラ）が、5月25日に複数回の取引を通じて約2650BTCをFalconXとCumberlandの2つの機関投資家向けトレーディング会社に送金したと報じた。 Onchain LensはArkham Intelligence（アーカム・インテリジェンス）のデータを引用し、このクジラが3回の取引に分けて移",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "テザー、ジョージア政府支援のラリ連動型ステーブルコイン「GELT」提供へ",
+      "link": "https://www.neweconomy.jp/posts/576173",
+      "pub_date": "2026-05-25T18:29:39+09:00",
+      "pub_date_utc": "2026-05-25T09:29:39+00:00",
+      "description": "テザーがジョージア政府支援の「GELT」発表 ステーブルコイン「USDT」発行元テザー（Tether）が、ジョージア政府（Georgia）の支援を受け、ジョージア・ラリ連動型ステーブルコイン「GELT」をローンチする計画",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "テザーがジョージア政府支援の「GELT」発表 ステーブルコイン「USDT」発行元テザー（Tether）が、ジョージア政府（Georgia）の支援を受け、ジョージア・ラリ連動型ステーブルコイン「GELT」をローンチする計画を5月25日に発表した。 テザーは今回の取り組みについて、「専用に設計されたステーブルコイン規制枠組みの下で、国家通貨を直接デジタル資産基盤へ載せる初期の共同取り組みの一つ」と説明している。 GELTは、ジョージアの法定通貨であるジョージア・ラリのデジタル表現として設計されるという。テザーによると、同ステーブルコインは、低コスト取引、ほぼ即時の決済、プログラム可能な決済、デジタル金融システム上での効率的な価値移動を可能にすることを目的としている。 また同社は、GELTがジョージアおよび周辺地域におけるクロスボーダー商取引、フィンテック開発、デジタル決済、プログラム可能な金融",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ETH、ヴィタリック氏発言後の上昇続かず──2100ドル割れで2300万ドル規模の清算【価格分析】",
+      "link": "https://www.nadanews.com/352034/",
+      "pub_date": "2026-05-25T18:20:08+09:00",
+      "pub_date_utc": "2026-05-25T09:20:08+00:00",
+      "description": "・ヴィタリック・ブテリン氏が、イーサリアム財団は「ETH売却を減らす」と述べたことを受け、イーサリアム（ETH）は一時3％上昇し、2141ドルを付けた。・ブテリ The post ETH、ヴィタリック氏発言後の上昇続かず──2100ドル割れで2300万ドル規模の清算【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット ETH、ヴィタリック氏発言後の上昇続かず──2100ドル割れで2300万ドル規模の清算【価格分析】 By Ibrahim Ajibade 2026年5月25日18:20 .st0 { fill: #374149; } 2026年5月25日18:20 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・ヴィタリック・ブテリン氏が、イーサリアム財団は「ETH売却を減らす」と述べたことを受け、イーサリアム（ETH）は一時3％上昇し、2141ドルを付けた。・ブテリン氏は、自身の純資産の約90％をETHで保有していると説明した。別途、オンチェーン上の法定通貨建て資産4000万ドルを保有していることも明かしており、純資産は約4億ドル規模とみられる。・ETHは2100ドルを",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ブテリン氏、イーサリアム財団がどこに向かっているのかについて語る",
+      "link": "https://www.nadanews.com/352069/",
+      "pub_date": "2026-05-25T18:20:00+09:00",
+      "pub_date_utc": "2026-05-25T09:20:00+00:00",
+      "description": "イーサリアム（Ethereum）共同創設者のVitalik Buterin（ヴィタリック・ブテリン）氏は25日、Xへの長文投稿でEthereum Foundat The post ブテリン氏、イーサリアム財団がどこに向かっているのかについて語る first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Ethereum",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ethereum ブテリン氏、イーサリアム財団がどこに向かっているのかについて語る By 井上 俊彦 2026年5月25日18:20 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イーサリアム（Ethereum）共同創設者のVitalik Buterin（ヴィタリック・ブテリン）氏は25日、Xへの長文投稿でEthereum Foundation（イーサリアム財団、EF）の今後のあり方について自身の見解を表明した。EFのエコシステムにおける役割をめぐり、トークン価格やマーケティング支援でより積極的な役割を果たすべきだとする批判が高まる中、ブテリン氏はこれに反論している。 ブテリン氏は投稿で「EFは『イーサリアムの中心』ではなく、他のノードと並ぶ、明確な目的を持った一つの",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "予測市場のカルシとポリマーケット、州賭博訴訟で停止申立て却下",
+      "link": "https://www.neweconomy.jp/posts/576148",
+      "pub_date": "2026-05-25T17:06:27+09:00",
+      "pub_date_utc": "2026-05-25T08:06:27+00:00",
+      "description": "各州と連邦当局の対立が拡大 予測市場大手のカルシ（Kalshi）とポリマーケット（Polymarket）は5月21日、米ネバダ州およびワシントン州で進行中の賭博関連訴訟をめぐり、第9巡回区控訴裁判所で相次いで不利な判断を",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "各州と連邦当局の対立が拡大 予測市場大手のカルシ（Kalshi）とポリマーケット（Polymarket）は5月21日、米ネバダ州およびワシントン州で進行中の賭博関連訴訟をめぐり、第9巡回区控訴裁判所で相次いで不利な判断を受けた。カルシについてはネバダ州およびワシントン州、ポリマーケットについてはネバダ州の案件だ。 第9巡回区控訴裁は、両社が求めていた州裁判所への差し戻し命令の停止申立てを却下。これにより、各州による訴訟は州裁判所で継続審理される見通しとなった。なお、今回の判断は差し戻し命令の停止を認めるかどうかに関するものであり、連邦法による州法優先の本案を最終判断したものではない。 今回の判断は、予測市場を巡る「連邦規制」と「州賭博規制」の管轄争いが全米規模で拡大するなかで下されたものとなる。 カルシやポリマーケットなどの予測市場プラットフォームは、イベント結果に連動する契約商品について",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Coinbase",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "米SEC、トークン化株式の新制度を延期＝報道",
+      "link": "https://www.neweconomy.jp/posts/576136",
+      "pub_date": "2026-05-25T16:24:57+09:00",
+      "pub_date_utc": "2026-05-25T07:24:57+00:00",
+      "description": "第三者発行モデルに波紋 米証券取引委員会（SEC）が、トークン化株式に関する「イノベーション免除（Innovation Exemption）」フレームワークの公表を延期したと「ブルームバーグ（Bloomberg）」が5月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "第三者発行モデルに波紋 米証券取引委員会（SEC）が、トークン化株式に関する「イノベーション免除（Innovation Exemption）」フレームワークの公表を延期したと「ブルームバーグ（Bloomberg）」が5月22日に報じた。 SECは、当初5月18日週にも同フレームワークを公表する予定だったとされる。同免除は、上場企業の株式を参照するデジタルトークンを、分散型の暗号資産プラットフォーム上で24時間365日取引できるようにする新たな規制経路を創設するものだ。 特に注目されているのは、アップル（Apple）やエヌビディア（Nvidia）、テスラ（Tesla）といった株式を参照するトークンについて、発行企業自身ではなく第三者による発行・取引を認める方向でSEC内で検討が進められていたと報じられている点だ。つまり、外部事業者が既存株式のデジタル表現としてブロックチェーン上のトークンを発",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Tesla",
+        "NVIDIA",
+        "SEC"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "米商務省、量子関連9社へ約2Bドル支援へ。国家戦略技術として投資加速",
+      "link": "https://www.neweconomy.jp/posts/576130",
+      "pub_date": "2026-05-25T16:17:36+09:00",
+      "pub_date_utc": "2026-05-25T07:17:36+00:00",
+      "description": "米商務省、量子コンピュータ9社へ約3,200億円支援 米商務省が、量子コンピュータ関連企業および量子向け製造基盤企業の計9社に対し、総額20.13億ドル（約3,199億円）の支援に向けた意向書（LOI）を締結した。米国立",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "米商務省、量子コンピュータ9社へ約3,200億円支援 米商務省が、量子コンピュータ関連企業および量子向け製造基盤企業の計9社に対し、総額20.13億ドル（約3,199億円）の支援に向けた意向書（LOI）を締結した。米国立標準技術研究所（NIST）が5月21日に発表した。支援は「CHIPSおよび科学法（CHIPS and Science Act）」に基づき実施される予定だ。 米商務省によると、今回の支援は、実用規模かつ耐障害性を備えた量子コンピュータの開発競争を加速させることが目的だという。米商務省は、量子コンピューティングについて「国家防衛」、「先端材料」、「バイオ医薬品」、「金融モデリング」、「エネルギーシステム」などに重要な影響を持つ次世代技術と位置付けている。 なお量子コンピュータは、古典コンピュータとは異なる原理で計算を行う次世代計算技術だ。量子力学の性質を利用することで、従来型コ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Google"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ビットコイン、クラリティ法の見通し不明瞭やBTC戦略準備金法案の修正内容受け下落も、週末イラン情勢の進展から価格戻す（仮想通貨市場レポート 5/25 号）",
+      "link": "https://www.neweconomy.jp/features/sbivct/576060",
+      "pub_date": "2026-05-25T16:06:41+09:00",
+      "pub_date_utc": "2026-05-25T07:06:41+00:00",
+      "description": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 5/17~5/23週のサマリー 金融庁、海外で発行されたステーブルコインの取り扱い基準に関する改正内閣府令等を",
+      "category_raw": "BTC",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 5/17~5/23週のサマリー 金融庁、海外で発行されたステーブルコインの取り扱い基準に関する改正内閣府令等を公布（6月1日施行・適用へ） NVIDIA 1Q決算で売上高は前年同期比85%増の816億ドル、純利益は583億ドルの過去最高益を記録、5～7月期の売上高見通しも95％増の910億ドルと市場予想を大幅に上回る 米下院で新たなビットコイン戦略準備金法案「ARMA」が提出され、詳細が明らかに トランプ大統領、イラン和平交渉は「ほぼ完了」、間もなく発表予定と発言 暗号資産市場概況 5/17～5/23週におけるBTC/JPYの週足終値は前週比▲1.68%の12,222,150円、ETH/JPYの週足終値は同▲2.83%の336,835円であった（※終値は5/23の当社現物EOD［5",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "SBI VC Trade",
+        "NVIDIA",
+        "金融庁"
+      ],
+      "main_entities": [
+        "SBI VC Trade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ムーンペイのChatGPT向けアプリが利用可能に、暗号資産購入用リンク生成に対応",
+      "link": "https://www.neweconomy.jp/posts/576109",
+      "pub_date": "2026-05-25T16:03:39+09:00",
+      "pub_date_utc": "2026-05-25T07:03:39+00:00",
+      "description": "MoonPayがChatGPTで利用可能に 暗号資産（仮想通貨）決済インフラ企業のムーンペイ（MoonPay）が、同社のChatGPT向けアプリがChatGPTのアプリディレクトリで利用可能になったと、公式Xの投稿で5月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MoonPayがChatGPTで利用可能に 暗号資産（仮想通貨）決済インフラ企業のムーンペイ（MoonPay）が、同社のChatGPT向けアプリがChatGPTのアプリディレクトリで利用可能になったと、公式Xの投稿で5月23日に発表した。 ムーンペイは今回の対応について、同アプリが「ChatGPTに統合された初かつ唯一の暗号資産オンランプ」だと説明している。なお、日本はムーンペイのサービス非対応国だ。 対象地域のユーザーは、ChatGPTのアプリディレクトリで同アプリを検索・接続したうえで、対応する暗号資産の購入用チェックアウトリンクを生成できる。ムーンペイは投稿内で、アップルペイ（Apple Pay）を使って暗号資産「ソラナ（SOL）」の購入手続きを進める例も紹介している。 ムーンペイの投稿に添付された画像では、ユーザーがChatGPT上で「Can we buy some Solana?",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ビットトレードがJETROへ加盟、日本企業の貿易DX推進",
+      "link": "https://www.neweconomy.jp/posts/576100",
+      "pub_date": "2026-05-25T15:52:14+09:00",
+      "pub_date_utc": "2026-05-25T06:52:14+00:00",
+      "description": "ビットトレードがJETRO加盟 国内暗号資産（仮想通貨）交換業者のビットトレードが、日本貿易振興機構（JETRO）へ加盟したことを5月22日に発表した。JETROは、日本企業の海外展開支援や貿易振興、海外からの対日投資の",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ビットトレードがJETRO加盟 国内暗号資産（仮想通貨）交換業者のビットトレードが、日本貿易振興機構（JETRO）へ加盟したことを5月22日に発表した。JETROは、日本企業の海外展開支援や貿易振興、海外からの対日投資の誘致などを担う日本の経済産業省が所管する独立行政法人だ。 発表によるとビットトレードは、JETRO加盟を通じて、国内の暗号資産交換業者として同社が培ってきたブロックチェーン技術やWeb3領域の知見を活かし、グローバルビジネスにおける決済・資金移動・情報管理の高度化、および次世代の金融・貿易インフラの在り方について関係企業・団体と共に検討・推進していく取り組みを開始するという。 ビットトレードによると、国際貿易やクロスボーダービジネスにおける決済・資金移動、およびサプライチェーン領域では、デジタル技術活用の重要性が高まっているという。ブロックチェーン技術やステーブルコインを含",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "BitTrade"
+      ],
+      "main_entities": [
+        "BitTrade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "バイナンス共同CEO、イラン制裁回避報道を否定。WSJ報道に反論",
+      "link": "https://www.neweconomy.jp/posts/576093",
+      "pub_date": "2026-05-25T15:42:18+09:00",
+      "pub_date_utc": "2026-05-25T06:42:18+00:00",
+      "description": "バイナンス共同CEOがWSJ報道に「根本的に不正確」と反論 暗号資産（仮想通貨）取引所バイナンス（Binance）の共同CEOリチャード・テン（Richard Teng）氏が、米紙「ウォール・ストリート・ジャーナル（WS",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "バイナンス共同CEOがWSJ報道に「根本的に不正確」と反論 暗号資産（仮想通貨）取引所バイナンス（Binance）の共同CEOリチャード・テン（Richard Teng）氏が、米紙「ウォール・ストリート・ジャーナル（WSJ）」によるイラン関連資金移動の報道について、「根本的に不正確だ」と自身のXアカウントで5月22日に反論した。 WSJは5月21日、イランの実業家ババク・ザンジャニ（Babak Zanjani）氏が、イラン革命防衛隊（IRGC）などへの資金供給につながる暗号資産決済ネットワークを運営していたと報じた。また同紙は、その主要な経路の一つとして暗号資産取引所バイナンスが利用されていたと伝えている。 報道によると、ザンジャニ氏関連ネットワークは過去2年間で、バイナンス上において約8億5,000万ドル（約1,350億円）規模の暗号資産取引を行っていたという。WSJは、バイナンスの内部",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "サークルのラップドBTC「cirBTC」、アークとイーサリアムのテストネットに対応",
+      "link": "https://www.neweconomy.jp/posts/576086",
+      "pub_date": "2026-05-25T15:34:09+09:00",
+      "pub_date_utc": "2026-05-25T06:34:09+00:00",
+      "description": "cirBTCがテストネット対応 米サークル（Circle）のジェレミー・アレール（Jeremy Allaire）CEOが、ビットコイン（BTC）を1:1で裏付ける設計のラップドトークン「Circle Wrapped Bi",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "cirBTCがテストネット対応 米サークル（Circle）のジェレミー・アレール（Jeremy Allaire）CEOが、ビットコイン（BTC）を1:1で裏付ける設計のラップドトークン「Circle Wrapped Bitcoin（cirBTC）」について、テストネットで利用可能になったと5月22日に自身のXアカウントで明らかにした。 5月25日時点でサークルの開発者向けドキュメントには、cirBTCの対応テストネットとして、サークル開発のレイヤー1ブロックチェーン「アーク（Arc）」のテストネットと、「イーサリアム（Ethereum）」のセポリア（Sepolia）テストネットのコントラクトアドレスが掲載されている。 なお、これらのテストネット上のcirBTCはテスト目的のトークンであり、金融価値はなく、実際のBTCによって裏付けられていない。正式提供時のcirBTCは、BTCによって1:",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Solana",
+        "Avalanche",
+        "Circle"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ムーンペイ、ChatGPTに仮想通貨購入機能として統合　会話の中でビットコインなどを購入",
+      "link": "https://coinpost.jp/?p=710885",
+      "pub_date": "2026-05-25T15:13:51+09:00",
+      "pub_date_utc": "2026-05-25T06:13:51+00:00",
+      "description": "ムーンペイがChatGPTアプリストアに統合され、チャット内でビットコインやSOLなど100銘柄超の仮想通貨をApple Pay等で購入可能になった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "Solana",
+        "Google"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ヴィタリック、イーサリアム財団の役割再定義を表明　ETH売却を抑制し長期存続へ",
+      "link": "https://coinpost.jp/?p=710840",
+      "pub_date": "2026-05-25T14:29:27+09:00",
+      "pub_date_utc": "2026-05-25T05:29:27+00:00",
+      "description": "イーサリアム共同創設者のヴィタリック・ブテリン氏が、イーサリアム財団（EF）の方向性についてXで自身の見解を発表した。EFを「エコシステムの中心」から「1つのノード」と位置づけし、CROPS領域への集中とAI活用の形式検証などを優先課題として提示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026",
+      "link": "https://coinpost.jp/?p=710762",
+      "pub_date": "2026-05-25T12:36:07+09:00",
+      "pub_date_utc": "2026-05-25T03:36:07+00:00",
+      "description": "個人投資家テスタ氏とバイナンスジャパン代表・千野剛司氏がBinance Japan Pizza Dayで対談。税制見直し、ステーブルコイン、RWAなど業界の転換点を株式投資家の視点で語り合った。",
+      "category_raw": "AD",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ハイパーリキッド最高値更新　アナリストが指摘する3つの買い支えメカニズム",
+      "link": "https://coinpost.jp/?p=710817",
+      "pub_date": "2026-05-25T12:04:13+09:00",
+      "pub_date_utc": "2026-05-25T03:04:13+00:00",
+      "description": "仮想通貨HYPEの上昇についてアナリストが分析。ETF上場よりも、取引手数料による買い戻しなど3つの要因が価格の後押しになっているとの見解を示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Binance",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
+      "title": "ビットコインの見かけの需要、年初来最低水準に＝アナリスト",
+      "link": "https://coinpost.jp/?p=710801",
+      "pub_date": "2026-05-25T11:30:09+09:00",
+      "pub_date_utc": "2026-05-25T02:30:09+00:00",
+      "description": "CryptoQuantのデータによると、ビットコインの見かけの需要が2025年12月以来の最低水準に低下。現物需要の回復なき先物主導の上昇には限界があるとの分析が示された。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインの見かけの需要、年初来最低水準に＝アナリスト テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026 サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-26T11:07:21.709915+09:00"
+    },
+    {
       "title": "OKJに「へデラ（HBAR）」上場へ、国内6例目",
       "link": "https://www.neweconomy.jp/posts/575950",
       "pub_date": "2026-05-25T11:26:07+09:00",
@@ -19523,8 +20396,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-25T11:27:45.332274+09:00",
-  "total_count": 1028,
+  "last_updated": "2026-05-26T11:07:21.709915+09:00",
+  "total_count": 1065,
   "sources": [
     "NADA NEWS",
     "CoinPost",
