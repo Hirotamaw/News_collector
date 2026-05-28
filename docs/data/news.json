@@ -1,6 +1,826 @@
 {
   "articles": [
     {
+      "title": "ビットコイン市場は「確信なき停滞相場」＝グラスノード分析",
+      "link": "https://coinpost.jp/?p=711855",
+      "pub_date": "2026-05-28T10:45:14+09:00",
+      "pub_date_utc": "2026-05-28T01:45:14+00:00",
+      "description": "グラスノードが最新の仮想通貨市場週間レポートを発表。ビットコインは現物・ETF需要の後退が示唆されており、依然として投資家の確信が乏しい状態が続いていると分析した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算",
+      "link": "https://coinpost.jp/?p=711797",
+      "pub_date": "2026-05-28T09:50:40+09:00",
+      "pub_date_utc": "2026-05-28T00:50:40+00:00",
+      "description": "イーロン・マスクのスペースXがIPO申請で18,712BTCの保有を初めて公式開示。テスラの11,509BTCと合算すれば約22.7億ドル相当となり、上場企業ビットコイン保有ランキングで世界5位に相当する規模となる。合併は未確定だが、市場では憶測が拡大している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Tesla",
+        "SEC"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "Mastercard、NY州で暗号資産ライセンス「BitLicense」を取得",
+      "link": "https://www.nadanews.com/352502/",
+      "pub_date": "2026-05-28T08:59:02+09:00",
+      "pub_date_utc": "2026-05-27T23:59:02+00:00",
+      "description": "決済大手Mastercard（マスターカード）が、ニューヨーク州金融サービス局（NYDFS）から暗号資産事業ライセンス「BitLicense（ビットライセンス） The post Mastercard、NY州で暗号資産ライセンス「BitLicense」を取得 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Mastercard、NY州で暗号資産ライセンス「BitLicense」を取得 By 栃山 直樹 2026年5月28日08:59 .st0 { fill: #374149; } 2026年5月28日08:59 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする 決済大手Mastercard（マスターカード）が、ニューヨーク州金融サービス局（NYDFS）から暗号資産事業ライセンス「BitLicense（ビットライセンス）」を取得した。子会社のMastercard Transaction Services (US) LLCが、27日に発表した。 同ライセンスは、取得企業に対して消費者保護に加え、サイバーセキュリティやマネーロンダリング対策（AML）な",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "Stake DAOでvsdCRVが不正発行、一部を1450万円相当のETHに交換済みとの報告も",
+      "link": "https://coinpost.jp/?p=711812",
+      "pub_date": "2026-05-28T08:20:18+09:00",
+      "pub_date_utc": "2026-05-27T23:20:18+00:00",
+      "description": "DeFiプラットフォームStake DAOは、vsdCRVに起きている問題を認識していると発表。vsdCRVが不正発行され、すでに一部が仮想通貨イーサリアムに交換されているもようだ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Arbitrum"
+      ],
+      "main_entities": [
+        "Arbitrum"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "米OCC、テキサス仮想通貨特化銀行の国法銀行転換を承認",
+      "link": "https://coinpost.jp/?p=711798",
+      "pub_date": "2026-05-28T08:10:42+09:00",
+      "pub_date_utc": "2026-05-27T23:10:42+00:00",
+      "description": "米通貨監督庁（OCC）は先週、テキサス州のユナイテッド・テキサス銀行（UTB）に対し国法銀行への転換を条件付きで承認した。ドッド・フランク法制定後、OCCによる転換承認が成立した初期事例とされる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "FRB"
+      ],
+      "main_entities": [
+        "FRB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "スペイン、PolymarketとKalshiへのアクセス遮断",
+      "link": "https://www.nadanews.com/352495/",
+      "pub_date": "2026-05-28T07:36:58+09:00",
+      "pub_date_utc": "2026-05-27T22:36:58+00:00",
+      "description": "スペイン政府（社会権利・消費・アジェンダ2030省）は26日、予測市場プラットフォームのPolymarket（ポリマーケット）とKalshi（カルシ）に対し、無 The post スペイン、PolymarketとKalshiへのアクセス遮断 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 スペイン、PolymarketとKalshiへのアクセス遮断 By 栃山 直樹 2026年5月28日07:36 .st0 { fill: #374149; } 2026年5月28日07:47 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする スペイン政府（社会権利・消費・アジェンダ2030省）は26日、予測市場プラットフォームのPolymarket（ポリマーケット）とKalshi（カルシ）に対し、無許可で国内運営を行っていたとして制裁手続きを開始した。これに伴い、両サイトへのスペイン国内からのアクセス遮断を命じたと発表した。 両プラットフォームは、政治選挙の結果や経済指標など、将来の出来事を予測して取引する市場を提供している。 しかし、スペイ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "マスターカード、NY州の仮想通貨向けビットライセンスを取得",
+      "link": "https://coinpost.jp/?p=711799",
+      "pub_date": "2026-05-28T07:33:25+09:00",
+      "pub_date_utc": "2026-05-27T22:33:25+00:00",
+      "description": "マスターカードはニューヨーク州金融サービス局から仮想通貨事業のビットライセンスを取得したと発表した。ステーブルコインやトークン預金に対応した決済・決済インフラの整備を長期戦略に据える。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Circle",
+        "PayPal"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "「ビットコインETF強気」と「アルト弱気」は同時に成立するのか ── CryptoQuant創業者Ki Young Ju発言から読むビットコイン市場【エックスウィン】",
+      "link": "https://www.nadanews.com/352485/",
+      "pub_date": "2026-05-28T07:00:00+09:00",
+      "pub_date_utc": "2026-05-27T22:00:00+00:00",
+      "description": "● 米国現物BTC ETFは累計569億ドル超の資金流入を記録し、“TradFi経由のBTC需要”が市場構造を大きく変化させている。● 一方で、CEX中心の暗号 The post 「ビットコインETF強気」と「アルト弱気」は同時に成立するのか ── CryptoQuant創業者Ki Young Ju発言から読むビットコイン市場【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 「ビットコインETF強気」と「アルト弱気」は同時に成立するのか ── CryptoQuant創業者Ki Young Ju発言から読むビットコイン市場【エックスウィン】 By エックスウィン 2026年5月28日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 米国現物BTC ETFは累計569億ドル超の資金流入を記録し、“TradFi経由のBTC需要”が市場構造を大きく変化させている。● 一方で、CEX中心の暗号ネイティブ需要は弱く、BTCドミナンス上昇とETH/BTC低迷が「資金集中」を示唆している。● 現在の市場は「暗号資産全体への強気」ではなく、“BTCだけが制度資金に支えられる構造”へ移行し始めている可能性がある。 CryptoQuan",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "BlackRock"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "米予測市場のルール化、ホワイトハウスが審査開始──CFTCと州の管轄権争い激化",
+      "link": "https://www.nadanews.com/352487/",
+      "pub_date": "2026-05-28T06:42:54+09:00",
+      "pub_date_utc": "2026-05-27T21:42:54+00:00",
+      "description": "米ホワイトハウスの情報規制局（OIRA）が、商品先物取引委員会（CFTC）が提出した「予測市場」に関する新たなルール案を受理し、審査を開始していると、THE B The post 米予測市場のルール化、ホワイトハウスが審査開始──CFTCと州の管轄権争い激化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米予測市場のルール化、ホワイトハウスが審査開始──CFTCと州の管轄権争い激化 By 栃山 直樹 2026年5月28日06:42 .st0 { fill: #374149; } 2026年5月28日07:50 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする 米ホワイトハウスの情報規制局（OIRA）が、商品先物取引委員会（CFTC）が提出した「予測市場」に関する新たなルール案を受理し、審査を開始していると、THE BLOCKが28日報じた。CFTCは、この審査が完了した後にルールの詳細を公表する方針とのことだ。 この動きの背景には、選挙やスポーツの結果などに資金を投じる予測市場のルール作りを巡る、連邦政府と各州の激しい対立がある。 Polym",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "米ホワイトハウスがCFTC予測市場規制案を審査中、TDコーウェン「決着は最高裁」",
+      "link": "https://coinpost.jp/?p=711800",
+      "pub_date": "2026-05-28T06:40:46+09:00",
+      "pub_date_utc": "2026-05-27T21:40:46+00:00",
+      "description": "米ホワイトハウスの規制審査局が予測市場規制案の審査を開始した。トランプ大統領はCFTCの独占的管轄権を支持する一方、TDコーウェンは法的決着が最高裁に委ねられるとの見通しを示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "コインベース、スタンダードチャータードと提携　6法定通貨インフラを強化",
+      "link": "https://coinpost.jp/?p=711801",
+      "pub_date": "2026-05-28T06:15:48+09:00",
+      "pub_date_utc": "2026-05-27T21:15:48+00:00",
+      "description": "米最大手仮想通貨取引所コインベースはスタンダードチャータードと提携し、AUD・SGD・CAD・CHF・EUR・GBPの6通貨に対応した法定通貨決済レールをコインベース・プライム経由で機関投資家向けに提供すると発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Coinbase",
+        "Sui"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘",
+      "link": "https://coinpost.jp/?p=711802",
+      "pub_date": "2026-05-28T06:00:51+09:00",
+      "pub_date_utc": "2026-05-27T21:00:51+00:00",
+      "description": "投資銀行TDコーウェンは、政治環境の悪化を理由にクラリティー法の8月休会前成立は困難との見方を示した。民主党の支持獲得に必要な利益相反条項をめぐる対立が続いており、成立が遅れれば法制化は2027年以降にずれ込む可能性がある。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "SharplinkやGeminiなど、暗号資産関連企業が続々と「Russell指数」の組み入れ候補に",
+      "link": "https://www.nadanews.com/352434/",
+      "pub_date": "2026-05-28T06:00:00+09:00",
+      "pub_date_utc": "2026-05-27T21:00:00+00:00",
+      "description": "FTSE Russell（FTSE ラッセル）が5月22日に発表した、米株式市場の主要指数「ラッセル3000」の暫定的な構成銘柄リストには、イーサリアム（ETH The post SharplinkやGeminiなど、暗号資産関連企業が続々と「Russell指数」の組み入れ候補に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Finance",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Finance SharplinkやGeminiなど、暗号資産関連企業が続々と「Russell指数」の組み入れ候補に By 井上 俊彦 2026年5月28日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); FTSE Russell（FTSE ラッセル）が5月22日に発表した、米株式市場の主要指数「ラッセル3000」の暫定的な構成銘柄リストには、イーサリアム（ETH）財務企業のSharplink（シャープリンク）やソラナ（SOL）財務企業のForward Industries（フォワード・インダストリーズ）、暗号資産（仮想通貨）取引所のGemini（ジェミナイ）、暗号資産サービス大手のGalaxy Digital（ギャラクシー・デジタル）など、複数の暗号資産関連",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Solana",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "中国最高裁、仮想通貨関連の裁判規則研究を表明",
+      "link": "https://coinpost.jp/?p=711768",
+      "pub_date": "2026-05-28T05:00:27+09:00",
+      "pub_date_utc": "2026-05-27T20:00:27+00:00",
+      "description": "中国最高人民法院は5月27日の記者会見で、仮想通貨・国境を越えた金融に関わる新型案件の裁判規則を深く研究する方針を示した。インサイダー取引・相場操縦に関する民事賠償の司法解釈も速やかに制定するとしている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "Bitcoin Japan、SpaceX株取得目的ファンドに約20億円出資　AIインフラ事業に参入へ",
+      "link": "https://coinpost.jp/?p=711783",
+      "pub_date": "2026-05-27T23:10:53+09:00",
+      "pub_date_utc": "2026-05-27T14:10:53+00:00",
+      "description": "東証スタンダード上場のBitcoin Japan（旧堀田丸正）が、SpaceX株取得を目的とするPEファンド「ビバファンド」へ約20億円を出資すると発表。子会社BTCJPN US LLCを通じた投資で、xAI社と合併予定のSpaceX株20,160株の現物取得を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "Bitcoin Japan、ファンド経由でSpaceX株取得へ──約17億円を出資",
+      "link": "https://www.nadanews.com/352400/",
+      "pub_date": "2026-05-27T20:46:50+09:00",
+      "pub_date_utc": "2026-05-27T11:46:50+00:00",
+      "description": "Bitcoin Japan（旧堀田丸正）は27日、子会社を通じて新たにAIインフラ投資事業を開始し、SpaceX（スペースX）株式への投資を目的とするファンドへ The post Bitcoin Japan、ファンド経由でSpaceX株取得へ──約17億円を出資 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Bitcoin Japan、ファンド経由でSpaceX株取得へ──約17億円を出資 By 平木 昌宏 2026年5月27日20:46 .st0 { fill: #374149; } 2026年5月27日20:46 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Bitcoin Japan（旧堀田丸正）は27日、子会社を通じて新たにAIインフラ投資事業を開始し、SpaceX（スペースX）株式への投資を目的とするファンドへ出資すると発表した。 SpaceXは、イーロン・マスク氏が率いるロケット開発・衛星通信企業で、ロケット打ち上げや衛星インターネット「Starlink」などを展開している。 同社は米証券取引委員会（SEC）にIPOに向けた登録届出書を提出しており、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "【5/27話題】トランプ大統領が予測市場へのCFTCの排他的管轄権を支持、スペインがポリマーケットとカルシのウェブサイト遮断など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/577047",
+      "pub_date": "2026-05-27T19:29:45+09:00",
+      "pub_date_utc": "2026-05-27T10:29:45+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース トランプ米大統領、CFTCによる予測市場の「排他的管轄権」支持 スペイン当局、ポリマーケットとカルシに制裁手続き開始、ウェブサイト遮断を命令 TDコーウェン、クラリティ法案巡る政治環境悪化を警告 英国、ロシア制裁回避に関与疑いの暗号資産取引所や金",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Toncoin",
+        "Circle",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "GMOあおぞらネット銀行会長、トークン化預金の課題に言及──同行内ではなく「マルチバンク化」が鍵に",
+      "link": "https://www.nadanews.com/352396/",
+      "pub_date": "2026-05-27T19:27:22+09:00",
+      "pub_date_utc": "2026-05-27T10:27:22+00:00",
+      "description": "GMOあおぞらネット銀行は27日、都内で事業戦略説明会を開いた。AIエージェントを活用した業務効率化や顧客体験向上に向けた取り組みが主なテーマとして語られた。& The post GMOあおぞらネット銀行会長、トークン化預金の課題に言及──同行内ではなく「マルチバンク化」が鍵に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム GMOあおぞらネット銀行会長、トークン化預金の課題に言及──同行内ではなく「マルチバンク化」が鍵に By 橋本 祐樹 2026年5月27日19:27 .st0 { fill: #374149; } 2026年5月27日19:27 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); GMOあおぞらネット銀行は27日、都内で事業戦略説明会を開いた。AIエージェントを活用した業務効率化や顧客体験向上に向けた取り組みが主なテーマとして語られた。 同行は2018年に事業を開始。法人向け銀行サービスやBaaS（Banking as a Service）事業などを展開しており、法人口座数は約25万にのぼる。 この日の配布資料では、現時点では同行が国内で唯一の発行銀行となって",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "金融庁"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "Bitmine、保有するETHが539万に──総保有資産が123億ドルに達したと発表",
+      "link": "https://www.nadanews.com/352395/",
+      "pub_date": "2026-05-27T18:55:00+09:00",
+      "pub_date_utc": "2026-05-27T09:55:00+00:00",
+      "description": "イーサリアム（ETH）財務企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は5月26日、保有ET The post Bitmine、保有するETHが539万に──総保有資産が123億ドルに達したと発表 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Ethereum",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ethereum Bitmine、保有するETHが539万に──総保有資産が123億ドルに達したと発表 By 井上 俊彦 2026年5月27日18:55 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イーサリアム（ETH）財務企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は5月26日、保有ETHが539万404トークンに到達し、暗号資産（仮想通貨）と現金の保有総額が123億ドル（約1兆9680億円、1ドル=160円換算）に達したと発表した。 5月25日午後1時（アメリカ東部時間）時点のスナップショットによると、内訳はETHが539万トークンに加え、ビットコイン（BTC）が203、Beast Indust",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "OKX、独自市場を構築可能なオンチェーン取引基盤「エクスチェンジOS」構想を発表",
+      "link": "https://www.neweconomy.jp/posts/577034",
+      "pub_date": "2026-05-27T18:46:36+09:00",
+      "pub_date_utc": "2026-05-27T09:46:36+00:00",
+      "description": "OKXが「エクスチェンジOS」公開 暗号資産（仮想通貨）取引所OKXが、同社のイーサリアム（Ethereum）互換レイヤー2「Xレイヤー（X Layer）」上の新たな市場インフラ「エクスチェンジOS（Exchange O",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "OKXが「エクスチェンジOS」公開 暗号資産（仮想通貨）取引所OKXが、同社のイーサリアム（Ethereum）互換レイヤー2「Xレイヤー（X Layer）」上の新たな市場インフラ「エクスチェンジOS（Exchange OS）」の構想を5月26日に発表した。 エクスチェンジOSは、開発者や機関投資家、エコシステム参加者が、現物市場、無期限先物市場、アウトカム市場を構築できるオンチェーン取引基盤だ。OKXによると、同基盤は同取引所を支える機関投資家向けインフラと同じ技術スタックを利用するという。 同社によると、エクスチェンジOSはオンチェーン金融における「インフラ分断」の解消を目的としているとのこと。OKXは、ブロックチェーンによってオープンな資産発行は可能になった一方、取引、決済、証拠金管理、流動性などの市場インフラは依然として分断されていると説明している。また同社は、開発者が「中央集権型イ",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "OKX",
+        "Aave",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "OKX"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "Base、AIエージェント経由のDeFi操作を可能にする「Base MCP」をローンチ",
+      "link": "https://www.nadanews.com/352386/",
+      "pub_date": "2026-05-27T17:10:00+09:00",
+      "pub_date_utc": "2026-05-27T08:10:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）が支援するイーサリアム（Ethereum）レイヤー2ブロックチェーン「Base」は5月26日、Base The post Base、AIエージェント経由のDeFi操作を可能にする「Base MCP」をローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Technology Base、AIエージェント経由のDeFi操作を可能にする「Base MCP」をローンチ By 井上 俊彦 2026年5月27日17:10 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所Coinbase（コインベース）が支援するイーサリアム（Ethereum）レイヤー2ブロックチェーン「Base」は5月26日、Baseアカウントとブロックチェーン操作用のAI（人工知能）エージェントを接続する新ツール「Base MCP（Model Context Protocol）」をローンチした。 Base MCPの導入により、ユーザーはAnthropic（アンソロピック）の「Claude」やOpenAIの「ChatGPT」など、MCP規",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "ハイパーリキッド、スポーツイベントなどの現実世界イベント対応の予測市場開始",
+      "link": "https://www.neweconomy.jp/posts/577000",
+      "pub_date": "2026-05-27T17:06:19+09:00",
+      "pub_date_utc": "2026-05-27T08:06:19+00:00",
+      "description": "ハイパーリキッドのアウトカム市場で現実世界イベント対応 分散型取引プラットフォーム「ハイパーリキッド（Hyperliquid）」による現実世界イベントに基づくアウトカム市場への対応開始が5月26に発表された。 ハイパーリ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ハイパーリキッドのアウトカム市場で現実世界イベント対応 分散型取引プラットフォーム「ハイパーリキッド（Hyperliquid）」による現実世界イベントに基づくアウトカム市場への対応開始が5月26に発表された。 ハイパーリキッドが展開する「アウトカムマーケッツ（Outcome Markets：HIP-4）」は、将来の出来事や条件の結果を取引対象とする仕組みだ。ユーザーは特定イベントについて「Yes」または「No」、複数アウトカム市場では複数の結果に対してポジションを取ることができる。 ハイパーリキッドは今月2日、HIP-4アップグレードに基づくアウトカムマーケッツをメインネットへ限定公開していた。これまで同市場では、「特定日時点でビットコイン（BTC）が一定価格を上回るか」といった、既存価格データをもとに判定可能な市場が展開されていた。 一方、今回対応したオフチェーンイベント市場では、米連邦",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Coinbase",
+        "Hyperliquid",
+        "FRB"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "韓国の仮想通貨取引、株式市場の10分の1以下に縮小　市場低迷が続く",
+      "link": "https://coinpost.jp/?p=711649",
+      "pub_date": "2026-05-27T16:53:13+09:00",
+      "pub_date_utc": "2026-05-27T07:53:13+00:00",
+      "description": "韓国の仮想通貨市場が急速に冷え込んでいる。5月のウォン建て取引所の取引高はコスピの8%に止まり、実質的に10分の1以下に縮小。ビットコインのキムチプレミアムも3月以降マイナスが続き、国内の買いが海外より弱い状況が続いている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Upbit"
+      ],
+      "main_entities": [
+        "Upbit"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "800万ドル以上のビットコインを焼却──意図的な送付か、SNSで憶測広がる",
+      "link": "https://www.nadanews.com/352369/",
+      "pub_date": "2026-05-27T16:25:00+09:00",
+      "pub_date_utc": "2026-05-27T07:25:00+00:00",
+      "description": "2026年5月26日、2014年に作成された5つのビットコインアドレスから合計107BTC（約820万ドル、約13億1200万円：1ドル=160円換算）が、よく The post 800万ドル以上のビットコインを焼却──意図的な送付か、SNSで憶測広がる first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン 800万ドル以上のビットコインを焼却──意図的な送付か、SNSで憶測広がる By 井上 俊彦 2026年5月27日16:25 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 2026年5月26日、2014年に作成された5つのビットコインアドレスから合計107BTC（約820万ドル、約13億1200万円：1ドル=160円換算）が、よく知られた焼却（バーン）アドレス「1111111111111111111114oLvT2」へ同時に送付された。5件のトランザクションが完全に同期して実行されたことから、単一のエンティティによる意図的な操作との見方が浮上し、SNS上では動機をめぐる憶測が広がっている。 バーンアドレスへ送金された暗号資産（仮想通貨）は、アクセス可能な",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Sui",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "ビットゲット、米国株・ETFのRWAトークン化基盤「リアリティ」ローンチ",
+      "link": "https://www.neweconomy.jp/posts/576988",
+      "pub_date": "2026-05-27T16:24:04+09:00",
+      "pub_date_utc": "2026-05-27T07:24:04+00:00",
+      "description": "BitgetがRWAトークン化基盤ローンチ 海外暗号資産（仮想通貨）取引所ビットゲット（Bitget）が、RWA（現実資産）トークン化基盤「リアリティ（Reality）」のローンチを5月26日に発表した。 リアリティは、",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "BitgetがRWAトークン化基盤ローンチ 海外暗号資産（仮想通貨）取引所ビットゲット（Bitget）が、RWA（現実資産）トークン化基盤「リアリティ（Reality）」のローンチを5月26日に発表した。 リアリティは、米国株やETF（上場投資信託）へのトークン化されたエクスポージャーを提供する「アールトークン（rTokens）」の発行基盤とのこと。ローンチ時点では、選定された米国株とETFへのトークン化エクスポージャーを中心に展開される予定だという。 各アールトークンは対応する実株式やETF持分に1対1で裏付けられ、その裏付け資産は米FINRA（金融取引業規制機構）登録かつSIPC（証券投資者保護公社）保護対象の米国ブローカーディーラーで保管されると、ビットゲットは説明している。ただしSIPC保護は一般に市場価格の下落を補償するものではないため、投資損失全般が保護されるわけではない。 な",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Binance",
+        "Bybit",
+        "Polygon",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "WIZEが1億円でソラナ（SOL）追加購入、総保有量は3万SOL突破",
+      "link": "https://www.neweconomy.jp/posts/576959",
+      "pub_date": "2026-05-27T15:56:52+09:00",
+      "pub_date_utc": "2026-05-27T06:56:52+00:00",
+      "description": "WIZEがSOL追加取得 東証グロース上場のワイズ（WIZE、旧モブキャストホールディングス）が、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を5月27日に発表した。 発表によると、WIZEは新たに1億円でSOLを追加",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "WIZEがSOL追加取得 東証グロース上場のワイズ（WIZE、旧モブキャストホールディングス）が、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を5月27日に発表した。 発表によると、WIZEは新たに1億円でSOLを追加取得したという。これにより総保有量は3万2,133.7684731SOLになったとのこと。累計取得金額は6億8円とのことだ。 今回の購入は、直近で暗号資産価格の割安な状況が続いていることを踏まえ、通常より規模を拡大したものだという。なおステーキング報酬等を含む総保有量ベースのSOL平均取得単価は、2万327円から1万8,672円に大幅に引き下がったとのこと。 ワイズによると、現在同社のSOL保有規模は、5月27日時点のCoinGecko「Solana Treasury Holdings」ランキングにおいて世界第15位相当だという。 ワイズは5月25日、資金使途変更によりソラ",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "ハイパーリキッド現物ETF、上場10日でビットコインETFを超える吸収率を記録",
+      "link": "https://coinpost.jp/?p=711579",
+      "pub_date": "2026-05-27T15:52:41+09:00",
+      "pub_date_utc": "2026-05-27T06:52:41+00:00",
+      "description": "ハイパーリキッドのHYPE現物ETFが上場10日でビットコインを超える時価総額吸収率1.04%を達成し、仮想通貨ETF史上最強のデビューを記録した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "スペイン当局、ポリマーケットとカルシに制裁手続き開始、ウェブサイト遮断を命令",
+      "link": "https://www.neweconomy.jp/posts/576949",
+      "pub_date": "2026-05-27T15:41:44+09:00",
+      "pub_date_utc": "2026-05-27T06:41:44+00:00",
+      "description": "スペインがポリマーケットとカルシのウェブサイト遮断へ スペインの消費者行政を管轄する社会権・消費者問題・2030アジェンダ省が、予測市場プラットフォームのポリマーケット（Polymarket）とカルシ（Kalshi）に対",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "スペインがポリマーケットとカルシのウェブサイト遮断へ スペインの消費者行政を管轄する社会権・消費者問題・2030アジェンダ省が、予測市場プラットフォームのポリマーケット（Polymarket）とカルシ（Kalshi）に対し、賭博規制違反の可能性があるとして制裁手続きを開始した。5月26日に発表された。 なお同手続きは、同省傘下のスペイン賭博規制総局（DGOJ）が担当。同省は、手続きの最終決定までの暫定措置として、スペイン国内での両プラットフォームのウェブサイト遮断命令を出したとのこと。行政手続きにあたり国外にある両プラットフォームの所在地宛てに直接通知を行ったというが、反応が得られず今回の措置に至ったとのこと。最終決定は3～4ヶ月かかる見込みとのことだ。 発表によると両プラットフォームは、義務付けられている行政上の認可を得ずにスペインで運営していた可能性があるとのこと。 DGOJは、スペイ",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Ripple",
+        "Sui"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "香港、暗号資産アドバイザリー・資産運用サービスのライセンス制度に関するコンサル結果を公表",
+      "link": "https://www.neweconomy.jp/posts/576930",
+      "pub_date": "2026-05-27T15:17:02+09:00",
+      "pub_date_utc": "2026-05-27T06:17:02+00:00",
+      "description": "香港のデジタル資産規制、包括的枠組みの完成へ 香港財経事務及庫務局（FSTB）と証券先物事務監察委員会（SFC）が、暗号資産（VA）アドバイザリーおよび資産運用サービス提供者を対象としたライセンス制度の立法提案に関するコ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "香港のデジタル資産規制、包括的枠組みの完成へ 香港財経事務及庫務局（FSTB）と証券先物事務監察委員会（SFC）が、暗号資産（VA）アドバイザリーおよび資産運用サービス提供者を対象としたライセンス制度の立法提案に関するコンサルテーション・コンクルージョン（意見募集結果）を5月26日に共同公表した。 今年1月下旬に終了した1か月間のパブリックコンサルテーションには51件の意見が寄せられた。市場参加者・業界団体・専門機関を含む回答者の大多数が、VAアドバイザリーおよび資産運用サービス提供者向けの独立したライセンス制度の創設を支持。同制度は、既存の証券市場に適用される規制枠組みをモデルとするものだ。 制度設計においては「同一業務・同一リスク・同一規制」の原則が採用される。VAアドバイザリーサービス提供者の規制範囲は証券先物条例のType 4（証券アドバイス）に、VA資産運用サービス提供者の規制範",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "シャープリンクとフォワードインダストリーズ、ラッセル2000・3000指数の構成銘柄入りへ",
+      "link": "https://www.neweconomy.jp/posts/576919",
+      "pub_date": "2026-05-27T15:07:23+09:00",
+      "pub_date_utc": "2026-05-27T06:07:23+00:00",
+      "description": "SharplinkとForward IndustriesがRussellの指数入りへ イーサリアム（ETH）トレジャリー企業シャープリンク（Sharplink）と、ソラナ（SOL）トレジャリー企業フォワードインダストリー",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "SharplinkとForward IndustriesがRussellの指数入りへ イーサリアム（ETH）トレジャリー企業シャープリンク（Sharplink）と、ソラナ（SOL）トレジャリー企業フォワードインダストリーズ（Forward Industries）が、ラッセル2000指数とラッセル3000指数の構成銘柄に加わる見込みだ。ともに米ナスダック上場企業である両社が5月26日に発表した。 指数算出会社FTSEラッセル（FTSE Russell）は5月22日、指数構成銘柄見直しに伴うラッセル3000指数の予備追加リストを公表し、同リストに両社を掲載した。 ラッセル3000指数（Russell 3000 Index）は、米国の大型株・中型株・小型株を含む約3,000銘柄で構成される指数だ。ラッセル2000指数（Russell 2000 Index）は、米国小型株約2,000銘柄のパフォー",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "TDコーウェン、クラリティ法案巡る政治環境悪化を警告",
+      "link": "https://www.neweconomy.jp/posts/576904",
+      "pub_date": "2026-05-27T14:35:47+09:00",
+      "pub_date_utc": "2026-05-27T05:35:47+00:00",
+      "description": "年内成立に暗雲 米投資銀行TDコーウェン（TD Cowen）が、米国の暗号資産（仮想通貨）市場構造法案「クラリティ法案（CLARITY Act）」の今年中の成立について悲観的な見方を示しているようだ。「ザ・ブロック（Th",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "年内成立に暗雲 米投資銀行TDコーウェン（TD Cowen）が、米国の暗号資産（仮想通貨）市場構造法案「クラリティ法案（CLARITY Act）」の今年中の成立について悲観的な見方を示しているようだ。「ザ・ブロック（The Block）」が5月26日に報じた。 TDコーウェンのワシントン・リサーチ・グループのマネージング・ディレクターであるジャレット・セイバーグ（Jaret Seiberg）氏は5月26日付のメモで、「クラリティ法案をめぐる政治環境は悪化している。今年中の成立には引き続き悲観的だ」と述べた。 5月14日、上院銀行委員会はクラリティ法案を15対9で可決した。共和党全員に加え民主党2名も賛成したが、民主党側や銀行業界にはなお懸念が残っている。セイバーグ氏はこの結果について、「合意に達したシグナルではなく、戦いの場が上院本会議に移っただけ」と指摘。利益相反条項をめぐる問題など、主",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "CFTC",
+        "米財務省"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "トランプ米大統領、CFTCによる予測市場の「排他的管轄権」支持",
+      "link": "https://www.neweconomy.jp/posts/576891",
+      "pub_date": "2026-05-27T14:22:56+09:00",
+      "pub_date_utc": "2026-05-27T05:22:56+00:00",
+      "description": "トランプ大統領が予測市場へのCFTCの排他的管轄権を支持 予測市場に関するCFTC（商品先物取引委員会）による排他的管轄権についての支持を、ドナルド・トランプ（Donald Trump）米大統領が自身のSNS「トゥルース",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "トランプ大統領が予測市場へのCFTCの排他的管轄権を支持 予測市場に関するCFTC（商品先物取引委員会）による排他的管轄権についての支持を、ドナルド・トランプ（Donald Trump）米大統領が自身のSNS「トゥルース・ソーシャル（Truth Social）」にて5月26日（日本時間27日）に表明した。 トランプ氏は、CFTCが予測市場に対して排他的な管轄権を維持することは、予測市場が発展していくにあたり、極めて重要だと伝えた。 またトランプ氏は、「他国はこの新しい形の金融市場を狙っており、私たちはこの分野でトップの座を維持したい」との考えを示した。その他にもトランプ氏は、現在米国がビットコインなどの暗号資産について世界的な中心地であるが、他国がその立場を取って代わろうと懸命に動いていると述べ、「暗号資産は重要な産業であり、私たちはそれを守らなければならない」とも主張した。 現在、米国の",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Coinbase",
+        "Hyperliquid",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "AIエージェントのマイクロ決済が急拡大、1年で1.7億件超処理　9割以上がUSDC利用＝Keyrockレポート",
+      "link": "https://coinpost.jp/?p=711536",
+      "pub_date": "2026-05-27T13:50:35+09:00",
+      "pub_date_utc": "2026-05-27T04:50:35+00:00",
+      "description": "Keyrockの最新レポートによると、AIエージェントによるM2M決済が急拡大しており、1年間で1億7600万件・7300万ドル超を処理した。その98.6%がUSDCで決済されており、仮想通貨決済システムの優位性が確立されている。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "スペイン、ポリマーケットとカルシに制裁手続きを開始　ギャンブル性問題視",
+      "link": "https://coinpost.jp/?p=711488",
+      "pub_date": "2026-05-27T13:30:56+09:00",
+      "pub_date_utc": "2026-05-27T04:30:56+00:00",
+      "description": "スペイン政府が予測市場ポリマーケットとカルシに制裁手続きを開始。無許可でギャンブルを提供しているとみなし、両サイトへのアクセスを暫定的にブロックした。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "国内上場企業WIZE、ソラナを1億円分追加取得　総保有量3万SOL超",
+      "link": "https://coinpost.jp/?p=711493",
+      "pub_date": "2026-05-27T11:45:13+09:00",
+      "pub_date_utc": "2026-05-27T02:45:13+00:00",
+      "description": "株式会社WIZEは5月27日、仮想通貨ソラナを新たに1億円分追加取得したと発表した。累計取得金額は約6億円に達し、ステーキング報酬を含む総保有量は32133SOLとなった。平均取得単価は18672円に引き下げられている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
+      "title": "XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開",
+      "link": "https://coinpost.jp/?p=711468",
+      "pub_date": "2026-05-27T11:30:51+09:00",
+      "pub_date_utc": "2026-05-27T02:30:51+00:00",
+      "description": "XRP LedgerのAMMに集中流動性・StableSwapを追加し資本効率を改善する提案が公開。トークン化資産30億ドル超が流通するXRPLのDeFi基盤強化に期待。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現 米クラリティー法の8月前成立に暗雲　TDコーウェン、政治環境悪化を指摘 XRPレジャー、自動マーケットメイカーの資本効率を大幅改善へ　集中流動性など追加提案が公開 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ripple",
+        "Google"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-28T10:59:11.015664+09:00"
+    },
+    {
       "title": "米仮想通貨業界団体デジタルチェンバー、ウォーレン議員の仮想通貨信託認可批判に反論",
       "link": "https://coinpost.jp/?p=711337",
       "pub_date": "2026-05-27T11:00:31+09:00",
@@ -21274,8 +22094,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-27T11:15:11.732483+09:00",
-  "total_count": 1103,
+  "last_updated": "2026-05-28T10:59:11.015664+09:00",
+  "total_count": 1139,
   "sources": [
     "NADA NEWS",
     "CoinPost",
