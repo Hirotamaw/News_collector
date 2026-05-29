@@ -1,6 +1,996 @@
 {
   "articles": [
     {
+      "title": "カルシがミネソタ州を提訴、予測市場禁止法の差し止めを連邦地裁に申請",
+      "link": "https://coinpost.jp/?p=712262",
+      "pub_date": "2026-05-29T10:50:32+09:00",
+      "pub_date_utc": "2026-05-29T01:50:32+00:00",
+      "description": "米予測市場大手カルシはミネソタFed地裁に提訴し、8月1日施行の予測市場禁止法の差し止めを申請した。トランプ政権・CFTCも同州を提訴し、連邦対州の管轄権争いは訴訟合戦に発展している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Tesla",
+        "Google"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ビットコイン急落、イラン情勢とブラックロック売却報道で清算拡大｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=712202",
+      "pub_date": "2026-05-29T10:15:33+09:00",
+      "pub_date_utc": "2026-05-29T01:15:33+00:00",
+      "description": "仮想通貨ビットコインは5月28日から29日にかけて下落し、一時40万円超の急落となった。 背景には、米国とイランの緊張再燃による地政学リスクの高まりに加え、世界的なリスク資産全般への警戒感が強まったことがある。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "BlackRock",
+        "Tesla",
+        "SEC"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "「Web3川柳コンテスト2026」受賞作品が決定！──最優秀作品賞や協賛社賞を発表【NADA NEWS】",
+      "link": "https://www.nadanews.com/351684/",
+      "pub_date": "2026-05-29T10:00:00+09:00",
+      "pub_date_utc": "2026-05-29T01:00:00+00:00",
+      "description": "NADA NEWSが開催した「Web3川柳コンテスト2026」の受賞作品が決定しました！5月20日にXスペースで行われた発表イベントでは、最優秀賞をはじめ、協賛 The post 「Web3川柳コンテスト2026」受賞作品が決定！──最優秀作品賞や協賛社賞を発表【NADA NEWS】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "EVENT",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "EVENT 「Web3川柳コンテスト2026」受賞作品が決定！──最優秀作品賞や協賛社賞を発表【NADA NEWS】 2026年5月29日10:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); NADA NEWSが開催した「Web3川柳コンテスト2026」の受賞作品が決定しました！5月20日にXスペースで行われた発表イベントでは、最優秀賞をはじめ、協賛社賞や優秀賞が発表されました。 本コンテストは今回で3回目。過去2回は年末年始の特別企画として開催しましたが、今年はNADA NEWSへのリブランディングに伴い、時期をずらして春の特別企画として実施しました。1200件を超える応募作品には、多彩な視点や独創的な表現が詰まっており、審査員たちに驚きと新たな発見をもたらしま",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "Fireblocks"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ビットコイン長期保有が高水準も「新規買い手不足」を示唆＝クリプトクアント分析",
+      "link": "https://coinpost.jp/?p=712274",
+      "pub_date": "2026-05-29T09:40:34+09:00",
+      "pub_date_utc": "2026-05-29T00:40:34+00:00",
+      "description": "クリプトクアントが仮想通貨市場週間レポートを発表。ビットコインの長期保有残高が高水準に達した一方、新規需要は停滞している可能性があると分析した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "Suiブロックチェーン、今年2度目のメインネット停止",
+      "link": "https://www.nadanews.com/352766/",
+      "pub_date": "2026-05-29T09:17:48+09:00",
+      "pub_date_utc": "2026-05-29T00:17:48+00:00",
+      "description": "レイヤー1ブロックチェーン「Sui（スイ）」のメインネットにおいて、トランザクション処理が停止するネットワーク障害が28日に発生した。 Suiのプロジェクトコア The post Suiブロックチェーン、今年2度目のメインネット停止 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "犯罪・事故",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "犯罪・事故 Suiブロックチェーン、今年2度目のメインネット停止 By 栃山 直樹 2026年5月29日09:17 .st0 { fill: #374149; } 2026年5月29日09:21 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする レイヤー1ブロックチェーン「Sui（スイ）」のメインネットにおいて、トランザクション処理が停止するネットワーク障害が28日に発生した。 Suiのプロジェクトコアチームが、公式Xを通じて「Suiメインネットは現在ネットワークの停止状態を経験している。チームは積極的に解決策に取り組んでいる」と発表した。同ネットワークの稼働停止は、今年に入って2度目である。 その後、同アカウントにて「バージョン1.72リリースで導入さ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Sui"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "テザーの米国向けステーブルコインUSAT、4月末流通量が前月比約6.4倍に拡大",
+      "link": "https://coinpost.jp/?p=712248",
+      "pub_date": "2026-05-29T08:55:01+09:00",
+      "pub_date_utc": "2026-05-28T23:55:01+00:00",
+      "description": "テザー傘下のUSATが2026年4月末時点で流通残高1億4,085万トークンを達成した。アンカレッジ・デジタル・バンクのアテステーションで確認された準備金は1億4,117万ドルで、全額を現金と米国債担保リバースレポが裏付けている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "サムスン系列会社3社、仮想通貨取引所アップビット運営企業の株式を計4%取得へ＝報道",
+      "link": "https://coinpost.jp/?p=712254",
+      "pub_date": "2026-05-29T07:55:07+09:00",
+      "pub_date_utc": "2026-05-28T22:55:07+00:00",
+      "description": "サムスンの系列会社3社は、仮想通貨取引所アップビットの運営企業ドゥナムの株式を共同で4%取得することがわかった。今回の株式取得によって、サムスン系列内のデジタル資産事業を拡大する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Upbit",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Upbit"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "Suiブロックチェーンがネットワーク一時停止、バグでバリデータがクラッシュ",
+      "link": "https://coinpost.jp/?p=712249",
+      "pub_date": "2026-05-29T07:50:04+09:00",
+      "pub_date_utc": "2026-05-28T22:50:04+00:00",
+      "description": "Suiメインネットが5月28日、約5〜6時間にわたりブロック生成を停止した。v1.72アップデートのガス課金ロジックに起因するクラッシュバグが原因で、修正適用後に復旧した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "米暗号資産団体、クラリティ法案年内成立へ議会への圧力強化＝BLOCK報道",
+      "link": "https://www.nadanews.com/352755/",
+      "pub_date": "2026-05-29T07:44:02+09:00",
+      "pub_date_utc": "2026-05-28T22:44:02+00:00",
+      "description": "米国の暗号資産擁護団体「The Digital Chamber（TDC）」は、暗号資産市場を包括的に規制する「クラリティ法案（Clarity Act）」の年内成 The post 米暗号資産団体、クラリティ法案年内成立へ議会への圧力強化＝BLOCK報道 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米暗号資産団体、クラリティ法案年内成立へ議会への圧力強化＝BLOCK報道 By 栃山 直樹 2026年5月29日07:44 .st0 { fill: #374149; } 2026年5月29日07:44 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする 米国の暗号資産擁護団体「The Digital Chamber（TDC）」は、暗号資産市場を包括的に規制する「クラリティ法案（Clarity Act）」の年内成立に向け、連邦議会に対する働きかけを強化していると29日、THE BLOCKが報じた。 TDCは、有権者が自身の選挙区の議員へ直接連絡を取るための特設ウェブサイトを開設した。 このプラットフォームには、議員に対して法案への賛成を促すため",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "「株は上がるのに、なぜビットコインだけ弱いのか」──市場構造の違いで読み解くBTC下落の本質【エックスウィン】",
+      "link": "https://www.nadanews.com/352749/",
+      "pub_date": "2026-05-29T07:17:00+09:00",
+      "pub_date_utc": "2026-05-28T22:17:00+00:00",
+      "description": "● 現在の株高は、「リスクオン」ではなく、“AI利益・自社株買い・ETF資金流入”という株式固有の構造で支えられている。● 一方、ビットコイン市場ではETF流出 The post 「株は上がるのに、なぜビットコインだけ弱いのか」──市場構造の違いで読み解くBTC下落の本質【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 「株は上がるのに、なぜビットコインだけ弱いのか」──市場構造の違いで読み解くBTC下落の本質【エックスウィン】 By エックスウィン 2026年5月29日07:17 .st0 { fill: #374149; } 2026年5月29日07:21 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 現在の株高は、「リスクオン」ではなく、“AI利益・自社株買い・ETF資金流入”という株式固有の構造で支えられている。● 一方、ビットコイン市場ではETF流出、オンチェーン需要低下、ネットワーク参加鈍化が進み、株とは異なる需給悪化が発生している。● つまり今の市場は、「株 vs BTC」ではなく、“利益成長資産”と“流動性依存資産”の差が表面化している局面である。 2",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "グレースケールのHYPE現物ETF申請更新、200万HYPEのシード出資交渉を開示",
+      "link": "https://coinpost.jp/?p=712239",
+      "pub_date": "2026-05-29T07:00:46+09:00",
+      "pub_date_utc": "2026-05-28T22:00:46+00:00",
+      "description": "米グレースケールがHYPE現物ETFの申請を更新し、Hyper Holdings Global LPから約1.2億ドル相当の200万HYPEのシード資金調達を交渉中であることが明らかになった。ティッカーはHYPGに変更される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Hyperliquid",
+        "Grayscale",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ナスダック上場Bit Digital、約32億円分のイーサリアムを逆張り購入　保有量15万ETH超に",
+      "link": "https://coinpost.jp/?p=712238",
+      "pub_date": "2026-05-29T06:30:42+09:00",
+      "pub_date_utc": "2026-05-28T21:30:42+00:00",
+      "description": "ナスダック上場のBit Digitalは5月11日、約8568枚のイーサリアムを2000万ドルで取得した。保有ETHは約158461枚となりETH保有上場企業の地位を強化した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "暗号資産ブローカーFalconX、SECにIPOを非公開で申請──上場は26年末か",
+      "link": "https://www.nadanews.com/352743/",
+      "pub_date": "2026-05-29T06:22:30+09:00",
+      "pub_date_utc": "2026-05-28T21:22:30+00:00",
+      "description": "機関投資家向けの暗号資産プライムブローカーであるFalconXが、米国証券取引委員会（SEC）に対して新規株式公開（IPO）に向けたS-1登録届出書（米国で上場 The post 暗号資産ブローカーFalconX、SECにIPOを非公開で申請──上場は26年末か first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス 暗号資産ブローカーFalconX、SECにIPOを非公開で申請──上場は26年末か By 栃山 直樹 2026年5月29日06:22 .st0 { fill: #374149; } 2026年5月29日06:57 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする 機関投資家向けの暗号資産プライムブローカーであるFalconXが、米国証券取引委員会（SEC）に対して新規株式公開（IPO）に向けたS-1登録届出書（米国で上場する際に必要な申請書類）の草案を非公開で提出したと29日、CoinDeskが報じた。 情報筋の話として、上場に向けたアドバイザーには金融大手Cantor Fitzgeraldなどが起用されているという。また、現在の不安定な市場環",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "bitFlyer",
+        "bitbank",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "『CMEギャップ』が構造的に消滅へ、米CMEが仮想通貨先物を24時間365日取引に移行",
+      "link": "https://coinpost.jp/?p=712237",
+      "pub_date": "2026-05-29T06:10:40+09:00",
+      "pub_date_utc": "2026-05-28T21:10:40+00:00",
+      "description": "米シカゴ・マーカンタイル取引所（CME）は5月29日、ビットコインを含む仮想通貨先物・オプションの24時間7日間取引を開始予定。週末クローズに起因するCMEギャップが今後は発生しなくなる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "米国初のBNB投資商品、ヴァンエックのBNB現物ETF「VBNB」がナスダック上場",
+      "link": "https://coinpost.jp/?p=712240",
+      "pub_date": "2026-05-29T05:53:19+09:00",
+      "pub_date_utc": "2026-05-28T20:53:19+00:00",
+      "description": "米資産運用会社VanEckは5月29日、米国初のBNB現物ETF「VBNB」をナスダックに上場した。NAVは25.36ドル、純資産は101万ドル。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Binance",
+        "VanEck",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "スタンダードチャータード銀、イーサリアムをドットコムバブル崩壊時のアマゾン株と比較",
+      "link": "https://coinpost.jp/?p=712225",
+      "pub_date": "2026-05-29T05:00:25+09:00",
+      "pub_date_utc": "2026-05-28T20:00:25+00:00",
+      "description": "スタンダードチャータード銀行が仮想通貨イーサリアムの価格低迷はネットワーク内部指標の改善を反映していないと見解。2001年Amazon株との類似を指摘し、2026年末4千ドル・2030年末4万ドルの目標価格を維持。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "コインチェック、AIエージェント決済の国内実用化を探る──Komlock labと共同研究を開始",
+      "link": "https://www.nadanews.com/352652/",
+      "pub_date": "2026-05-28T21:47:27+09:00",
+      "pub_date_utc": "2026-05-28T12:47:27+00:00",
+      "description": "暗号資産（仮想通貨）取引所のコインチェックは28日、ブロックチェーンやAIエージェント領域の開発を手がけるKomlock labと、AIエージェント向けCLIに The post コインチェック、AIエージェント決済の国内実用化を探る──Komlock labと共同研究を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス コインチェック、AIエージェント決済の国内実用化を探る──Komlock labと共同研究を開始 By NADA NEWS編集部 2026年5月28日21:47 .st0 { fill: #374149; } 2026年5月28日21:47 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする 暗号資産（仮想通貨）取引所のコインチェックは28日、ブロックチェーンやAIエージェント領域の開発を手がけるKomlock labと、AIエージェント向けCLIに関する共同研究を開始すると発表した。 今回の共同研究は、AIエージェントがユーザーの指示に基づいて外部サービスを呼び出し、取引や決済を行うようになる将来を見据えたもの。 両社は、国内での実用化を想定し",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "マネックスグループ",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "【5/28話題】TMIとTISらの公共施設ST化の共同研究、マスターカードがNY州のビットライセンス取得、Google従業員がポリマーケットでインサイダー取引かなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/577374",
+      "pub_date": "2026-05-28T21:42:16+09:00",
+      "pub_date_utc": "2026-05-28T12:42:16+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース TMI総合法律事務所・TIS・三井住友トラスト基礎研究所、公共施設のST化を共同研究。地方債活用も検証 マスターカード、NYDFSからビットライセンス取得 Google従業員、ポリマーケットでのインサイダー取引の疑いで刑事訴追。約120万ドル利益",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "OKX",
+        "Hyperliquid",
+        "Circle",
+        "三井住友銀行",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "OKX"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "最大年15%の利回り獲得へ──新興国の”個人向け融資”活用した新型RWAファンドが稼働",
+      "link": "https://www.nadanews.com/351580/",
+      "pub_date": "2026-05-28T21:00:00+09:00",
+      "pub_date_utc": "2026-05-28T12:00:00+00:00",
+      "description": "RWA（現実資産）領域のDeFi（分散型金融）インフラを手がけるR25は28日、メキシコや東南アジアなどの新興国における個人向け小口ローンを裏付けにしたオンチェ The post 最大年15%の利回り獲得へ──新興国の”個人向け融資”活用した新型RWAファンドが稼働 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス 最大年15%の利回り獲得へ──新興国の”個人向け融資”活用した新型RWAファンドが稼働 By 平木 昌宏 2026年5月28日21:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); RWA（現実資産）領域のDeFi（分散型金融）インフラを手がけるR25は28日、メキシコや東南アジアなどの新興国における個人向け小口ローンを裏付けにしたオンチェーン金利商品「Axil Consumer Credit Vault（rcPC Vault）」のローンチを支援したと発表した。 Vault（ボルト）とは、投資家が資金を預け、特定の運用方針に沿って利回りを得るための仕組み。今回のrcPC Vaultは、R25のVaultインフラを基盤とし、RWA領域のDeFi商品のリスク管",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ゆうちょ、DCJPYの2026年度発行予定を維持──具体時期は示さず",
+      "link": "https://www.nadanews.com/352665/",
+      "pub_date": "2026-05-28T19:52:48+09:00",
+      "pub_date_utc": "2026-05-28T10:52:48+00:00",
+      "description": "ゆうちょ銀行は28日、都内で記者発表を行い、2026〜2028年度の中期経営計画について説明した。 計画では、デジタルペイメント事業や市場運用・アセットマネジメ The post ゆうちょ、DCJPYの2026年度発行予定を維持──具体時期は示さず first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム ゆうちょ、DCJPYの2026年度発行予定を維持──具体時期は示さず By 橋本 祐樹 2026年5月28日19:52 .st0 { fill: #374149; } 2026年5月28日19:52 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ゆうちょ銀行は28日、都内で記者発表を行い、2026〜2028年度の中期経営計画について説明した。 計画では、デジタルペイメント事業や市場運用・アセットマネジメント事業など4つの戦略を柱として提示。このうちデジタルペイメント領域では、同行が2026年度中の発行を予定するトークン化預金「ゆうちょDCJPY」の展開にも言及した。 同行は昨年9月、ディーカレットDCPのプラットフォームを活用し、貯金者向けのトークン化預",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "BISのプロジェクト・アゴラ、トークン化による国境を越えたホールセール決済の有効性を実証",
+      "link": "https://www.nadanews.com/352661/",
+      "pub_date": "2026-05-28T19:00:00+09:00",
+      "pub_date_utc": "2026-05-28T10:00:00+00:00",
+      "description": "国際決済銀行（BIS）は5月27日、国境を越えたホールセール決済の実験的プロトタイプ「プロジェクト・アゴラ（Project Agorá）」に関する報告書を発表し The post BISのプロジェクト・アゴラ、トークン化による国境を越えたホールセール決済の有効性を実証 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Technology BISのプロジェクト・アゴラ、トークン化による国境を越えたホールセール決済の有効性を実証 By 井上 俊彦 2026年5月28日19:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 国際決済銀行（BIS）は5月27日、国境を越えたホールセール決済の実験的プロトタイプ「プロジェクト・アゴラ（Project Agorá）」に関する報告書を発表した。トークン化された中央銀行準備預金と商業銀行預金を共有プラットフォーム上で組み合わせ、複数通貨にまたがる安全な決済が実現可能であることを実証した。 報告書によると、同プロトタイプは国境を越えた取引を「オール・オア・ナッシング」方式で完結させるアトミック決済を、通貨・法域をまたいで安全かつ最終性をもって達成",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Sui",
+        "JPMorgan",
+        "BIS"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "暗号資産業界のコンプライアンス基準が厳格化。しかし抜け穴も：Chainalysis",
+      "link": "https://www.nadanews.com/352641/",
+      "pub_date": "2026-05-28T17:35:00+09:00",
+      "pub_date_utc": "2026-05-28T08:35:00+00:00",
+      "description": "ブロックチェーン分析企業Chainalysis（チェイナリシス）は5月27日、近く公開予定のレポート「The New Rails」のプレビューとなるブログ記事を The post 暗号資産業界のコンプライアンス基準が厳格化。しかし抜け穴も：Chainalysis first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Technology 暗号資産業界のコンプライアンス基準が厳格化。しかし抜け穴も：Chainalysis By 井上 俊彦 2026年5月28日17:35 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ブロックチェーン分析企業Chainalysis（チェイナリシス）は5月27日、近く公開予定のレポート「The New Rails」のプレビューとなるブログ記事を公開し、暗号資産業界のコンプライアンス基準が厳格化していると述べた。 同社によると、業界はより厳格な規制とハッカーによる脅威の増大を受け、セキュリティとコンプライアンスを強化している。 アラートの重大度や検知の最低基準額などを組み合わせた「コンプライアンス指数」で見ると、2020〜2021年に参入した組織のうち当",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "Chainalysis"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ロビンフッド、AIエージェント向け取引機能を展開。暗号資産や先物にも拡大へ",
+      "link": "https://www.neweconomy.jp/posts/577313",
+      "pub_date": "2026-05-28T17:32:46+09:00",
+      "pub_date_utc": "2026-05-28T08:32:46+00:00",
+      "description": "RobinhoodがAIエージェント向け取引機能を展開 株式や暗号資産（仮想通貨）の取引アプリを提供するロビンフッド（Robinhood）が、利用者が外部のAIエージェントを接続して取引を自動化できる新機能「エージェンテ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "RobinhoodがAIエージェント向け取引機能を展開 株式や暗号資産（仮想通貨）の取引アプリを提供するロビンフッド（Robinhood）が、利用者が外部のAIエージェントを接続して取引を自動化できる新機能「エージェンティックトレーディング（Agentic Trading）」を発表し、ベータ版として順次提供を開始したと5月27日に発表した。 同機能はベータ版としてロールアウト中で、現時点でAIエージェントが発注できるのは株式のロング注文のみに限られるとのこと。ロビンフッドは今後、暗号資産やイベント契約、先物、オプションなどへの対応を追加する予定だという。 同機能では利用者が通常のポートフォリオとは別に、専用のエージェンティック口座を開設できる。ロビンフッドのトレーディングMCPに接続したAIエージェントは、利用者の全てのロビンフッド口座情報や口座番号、ポジション、残高、取引履歴、注文履歴な",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "Google従業員、ポリマーケットでのインサイダー取引の疑いで刑事訴追。約120万ドル利益か",
+      "link": "https://www.neweconomy.jp/posts/577281",
+      "pub_date": "2026-05-28T17:32:00+09:00",
+      "pub_date_utc": "2026-05-28T08:32:00+00:00",
+      "description": "Google従業員がポリマーケットでのインサイダー取引の疑いで刑事訴追 グーグル（Google）の従業員が、予測市場プラットフォーム「ポリマーケット（Polymarket）」上でインサイダー取引を行った疑いで、米司法省に",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Google従業員がポリマーケットでのインサイダー取引の疑いで刑事訴追 グーグル（Google）の従業員が、予測市場プラットフォーム「ポリマーケット（Polymarket）」上でインサイダー取引を行った疑いで、米司法省により刑事訴追された。また米商品先物取引委員会（CFTC）も、ニューヨーク南部地区連邦地方裁判所に民事訴状を提出したと5月27日に発表した。 訴状によると、グーグルにソフトウェアエンジニアとして勤務するスイス在住のイタリア国籍を持つミケーレ・スパニュオーロ（Michele Spagnuolo）氏（36歳）は、グーグルが毎年公表する年間検索トレンドまとめ「Year in Search」の2025年版の非公開情報を用いて、ポリマーケットのイベント契約で取引を行ったという。 同氏はハンドルネーム「アルファラクーン（AlphaRaccoon）」を利用して2025年10月15日頃から2",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Sui",
+        "Google",
+        "CFTC",
+        "金融庁",
+        "OpenSea"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "暗号資産市場、時価総額12.8兆円減　米軍の対イラン追加攻撃でリスク回避強まる",
+      "link": "https://cointelegraph.jp/news/crypto-markets-tank-80b-as-us-carries-out-fresh-strikes-on-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T16:34:25+09:00",
+      "pub_date_utc": "2026-05-28T07:34:25+00:00",
+      "description": "暗号資産市場の時価総額は、和平協議が進む中、米国が3日間で2度目となるイラン攻撃を実施したことを受け、4月中旬以来の低水準まで落ち込んだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Martin Young、スタッフライター校閲：Jesse Coghlan、スタッフ編集者暗号資産市場、時価総額12.8兆円減　米軍の対イラン追加攻撃でリスク回避強まる18 時間前ニュース 暗号資産市場が下げ足を速めている。米軍がイランに対して追加の軍事攻撃を実施したことを受け、投資家のリスク回避姿勢が強まった。暗号資産全体の時価総額は過去24時間で約800億ドル、円換算で約12兆7600億円減少し、4月中旬以来の低水準となった。米軍は現地時間水曜日遅く、イランの軍事施設を標的に新たな攻撃を実施した。ロイターによると、米当局者はホルムズ海峡周辺で脅威となっていたイランの攻撃型ドローン4機を撃墜したと説明した。米側は一連の行動について「限定的で、防衛的な措置」と位置づけている。一方、イランの革命防衛隊は、クウェートにある米軍基地を攻撃したとする声明を出した。今回の攻撃は、米国とイスラ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "コインチェックとKomlock lab、AIエージェント自律取引の実現へ共同研究",
+      "link": "https://coinpost.jp/?p=712090",
+      "pub_date": "2026-05-28T16:27:36+09:00",
+      "pub_date_utc": "2026-05-28T07:27:36+00:00",
+      "description": "コインチェックとKomlock labが、AIエージェントによる仮想通貨取引を想定した「AIエージェント向けCLI」の共同研究を開始。x402など海外プロトコルの技術分析と、国内規制との整合性検討を推進する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ソーファイ、米ドル建てステーブルコイン「SoFiUSD」をアプリで順次提供開始",
+      "link": "https://www.neweconomy.jp/posts/577338",
+      "pub_date": "2026-05-28T16:25:43+09:00",
+      "pub_date_utc": "2026-05-28T07:25:43+00:00",
+      "description": "SoFiがSoFiUSDをアプリで順次提供 米フィンテック企業ソーファイ（SoFi Technologies）が、米ドル建てステーブルコイン「SoFiUSD」をソーファイアプリ内で購入、売却、保有、変換できるようにしたと",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "SoFiがSoFiUSDをアプリで順次提供 米フィンテック企業ソーファイ（SoFi Technologies）が、米ドル建てステーブルコイン「SoFiUSD」をソーファイアプリ内で購入、売却、保有、変換できるようにしたと5月27日に発表した。 SoFiUSDは、OCC（米通貨監督庁）規制下にある保険付き預金機関ソーファイバンク（SoFi Bank）が発行する米ドル建てステーブルコイン。ただしSoFiUSD自体は預金ではなく、FDIC（米連邦預金保険公社）やSIPC（米証券投資家保護公社）の保険対象ではなく、銀行保証も受けないと同社は説明している。 ソーファイは2025年12月、銀行やフィンテック、企業パートナー向けの金融インフラとしてSoFiUSDをローンチしていた。同コインの対応ブロックチェーンはイーサリアム（Ethereum）とソラナ（Solana）。同社は今後、対応ネットワークを追加",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "中国、AI・データ立法と暗号資産関連の裁判ルール整備を推進へ",
+      "link": "https://www.neweconomy.jp/posts/577319",
+      "pub_date": "2026-05-28T16:09:43+09:00",
+      "pub_date_utc": "2026-05-28T07:09:43+00:00",
+      "description": "最高裁・司法部・全人代が方針示す 中国政府が、国務院新聞弁公室による「開局起歩『十五五』」系列記者会見を開催し、AIやデータ経済、暗号資産、クロスボーダー金融などの新興領域における立法・司法ルール整備を推進する方針を5月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "最高裁・司法部・全人代が方針示す 中国政府が、国務院新聞弁公室による「開局起歩『十五五』」系列記者会見を開催し、AIやデータ経済、暗号資産、クロスボーダー金融などの新興領域における立法・司法ルール整備を推進する方針を5月27日に示した。 「十五五」とは、中国で2026年から始まる「第15次5カ年計画（2026〜2030年）」を指す略称。中国では国家の経済・産業政策を5年単位で策定しており、今回の会見では次期5カ年計画期間における法治建設の方向性が説明された。 会見には、最高人民法院（最高裁）、全国人民代表大会（全人代）常務委員会法制工作委員会、司法部の幹部らが出席。AI生成コンテンツ、データ取引、暗号資産やクロスボーダー金融などの新型案件に関する裁判規則や立法整備を進める考えが示された。 最高人民法院の劉貴祥二級大法官は、「新質生産力」の発展を支える司法保護の強化方針を説明。その中で、AI",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "米グーグル社員、予測市場ポリマーケットでのインサイダー取引で起訴",
+      "link": "https://cointelegraph.jp/news/us-charges-google-employee-with-insider-trading-on-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T15:51:28+09:00",
+      "pub_date_utc": "2026-05-28T06:51:28+00:00",
+      "description": "米司法省とCFTCは、Googleのソフトウェアエンジニアであるミケーレ・スパニョーロ氏が、勤務先で入手した非公開情報を利用し、Polymarketで120万ド",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Stephen Katte、スタッフライター校閲：Jesse Coghlan、スタッフ編集者米グーグル社員、予測市場ポリマーケットでのインサイダー取引で起訴19 時間前ニュース 米司法省と米商品先物取引委員会（CFTC）は27日、暗号資産を利用した予測市場プラットフォーム「ポリマーケット（Polymarket）」でインサイダー取引を行い、約120万ドル（約1億9200万円、1ドル＝約160円換算）の不正な利益を得たとして、米グーグル（Google）のソフトウエア・エンジニアを起訴および提訴したと発表した。Source: US Attorney Southern District of New York 公開前の「検索トップ」情報で荒稼ぎ起訴されたのは、スイス在住のイタリア国籍、ミケーレ・スパニュオーロ被告（36）。発表によると、同被告は2025年10月から12月にかけ、一般公開前の",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui",
+        "Google",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Google"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "韓国、暗号資産「ミームコイン」詐欺で初の逮捕者 新法適用で",
+      "link": "https://cointelegraph.jp/news/south-korea-first-arrest-memecoin-rug-pull-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T15:20:51+09:00",
+      "pub_date_utc": "2026-05-28T06:20:51+00:00",
+      "description": "韓国の検察は、CATFIミームコインのラグプル疑惑をめぐり関係者グループを起訴したと報じられた。暗号資産関連法の下で、同国初のDEXラグプル事件になるとみられる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Zoltan Vardai、スタッフライター校閲：Bryan O'Shea、スタッフ編集者韓国、暗号資産「ミームコイン」詐欺で初の逮捕者 新法適用で20 時間前ニュース 韓国の検察当局は、暗号資産のミームコイン（インターネット上の冗談や流行をテーマにした暗号資産）を利用した「ラグプル（出口詐欺）」に関与したとして、複数人を逮捕・起訴した。2024年に施行された「仮想資産利用者保護法」をこういった事件に適用した韓国で初めてのケースとなる。偽インフルエンサー装い価格を人為操作ソウル南部地検の仮想資産犯罪合同捜査団は27日（現地時間）、ソラナ基盤のミームコイン「CATFI」を利用した詐欺の疑いで、主犯格のパク容疑者ら2人を拘束起訴し、共犯の3人を在宅起訴などとした。発表によると、グループはSNS上で著名な暗号資産インフルエンサー「Eth Father」を装い、独立した第三者の立場を装って",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ナスダック上場のStreamexとDEXのOrca、KYC対応のトークン化証券向け流動性基盤を構築",
+      "link": "https://www.neweconomy.jp/posts/577271",
+      "pub_date": "2026-05-28T15:05:02+09:00",
+      "pub_date_utc": "2026-05-28T06:05:02+00:00",
+      "description": "StreamexとOrcaが連携 ナスダック上場のRWAトークン化インフラ企業ストリームエックス（Streamex）が、ソラナブロックチェーン上の大手自動マーケットメーカー（AMM）インフラプロバイダーのオルカ（Orca",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "StreamexとOrcaが連携 ナスダック上場のRWAトークン化インフラ企業ストリームエックス（Streamex）が、ソラナブロックチェーン上の大手自動マーケットメーカー（AMM）インフラプロバイダーのオルカ（Orca）と共同で、トークン化証券向けの24時間365日対応の分散型二次流動性インフラを立ち上げたと5月27日に発表した。第一号資産には、金裏付けの利回り付きトークン化証券「GLDY」が採用され、「GLDY Pool on Orca」として取引が開始された。 今回の取り組みでは、オルカのAMMインフラと、ストリームエックスのKYC（本人確認）および認定投資家確認技術を組み合わせることで、規制対応をトークンレベルで自動執行する仕組みを構築したとしている。 具体的には、投資家ウォレットはデフォルトで凍結状態に初期化され、KYCおよび適認定投資家確認を通過したウォレットのみがGLDYの保",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "中国最高裁、暗号資産とAIの新たな裁判基準を策定へ 急増する訴訟に対応",
+      "link": "https://cointelegraph.jp/news/china-supreme-court-formulate-rules-digital-currency-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T15:04:51+09:00",
+      "pub_date_utc": "2026-05-28T06:04:51+00:00",
+      "description": "中国の最高人民法院は、暗号資産の取引禁止を維持する一方で、暗号資産やAIに関連する訴訟の裁判ルールについて検討を進める方針だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Zoltan Vardai、スタッフライター校閲：Bryan O'Shea、スタッフ編集者中国最高裁、暗号資産とAIの新たな裁判基準を策定へ 急増する訴訟に対応20 時間前ニュース 中国の最高人民法院（最高裁に相当）は、暗号資産や人工知能（AI）に関連する紛争において、新たな裁判ルールを検討する方針を明らかにした。デジタル経済の進展に伴い複雑化する訴訟に対応し、司法判断の一貫性を高める狙いがある。インサイダー取引などの民事賠償ルールを整備最高人民法院の司法委員会委員である劉貴祥氏は記者会見で、「暗号資産や国境を越えた金融取引など、新たな形態の事件における裁判ルールについて掘り下げた研究を行う。同時に、インサイダー取引や相場操縦が絡む民事賠償の司法解釈を早急に策定する」と述べた。中国メディアの第一財経（Yicai）が27日（現地時間）に報じた。さらに同法院は、AI関連の事件やデータ財",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "マスターカード、NYDFSからビットライセンス取得",
+      "link": "https://www.neweconomy.jp/posts/577264",
+      "pub_date": "2026-05-28T14:47:08+09:00",
+      "pub_date_utc": "2026-05-28T05:47:08+00:00",
+      "description": "マスターカードがNY州のビットライセンス取得 米決済大手マスターカード（Mastercard）が、米ニューヨーク州金融サービス局（NYDFS）からビットライセンス（BitLicense）を取得したと5月27日に発表した。",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "マスターカードがNY州のビットライセンス取得 米決済大手マスターカード（Mastercard）が、米ニューヨーク州金融サービス局（NYDFS）からビットライセンス（BitLicense）を取得したと5月27日に発表した。 同ライセンスは、マスターカードの国際送金・資金移動サービス関連の間接子会社であるマスターカード・トランザクション・サービシズUS（Mastercard Transaction Services (U.S.) ：MTS US）を通じて取得されている。 ビットライセンスは、ニューヨーク州または同州関係者に関わる暗号資産（仮想通貨）事業活動を行う事業者に必要な免許だ。対象となる活動には、暗号資産の送受信、カストディ、顧客向けの売買、交換サービス、暗号資産の管理・発行などが含まれる。この枠組みは、2015年に制定された。なおMTS USは、同州で米ドルなどの法定通貨の送金を行う際",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "Solana",
+        "Ripple",
+        "Circle",
+        "PayPal",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "予測市場ポリマーケット、本人確認の導入検討か インサイダー取引や制裁違反の圧力受け",
+      "link": "https://cointelegraph.jp/news/polymarket-kyc-sanctions-insider-trading-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T14:46:43+09:00",
+      "pub_date_utc": "2026-05-28T05:46:43+00:00",
+      "description": "予測市場プラットフォーム「Polymarket（ポリマーケット）」の運営会社は、従来認めてきた仮名での利用方針を見直し、ユーザー本人確認の義務化を検討していたと報じられている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Turner Wright、スタッフライター校閲：Robert Lakin、スタッフ編集者予測市場ポリマーケット、本人確認の導入検討か インサイダー取引や制裁違反の圧力受け20 時間前ニュース 世界的な規制当局からの圧力が高まる中、暗号資産（仮想通貨）を利用した予測市場プラットフォーム大手のポリマーケット（Polymarket）が、制裁違反などの法的リスクへの対応として、ユーザーの本人確認（KYC）を義務付ける措置を検討していることが明らかになった。米IT系メディア「ジ・インフォメーション」の27日（現地時間）の報道によると、同社は金融機関に求められるKYC（顧客確認）基準に沿った、より厳格なユーザー認証の導入を模索しているという。違法賭博への懸念から、複数の国が同プラットフォームへのアクセスを遮断または制限する動きを見せている中での対応とみられる。制裁対象国からのアクセス遮断ポリ",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "DTCC、子会社DTCのトークン化資産を来年前半にステラ上で利用可能に",
+      "link": "https://www.neweconomy.jp/posts/577219",
+      "pub_date": "2026-05-28T14:27:55+09:00",
+      "pub_date_utc": "2026-05-28T05:27:55+00:00",
+      "description": "DTCのトークン化資産がStellar上で利用可能へ 米証券市場の決済・保管インフラを担うDTCCが、子会社DTCの保管資産をトークン化し、パブリックブロックチェーン「ステラ（Stellar）」上で利用可能にする計画を進",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "DTCのトークン化資産がStellar上で利用可能へ 米証券市場の決済・保管インフラを担うDTCCが、子会社DTCの保管資産をトークン化し、パブリックブロックチェーン「ステラ（Stellar）」上で利用可能にする計画を進めている。DTCCと、ステラ支援の非営利組織ステラ開発財団（Stellar Development Foundation：SDF）が5月27日に発表した。 DTCCとSDFによると、DTCでトークン化された資産は2027年前半にステラ上で利用できる予定だという。なおDTCCは、DTCのトークン化サービスについて、2026年7月に初期の限定的な本番取引を行い、同年10月にサービスを開始する計画だ。 DTCC（Depository Trust & Clearing Corporation）は、米国の株式や債券などの証券取引において、清算・決済・保管といったポストトレード業務を担",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "MicroStrategy",
+        "SEC",
+        "米財務省"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "TMI総合法律事務所・TIS・三井住友トラスト基礎研究所、公共施設のST化を共同研究。地方債活用も検証",
+      "link": "https://www.neweconomy.jp/posts/577245",
+      "pub_date": "2026-05-28T14:23:12+09:00",
+      "pub_date_utc": "2026-05-28T05:23:12+00:00",
+      "description": "TMI・TIS・SMTRIが公共施設・インフラのST化を共同研究 TMI総合法律事務所、TIS、三井住友トラスト基礎研究所（SMTRI）が、公共施設・インフラにおけるセキュリティトークン（ST）に関する共同研究の実施を5",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "TMI・TIS・SMTRIが公共施設・インフラのST化を共同研究 TMI総合法律事務所、TIS、三井住友トラスト基礎研究所（SMTRI）が、公共施設・インフラにおけるセキュリティトークン（ST）に関する共同研究の実施を5月28日に発表した。3社は同日、その初期的な検証結果を公表した。 3社は、公共施設・インフラのST化について、法的・経済的・技術的観点から課題を整理し、社会実装に向けた論点を明確化することを目的に「公共施設・インフラのST化に関する共同研究会」を立ち上げたという。今後は、民間事業者や地域関係者との具体的な実証やテーマの深掘りも進める予定だ。 発表によると今回の共同研究では、アリーナ施設、公立小中学校などの廃校施設、古民家、一般道路、上下水道、太陽光発電施設などを対象に、施設・事業ごとの所有主体や、アセットの移転・譲渡の可否を検証したという。 検証結果によると、施設の所有主体",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "JPYC",
+        "三井住友銀行"
+      ],
+      "main_entities": [
+        "三井住友銀行"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "XRP、「爆発的上昇」の兆しか　3つの重要指標が強気転換を示唆",
+      "link": "https://cointelegraph.jp/news/three-key-xrp-metrics-suggest-an-explosive-price-expansion-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T14:21:46+09:00",
+      "pub_date_utc": "2026-05-28T05:21:46+00:00",
+      "description": "MVRV比率の低下、XRP Ledger上の活発な取引、そして強気のウェッジパターンが、XRP価格が3.10ドルに向けて上昇する可能性を示唆している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Nancy Lubale、スタッフライター校閲：Allen Scott、スタッフ編集者XRP、「爆発的上昇」の兆しか　3つの重要指標が強気転換を示唆21 時間前アルトコイン 暗号資産（仮想通貨）のXRPが、長らく続いた下落基調から反転し、「爆発的な価格上昇」を遂げる可能性が浮上している。2025年7月に付けた直近のサイクル高値から約64%下落しているものの、複数のオンチェーン・データとテクニカル指標が、強力な価格反発のシナリオを支持している。市場関係者が注目する3つの重要な兆候は以下の通りだ。MVRV比率が「極端な過小評価」水準に市場価値を実現価値（実際に取引された時点の価格に基づく価値）で割った指標であるMVRV比率が、過去の底値圏や買い集め（アキュムレーション）局面に一致する水準まで低下している。直近の30日MVRV比率はマイナス47%まで落ち込み、2020年12月以来の低水準",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "中央銀行ら参加の「プロジェクト・アゴラ」、トークン化資金による国際決済の強化を実証",
+      "link": "https://coinpost.jp/?p=711956",
+      "pub_date": "2026-05-28T14:00:50+09:00",
+      "pub_date_utc": "2026-05-28T05:00:50+00:00",
+      "description": "国際決済銀行が主導する「プロジェクト・アゴラ」が、トークン化された銀行資金を用いたクロスボーダー決済の実証を行った。今後は実環境に近い取引での検証へ移行する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Sui",
+        "Tesla",
+        "FRB",
+        "BIS"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "イーサリアム強気派の米投資家、保有ETHを全売却　業界に波紋",
+      "link": "https://cointelegraph.jp/news/ethereum-evangelist-hoffman-explains-why-he-sold-his-eth-stash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T13:52:23+09:00",
+      "pub_date_utc": "2026-05-28T04:52:23+00:00",
+      "description": "「イーサリアムは相応のETH価格を獲得した。ETHが資産として再評価されることは、上昇も下落も考えられない」とデビッド・ホフマン氏は述べている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Martin Young、スタッフライター校閲：Jesse Coghlan、スタッフ編集者イーサリアム強気派の米投資家、保有ETHを全売却　業界に波紋21 時間前ニュース 暗号資産（仮想通貨）イーサリアム（ETH）の強力な擁護者として知られるメディア企業「バンクレス（Bankless）」の共同創業者、デビッド・ホフマン氏が、保有するすべてのETHを売却したことが明らかになった。同氏は「『ETHは通貨である』という投資テーマは概ね役割を終えた」との見方を示しており、業界内に波紋を呼んでいる。ホフマン氏は26日（現地時間）、Ｘ（旧ツイッター）への投稿で「イーサリアムは現在、それにふさわしい価格水準にある。今後、ETHという資産が上方にも下方にも再評価（リレーティング）されることはないだろう」と言及した。■「通貨としてのETH」に限界同氏はイーサリアムの将来性を声高に主張し、投資対象とし",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "米証券大手DTCC、RWAトークン化でステラ採用を計画　マルチチェーン戦略を推進",
+      "link": "https://coinpost.jp/?p=711936",
+      "pub_date": "2026-05-28T13:20:00+09:00",
+      "pub_date_utc": "2026-05-28T04:20:00+00:00",
+      "description": "米証券大手DTCCは、子会社DTCが保管する資産のトークン化を仮想通貨ステラのブロックチェーン上で行う計画を発表。マルチチェーン戦略を推進すると説明している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Tesla"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "富士通、OpenAIとの連携開始。日本のエンタープライズ領域におけるAX加速へ",
+      "link": "https://www.neweconomy.jp/posts/577203",
+      "pub_date": "2026-05-28T12:40:26+09:00",
+      "pub_date_utc": "2026-05-28T03:40:26+00:00",
+      "description": "富士通がOpenAIと連携開始 富士通が、「ChatGPT」提供の米オープンAI（OpenAI）との連携開始を5月27日に発表した。 この連携により富士通は、日本におけるエンタープライズ領域のAIトランスフォーメーション",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "富士通がOpenAIと連携開始 富士通が、「ChatGPT」提供の米オープンAI（OpenAI）との連携開始を5月27日に発表した。 この連携により富士通は、日本におけるエンタープライズ領域のAIトランスフォーメーション（AX）を加速させるとのこと。 主な取り組みは、「オープンAI活用によるForward Deployed Engineer（FDE）事業の強化」、「サイバーセキュリティの強化」、「業界特化ソリューションの開発」の3つが挙げられている。 FDEは、顧客の現場に深く入り込み、技術を活用して課題解決を図る実働型エンジニアを指す。富士通は、顧客の業種・業務知見を組み合わせ、AIのユースケース設計から実装・運用までを短期間で実現してきたFDEの実践知を有しているという。 今回の連携では、このようなFDEモデルにオープンAIの「ChatGPT Enterprise」や「Codex」を組",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "ビットコイン続落　BTCマイナーのAI転換と親仮想通貨法案停滞が重荷",
+      "link": "https://cointelegraph.jp/news/bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-28T12:26:55+09:00",
+      "pub_date_utc": "2026-05-28T03:26:55+00:00",
+      "description": "ビットコインの株式市場に対する劣後が深まっている。BTCマイナーはAI分野へ軸足を移し、米国の親仮想通貨規制も停滞している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Marcel Pechman、スタッフライター校閲：Ray Salmond、スタッフ編集者ビットコイン続落　BTCマイナーのAI転換と親仮想通貨法案停滞が重荷23 時間前マーケット 重要ポイント：ビットコインの7万5000ドル割れは、AIブームに支えられ過去最高値を更新する株式市場との急激な乖離を示している。米国の主要規制法案が継続的に遅延していることから、仮想通貨トレーダー心理は依然として弱い。木曜日におけるビットコイン（BTC）の7万8000ドルでの反落は、2カ月間続いていた伝統的市場との強い相関からの乖離を示した。水曜日に7万5000ドルを下回った一方、ハイテク株中心のナスダック100指数は過去最高値を更新した。ビットコインの劣後を招いている要因は短期的には解消しそうになく、8万2000ドル超への強気ブレイクアウトの可能性を低下させている。Russell 2000 Index",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "SEC",
+        "CFTC",
+        "FRB"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
+      "title": "トランプ大統領、『恒久的な仮想通貨市場構造』法制化を宣言　ゲンスラー時代の規制路線を改めて批判",
+      "link": "https://coinpost.jp/?p=711796",
+      "pub_date": "2026-05-28T11:45:38+09:00",
+      "pub_date_utc": "2026-05-28T02:45:38+00:00",
+      "description": "トランプ大統領が5月28日、Truth Socialでゲンスラー前SEC委員長による規制強化を批判しつつ、仮想通貨政策を主導する姿勢を改めて示した。一方、市場構造法案の成立時期に不透明感が漂う。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン市場は「確信なき停滞相場」＝グラスノード分析 スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算 米証券大手DTCC、RWAトークン化でステラ採用を計画 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想通貨取引所の口コミ・評判一覧｜利用者のリアルな声は googletag.cmd.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Ripple",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-05-29T11:06:09.160540+09:00"
+    },
+    {
       "title": "ビットコイン市場は「確信なき停滞相場」＝グラスノード分析",
       "link": "https://coinpost.jp/?p=711855",
       "pub_date": "2026-05-28T10:45:14+09:00",
@@ -22094,8 +23084,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-28T10:59:11.015664+09:00",
-  "total_count": 1139,
+  "last_updated": "2026-05-29T11:06:09.160540+09:00",
+  "total_count": 1182,
   "sources": [
     "NADA NEWS",
     "CoinPost",
