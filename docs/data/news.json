@@ -1,6 +1,507 @@
 {
   "articles": [
     {
+      "title": "ジュピター、NFTやトークン化TCGカード担保可能なレンディング市場「Offerbook」公開",
+      "link": "https://www.neweconomy.jp/posts/578185",
+      "pub_date": "2026-06-01T11:30:32+09:00",
+      "pub_date_utc": "2026-06-01T02:30:32+00:00",
+      "description": "ジュピターがP2P型信用市場「Offerbook」公開 ソラナ（Solana）の分散型取引所（DEX）アグリゲーターなどを展開するジュピター（Jupiter）で、レンディング市場「オファーブック（Offerbook）」の",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ジュピターがP2P型信用市場「Offerbook」公開 ソラナ（Solana）の分散型取引所（DEX）アグリゲーターなどを展開するジュピター（Jupiter）で、レンディング市場「オファーブック（Offerbook）」のパブリックベータ版の公開がされた。同プロトコル公式Xで5月28日に発表された。 ジュピターチームによると、オファーブックでは、ソラナ上の検証済みトークンやNFT、トークン化されたトレーディングカードゲーム（TCG）カード等に紐づくNFTなどを担保として、USDCを固定金利・固定期間で借りられるという。 同プロトコルチームは、「数千のトークン、NFT、TCGカードが、世界中からアクセス可能なパーミッションレスな信用市場を利用できるようになった」と説明している。 同サービスは、借り手と貸し手が直接条件を設定・交渉するピアツーピア（P2P）型の信用市場として設計されている。借り手",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana",
+        "Uniswap"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "暗号資産プライムブローカー「ファルコンエックス」、SECにIPO用草案を非公開提出＝報道",
+      "link": "https://www.neweconomy.jp/posts/578179",
+      "pub_date": "2026-06-01T11:25:09+09:00",
+      "pub_date_utc": "2026-06-01T02:25:09+00:00",
+      "description": "FalconXがIPO用草案を非公開提出 機関投資家向け暗号資産（仮想通貨）プライムブローカーのファルコンエックス（FalconX）が、米SEC（証券取引委員会）に対し、IPO（新規株式公開）に向けた登録届出書「S-1申",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "FalconXがIPO用草案を非公開提出 機関投資家向け暗号資産（仮想通貨）プライムブローカーのファルコンエックス（FalconX）が、米SEC（証券取引委員会）に対し、IPO（新規株式公開）に向けた登録届出書「S-1申請書（Form S-1）」の草案を非公開審査に提出したようだ。メディア「コインデスク（CoinDesk）」が事情を知る関係者の話として5月29日に報じた。 報道によると、同社はIPOの助言役として米大手金融サービス企業キャンター（Cantor）など複数の銀行関係者を起用したという。ただし市場環境を踏まえ、上場は早くても年末ごろになる見通しだという。 ファルコンエックスは、ヘッジファンドや資産運用会社などの機関投資家を主な顧客とするデジタル資産プライムブローカー。暗号資産取引やファイナンス、カストディ（資産の保管・管理）、直接市場アクセス、ETF（上場投資信託）向けの流動性供",
+      "summary_error": true,
+      "category": "Tokenized Deposit",
+      "all_entities": [
+        "Kraken",
+        "Circle",
+        "SEC"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "イーサL2「Base」、初の独立アップグレード「アズール」をメインネットで稼働開始",
+      "link": "https://www.neweconomy.jp/posts/578162",
+      "pub_date": "2026-06-01T11:16:01+09:00",
+      "pub_date_utc": "2026-06-01T02:16:01+00:00",
+      "description": "ベースが独立アップグレード「Azul」をメインネットで稼働 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が開発するイーサリアム（Ethereum）レイヤー2ネットワーク「ベース（Base）」が、ネットワー",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ベースが独立アップグレード「Azul」をメインネットで稼働 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が開発するイーサリアム（Ethereum）レイヤー2ネットワーク「ベース（Base）」が、ネットワークアップグレード「アズール（Azul）」のメインネット稼働を開始した。公式アカウントから5月29日に発表された。 ベース公式Xアカウントでは、アズールの稼働により「（ベースは）さらに高速かつ安全になった」と説明されている。またベースチームは同投稿で、「これにより、グローバル金融のホームとなる準備が整った」と述べた。 アズールは、ベースにとって初の独立したネットワークアップグレードだ。今年4月にはテストネットで公開されていた。 同アップグレードでは、新たな証明方式「マルチプルーフ（Multiproofs）」が導入された。マルチプルーフは、信頼実行環境（TEE）とゼロ知識証明（",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "バイナンス、新たな株式トークン化商品をまもなく提供開始か",
+      "link": "https://coinpost.jp/?p=712785",
+      "pub_date": "2026-06-01T11:15:00+09:00",
+      "pub_date_utc": "2026-06-01T02:15:00+00:00",
+      "description": "仮想通貨取引所バイナンスが株式関連の新サービス立ち上げをほのめかす投稿をXに公開した。Ondoとの連携や独自トークン「bstocks」導入の可能性で憶測を呼んでいる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（5/29）｜クラリティー法審議・スペースX・テスラ合併憶測・HYPE上昇の最新動向まとめ FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額 ビットコイン停戦延長報道で下げ渋り、米株動向と中東情勢が焦点に｜bitbankアナリスト寄稿 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "Sui、約2日間で3度停止した原因を公表。アドレス・バランス関連バグとDKG不具合で",
+      "link": "https://www.neweconomy.jp/posts/578154",
+      "pub_date": "2026-06-01T11:04:45+09:00",
+      "pub_date_utc": "2026-06-01T02:04:45+00:00",
+      "description": "スイ財団が連続停止の原因を公表 レイヤー1ブロックチェーン「スイ（Sui）」が、5月28日から30日（いずれも日本時間）にかけて約2日間で3度のネットワーク停止に見舞われた。同チェーンの公式Xアカウントより報告されている",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "スイ財団が連続停止の原因を公表 レイヤー1ブロックチェーン「スイ（Sui）」が、5月28日から30日（いずれも日本時間）にかけて約2日間で3度のネットワーク停止に見舞われた。同チェーンの公式Xアカウントより報告されている。 最初の停止は5月28日23：29ごろ（日本時間）に発生した。その後、スイ財団は翌29日5：32ごろネットワーク再開を報告した。この障害について同財団は、「バージョン1.72リリースで導入されたガス課金ロジックのバグ」が原因だったと説明している。 しかし同日21時19分ごろ（日本時間）、スイ財団はスイのネットワーク停止を再び報告した。スイ財団によると、1回目の復旧時に適用した修正はネットワーク機能を回復させるための暫定対応だったという。その後、既知問題の変種が発生し、再停止につながったとのことだ。スイ財団は30日0：42ごろ（日本時間）、ネットワーク再開を報告した。 しか",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui",
+        "Circle"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ベトナム財務省、法改正案で中小企業の暗号資産担保融資を検討＝報道",
+      "link": "https://www.neweconomy.jp/posts/578148",
+      "pub_date": "2026-06-01T10:58:12+09:00",
+      "pub_date_utc": "2026-06-01T01:58:12+00:00",
+      "description": "デジタル資産や知的財産権なども対象に ベトナム財務省が、中小企業（SME）によるデジタル資産や暗号資産（仮想資産）、知的財産権を銀行融資の担保として活用できるようにする制度改革を提案しているようだ。現地紙「Vietnam",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "デジタル資産や知的財産権なども対象に ベトナム財務省が、中小企業（SME）によるデジタル資産や暗号資産（仮想資産）、知的財産権を銀行融資の担保として活用できるようにする制度改革を提案しているようだ。現地紙「Vietnam News」が5月29日に報じた。 報道によると、現在同国で公開諮問中の「中小企業支援法（Law on Support for Small and Medium-sized Enterprises）」改正草案において、従来の不動産など有形資産中心の担保制度を見直し、より多様な資産を担保として認める方針が盛り込まれたという。 草案では、将来形成される資産、財産権、知的財産権、無形資産、デジタル資産、暗号資産など、ベトナム法上認められる幅広い資産を融資担保として利用できる枠組みが提案されている。 背景には、中小企業の資金調達難がある。 報道によると、ベトナムでは中小企業および個",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "米英中銀で割れたステーブルコイン論 「金融の未来」か、それとも一時の流行か",
+      "link": "https://cointelegraph.jp/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-01T10:49:55+09:00",
+      "pub_date_utc": "2026-06-01T01:49:55+00:00",
+      "description": "連邦準備制度理事会のクリストファー・ウォーラー理事は日曜日の会議で、ステーブルコインは米国の政策の影響力を拡大すると述べた一方、イングランド銀行のメーガン・グリーン氏は、ステーブルコインの人気は間もなく衰えるだろうと予想した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Cointelegraph、スタッフライター校閲：Robert Lakin、スタッフ編集者米英中銀で割れたステーブルコイン論 「金融の未来」か、それとも一時の流行か48 分前ニュース ステーブルコインは、金融の未来なのか。それとも、数年後には「あれは何だったのか」と振り返られる一時の流行なのか。米国と英国の中央銀行関係者が、まったく違う答えを示した。舞台はクロアチアのドゥブロブニクで開かれた経済会議。アドリア海を望む美しい観光都市で、金融の未来をめぐる静かな論争が起きた。米連邦準備理事会、FRBのクリストファー・ウォラー理事は、ステーブルコインに前向きな見方を示した。ステーブルコインは決済システムに競争と効率をもたらす金融イノベーションであり、過度な規制で押さえ込むべきではない、という立場である。一方、英イングランド銀行のメーガン・グリーン金融政策委員は、まるで反対の見方を示した。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "FRB"
+      ],
+      "main_entities": [
+        "FRB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "暗号資産の税率は「どこで売るか」で決まる──経路選択と“交換”の落とし穴【泉税理士の「分離課税」解剖連載②】",
+      "link": "https://www.nadanews.com/353453/",
+      "pub_date": "2026-06-01T10:40:43+09:00",
+      "pub_date_utc": "2026-06-01T01:40:43+00:00",
+      "description": "ついに法案が成立し、2028年の適用開始が見込まれる暗号資産の「分離課税」。しかし、「これで税率が一律20%になって安心だ」と考えるのは早計だ。 実は、新税制で The post 暗号資産の税率は「どこで売るか」で決まる──経路選択と“交換”の落とし穴【泉税理士の「分離課税」解剖連載②】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 暗号資産の税率は「どこで売るか」で決まる──経路選択と“交換”の落とし穴【泉税理士の「分離課税」解剖連載②】 By 栃山 直樹 2026年6月1日10:40 .st0 { fill: #374149; } 2026年6月1日10:41 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ついに法案が成立し、2028年の適用開始が見込まれる暗号資産の「分離課税」。しかし、「これで税率が一律20%になって安心だ」と考えるのは早計だ。 実は、新税制では「どこで暗号資産を売るか（譲渡経路）」によって、税率20%の分離課税になるか、最大55%の総合課税になるかが決まるという、極めて重要なルールが存在する。 連載「泉税理士が読み解く！暗号資産『分離課税』のリアル」の第2回では、租",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "なぜビットコインは5月に下落したのか──オンチェーンデータで読み解く市場の実態【エックスウィン】",
+      "link": "https://www.nadanews.com/353471/",
+      "pub_date": "2026-06-01T10:40:00+09:00",
+      "pub_date_utc": "2026-06-01T01:40:00+00:00",
+      "description": "■分析サマリー ● ビットコインは5月1日の76,305ドルから5月31日の73,670ドルまで下落し、月間では約3.5％のマイナスとなった。● 長期保有者の保 The post なぜビットコインは5月に下落したのか──オンチェーンデータで読み解く市場の実態【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット なぜビットコインは5月に下落したのか──オンチェーンデータで読み解く市場の実態【エックスウィン】 By エックスウィン 2026年6月1日10:40 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684848749222-0'); }); ■分析サマリー ● ビットコインは5月1日の76,305ドルから5月31日の73,670ドルまで下落し、月間では約3.5％のマイナスとなった。● 長期保有者の保有継続、取引所残高の減少、供給の固定化は続いている一方、新規資金流入やネットワーク活動は弱く、需要不足が鮮明になった。● オンチェーン上で",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "セイラー氏「Working Better」投稿　ビットコイン追加購入を示唆か",
+      "link": "https://coinpost.jp/?p=712792",
+      "pub_date": "2026-06-01T10:27:24+09:00",
+      "pub_date_utc": "2026-06-01T01:27:24+00:00",
+      "description": "ストラテジーのマイケル・セイラー会長が5月31日、恒例のオレンジドットチャートとともに「Working Better」と投稿。過去の購入発表前に繰り返されてきた行動パターンで、数週間ぶりとなるBTC買い増しへの観測が広がっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（5/29）｜クラリティー法審議・スペースX・テスラ合併憶測・HYPE上昇の最新動向まとめ FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額 ビットコイン停戦延長報道で下げ渋り、米株動向と中東情勢が焦点に｜bitbankアナリスト寄稿 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "FRBウォラー理事、ステーブルコインが米金融政策の影響を世界に拡大と発言",
+      "link": "https://coinpost.jp/?p=712773",
+      "pub_date": "2026-06-01T08:39:46+09:00",
+      "pub_date_utc": "2026-05-31T23:39:46+00:00",
+      "description": "米連邦準備制度理事会のウォラー理事が5月31日、クロアチアの経済会議でステーブルコインの世界普及が米金融政策の波及効果を広げると発言。CBDCには懐疑的な立場を改めて示し、英中銀との見解の相違も浮き彫りになった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（5/29）｜クラリティー法審議・スペースX・テスラ合併憶測・HYPE上昇の最新動向まとめ FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額 ビットコイン停戦延長報道で下げ渋り、米株動向と中東情勢が焦点に｜bitbankアナリスト寄稿 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Tesla",
+        "FRB"
+      ],
+      "main_entities": [
+        "Tesla"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ビットコインのボラティリティ、金に接近　IBITは株式を上回る＝専門家",
+      "link": "https://coinpost.jp/?p=712765",
+      "pub_date": "2026-06-01T08:03:43+09:00",
+      "pub_date_utc": "2026-05-31T23:03:43+00:00",
+      "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（5/29）｜クラリティー法審議・スペースX・テスラ合併憶測・HYPE上昇の最新動向まとめ FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額 ビットコイン停戦延長報道で下げ渋り、米株動向と中東情勢が焦点に｜bitbankアナリスト寄稿 仮想通貨取引所のキャンペーン・特典情報【2026年5月最新】 仮想",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui",
+        "BlackRock",
+        "Tesla"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "AIエージェントが拓くWeb4の未来──ブロックチェーンは「機械のための銀行」になる【アニモカ会長・ヤット・シウ氏来日インタビュー前編】",
+      "link": "https://www.nadanews.com/351948/",
+      "pub_date": "2026-06-01T08:00:00+09:00",
+      "pub_date_utc": "2026-05-31T23:00:00+00:00",
+      "description": "5月中旬、NFTやメタバースを活用したデジタル資産の企画・開発などを手掛けるアニモカ・ブランズの共同創業者兼会長、ヤット・シウ（Yat Siu）氏が来日した。今 The post AIエージェントが拓くWeb4の未来──ブロックチェーンは「機械のための銀行」になる【アニモカ会長・ヤット・シウ氏来日インタビュー前編】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム AIエージェントが拓くWeb4の未来──ブロックチェーンは「機械のための銀行」になる【アニモカ会長・ヤット・シウ氏来日インタビュー前編】 By 平木 昌宏, 橋本 祐樹 2026年6月1日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする 5月中旬、NFTやメタバースを活用したデジタル資産の企画・開発などを手掛けるアニモカ・ブランズの共同創業者兼会長、ヤット・シウ（Yat Siu）氏が来日した。今回の来日の目的は、AIとブロックチェーンをめぐる関係者との面会や、今後の事業戦略に関する議論だったという。 NADA NEWSは5月16日、来日中のシウ氏に独占取材を行った。インタビューでは、ユーザーの代わりに行動するAIエージェントを軸",
+      "summary_error": true,
+      "category": "NFT",
+      "all_entities": [
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Animoca Brands"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "カルダノ財団、今年はサミット開催せず──コミュニティ投票で否決",
+      "link": "https://www.nadanews.com/353449/",
+      "pub_date": "2026-06-01T07:30:00+09:00",
+      "pub_date_utc": "2026-05-31T22:30:00+00:00",
+      "description": "Cardano Foundation（カルダノ財団）は5月30日、ネットワークの財務資金からイベントの費用を賄うためのオンチェーン投票が否決されたことを受け、2 The post カルダノ財団、今年はサミット開催せず──コミュニティ投票で否決 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Finance",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Finance カルダノ財団、今年はサミット開催せず──コミュニティ投票で否決 By 井上 俊彦 2026年6月1日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Cardano Foundation（カルダノ財団）は5月30日、ネットワークの財務資金からイベントの費用を賄うためのオンチェーン投票が否決されたことを受け、2026年に予定していた「カルダノ・サミット」を今年は開催しないと発表した。 同財団は「ガバナンスには参加だけでなく、集団的な決定を受け入れるというコミットメントも必要だ。カルダノ・コミュニティは意思表示をした。我々はその結果を尊重する」と述べた。 投票にかけられたのは、10月5日・6日にシンガポールで2日間のサミットを開催するため、約200",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BitTrade",
+        "Ethereum Foundation",
+        "Cardano"
+      ],
+      "main_entities": [
+        "Cardano"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "Strategyのセイラー氏、「良い仕事をしている」と投稿──ビットコインの追加購入を示唆",
+      "link": "https://www.nadanews.com/353445/",
+      "pub_date": "2026-06-01T07:00:00+09:00",
+      "pub_date_utc": "2026-05-31T22:00:00+00:00",
+      "description": "ビットコイン（BTC）トレジャリー企業Strategy（ストラテジー）のMichael Saylor（マイケル・セイラー）会長は5月31日、Xへの投稿で、同社が The post Strategyのセイラー氏、「良い仕事をしている」と投稿──ビットコインの追加購入を示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Strategyのセイラー氏、「良い仕事をしている」と投稿──ビットコインの追加購入を示唆 By 井上 俊彦 2026年6月1日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコイン（BTC）トレジャリー企業Strategy（ストラテジー）のMichael Saylor（マイケル・セイラー）会長は5月31日、Xへの投稿で、同社が今後数日中に新たなBTC購入を発表する見通しを示唆した。 セイラー氏は「Working Better（良い仕事をしている）」とツイートし、過去6年近くにわたる同社のBTC購入実績を追跡したバブルチャートを添付した。同氏は購入発表の直前にこのチャートを投稿する傾向があり、市場では新規取得のサインと受け止められている。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BitTrade",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "JPモルガンのダイモンCEO、「銀行はクラリティ法案に反対する戦いを続ける」",
+      "link": "https://www.nadanews.com/353439/",
+      "pub_date": "2026-06-01T06:30:00+09:00",
+      "pub_date_utc": "2026-05-31T21:30:00+00:00",
+      "description": "JPMorgan（JPモルガン）のJamie Dimon（ジェイミー・ダイモン）CEOは5月29日、Fox Business（FOXビジネス）に出演し、銀行業界 The post JPモルガンのダイモンCEO、「銀行はクラリティ法案に反対する戦いを続ける」 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 JPモルガンのダイモンCEO、「銀行はクラリティ法案に反対する戦いを続ける」 By 井上 俊彦 2026年6月1日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); JPMorgan（JPモルガン）のJamie Dimon（ジェイミー・ダイモン）CEOは5月29日、Fox Business（FOXビジネス）に出演し、銀行業界はアメリカの暗号資産（仮想通貨）市場構造法案「クラリティ法案（Digital Asset Market Clarity Act：CLARITY Act）」の現行版に対して「戦い続ける」と述べた。 ダイモン氏は、法案の最新版が事実上、暗号資産企業によるユーザーの預金やステーブルコイン残高への利息支払いを可能にしていると批判した。そし",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BitTrade",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ルミス上院議員、「中国は待っていない」とクラリティ法案の成立を促す",
+      "link": "https://www.nadanews.com/353433/",
+      "pub_date": "2026-06-01T06:00:00+09:00",
+      "pub_date_utc": "2026-05-31T21:00:00+00:00",
+      "description": "米共和党のCynthia Lummis（シンシア・ルミス）上院議員は5月30日、自身のXで「アメリカがデジタル資産規制のグローバル基準を確立しなければ、誰かがそ The post ルミス上院議員、「中国は待っていない」とクラリティ法案の成立を促す first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 ルミス上院議員、「中国は待っていない」とクラリティ法案の成立を促す By 井上 俊彦 2026年6月1日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米共和党のCynthia Lummis（シンシア・ルミス）上院議員は5月30日、自身のXで「アメリカがデジタル資産規制のグローバル基準を確立しなければ、誰かがそうするだろう。中国は待っていない」と投稿し、暗号資産（仮想通貨）市場構造法「クラリティ法案（Digital Asset Market Clarity Act：CLARITY Act）」の成立を強く促した。別の投稿では、今の議会で成立を逃せば「次の機会はおそらく2030年になる」と警告している。 発言の意図は、中国との競争関係を踏まえ、立法の",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BitTrade",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ビットコイン、7万8000ドルを視野 保有者が「短期の最強支持帯」を防衛",
+      "link": "https://cointelegraph.jp/news/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-31T23:11:00+09:00",
+      "pub_date_utc": "2026-05-31T14:11:00+00:00",
+      "description": "ビットコインが主要保有者の取得原価水準から反発したことで、さらなる上昇の可能性が高まり、過去のデータは10万1000ドルが最良のシナリオにおける目標値となる可能性を示唆している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Yashu Gola、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコイン、7万8000ドルを視野 保有者が「短期の最強支持帯」を防衛12 時間前価格分析 暗号資産市場で、再びビットコインに視線が集まっている。週末にかけてビットコイン（BTC）は反発した。足元では7万4000ドル、円換算で約1179万円前後まで値を戻している。市場関係者がいま注目するのは、次の節目となる7万8200ドル、約1245万円だ。なぜ、この水準が重要なのか。そこには、ビットコインを3カ月から6カ月保有している投資家たちの「取得原価」がある。つまり、この価格帯を下回るか、上回るかで、投資家心理は大きく変わる。BTC realized price by age vs. price. Source: Glassnode「ここは守る」短期保有者たちの本音オンチェーン分析会社Glassnodeのデ",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ルミス上院議員「CLARITY法案が不成立なら、中国が新金融時代のルールを作る」",
+      "link": "https://cointelegraph.jp/news/senator-lummis-says-china-will-beat-the-us-to-the-punch-if-clarity-is-not-passed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-31T23:03:12+09:00",
+      "pub_date_utc": "2026-05-31T14:03:12+00:00",
+      "description": "上院銀行委員会は5月にCLARITY法案の審議を進めることを決議したが、同法案は大統領の署名を得る前に、議会の両院を通過する必要がある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Vince Quill、スタッフライター校閲：Robert Lakin、スタッフ編集者ルミス上院議員「CLARITY法案が不成立なら、中国が新金融時代のルールを作る」12 時間前ニュース 米国発の暗号資産市場に、またしても冷たい風が吹いている。ビットコインETFからは先週、14億2000万ドル、約2262億円もの資金が流出した。その前週にも12億6000万ドル、約2007億円が抜けており、市場には売り圧力が重くのしかかっている。そんな中、米政界でにわかに注目を集めているのが、暗号資産市場のルール作りをめぐる一本の法案だ。その名は「デジタル資産市場明確化法案」、通称CLARITY法案。米国で暗号資産の市場構造を定める重要法案とされる。ワイオミング州選出のシンシア・ルミス上院議員は、この法案が成立しなければ、米国は暗号資産分野の主導権を中国などに奪われかねないと訴えている。 ルミス氏は",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ビットコイン「7万ドル防衛戦」の裏側",
+      "link": "https://cointelegraph.jp/news/bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-31T22:52:59+09:00",
+      "pub_date_utc": "2026-05-31T13:52:59+00:00",
+      "description": "ビットコインの押し目買いはレンジの安値付近に存在し、そのゾーンで新たなレバレッジロングポジションが開設されたが、出来高は下降トレンドを反転させるのに必要な規模には達していない。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Antonio Oliveira、スタッフライター校閲：Ray Salmond、スタッフ編集者ビットコイン「7万ドル防衛戦」の裏側12 時間前マーケット ビットコイン市場が、再び不穏な空気に包まれている。きっかけは、現物ビットコインETFからの巨額資金流出だ。先週だけで流出額は14億2000万ドル、約2262億円。その前週にも12億6000万ドル、約2007億円が流出しており、2週連続で市場から巨額の資金が抜けた格好だ。TradingView上に転載されたCointelegraphの記事でも、先週14.2億ドル、前週12.6億ドルのETF流出が市場を圧迫したと伝えている。 その余波を受け、BTCは一時7万2500ドル、約1155万円まで下落した。市場関係者の脳裏によぎったのは、2月から4月にかけて続いた、あの重苦しいレンジ相場だ。BTCは当時、6万〜7万ドル、約956万〜1115万",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Tether"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ステーブルコインUSDC、20億円分凍結 発行体サークル社が権限発動",
+      "link": "https://cointelegraph.jp/news/circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-31T22:43:12+09:00",
+      "pub_date_utc": "2026-05-31T13:43:12+00:00",
+      "description": "The $12.6 million in USDC was likely frozen in connection with an ongoing but unrelated civil court case, according to onchain sleuth ZachXBT.",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Vince Quill、スタッフライター校閲：Robert Lakin、スタッフ編集者ステーブルコインUSDC、20億円分凍結 発行体サークル社が権限発動　12 時間前ニュース ステーブルコインは、本当に「自分の金」なのか。暗号資産業界に、またひとつ冷たい現実が突きつけられた。米サークル社が発行するドル連動型ステーブルコイン「USDC」1260万ドル、円換算で約20億円が凍結されたというのだ。対象となったのは、プライバシー技術を扱うプロトコル「Zama」に関連するUSDC。オンチェーン調査で知られるZachXBT氏が明らかにした。凍結されたのはZamaの「confidential USDC」スマートコントラクトに関連する資金だった。Zamaは、ブロックチェーン上で機密性の高い計算を可能にするプライバシー系プロトコルである。普通のブロックチェーンでは、取引履歴や残高は基本的に見える。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui",
+        "Circle"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
+      "title": "ビットコイン、7万ドル維持が焦点 下抜けなら6万5000ドル割れも",
+      "link": "https://cointelegraph.jp/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-05-31T22:36:53+09:00",
+      "pub_date_utc": "2026-05-31T13:36:53+00:00",
+      "description": "ビットコインは7万3000ドル前後で推移しているが、ある仮想通貨トレーダーは、現在の状況は「2月の前回の暴落とは異なる」と述べている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Ciaran Lyons、スタッフライター校閲：Felix Ng、スタッフ編集者ビットコイン、7万ドル維持が焦点 下抜けなら6万5000ドル割れも13 時間前ニュース 暗号資産ビットコインが重要な価格帯に差しかかっている。市場関係者の間では、7万ドル、円換算で約1115万円前後を維持できるかが焦点となっている。下値支持線を割り込めば、2月につけた年初来安値の6万ドル、約956万円に再び近づく可能性がある。暗号資産トレーダーでMN Trading Capital創業者のミカエル・ファン・デ・ポッペ氏は、Xへの投稿で「ビットコインは重要な水準にある。維持できなければ、6万5000ドル未満で買うことになる」と指摘した。6万5000ドルは円換算で約1035万円に相当する。ビットコインは2月初めに6万ドルまで下落した後、反発し、記事執筆時点では7万3873ドル、約1176万円で推移していた。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-01T11:38:03.801863+09:00"
+    },
+    {
       "title": "CLARITY法案はどこまで進んだのか？ アメリカ暗号資産市場の現在地【サンフランシスコ レポート】",
       "link": "https://www.nadanews.com/353005/",
       "pub_date": "2026-05-31T10:00:00+09:00",
@@ -24542,8 +25043,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-05-31T11:28:14.554315+09:00",
-  "total_count": 1245,
+  "last_updated": "2026-06-01T11:38:03.801863+09:00",
+  "total_count": 1267,
   "sources": [
     "NADA NEWS",
     "CoinPost",
