@@ -1,6 +1,1299 @@
 {
   "articles": [
     {
+      "title": "仮想通貨相場の冬に変化の兆候か、ビットワイズ幹部が指摘",
+      "link": "https://coinpost.jp/?p=713706",
+      "pub_date": "2026-06-03T11:20:53+09:00",
+      "pub_date_utc": "2026-06-03T02:20:53+00:00",
+      "description": "ビットワイズの最高投資責任者は、仮想通貨市場について3つの見解を共有した。仮想通貨投資が逆張り投資になりつつあることや相場の冬に変化の兆候があることなどを指摘している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "「仮想通貨市場と株式の乖離が明確に」ウィンターミュートが背景を分析",
+      "link": "https://coinpost.jp/?p=713675",
+      "pub_date": "2026-06-03T10:55:53+09:00",
+      "pub_date_utc": "2026-06-03T01:55:53+00:00",
+      "description": "ウィンターミュートが仮想通貨市場の週間レポートを公開。BTCとETHの下落とS&P500の連騰が対照的となる中、短期的な見通しを解説した。ハイパーリキッドの成長にも触れている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "アーベ、rsETHインシデント受けリスク管理強化へ。v3上場の全資産レビュー実施",
+      "link": "https://www.neweconomy.jp/posts/579010",
+      "pub_date": "2026-06-03T10:47:43+09:00",
+      "pub_date_utc": "2026-06-03T01:47:43+00:00",
+      "description": "ブリッジやオラクル依存も審査対象に レンディングプロトコル「アーベ（Aave）」の開発元アーベラボ（Aave Labs）が、4月18日に発生したrsETHインシデントに関する事後報告書（ポストモーテム）を5月31日に公開",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ブリッジやオラクル依存も審査対象に レンディングプロトコル「アーベ（Aave）」の開発元アーベラボ（Aave Labs）が、4月18日に発生したrsETHインシデントに関する事後報告書（ポストモーテム）を5月31日に公開した。 同報告では、事故対応や復旧状況に加え、今後の資産上場基準やリスク管理体制の見直し方針も示された。 今回の発表は、4月18日に発生したリキッドリステーキングプロトコル「ケルプDAO（KelpDAO）」のrsETHを巡るインシデントを受けたものだ。同事案ではユニチェーン（Unichain）からイーサリアム（Ethereum）へのrsETHブリッジにおいて、不正なクロスチェーンメッセージが受理されたことで、本来の裏付けを伴わない116,500rsETHがイーサリアム側で払い出されたという。 アーベラボによると、攻撃者は不正取得したrsETHのうち89,567rsETHをア",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Aave",
+        "Lido",
+        "ConsenSys"
+      ],
+      "main_entities": [
+        "Aave"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "クラリティ法案、米上院の立法日程に追加",
+      "link": "https://www.nadanews.com/353770/",
+      "pub_date": "2026-06-03T10:45:00+09:00",
+      "pub_date_utc": "2026-06-03T01:45:00+00:00",
+      "description": "暗号資産（仮想通貨）市場を包括的に規制する「Clarity Act（クラリティ法案）」が、6月1日付けで米上院の立法日程に追加されたと、暗号資産ジャーナリストの The post クラリティ法案、米上院の立法日程に追加 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 クラリティ法案、米上院の立法日程に追加 By 廣瀬 優香 2026年6月3日10:45 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）市場を包括的に規制する「Clarity Act（クラリティ法案）」が、6月1日付けで米上院の立法日程に追加されたと、暗号資産ジャーナリストのEleanor Terrett（エレノア・テレット）氏が報じた。 テレット氏は、これは法案審議プロセスの一段階に過ぎず、必ずしも本会議での採決が間近に迫っていることを示すものではないと述べた。今回の追加は、具体的には、上院銀行委員会での審議（マークアップ）で可決された全ての修正案を法案の最新版に反映した委員会報告書だとしている。 テレット氏は、銀行委員会版と銀行委員会",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "JPYC",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "SEC、仮想通貨規制の明確化へ転換　5カ年戦略に初明記",
+      "link": "https://coinpost.jp/?p=713719",
+      "pub_date": "2026-06-03T10:28:37+09:00",
+      "pub_date_utc": "2026-06-03T01:28:37+00:00",
+      "description": "米SECがアトキンス委員長主導のもと2026〜2030年度戦略計画草案を公開。仮想通貨・ブロックチェーンへの明確な規制枠組み整備を最優先目標の筆頭に掲げ、CFTCとの管轄調整や執行方針の転換も明示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットコイン保有企業群、平均コスト7.8万ドルで含み損約12%に拡大",
+      "link": "https://coinpost.jp/?p=713641",
+      "pub_date": "2026-06-03T09:55:48+09:00",
+      "pub_date_utc": "2026-06-03T00:55:48+00:00",
+      "description": "仮想通貨ビットコインの保有企業（DAT）企業群の平均取得コストが約7万8,777ドルに達し未実現損失率はマイナス11.9%以上となった。ストラテジーは2022年以来初めてビットコインを売却し、投資家の間では財務的な持続可能性への懸念が広がっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "Bitcoin Japan CEO、ビットコイン取得について「時機を見て判断」",
+      "link": "https://coinpost.jp/?p=713682",
+      "pub_date": "2026-06-03T09:27:32+09:00",
+      "pub_date_utc": "2026-06-03T00:27:32+00:00",
+      "description": "Bitcoin Japan CEOのフィリップ・ロード氏が6月3日、同社が現時点でビットコインを一切保有していないことをXで公表。ガバナンス・カストディ体制の整備を優先した理由と、AIインフラ等への投資方針も説明した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットコイン100万円急落、7万ドル付近に積み上がったロングが一斉清算｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=713666",
+      "pub_date": "2026-06-03T09:05:50+09:00",
+      "pub_date_utc": "2026-06-03T00:05:50+00:00",
+      "description": "仮想通貨ビットコインは6月2日から3日にかけて下落し、円建てでは一時100万円近い急落となった。背景には、世界最大級のビットコイントレジャリー企業であるストラテジー社によるビットコイン売却が市場に波紋を広げたことに加え、米国で審議が進むクラリティー法案の先行きに対する不透明感が依然として払拭されていないことがある。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Hyperliquid",
+        "SEC"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "「ステーブルコインの利用頻度が過去最高水準に」DWFラボが分析",
+      "link": "https://coinpost.jp/?p=713653",
+      "pub_date": "2026-06-03T07:45:24+09:00",
+      "pub_date_utc": "2026-06-02T22:45:24+00:00",
+      "description": "DWFラボは、ステーブルコインや仮想通貨に関するレポートを公開。ステーブルコインについて、2025年以降は投機ではなく現実世界での実用が拡大していると述べている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "コインベース、プロシェアーズのステーブルコイン準備資産向けETF「IQMM」に出資",
+      "link": "https://coinpost.jp/?p=713642",
+      "pub_date": "2026-06-03T07:40:50+09:00",
+      "pub_date_utc": "2026-06-02T22:40:50+00:00",
+      "description": "コインベースが、ジーニアス法に準拠したステーブルコイン準備資産向けの初のマネーマーケットETF「IQMM」を運用するプロシェアーズに出資した。ステーブルコインの準備資産インフラ整備を推進する戦略的投資。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "SEC、戦略計画案を発表──暗号資産に特化した目標も",
+      "link": "https://www.nadanews.com/353752/",
+      "pub_date": "2026-06-03T07:30:00+09:00",
+      "pub_date_utc": "2026-06-02T22:30:00+00:00",
+      "description": "アメリカ証券取引委員会（SEC）は6月2日、2026〜2030会計年度を対象とする戦略計画案を公表した。約90年前に連邦議会が定めた中核的な使命──投資家の保護 The post SEC、戦略計画案を発表──暗号資産に特化した目標も first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 SEC、戦略計画案を発表──暗号資産に特化した目標も By 井上 俊彦 2026年6月3日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); アメリカ証券取引委員会（SEC）は6月2日、2026〜2030会計年度を対象とする戦略計画案を公表した。約90年前に連邦議会が定めた中核的な使命──投資家の保護、公正かつ秩序ある効率的な市場の維持、資本形成の促進──に立ち返ることに焦点を当てた内容となっている。 計画案は3つの目標を掲げる。第1に、責任あるイノベーションと資本形成、市場効率、投資家保護を支える「目的に適った明確なルール」の整備で、情報開示の簡素化や私募市場へのアクセス拡大に加え、暗号資産（仮想通貨）と分散型台帳技術（DLT）に合理的で一貫した規",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC",
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "米クラリティー法が上院立法カレンダーに掲載、本会議採決の見通し立たず",
+      "link": "https://coinpost.jp/?p=713643",
+      "pub_date": "2026-06-03T07:13:40+09:00",
+      "pub_date_utc": "2026-06-02T22:13:40+00:00",
+      "description": "米仮想通貨市場構造法「クラリティー法」が上院立法カレンダーへの掲載に至った。ただし農業委員会案との統合作業が残っており、本会議採決には民主党7名の賛成確保が不可欠な状況だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "暗号資産投資は「逆張りの賭け」：Bitwise",
+      "link": "https://www.nadanews.com/353737/",
+      "pub_date": "2026-06-03T07:00:00+09:00",
+      "pub_date_utc": "2026-06-02T22:00:00+00:00",
+      "description": "暗号資産（仮想通貨）運用会社Bitwise（ビットワイズ）の最高投資責任者（CIO）、Matt Hougan（マット・ホーガン）氏は6月2日付のブログ記事で、「 The post 暗号資産投資は「逆張りの賭け」：Bitwise first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 暗号資産投資は「逆張りの賭け」：Bitwise By 井上 俊彦 2026年6月3日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）運用会社Bitwise（ビットワイズ）の最高投資責任者（CIO）、Matt Hougan（マット・ホーガン）氏は6月2日付のブログ記事で、「暗号資産は逆張り投資の対象になりつつある」との見解を示した。同氏は現在の市場について「非常に厳しい状況にある」と指摘している。 ホーガン氏によると、ブログ記事公開時点でビットコイン（BTC）は年初来21%安、イーサリアム（ETH）は33%安、ソラナ（SOL）は37%安、エックス・アール・ピー（XRP）は31%安と主要銘柄が軒並み下落しており、さらにETF（上場",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "Solana",
+        "Ripple",
+        "Hyperliquid",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "6月のビットコイン市場を読む──CryptoQuantオンチェーンデータが示す「分岐点」【エックスウィン】",
+      "link": "https://www.nadanews.com/353738/",
+      "pub_date": "2026-06-03T06:40:00+09:00",
+      "pub_date_utc": "2026-06-02T21:40:00+00:00",
+      "description": "● 取引所からBTCが引き出され続けており、中長期では供給不足につながる可能性がある。● 一方で、米国機関投資家の買い需要はまだ弱く、本格上昇には材料不足の状態 The post 6月のビットコイン市場を読む──CryptoQuantオンチェーンデータが示す「分岐点」【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 6月のビットコイン市場を読む──CryptoQuantオンチェーンデータが示す「分岐点」【エックスウィン】 By エックスウィン 2026年6月3日06:40 .st0 { fill: #374149; } 2026年6月3日06:45 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 取引所からBTCが引き出され続けており、中長期では供給不足につながる可能性がある。● 一方で、米国機関投資家の買い需要はまだ弱く、本格上昇には材料不足の状態。● 6月は「底固めから上昇へ向かうのか」、それとも「再調整するのか」を決める重要な1か月になりそうだ。 6月のビットコイン市場を見る上で重要なのは、「価格」だけではなく、「市場の中で何が起きているか」を確認することだ。",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "bitbank",
+        "Fidelity",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "米民主党議員、退職金口座の仮想通貨投資解禁に反対　労働省に規則撤回を要求",
+      "link": "https://coinpost.jp/?p=713644",
+      "pub_date": "2026-06-03T06:35:54+09:00",
+      "pub_date_utc": "2026-06-02T21:35:54+00:00",
+      "description": "サンダース、ウォーレン両上院議員らは6月1日付書簡で、14.2兆ドルの401k退職金を仮想通貨などに開放するDOL規則案の撤回を要求。ボラティリティとトランプ家の利益相反を問題視している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "Mt. Gox、7億3900万ドル相当のビットコインを移動",
+      "link": "https://www.nadanews.com/353734/",
+      "pub_date": "2026-06-03T06:30:00+09:00",
+      "pub_date_utc": "2026-06-02T21:30:00+00:00",
+      "description": "オンチェーン分析企業Arkham Intelligence（アーカム・インテリジェンス）のデータによると、破綻した日本の暗号資産（仮想通貨）取引所Mt. Gox The post Mt. Gox、7億3900万ドル相当のビットコインを移動 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Mt. Gox、7億3900万ドル相当のビットコインを移動 By 井上 俊彦 2026年6月3日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); オンチェーン分析企業Arkham Intelligence（アーカム・インテリジェンス）のデータによると、破綻した日本の暗号資産（仮想通貨）取引所Mt. Gox（マウントゴックス）は6月2日、コールドウォレットから約7億3900万ドル（約1182億4000万円、1ドル=160円換算）相当のビットコイン（BTC）を移動させた。3月以来、2カ月超ぶりのオンチェーン上の動きとなる。 ブロックチェーンデータによれば、Mt. Goxは協定世界時（UTC）午前4時47分に、コールドウォレットから約7億3080万ドル",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "Coinbase、ステーブルコイン準備資産に特化したProSharesのETFに投資",
+      "link": "https://www.nadanews.com/353732/",
+      "pub_date": "2026-06-03T06:00:00+09:00",
+      "pub_date_utc": "2026-06-02T21:00:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所のCoinbase（コインベース）は6月2日、資産運用会社ProShares（プロシェアーズ）が手がけるステーブルコイン特化型のETF The post Coinbase、ステーブルコイン準備資産に特化したProSharesのETFに投資 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "stablecoin Coinbase、ステーブルコイン準備資産に特化したProSharesのETFに投資 By 井上 俊彦 2026年6月3日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所のCoinbase（コインベース）は6月2日、資産運用会社ProShares（プロシェアーズ）が手がけるステーブルコイン特化型のETF（上場投資信託）「ProShares GENIUSマネーマーケットETF（IQMM）」に投資したと発表した。投資額は非開示。 IQMMは、アメリカのステーブルコイン規制法「GENIUS法」の下で準備金として適格となるよう設計された初のマネーマーケットETFとされる。 GENIUS法は、ステーブルコインの発行者に対",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "Circle",
+        "JPYC",
+        "米財務省"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "イーサリアムがビットコインをアウトパフォームする転換点、ストラテジーの32BTC売却を契機に＝スタンダードチャータード分析",
+      "link": "https://coinpost.jp/?p=713645",
+      "pub_date": "2026-06-03T05:50:56+09:00",
+      "pub_date_utc": "2026-06-02T20:50:56+00:00",
+      "description": "大手銀スタンダードチャータードのケンドリック氏が、ストラテジーのビットコイン売却を受け『ETH-BTC比率』の年末目標を0.040と予測。ステーキング収益を持つETH系トレジャリー企業の優位性も指摘。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "マネーグラム、ステラ上で独自ステーブルコイン「MGUSD」を米国ローンチ",
+      "link": "https://coinpost.jp/?p=713635",
+      "pub_date": "2026-06-03T05:00:46+09:00",
+      "pub_date_utc": "2026-06-02T20:00:46+00:00",
+      "description": "国際送金大手マネーグラムが2日、米ドル建てステーブルコイン「MGUSD」を米国市場で正式に立ち上げた。ストライプ傘下のブリッジが発行体を担い、ステラブロックチェーン上で発行。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Fireblocks"
+      ],
+      "main_entities": [
+        "Fireblocks"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "【6/2話題】JPYC累計発行額が30億円突破、ストラテジーのBTC売却、トンコイン（TON）からグラム（GRAM）への改称提案など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/578990",
+      "pub_date": "2026-06-02T22:49:51+09:00",
+      "pub_date_utc": "2026-06-02T13:49:51+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース 日本円ステーブルコイン「JPYC」、累計発行額30億円を突破 ストラテジー、2022年12月以来初のBTC売却。優先株配当に充当へ TON、「トンコイン（TON）」から「グラム（GRAM）」への改称を提案 自民党ブロックチェーン議連、円ステーブル",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "GMOコイン",
+        "Toncoin",
+        "Hyperliquid",
+        "Circle",
+        "JPYC",
+        "Grayscale",
+        "SBI Holdings",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Toncoin"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "海外暗号資産業者に包囲網 金融庁がにらむ「無登録営業」の次の一手",
+      "link": "https://cointelegraph.jp/news/what-is-japan-s-financial-services-agency-s-next-move-regarding-unregistered-business-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T21:21:13+09:00",
+      "pub_date_utc": "2026-06-02T12:21:13+00:00",
+      "description": "日本の暗号資産規制が、いよいよ「注意喚起」の段階から「執行」の段階に入ろうとしている。金融庁は、今年3月31日に開かれた金融行政モニター委員と幹部との意見交換会の議事要旨を公表した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "日本の暗号資産規制が、いよいよ「注意喚起」の段階から「執行」の段階に入ろうとしている。金融庁は、今年3月31日に開かれた金融行政モニター委員と幹部との意見交換会の議事要旨を公表した。",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "カルダノ創業者、病院事業で400億円消失 次にすがる「暗号資産の本丸」",
+      "link": "https://cointelegraph.jp/news/cardano-founder-loses-40-billion-yen-in-hospital-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T21:00:39+09:00",
+      "pub_date_utc": "2026-06-02T12:00:39+00:00",
+      "description": "カルダノ創業者のチャールズ・ホスキンソン氏が、再び暗号資産の世界に戻ってきた。きっかけは、米ワイオミング州で進めていた医療事業の撤退だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "カルダノ創業者のチャールズ・ホスキンソン氏が、再び暗号資産の世界に戻ってきた。きっかけは、米ワイオミング州で進めていた医療事業の撤退だ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Cardano"
+      ],
+      "main_entities": [
+        "Cardano"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "SBI、Anthropicと協業──オンチェーン金融拡大の中でClaudeを全社展開へ",
+      "link": "https://www.nadanews.com/353716/",
+      "pub_date": "2026-06-02T20:47:02+09:00",
+      "pub_date_utc": "2026-06-02T11:47:02+00:00",
+      "description": "SBIホールディングスは6月2日、米AI企業Anthropicと、生成AIプラットフォーム「Claude」を活用した全社的なAIトランスフォーメーション（AX） The post SBI、Anthropicと協業──オンチェーン金融拡大の中でClaudeを全社展開へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス SBI、Anthropicと協業──オンチェーン金融拡大の中でClaudeを全社展開へ By 平木 昌宏 2026年6月2日20:47 .st0 { fill: #374149; } 2026年6月2日20:48 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); を で優先にする SBIホールディングスは6月2日、米AI企業Anthropicと、生成AIプラットフォーム「Claude」を活用した全社的なAIトランスフォーメーション（AX）を推進することで合意したと発表した。 SBIホールディングスによると、日本の金融グループがAnthropicと共同でClaudeを活用した全社的なAXを推進するのは初めてだという。 実装は、SBIホールディングスの持分法適用会社",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "JPYC",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ロシア制裁に抜け道 9兆円動かした謎の暗号資産ネットワーク「A7」の正体とは",
+      "link": "https://cointelegraph.jp/news/a-loophole-in-sanctions-against-russia-the-true-identity-of-the-a7-that-moved-9-trillion-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T20:40:56+09:00",
+      "pub_date_utc": "2026-06-02T11:40:56+00:00",
+      "description": "ロシアを国際金融から締め出すー。欧米はこの3年、そう考えて制裁網を広げてきた。ロシアの銀行をSWIFTから外し、外貨準備を凍結し、ドル決済へのアクセスを断つ。狙いは明確だった。ウクライナ侵攻を続けるロシアの資金繰りを締め上げることだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ロシアを国際金融から締め出すー。欧米はこの3年、そう考えて制裁網を広げてきた。ロシアの銀行をSWIFTから外し、外貨準備を凍結し、ドル決済へのアクセスを断つ。狙いは明確だった。ウクライナ侵攻を続けるロシアの資金繰りを締め上げることだ。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "「予測市場」は賭博なのか 1.6兆円市場を揺らす“税金逃れ”論争",
+      "link": "https://cointelegraph.jp/news/are-prediction-markets-gambling-a-tax-evasion-controversy-shakes-a-1-6-trillion-yen-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T20:28:23+09:00",
+      "pub_date_utc": "2026-06-02T11:28:23+00:00",
+      "description": "米国で、予測市場をめぐる争いが激しくなっている。予測市場とは、選挙、スポーツ、経済指標、国際情勢など、現実に起きる出来事の結果に対して売買する市場だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米国で、予測市場をめぐる争いが激しくなっている。予測市場とは、選挙、スポーツ、経済指標、国際情勢など、現実に起きる出来事の結果に対して売買する市場だ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "40万円の投資が19億円に「8カ月ガチホ」で暗号資産長者に",
+      "link": "https://cointelegraph.jp/news/a-400000-yen-investment-turned-into-1-9-billion-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T19:57:01+09:00",
+      "pub_date_utc": "2026-06-02T10:57:01+00:00",
+      "description": "暗号資産市場には、時々こういう話が出てくる。あるトレーダーが、わずか2480ドル、約39万7000円を、8カ月で1200万ドル超、約19億2000万円に化けさせた。買ったのは、バイナンスライフというミームコインだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "暗号資産市場には、時々こういう話が出てくる。あるトレーダーが、わずか2480ドル、約39万7000円を、8カ月で1200万ドル超、約19億2000万円に化けさせた。買ったのは、バイナンスライフというミームコインだ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "暗号資産トレジャリー企業への資金流入、5月は急減",
+      "link": "https://cointelegraph.jp/news/crypto-treasury-inflows-may-lowest-october-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T19:34:25+09:00",
+      "pub_date_utc": "2026-06-02T10:34:25+00:00",
+      "description": "デジタル資産トレジャリー（DAT）企業への月間資金流入が、5月にわずか 1億8000万ドル（約287億5500万円） まで落ち込んだ。デフィラマのデータによれば、これは2024年10月以来の低水準だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Ezra Reguerra、スタッフライター校閲：Bryan O'Shea、スタッフ編集者暗号資産トレジャリー企業への資金流入、5月は急減16 時間前ニュース 「買って抱えるだけ」の時代に終止符かデジタル資産トレジャリー（DAT）企業への月間資金流入が、5月にわずか 1億8000万ドル（約287億5500万円） まで落ち込んだ。デフィラマのデータによれば、これは2024年10月以来の低水準だ。前月4月の流入額は 44億ドル（約7029億円）。そこから実に95％減。さらに、1月から5月までの月平均と比べても約93％少ない。3月には 42億ドル（約6710億円）、4月には 44億ドル（約7029億円） と、2カ月続けて力強い資金流入があっただけに、5月の失速ぶりは際立つ。それでも、5月の主役はやはりビットコインだった。ビットコインを保有するトレジャリー企業への流入は 1億7700万ドル",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "韓国暗号資産市場、主役は個人投資家から伝統金融へ",
+      "link": "https://cointelegraph.jp/news/the-south-korean-cryptocurrency-market-is-shifting-from-individual-investors-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T19:27:12+09:00",
+      "pub_date_utc": "2026-06-02T10:27:12+00:00",
+      "description": "韓国の暗号資産市場で、主役が変わり始めている。これまで韓国市場を動かしてきたのは、個人投資家の熱狂だった。アップビットやビッサムといった国内取引所を通じ、アルトコインの売買が活発に行われ、「キムチプレミアム」と呼ばれる韓国特有の価格上乗せもたびたび話題になった。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "韓国の暗号資産市場で、主役が変わり始めている。これまで韓国市場を動かしてきたのは、個人投資家の熱狂だった。アップビットやビッサムといった国内取引所を通じ、アルトコインの売買が活発に行われ、「キムチプレミアム」と呼ばれる韓国特有の価格上乗せもたびたび話題になった。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Upbit"
+      ],
+      "main_entities": [
+        "Upbit"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットコイン、7週間ぶり安値 米・イラン停戦期待しぼみ、7万1000ドル割れ目前に",
+      "link": "https://cointelegraph.jp/news/bitcoin-drops-to-seven-week-low-under-71k-as-us-iran-ceasefire-hopes-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T19:06:55+09:00",
+      "pub_date_utc": "2026-06-02T10:06:55+00:00",
+      "description": "暗号資産市場に、またしても中東リスクの暗い影が差した。ビットコイン（BTC）は月曜日、米国とイランの和平合意が崩れかけるなか、7週間ぶりの安値をつけた。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：William Suberg、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコイン、7週間ぶり安値 米・イラン停戦期待しぼみ、7万1000ドル割れ目前に16 時間前マーケット 暗号資産市場に、またしても中東リスクの暗い影が差した。ビットコイン（BTC）は月曜日、米国とイランの和平合意が崩れかけるなか、7週間ぶりの安値をつけた。価格は一時、7万1000ドル、円換算で約1136万円に迫った。BTC/USD one-day chart. Source: Cointelegraph/TradingView市場関係者が息をのんだのは、イランが米国との和平交渉から身を引く構えを見せたことだ。暗号資産市場の値動きを追うトレーディングビューのデータによれば、BTC/USDは4月中旬以来となる水準まで下落した。背景にあるのは、米・イラン戦争を止めるとみられていた「60日間の停戦」",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "CME、暗号資産先物・先物オプションの24/7取引開始。初週末の取引規模は50Mドルに",
+      "link": "https://www.neweconomy.jp/posts/578828",
+      "pub_date": "2026-06-02T19:06:24+09:00",
+      "pub_date_utc": "2026-06-02T10:06:24+00:00",
+      "description": "CMEの暗号資産先物・オプションの取引規模が50Mドルに 米デリバティブ市場運営大手CMEグループ（CME Group）が開始した暗号資産（仮想通貨）先物・オプションの週7日・24時間取引において、開始後初の週末の取引規",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "CMEの暗号資産先物・オプションの取引規模が50Mドルに 米デリバティブ市場運営大手CMEグループ（CME Group）が開始した暗号資産（仮想通貨）先物・オプションの週7日・24時間取引において、開始後初の週末の取引規模が約5,000万ドル（約80億円）相当に達した。CMEグループが6月1日に発表した。 CMEグループによる暗号資産先物・オプションの取引時間は、5月29日16:00（米中部時間、日本時間5月30日6:30）に始まった。発表によると開始後初の週末には7,200枚超の契約が取引されたという。初の週末取引には、リテール向けおよび機関投資家向けの事業者が参加したとのこと。 CMEグループは2月19日、規制当局の審査を前提に、暗号資産先物・オプションを5月29日から、メンテナンス時間を除き週7日・24時間体制に拡大する計画を発表していた。週7日取引ではメンテナンス時間として、月曜か",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Avalanche",
+        "Sui",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Avalanche"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ブテリン氏、DeFiの清算リスク抑制へ──オプション基盤の新資産設計を提案",
+      "link": "https://www.nadanews.com/353676/",
+      "pub_date": "2026-06-02T18:50:00+09:00",
+      "pub_date_utc": "2026-06-02T09:50:00+00:00",
+      "description": "イーサリアム共同創業者のVitalik Buterin（ヴィタリック・ブテリン）氏は、分散型金融（DeFi）における大きなリスクの一つである急激な清算を抑えるた The post ブテリン氏、DeFiの清算リスク抑制へ──オプション基盤の新資産設計を提案 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Ethereum",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ethereum ブテリン氏、DeFiの清算リスク抑制へ──オプション基盤の新資産設計を提案 By Shoko Galaviz 2026年6月2日18:50 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イーサリアム共同創業者のVitalik Buterin（ヴィタリック・ブテリン）氏は、分散型金融（DeFi）における大きなリスクの一つである急激な清算を抑えるため、新たなインデックス連動型の合成資産設計を検討している。 ブテリン氏は6月1日に公開した研究投稿で、現在のDeFiで広く使われている債務ベースの仕組みに代わり、オプション契約を基盤にしたインデックス連動型資産を提案した。これは、価格指数に連動する資産に対し、インデックスファンドのようにエクスポージャーを得られ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "Ethereum Foundation",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "JPモルガンCEO、コインベースを批判　ステーブルコイン利回りめぐり",
+      "link": "https://cointelegraph.jp/news/jp-morgan-ceo-criticizes-coinbase-over-stablecoin-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T18:42:40+09:00",
+      "pub_date_utc": "2026-06-02T09:42:40+00:00",
+      "description": "米金融大手JPモルガン・チェースのジェイミー・ダイモンCEOが、米暗号資産交換業大手コインベースに強い不満を示した。争点は、米議会で進む暗号資産規制法案「CLARITY法案」だ。暗号資産市場のルールを明確にするための法案だが、銀行業界と暗号資産業界の対立が深まっている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米金融大手JPモルガン・チェースのジェイミー・ダイモンCEOが、米暗号資産交換業大手コインベースに強い不満を示した。争点は、米議会で進む暗号資産規制法案「CLARITY法案」だ。暗号資産市場のルールを明確にするための法案だが、銀行業界と暗号資産業界の対立が深まっている。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Coinbase",
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットコイン、7万ドル割れ寸前 株高を尻目に「暗号資産ひとり負け」の深層",
+      "link": "https://cointelegraph.jp/news/btc-falls-to-70k-but-divergence-from-stocks-is-temporary-say-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T18:32:29+09:00",
+      "pub_date_utc": "2026-06-02T09:32:29+00:00",
+      "description": "米株式市場が史上最高値を更新する一方で、暗号資産市場には冷たい風が吹きつけている。ビットコイン（BTC）は火曜日早朝、コインベースで一時 7万23ドル、日本円にして約 1119万円 まで下落した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Martin Young、スタッフライター校閲：Jesse Coghlan、スタッフ編集者ビットコイン、7万ドル割れ寸前 株高を尻目に「暗号資産ひとり負け」の深層17 時間前ニュース 米株式市場が史上最高値を更新する一方で、暗号資産市場には冷たい風が吹きつけている。ビットコイン（BTC）は火曜日早朝、コインベースで一時 7万23ドル、日本円にして約 1119万円 まで下落した。これは4月7日以来、約2カ月ぶりの安値である。トレーディングビューのデータによれば、ビットコインはこの日だけで4％超、週間では8％の下落となった。さらに、10月につけたピークの 12万6000ドル、約 2013万円 からは実に44％も値を崩している。その一方で、米国株はまるで別世界のような強さを見せている。S&P500は月曜日に7600ポイント超で過去最高値を更新。ハイテク株中心のナスダックも2万7000ポイ",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "マウントゴックス、約1180億円相当のビットコインを移動",
+      "link": "https://cointelegraph.jp/news/mt-gox-moves-739m-in-bitcoin-for-first-time-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T18:07:36+09:00",
+      "pub_date_utc": "2026-06-02T09:07:36+00:00",
+      "description": "かつて日本に本拠を置き、世界最大級のビットコイン取引所として名を馳せたマウントゴックスが、また市場をざわつかせている。すでに破綻した同取引所は火曜日早朝、コールドウォレットから約7億3900万ドル、日本円にして約1180億円相当のビットコインを移動した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Amin Haqshanas、スタッフライター校閲：Bryan O'Shea、スタッフ編集者マウントゴックス、約1180億円相当のビットコインを移動17 時間前ニュース 「弁済売り」再燃か――2カ月ぶりのオンチェーン異変かつて日本に本拠を置き、世界最大級のビットコイン取引所として名を馳せたマウントゴックスが、また市場をざわつかせている。すでに破綻した同取引所は火曜日早朝、コールドウォレットから約7億3900万ドル、日本円にして約1180億円相当のビットコインを移動した。オンチェーン分析会社アーカム・インテリジェンスのデータによれば、同社によるオンチェーン上の資金移動は、実に2カ月超ぶりだという。 ブロックチェーンデータによると、マウントゴックスは協定世界時午前4時47分、コールドウォレットから未特定のアドレスへ1万306BTCを送金した。金額にして約7億3080万ドル、日本円で約1",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "Kraken"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ロビンフッド、カナダ暗号資産市場へ“電撃上陸”",
+      "link": "https://cointelegraph.jp/news/robinhood-enters-canada-crypto-market-wonderfi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T17:47:17+09:00",
+      "pub_date_utc": "2026-06-02T08:47:17+00:00",
+      "description": "株式と暗号資産の取引プラットフォームとして知られるロビンフッドが、ついにカナダ市場へ本格上陸した。同社は、カナダの暗号資産テクノロジー企業ワンダーファイの株式買収を完了。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Stephen Katte、スタッフライター校閲：Jesse Coghlan、スタッフ編集者ロビンフッド、カナダ暗号資産市場へ“電撃上陸”17 時間前ニュース 株式と暗号資産の取引プラットフォームとして知られるロビンフッドが、ついにカナダ市場へ本格上陸した。同社は、カナダの暗号資産テクノロジー企業ワンダーファイの株式買収を完了。買収額は1億8000万ドル、日本円にして約287億円にのぼる。これによりロビンフッドは、同国でのライセンスや規制当局の承認を手中に収めた格好だ。ロビンフッドは月曜日、この買収について「カナダ市場への参入を意味するもの」と説明。ワンダーファイ傘下にあった暗号資産取引所ビットバイとコインスクエアも、今後はロビンフッドの陣営に加わることになる。ビットバイとコインスクエアは、カナダでも有数の大手暗号資産取引所だ。ワンダーファイは3月、両プラットフォームが2025年に",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "Google"
+      ],
+      "main_entities": [
+        "Google"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "金融庁、金商法移行で海外無登録業者への執行強化を明示　仮想通貨の課徴金・差止命令が対象に",
+      "link": "https://coinpost.jp/?p=713533",
+      "pub_date": "2026-06-02T17:41:48+09:00",
+      "pub_date_utc": "2026-06-02T08:41:48+00:00",
+      "description": "金融庁が3月31日の金融行政モニター意見交換会で仮想通貨規制の焦点を示した。金商法移行による海外無登録業者への課徴金・緊急差止命令の適用拡大と、ステーブルコイン規制の国際整合性の再検討が論点として挙がった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "テレグラムの暗号通貨TON急騰、創業者の「グラム」復活発言で",
+      "link": "https://cointelegraph.jp/news/telegram-s-cryptocurrency-ton-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T17:29:47+09:00",
+      "pub_date_utc": "2026-06-02T08:29:47+00:00",
+      "description": "通信アプリ「テレグラム」の創業者パベル・ドゥーロフ氏が、暗号資産トンコイン（TON）の名称を「グラム」に変更する方針を示した。グラムは、もともとテレグラムが独自ブロックチェーン計画で使う予定だった暗号資産の名称だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "通信アプリ「テレグラム」の創業者パベル・ドゥーロフ氏が、暗号資産トンコイン（TON）の名称を「グラム」に変更する方針を示した。グラムは、もともとテレグラムが独自ブロックチェーン計画で使う予定だった暗号資産の名称だ。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Toncoin"
+      ],
+      "main_entities": [
+        "Toncoin"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットコイン、7万ドル割れ 暗号資産市場に忍び寄る「楽園ならぬ弱気の楽園」",
+      "link": "https://cointelegraph.jp/news/bitcoin-price-falls-under-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T17:25:49+09:00",
+      "pub_date_utc": "2026-06-02T08:25:49+00:00",
+      "description": "ビットコイン（BTC）が火曜日、ついに7万ドル（約1118万円）を割り込んだ。2カ月ぶりの安値である。売り方の勢いは衰えず、暗号資産市場にはじわりと不穏な空気が広がっている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：William Suberg、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコイン、7万ドル割れ 暗号資産市場に忍び寄る「楽園ならぬ弱気の楽園」18 時間前マーケット ビットコイン（BTC）が火曜日、ついに7万ドル（約1118万円）を割り込んだ。2カ月ぶりの安値である。売り方の勢いは衰えず、暗号資産市場にはじわりと不穏な空気が広がっている。株式市場が高値を更新する一方で、暗号資産だけが取り残される――。そんな奇妙な構図が鮮明になってきた。ビットコイン、2カ月ぶり安値トレーディングビューのデータによれば、ビットスタンプでのビットコイン価格は一時6万9631ドル（約1112万円）まで下落した。株式市場の上昇に追随できなかったビットコインは、他のリスク資産との乖離をさらに広げ、この日は約2％安となった。BTC/USD one-hour chart. Source: C",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "GMOコイン、テゾス（XTZ）とフレア（FLR）の取扱廃止へ",
+      "link": "https://www.neweconomy.jp/posts/578789",
+      "pub_date": "2026-06-02T17:13:44+09:00",
+      "pub_date_utc": "2026-06-02T08:13:44+00:00",
+      "description": "GMOコインがXTZとFLRの取扱廃止 国内暗号資産（仮想通貨）取引所GMOコインが、暗号資産テゾス（XTZ）およびフレア（FLR）の取り扱い廃止予定を6月1日に発表した。 廃止決定の理由は、プロジェクト継続性や流動性の",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "GMOコインがXTZとFLRの取扱廃止 国内暗号資産（仮想通貨）取引所GMOコインが、暗号資産テゾス（XTZ）およびフレア（FLR）の取り扱い廃止予定を6月1日に発表した。 廃止決定の理由は、プロジェクト継続性や流動性の変化、カバー取引先の確保が困難となる可能性があることを鑑みたためとのこと。 GMOコインが公開した取扱い廃止に向けたスケジュールでは、まず6月8日にFLRの「貸暗号資産」サービスが終了する。XTZについては、6月10日に「つみたて暗号資産」毎月プランの最終積立日、6月12日に毎日・毎週プランの最終積立日を迎える。 また6月15日には、XTZの貸暗号資産サービスおよびステーキングサービスを停止する。満期償還日が6月16日以降の貸出分についても、6月15日をもって貸出終了となり、貸借料の支払いも同日分までとなる。 報酬付与については、FLRのデリゲート報酬が7月7日、XTZのス",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "GMOコイン",
+        "BitTrade",
+        "Solana",
+        "Ripple",
+        "Avalanche",
+        "Cardano",
+        "Sui"
+      ],
+      "main_entities": [
+        "GMOコイン"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "トランプコインがVIP会員権に 政治家ミームコインの危うい進化",
+      "link": "https://cointelegraph.jp/news/trump-coin-becomes-vip-membership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T17:12:52+09:00",
+      "pub_date_utc": "2026-06-02T08:12:52+00:00",
+      "description": "トランプ米大統領の名前を冠したミームコインが、ただの投機商品から「会員権」のような顔を見せ始めている。トランプ氏の長年のビジネスパートナー、ビル・ザンカー氏が、トランプコインの上位保有者向けに「トランプコインクラブ」を立ち上げるというのだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "トランプ米大統領の名前を冠したミームコインが、ただの投機商品から「会員権」のような顔を見せ始めている。トランプ氏の長年のビジネスパートナー、ビル・ザンカー氏が、トランプコインの上位保有者向けに「トランプコインクラブ」を立ち上げるというのだ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ソラナ財団、フルオンチェーンの無期限先物取引への支援を表明",
+      "link": "https://coinpost.jp/?p=713504",
+      "pub_date": "2026-06-02T17:05:57+09:00",
+      "pub_date_utc": "2026-06-02T08:05:57+00:00",
+      "description": "ソラナ財団が、フルオンチェーンでの無期限先物取引の構築チームへの支援を表明。全注文・決済をオンチェーンで完結させ、真の価格発見を実現する分散型デリバティブ市場の構築を目指す方針を示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "「DeFiは実験段階を過ぎた可能性」、ディファイラマ・リサーチがRWAレポート公開",
+      "link": "https://www.neweconomy.jp/posts/578782",
+      "pub_date": "2026-06-02T17:04:24+09:00",
+      "pub_date_utc": "2026-06-02T08:04:24+00:00",
+      "description": "オンチェーン株式RWAは30億ドル規模に オンチェーンデータ分析サイト「ディファイラマ（DeFiLlama）」のリサーチ部門であるディファイラマ・リサーチ（DeFiLlama Research）が、現実資産（RWA）の動",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "オンチェーン株式RWAは30億ドル規模に オンチェーンデータ分析サイト「ディファイラマ（DeFiLlama）」のリサーチ部門であるディファイラマ・リサーチ（DeFiLlama Research）が、現実資産（RWA）の動向をまとめたレポート「State of RWAfi Q1 2026」の内容やDeFiLlamaのRWA関連データをXアカウントで5月28日に紹介した。なお同レポートは4月23日に公開されたものである。 同部門はXへの投稿で、「分散型金融（DeFi）はニッチな実験段階を過ぎた可能性がある」との見方を示した。 ディファイラマ・リサーチによると、オンチェーン株式および株式系RWAの時価総額は30億ドル（約4,792億円）に到達したという。同部門は、ウォール街との提携や規制面での進展、トークン化株式基盤「xストックス（xStocks）」を活用した24時間取引インフラの拡大などが成長",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Kraken",
+        "Solana"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "アンソロピック未上場でも先物化 海外暗号資産取引所が始めたAI企業連動取引",
+      "link": "https://cointelegraph.jp/news/anthropics-can-be-traded-as-futures-even-though-it-s-not-yet-listed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T16:52:11+09:00",
+      "pub_date_utc": "2026-06-02T07:52:11+00:00",
+      "description": "某海外暗号資産取引所のデリバティブ部門が、米AI企業アンソロピックの名前を冠した永久先物を提供しはじめたようだ。銘柄名はANTHROPICUSDT。米ドル連動型ステーブルコイン「USDT」建てで売買される。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "某海外暗号資産取引所のデリバティブ部門が、米AI企業アンソロピックの名前を冠した永久先物を提供しはじめたようだ。銘柄名はANTHROPICUSDT。米ドル連動型ステーブルコイン「USDT」建てで売買される。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ECB理事、ステーブルコイン普及で「ドル支配強化」の可能性を指摘",
+      "link": "https://www.neweconomy.jp/posts/578771",
+      "pub_date": "2026-06-02T16:28:40+09:00",
+      "pub_date_utc": "2026-06-02T07:28:40+00:00",
+      "description": "ステーブルコイン普及で「ドル支配強化」の可能性とECB理事が言及 「ステーブルコインの利用拡大は、ドルの世界的な支配力を強め、一部の国が金融政策を設定する能力を損ない、さらにはユーロの役割を低下させる可能性もある」と、欧",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ステーブルコイン普及で「ドル支配強化」の可能性とECB理事が言及 「ステーブルコインの利用拡大は、ドルの世界的な支配力を強め、一部の国が金融政策を設定する能力を損ない、さらにはユーロの役割を低下させる可能性もある」と、欧州中央銀行（ECB）のイザベル・シュナーベル（Isabel Schnabel）専務理事が、6月1日に述べた。 ステーブルコインは、主にドルなどの法定通貨の価値に連動させ、政府債などの伝統的資産を裏付けとして一定価値を維持するように設計された、ブロックチェーン上で発行・移転されるトークンの一種。利用はまだ比較的低水準にとどまっているものの、急速に増加しており、アナリストのモデル分析では、今後さらに急速に普及する可能性が示されている。 ステーブルコインの大半は米ドルに連動している。エコノミストの一部は、発行額が急速に拡大すれば、過去20年にわたるドルの国際的な役割低下が鈍化し、",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "ECB",
+        "IMF"
+      ],
+      "main_entities": [
+        "ECB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain",
+      "link": "https://coinpost.jp/?p=713490",
+      "pub_date": "2026-06-02T16:21:42+09:00",
+      "pub_date_utc": "2026-06-02T07:21:42+00:00",
+      "description": "破綻した仮想通貨取引所マウントゴックスが6月2日、1万306BTC（約7.31億ドル）のビットコインを新規ウォレットへ送金。取引所向け送金は確認されておらず売却ではない可能性。弁済期限は2026年10月末に設定されており、残高動向が注目される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットコイン急落　ストラテジー売却とイラン交渉停止が直撃【楽天ウォレットDaily Report】",
+      "link": "https://www.nadanews.com/353696/",
+      "pub_date": "2026-06-02T16:17:10+09:00",
+      "pub_date_utc": "2026-06-02T07:17:10+00:00",
+      "description": "ポイント ・7.2万ドルを割り込み7万ドル台へ下落・ストラテジーの売却、イランの交渉停止、ベイルート空爆予告で失速・テクニカルは三役逆転で上昇チャネルを下抜け寸 The post ビットコイン急落　ストラテジー売却とイラン交渉停止が直撃【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット ビットコイン急落　ストラテジー売却とイラン交渉停止が直撃【楽天ウォレットDaily Report】 By 松田康生 2026年6月2日16:17 .st0 { fill: #374149; } 2026年6月2日16:17 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684848749222-0'); }); ポイント ・7.2万ドルを割り込み7万ドル台へ下落・ストラテジーの売却、イランの交渉停止、ベイルート空爆予告で失速・テクニカルは三役逆転で上昇チャネルを下抜け寸前・ETF連続流出が重石も、悪材料出尽くしで反転の可能性も 昨日",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "BlackRock",
+        "三菱UFJ銀行",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "楽天ウォレット"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットマインのイーサリアム保有量、541万ETH超に。全供給量の4.49%へ到達",
+      "link": "https://www.neweconomy.jp/posts/578750",
+      "pub_date": "2026-06-02T16:12:52+09:00",
+      "pub_date_utc": "2026-06-02T07:12:52+00:00",
+      "description": "BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を6月1日",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を6月1日に発表した。 発表によるとビットマインは、直近1週間で2万6,497ETHを購入したとのことだ。 5月31日時点の同社の暗号資産、現金、投資持ち分などの合計額は、116億ドル（約1.85兆円）超だという。内訳は、イーサリアム541万6,901ETH、ビットコイン203BTC、ビースト・インダストリーズ（Beast Industries）の株式持ち分1億8,000万ドル（約387億円）相当、米ナスダック（Nasdaq）上場企業エイトコ・ホールディングス（Eightco Holdings）の株式持ち分9,300万ドル（約149億円）相当、そして現金4億4,600万ドル（約712",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Coinbase",
+        "Ethereum Foundation",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "自民党ブロックチェーン議連、円ステーブルコインのアジア決済活用を政府に提言",
+      "link": "https://www.neweconomy.jp/posts/578742",
+      "pub_date": "2026-06-02T16:01:24+09:00",
+      "pub_date_utc": "2026-06-02T07:01:24+00:00",
+      "description": "円ステーブルコインのアジア決済活用が政府へ提言 自民党ブロックチェーン推進議員連盟が、アジアにおける決済での円建てステーブルコインの利用促進と、暗号資産（仮想通貨）ETF（上場投資信託）の取引を可能にする法整備を政府に求",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "円ステーブルコインのアジア決済活用が政府へ提言 自民党ブロックチェーン推進議員連盟が、アジアにおける決済での円建てステーブルコインの利用促進と、暗号資産（仮想通貨）ETF（上場投資信託）の取引を可能にする法整備を政府に求めた。6月1日に政府へ提出された提言で示された。提言は金融庁（FSA）を所管する片山さつき財務相へ提出された。 提言では、暗号資産ETFについて「投資家に分かりやすい投資手段を提供するもの」と説明された。政府に対し、同商品を金融市場における正式な投資手段として位置付けるよう、同議連は求めた。 同議連に所属する神田潤一議員は、片山氏との面会後、記者団に対し、2027年5月2〜5日に愛知・名古屋で開催予定のアジア開発銀行（ADB）第60回年次総会の機会を捉え、円建てステーブルコインやブロックチェーン・イノベーションに関する取り組みをアピールできると述べた。 神田氏は「将来的にア",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "JPYC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "スーパーステートのUSCC投資運用移管が完了、ビットワイズ初のトークン化ファンドに",
+      "link": "https://www.neweconomy.jp/posts/578729",
+      "pub_date": "2026-06-02T15:42:08+09:00",
+      "pub_date_utc": "2026-06-02T06:42:08+00:00",
+      "description": "BitwiseへのUSCC投資運用移管が完了 フィンテック企業スーパーステート（Superstate）のトークン化プライベートファンド「Superstate Crypto Carry Fund（USCC）」の投資運用が、",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "BitwiseへのUSCC投資運用移管が完了 フィンテック企業スーパーステート（Superstate）のトークン化プライベートファンド「Superstate Crypto Carry Fund（USCC）」の投資運用が、暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）へ移管された。ビットワイズが6月1日に発表した。 ビットワイズが同ファンドの投資運用会社となり、ファンド名は「Bitwise Crypto Carry Fund」に変更されたとのこと。なお、同ファンドは移管完了後も従来のティッカーシンボルUSCCを維持し、スマートコントラクトとトークンアドレスも変更されていない。 USCCは、暗号資産の現物価格と先物価格の差に着目するキャッシュ・アンド・キャリー取引などを通じて利回りの獲得を目指している。ビットワイズによると、同ファンドの運用資産は5月29日時点で2億5,900万ドル",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana",
+        "Toncoin",
+        "Hyperliquid",
+        "MicroStrategy",
+        "SEC"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "アンソロピック、IPOに向け届出書の非公開草案をSECに提出",
+      "link": "https://www.neweconomy.jp/posts/578721",
+      "pub_date": "2026-06-02T15:35:00+09:00",
+      "pub_date_utc": "2026-06-02T06:35:00+00:00",
+      "description": "上場の選択肢を確保 生成AI開発企業のアンソロピック（Anthropic）が、IPO（新規株式公開）に向けたドラフト登録届出書（Form S-1）を米証券取引委員会（SEC）へ6月1日に非公開提出したと発表した。 アンソ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "上場の選択肢を確保 生成AI開発企業のアンソロピック（Anthropic）が、IPO（新規株式公開）に向けたドラフト登録届出書（Form S-1）を米証券取引委員会（SEC）へ6月1日に非公開提出したと発表した。 アンソロピックは大規模言語モデル（LLM）「クロード（Claude）」シリーズを展開しており、オープンAI（OpenAI）やグーグルディープマインド（Google DeepMind）などと競合する米国の主要AI企業の一つとして知られている。 今回提出されたのは、いわゆる「秘密提出（Confidential Submission）」と呼ばれる制度を利用したS-1草案だ。これはIPOを検討する企業が、登録届出書を一般公開する前にSECによる審査を受けることができる仕組みで、審査終了後に実際の上場手続きへ進むかどうかを判断できる。 アンソロピックは声明の中で、「SECによる審査完了後に",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "Google",
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ベトナム暗号資産解禁へ 海外取引所締め出しで巨大市場囲い込み",
+      "link": "https://cointelegraph.jp/news/vietnam-to-lift-restrictions-on-cryptocurrency-but-bans-foreign-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T15:31:37+09:00",
+      "pub_date_utc": "2026-06-02T06:31:37+00:00",
+      "description": "ベトナムで、暗号資産ビジネスをめぐる争奪戦が始まった。政府が国内初の公認暗号資産取引所を認める準備を進めるなか、地場の銀行、証券会社、大手財閥がライセンス取得に動いている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ベトナムで、暗号資産ビジネスをめぐる争奪戦が始まった。政府が国内初の公認暗号資産取引所を認める準備を進めるなか、地場の銀行、証券会社、大手財閥がライセンス取得に動いている。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "Robinhood、カナダの暗号資産市場に参入へ──WonderFi買収を完了",
+      "link": "https://www.nadanews.com/353678/",
+      "pub_date": "2026-06-02T14:25:00+09:00",
+      "pub_date_utc": "2026-06-02T05:25:00+00:00",
+      "description": "米オンライン証券大手のRobinhood Markets（ロビンフッド・マーケッツ）は6月1日、カナダの暗号資産（仮想通貨）商品・サービス企業であるWonder The post Robinhood、カナダの暗号資産市場に参入へ──WonderFi買収を完了 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Robinhood、カナダの暗号資産市場に参入へ──WonderFi買収を完了 By 廣瀬 優香 2026年6月2日14:25 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米オンライン証券大手のRobinhood Markets（ロビンフッド・マーケッツ）は6月1日、カナダの暗号資産（仮想通貨）商品・サービス企業であるWonderFiの買収を完了したと発表した。 WonderFiは、カナダで規制を受ける暗号資産取引プラットフォームであるBitbuyとCoinsquareを運営している。買収により、両プラットフォームはロビンフッドブランドの一部となり、カナダの顧客にはロビンフッドアプリをダウンロードするよう案内される予定だ。 ロビンフッドの暗号資産・国際事業",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "パナソニックHD、ブロックチェーン基盤Tracephereでアクティアと協業",
+      "link": "https://coinpost.jp/?p=713406",
+      "pub_date": "2026-06-02T14:05:37+09:00",
+      "pub_date_utc": "2026-06-02T05:05:37+00:00",
+      "description": "パナソニックHDが開発するブロックチェーン型トレーサビリティ基盤「Tracephere」の事業展開に向け、DX支援のアクティアと戦略的パートナーシップを締結。循環経済から製造・流通・エネルギーなど産業横断での社会実装を加速する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI 【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain 個人マイナーが家庭用マシンでビットコイン採掘に成功、670万分の1の確率で報酬獲得 googletag.cmd.push(function() { googletag.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "AIが払う時代へ 米ステーブルコイン大手が狙う「次の決済インフラ」とは",
+      "link": "https://cointelegraph.jp/news/what-is-the-next-payment-infrastructure-that-circle-is-aiming-for?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T13:30:01+09:00",
+      "pub_date_utc": "2026-06-02T04:30:01+00:00",
+      "description": "AIが人間の代わりに仕事をする。次は、AIが人間の代わりに支払いもする。その未来をにらみ、米ステーブルコイン大手サークルと、国際送金インフラ企業ニウムが組んだ。狙いは、USDCを使ったステーブルコイン決済と、世界各国への現地通貨払いをつなぐことだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "AIが人間の代わりに仕事をする。次は、AIが人間の代わりに支払いもする。その未来をにらみ、米ステーブルコイン大手サークルと、国際送金インフラ企業ニウムが組んだ。狙いは、USDCを使ったステーブルコイン決済と、世界各国への現地通貨払いをつなぐことだ。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Circle"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "「スマホ主役の時代は終わり 次の主役はAIエージェント」米クアルコム代表が語る未来とは",
+      "link": "https://cointelegraph.jp/news/the-era-of-smartphones-is-over-the-next-star-is-the-ai-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T13:20:44+09:00",
+      "pub_date_utc": "2026-06-02T04:20:44+00:00",
+      "description": "スマホ中心の時代が終わる。そう言い切ったのは、半導体大手クアルコムのクリスティアーノ・アモンCEOだ。台北で開かれる世界有数のコンピューター見本市「コンピューテックス2026」の基調講演で、アモン氏はこう語った。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "スマホ中心の時代が終わる。そう言い切ったのは、半導体大手クアルコムのクリスティアーノ・アモンCEOだ。台北で開かれる世界有数のコンピューター見本市「コンピューテックス2026」の基調講演で、アモン氏はこう語った。",
+      "summary_error": true,
+      "category": "イベント・人事",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "ビットコイン横ばいの裏で始まった“次の山” AIコインに群がる投機マネー",
+      "link": "https://cointelegraph.jp/news/speculative-money-flocking-to-ai-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T12:44:31+09:00",
+      "pub_date_utc": "2026-06-02T03:44:31+00:00",
+      "description": "暗号資産市場で、また「次の本命探し」が始まった。ビットコインは一服した。その裏で、資金は別の場所を探している。狙われているのは、AIコインとハイパーリキッドだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "暗号資産市場で、また「次の本命探し」が始まった。ビットコインは一服した。その裏で、資金は別の場所を探している。狙われているのは、AIコインとハイパーリキッドだ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "イラン制裁逃れの裏金ルート 暗号資産を追う米国の執念",
+      "link": "https://cointelegraph.jp/news/iran-zhi-cai-taoreno-li-jinruto-an-hao-zi-chanwo-zhuiu-mi-guono-zhi-nian?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T12:32:24+09:00",
+      "pub_date_utc": "2026-06-02T03:32:24+00:00",
+      "description": "暗号資産で制裁を抜けるイラン、追う米国米国とイランの攻防は、ミサイルやドローンだけではない。いま、もうひとつの戦場になっているのが暗号資産だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "暗号資産で制裁を抜けるイラン、追う米国米国とイランの攻防は、ミサイルやドローンだけではない。いま、もうひとつの戦場になっているのが暗号資産だ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
+      "title": "FBI、約1.2兆円の暗号資産を押収 「詐欺収容所」に広がる国際犯罪の闇",
+      "link": "https://cointelegraph.jp/news/fbi-seizes-8-billion-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-02T12:09:34+09:00",
+      "pub_date_utc": "2026-06-02T03:09:34+00:00",
+      "description": "米連邦捜査局（FBI）は、国際的なオンライン詐欺組織の摘発で、80億ドル超、円換算で約1.2兆円相当の暗号資産を押収した。押収規模は米政府史上最大級とされる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米連邦捜査局（FBI）は、国際的なオンライン詐欺組織の摘発で、80億ドル超、円換算で約1.2兆円相当の暗号資産を押収した。押収規模は米政府史上最大級とされる。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-03T11:44:21.764912+09:00"
+    },
+    {
       "title": "【墨汁うまい氏寄稿】暗号資産の重要ファンダメンタル、クラリティ法の現在と今後の相場影響",
       "link": "https://www.nadanews.com/353570/",
       "pub_date": "2026-06-02T11:00:00+09:00",
@@ -26248,8 +27541,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-02T11:36:36.871657+09:00",
-  "total_count": 1320,
+  "last_updated": "2026-06-03T11:44:21.764912+09:00",
+  "total_count": 1378,
   "sources": [
     "NADA NEWS",
     "CoinPost",
