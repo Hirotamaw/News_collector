@@ -1,6 +1,401 @@
 {
   "articles": [
     {
+      "title": "ビットコイン暴落、ストラテジーの売却やマウントゴックス資金移動、米国雇用統計受けた金融政策見通しの変化など（仮想通貨市場レポート 6/8 号）",
+      "link": "https://www.neweconomy.jp/features/sbivct/580449",
+      "pub_date": "2026-06-08T11:31:26+09:00",
+      "pub_date_utc": "2026-06-08T02:31:26+00:00",
+      "description": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 5/31~6/6週のサマリー ストラテジー社がビットコインの売却を開示 経営破綻したマウントゴックスのウォレッ",
+      "category_raw": "BTC",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 5/31~6/6週のサマリー ストラテジー社がビットコインの売却を開示 経営破綻したマウントゴックスのウォレットから10,306BTCが新規ウォレットへ移動 ビットコインの現物ETFから4週間連続で10億ドル以上の資金が流出 ビットコインは一時60,000ドル割れまで下落 暗号資産市場概況 5/31～6/6週におけるBTC/JPYの週足終値は前週比▲17.21%の9,742,340円、ETH/JPYの週足終値は同▲22.56%の249,885円（※終値は6/6の当社現物EOD［6/7 6:59:59］レートMid値）。 先週の暗号資産市場は、ストラテジー社によるビットコイン売却の開示やマウントゴックス関連ウォレットの大規模な資金移動、さらに米国雇用統計を受けた金融政策見通しの変化な",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "SBI VC Trade",
+        "MicroStrategy",
+        "SEC"
+      ],
+      "main_entities": [
+        "SBI VC Trade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "Securitize、SPAC上場へ前進──SECが登録届出書を承認",
+      "link": "https://www.nadanews.com/354519/",
+      "pub_date": "2026-06-08T11:25:00+09:00",
+      "pub_date_utc": "2026-06-08T02:25:00+00:00",
+      "description": "現実資産（RWA）のトークン化を手掛けるSecuritize（セキュリタイズ）は6月5日、SPAC（特別買収目的会社）との事業統合に関する登録届出書の有効性を米 The post Securitize、SPAC上場へ前進──SECが登録届出書を承認 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Securitize、SPAC上場へ前進──SECが登録届出書を承認 By 廣瀬 優香 2026年6月8日11:25 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 現実資産（RWA）のトークン化を手掛けるSecuritize（セキュリタイズ）は6月5日、SPAC（特別買収目的会社）との事業統合に関する登録届出書の有効性を米証券取引委員会（SEC）が宣言したと発表した。 Cantor Fitzgerald（キャンター・フィッツジェラルド）傘下のSPACであるCantor Equity Partners II（CEPT）と統合する。 事業統合案について、6月29日に予定されているCEPT臨時株主総会で投票が行われ、承認された場合、その後速やかに取引が完了する見込",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "VanEck",
+        "SEC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "AI競合・大型IPO・量子リスクなど　ビットコインを圧迫する5つの逆風＝NYDIG",
+      "link": "https://coinpost.jp/?p=715141",
+      "pub_date": "2026-06-08T10:58:20+09:00",
+      "pub_date_utc": "2026-06-08T01:58:20+00:00",
+      "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/5）｜ストラテジーのBTC売却・個人マイナーのBTC採掘成功・ETH分析の動向まとめ 「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論 ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "BTCが6万3000ドル突破、週末の薄商いでショート5億4000万ドル清算──Strategyのマイケル・セイラー氏投稿で買い増し観測【価格分析】",
+      "link": "https://www.nadanews.com/354520/",
+      "pub_date": "2026-06-08T10:55:36+09:00",
+      "pub_date_utc": "2026-06-08T01:55:36+00:00",
+      "description": "・ビットコイン（BTC）は一時6万3,000ドルを突破し、週末のショートスクイーズによって弱気ポジション5億3,700万ドル相当が一掃された。・Coinbase The post BTCが6万3000ドル突破、週末の薄商いでショート5億4000万ドル清算──Strategyのマイケル・セイラー氏投稿で買い増し観測【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット BTCが6万3000ドル突破、週末の薄商いでショート5億4000万ドル清算──Strategyのマイケル・セイラー氏投稿で買い増し観測【価格分析】 By Ibrahim Ajibade 2026年6月8日10:55 .st0 { fill: #374149; } 2026年6月8日10:55 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・ビットコイン（BTC）は一時6万3,000ドルを突破し、週末のショートスクイーズによって弱気ポジション5億3,700万ドル相当が一掃された。・Coinbaseの取引量は週末に大きく減少し、流動性が薄いなかでボラティリティが増幅された。・取引所へのBTC預け入れは高止まりしており、反発後も売り圧力が残っていることを示してい",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ロビンフッド、WonderFi買収完了。カナダ暗号資産市場に参入",
+      "link": "https://www.neweconomy.jp/posts/580436",
+      "pub_date": "2026-06-08T10:52:13+09:00",
+      "pub_date_utc": "2026-06-08T01:52:13+00:00",
+      "description": "Robinhoodが暗号資産サービスでカナダ市場参入 米金融サービス企業ロビンフッド・マーケッツ（Robinhood Markets）が、カナダの暗号資産プラットフォーム運営企業ワンダーファイ（WonderFi）の買収を",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Robinhoodが暗号資産サービスでカナダ市場参入 米金融サービス企業ロビンフッド・マーケッツ（Robinhood Markets）が、カナダの暗号資産プラットフォーム運営企業ワンダーファイ（WonderFi）の買収を完了した。両社が6月1日に発表した。買収額は約2億5,000万カナダドル（約288億円）となる。 ワンダーファイによると、ロビンフッドはワンダーファイの発行済み普通株式すべてを1株あたり0.36カナダドルの現金で間接取得したという。ワンダーファイ株は、6月2日の取引終了頃にトロント証券取引所から上場廃止される予定とされた。 ワンダーファイ傘下には、カナダで運営されている規制下の暗号資産プラットフォームのビットバイ（Bitbuy）とコインスクエア（Coinsquare）がある。両プラットフォームは今後、ロビンフッドブランドの一部になるという。 ロビンフッドによるとワンダーファ",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ビットコイン担保で住宅購入、米国初のファニーメイ裏付け住宅ローン実行",
+      "link": "https://www.neweconomy.jp/posts/580429",
+      "pub_date": "2026-06-08T10:45:35+09:00",
+      "pub_date_utc": "2026-06-08T01:45:35+00:00",
+      "description": "米国初のビットコイン担保 ファニーメイ適格住宅ローン ・住宅ローンプラットフォームのベター・ホーム＆ファイナンス・ホールディング（Better Home & Finance Holding Company）と暗号",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "米国初のビットコイン担保 ファニーメイ適格住宅ローン ・住宅ローンプラットフォームのベター・ホーム＆ファイナンス・ホールディング（Better Home & Finance Holding Company）と暗号資産（仮想通貨）取引所コインベース（Coinbase）が、ビットコイン（BTC）を担保にした住宅ローン商品の初の融資を実行したと6月4日に発表した。 この商品は今年3月に両社が発表していた「トークン担保住宅ローン」だ。利用者はBTCおよびステーブルコイン「USDC」を頭金用ローンの担保として差し入れることで、暗号資産を売却せずに住宅ローンを利用できる。両社は今後、市場の成熟に合わせて対応資産を拡大する予定としている。 両社によると、この案件は米政府支援住宅金融機関ファニーメイ（Fannie Mae）の裏付けを受ける住宅ローンとして、ビットコインを担保に実行された米国初の事例だという",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Tether",
+        "Circle",
+        "JPMorgan",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ナスダック急落でビットコインはどうなる？ 6万ドル死守なら9万ドル台回復も",
+      "link": "https://cointelegraph.jp/news/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T10:45:00+09:00",
+      "pub_date_utc": "2026-06-08T01:45:00+00:00",
+      "description": "週末の暗号資産市場で、ビットコインはひとまず踏みとどまった。ビットコイン（BTC）のトレーダーらは、週末にかけてBTCが心理的節目である 6万ドル（約960万円） を上回って推移したことが重要だったとみている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Yashu Gola、スタッフライター校閲：Allen Scott、スタッフ編集者ナスダック急落でビットコインはどうなる？ 6万ドル死守なら9万ドル台回復も52 分前価格分析 週末の暗号資産市場で、ビットコインはひとまず踏みとどまった。ビットコイン（BTC）のトレーダーらは、週末にかけてBTCが心理的節目である 6万ドル（約960万円） を上回って推移したことが重要だったとみている。BTCは一時、ローカル安値の 5万9100ドル（約946万円） 近辺まで沈んだものの、日曜日には日中高値の 6万2950ドル（約1007万円） 付近まで反発。上昇率は6.5％に達した。BTCは、重要な移動平均線のサポートを維持できれば、9万2630ドル（約1482万円） に向けた反発を狙う展開となる。一方、ナスダックのテクニカル指標は、短期的に10％超の下落余地を示唆している。ナスダック不調なら、BTC",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調",
+      "link": "https://coinpost.jp/?p=715071",
+      "pub_date": "2026-06-08T10:15:37+09:00",
+      "pub_date_utc": "2026-06-08T01:15:37+00:00",
+      "description": "ストラテジーのセイラー会長が仮想通貨ビットコイン買い増しを示唆した。リーCEOも「純BTC保有量と1株当たりBTC保有量を増やす方針は変わらない」と表明している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/5）｜ストラテジーのBTC売却・個人マイナーのBTC採掘成功・ETH分析の動向まとめ 「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論 ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ストラテジー、ビットコイン買い増し示唆 セイラー氏投稿とSTRC配当変更に注目",
+      "link": "https://cointelegraph.jp/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T10:15:00+09:00",
+      "pub_date_utc": "2026-06-08T01:15:00+00:00",
+      "description": "ストラテジーの動向を追う市場関係者たちは、日曜日も肩透かしを食らわされることはなかった。同社のエグゼクティブ・チェアマン、マイケル・セイラー氏がXに姿を現し、同社のビットコイン保有に新たな動きがあることを示唆したからだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Cointelegraph、スタッフライター校閲：Robert Lakin、スタッフ編集者ストラテジー、ビットコイン買い増し示唆 セイラー氏投稿とSTRC配当変更に注目1 時間前ニュース ストラテジーの動向を追う市場関係者たちは、日曜日も肩透かしを食らわされることはなかった。同社のエグゼクティブ・チェアマン、マイケル・セイラー氏がXに姿を現し、同社のビットコイン保有に新たな動きがあることを示唆したからだ。しかもその投稿は、優先株「STRC」の配当を月1回から月2回へ変更する議案について、株主投票の最終集計を目前に控えたタイミングだった。 セイラー氏がXに投稿した言葉は、こうだ。「ドットを追加するにはいいタイミングだ」添えられていたのは、ストラテジーが過去約6年にわたって積み上げてきたビットコイン購入履歴を示すバブルチャートだった。このチャートは、アイスランド登録の「ストラテジートラ",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "MicroStrategy",
+        "SEC"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ビットコイン「まだ底じゃない」説 損切り額は2022年水準に5.6兆円届かず",
+      "link": "https://cointelegraph.jp/news/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T09:35:54+09:00",
+      "pub_date_utc": "2026-06-08T00:35:54+00:00",
+      "description": "ビットコイン（BTC）市場に、再び“粛清”の足音が近づいている。2026年の弱気相場で投資家が抱えた実現損失は、いまだ過去の記録を塗り替えていない。市場の底打ちには、まだひと波乱が必要かもしれない。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：William Suberg、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコイン「まだ底じゃない」説 損切り額は2022年水準に5.6兆円届かず2 時間前マーケット ビットコイン（BTC）市場に、再び“粛清”の足音が近づいている。2026年の弱気相場で投資家が抱えた実現損失は、いまだ過去の記録を塗り替えていない。市場の底打ちには、まだひと波乱が必要かもしれない。オンチェーン分析プラットフォーム「クリプトクアント」のデータによれば、投資家の降伏、いわゆるキャピチュレーションは、2022年の弱気相場ほどの規模にはまだ達していない。投稿者のダークフォストはXへの投稿で、こう指摘した。「実現損失は米ドル建てで計算される。したがって、同じような投資家行動が起きているなら、市場規模が拡大している分、弱気相場での米ドル建て損失もより大きくなってしかるべきだ」実現損失とは、前",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ビットコイン調整局面の実現損失、累計1740億ドルに　前回超えには至らず＝アナリスト",
+      "link": "https://coinpost.jp/?p=715087",
+      "pub_date": "2026-06-08T09:35:02+09:00",
+      "pub_date_utc": "2026-06-08T00:35:02+00:00",
+      "description": "CryptoQuantのアナリストDarkfost氏が、2025年10月の高値起点から累計約1,740億ドルの実現損失が発生したと指摘。前回調整局面の2,110億ドルには未達で、さらなる下押し圧力が続く可能性を示唆した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/5）｜ストラテジーのBTC売却・個人マイナーのBTC採掘成功・ETH分析の動向まとめ 「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論 ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者",
+      "link": "https://coinpost.jp/?p=715063",
+      "pub_date": "2026-06-08T08:35:00+09:00",
+      "pub_date_utc": "2026-06-07T23:35:00+00:00",
+      "description": "Glassnodeの共同創業者Rafaelが複数の市場指標を用いてビットコインの底値ゾーンを分析。CVDDと実現価格が示す4.6万から5.4万ドルを高確率ゾーン、3.5万から4万ドルは過去3％未満の極端局面と指摘。上方では7.5万から7.9万ドルの奪還が回復の第一関門となる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/5）｜ストラテジーのBTC売却・個人マイナーのBTC採掘成功・ETH分析の動向まとめ 「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論 ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "Kraken、xStocksでスペースXのIPOへのアクセスを提供",
+      "link": "https://www.nadanews.com/354504/",
+      "pub_date": "2026-06-08T07:30:00+09:00",
+      "pub_date_utc": "2026-06-07T22:30:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は6月5日、親会社のPayward（ペイワード）が提供するトークン化株式プラットフォーム「xStocks」を The post Kraken、xStocksでスペースXのIPOへのアクセスを提供 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット Kraken、xStocksでスペースXのIPOへのアクセスを提供 By 井上 俊彦 2026年6月8日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所Kraken（クラーケン）は6月5日、親会社のPayward（ペイワード）が提供するトークン化株式プラットフォーム「xStocks」を通じて、SpaceX（スペースX）の新規株式公開（IPO）にアクセスできるようにすると発表した。 Krakenは、スペースXが「xStocks IPO Access」を通じて提供される初のIPO案件になると述べた。適格なユーザーは、トークン化された株式商品を通じてIPOに参加できる。 参加にはKrakenのモバイルアプリで本人確認済みの口座",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "米議会、暗号資産課税を審議へ──ステーキング非課税やガス代の少額免除を提案",
+      "link": "https://www.nadanews.com/354490/",
+      "pub_date": "2026-06-08T07:00:00+09:00",
+      "pub_date_utc": "2026-06-07T22:00:00+00:00",
+      "description": "米下院共和党は6月5日、同9日に開催される歳入委員会（Ways and Means Committee）の公聴会で審議する暗号資産課税に関する7つの法案（討議草 The post 米議会、暗号資産課税を審議へ──ステーキング非課税やガス代の少額免除を提案 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米議会、暗号資産課税を審議へ──ステーキング非課税やガス代の少額免除を提案 By 井上 俊彦 2026年6月8日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米下院共和党は6月5日、同9日に開催される歳入委員会（Ways and Means Committee）の公聴会で審議する暗号資産課税に関する7つの法案（討議草案）を関係者に配布した。 同委員会の共和党指導部が取りまとめたもので、議会指導部が税制に特化した暗号資産（仮想通貨）法案を前進させるのは上下両院を通じて初めてとなる。現時点で草案は内部で配布されている段階にあり、全文は公開されていない。 法案はステーキングやマイニング、ステーブルコイン、取引など幅広い論点を網羅する。 「マイニング・",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "「市場構造は変わり始めているのか？」──3つのオンチェーン指標から読むビットコイン底値圏の現在地【エックスウィン】",
+      "link": "https://www.nadanews.com/354495/",
+      "pub_date": "2026-06-08T06:57:18+09:00",
+      "pub_date_utc": "2026-06-07T21:57:18+00:00",
+      "description": "● 2026年のビットコイン市場は、ETFや規制整備などの好材料が続く一方で、資金流入が大幅に鈍化している。● 背景にはAIブーム、巨大IPOラッシュ、機関投資 The post 「市場構造は変わり始めているのか？」──3つのオンチェーン指標から読むビットコイン底値圏の現在地【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 「市場構造は変わり始めているのか？」──3つのオンチェーン指標から読むビットコイン底値圏の現在地【エックスウィン】 By エックスウィン 2026年6月8日06:57 .st0 { fill: #374149; } 2026年6月8日06:57 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 2026年のビットコイン市場は、ETFや規制整備などの好材料が続く一方で、資金流入が大幅に鈍化している。● 背景にはAIブーム、巨大IPOラッシュ、機関投資家の資金シフトなど、暗号資産以外の投資先との競争激化がある。● オンチェーンデータからは「市場崩壊」ではなく、「新規買い手不足」が続いている状況が見えてくる。 2026年に入り、多くの投資家が同じ疑問を抱いている",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ビットコインの底はまだ見えていない＝CryptoQuant",
+      "link": "https://www.nadanews.com/354483/",
+      "pub_date": "2026-06-08T06:30:00+09:00",
+      "pub_date_utc": "2026-06-07T21:30:00+00:00",
+      "description": "ビットコイン（BTC）の底はまだ見えていない。 オンチェーン分析企業CryptoQuant（クリプトクワント）のDarkfost氏は、Xで同社のデータを引用し、 The post ビットコインの底はまだ見えていない＝CryptoQuant first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン ビットコインの底はまだ見えていない＝CryptoQuant By 井上 俊彦 2026年6月8日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコイン（BTC）の底はまだ見えていない。 オンチェーン分析企業CryptoQuant（クリプトクワント）のDarkfost氏は、Xで同社のデータを引用し、ビットコイン（BTC）投資家の「降伏」は2022年の弱気相場時の水準にまだ達しておらず、さらに下落する余地が残されているとの見方を示した。 Darkfost氏は、「実現損失は米ドル建てで算出される。時価総額が拡大し続けることを踏まえれば、同様の投資行動を前提とした場合、弱気相場における米ドル建ての損失は一段と大きくなるはずだ」と指摘した。 実現損",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "Strategyのセイラー氏、「ドットを追加」という投稿でビットコイン購入を示唆",
+      "link": "https://www.nadanews.com/354480/",
+      "pub_date": "2026-06-08T06:00:00+09:00",
+      "pub_date_utc": "2026-06-07T21:00:00+00:00",
+      "description": "ビットコイン（BTC）トレジャリー企業Strategy（ストラテジー）のMichael Saylor（マイケル・セイラー）会長は6月7日、Xにビットコイン（BT The post Strategyのセイラー氏、「ドットを追加」という投稿でビットコイン購入を示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Strategyのセイラー氏、「ドットを追加」という投稿でビットコイン購入を示唆 By 井上 俊彦 2026年6月8日06:00 .st0 { fill: #374149; } 2026年6月8日06:11 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコイン（BTC）トレジャリー企業Strategy（ストラテジー）のMichael Saylor（マイケル・セイラー）会長は6月7日、Xにビットコイン（BTC）取得状況を示すトラッカーチャートを投稿し、「ドットを追加する良いタイミングだ」とのキャプションを添えた。 新たなBTC購入を示唆したものとみられる。同氏は過去にも購入発表の直前に同様のチャートを繰り返し投稿してきた経緯がある。 この投稿は、同社",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
+      "title": "ビットコインは今が底か「コロナ暴落以来の売られすぎ」で7万ドル回復の可能性",
+      "link": "https://cointelegraph.jp/news/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-07T12:51:16+09:00",
+      "pub_date_utc": "2026-06-07T03:51:16+00:00",
+      "description": "ビットコイン（BTC）に、異様なシグナルが点灯している。テクニカル指標で見ると、いまのビットコインは2020年3月の「コロナ・ショック」以来となる水準まで売られすぎている。市場では、今後数週間で7万ドル、日本円で約1120万円に向けた“ relief rebound ”、つまり反発局面に入る可能性が意識され始めている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Yashu Gola、スタッフライター校閲：Allen Scott、スタッフ編集者ビットコインは今が底か「コロナ暴落以来の売られすぎ」で7万ドル回復の可能性22 時間前マーケット ビットコイン（BTC）に、異様なシグナルが点灯している。テクニカル指標で見ると、いまのビットコインは2020年3月の「コロナ・ショック」以来となる水準まで売られすぎている。市場では、今後数週間で7万ドル、日本円で約1120万円に向けた“ relief rebound ”、つまり反発局面に入る可能性が意識され始めている。ポイントはこうだ。ビットコインの日足RSIは15.5前後まで低下した。これは、一般的に「売られすぎ」とされる30を大きく下回る水準で、2020年3月のコロナ暴落以来の低さである。過去にも似た局面はあった。2020年、そして2026年2月には、同じようにRSIが極端な低水準まで落ち込んだ後、そ",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "FRB"
+      ],
+      "main_entities": [
+        "FRB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-08T11:36:29.349948+09:00"
+    },
+    {
       "title": "ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄稿",
       "link": "https://coinpost.jp/?p=714840",
       "pub_date": "2026-06-07T11:30:57+09:00",
@@ -31885,8 +32280,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-07T11:31:31.372797+09:00",
-  "total_count": 1571,
+  "last_updated": "2026-06-08T11:36:29.349948+09:00",
+  "total_count": 1589,
   "sources": [
     "NADA NEWS",
     "CoinPost",
