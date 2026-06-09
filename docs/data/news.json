@@ -1,6 +1,955 @@
 {
   "articles": [
     {
+      "title": "東証、Bitcoin Japan株を信用規制。新規買付比率上昇で保証金率50％以上に",
+      "link": "https://www.neweconomy.jp/posts/580890",
+      "pub_date": "2026-06-09T10:53:16+09:00",
+      "pub_date_utc": "2026-06-09T01:53:16+00:00",
+      "description": "6月9日売買分から信用規制 東京証券取引所が、Bitcoin Japan（旧：堀田丸正）の株式（証券コード：8105）について、6月9日売買分から信用取引に関する規制を実施する。日本取引所グループ（JPX）が6月8日に公",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "6月9日売買分から信用規制 東京証券取引所が、Bitcoin Japan（旧：堀田丸正）の株式（証券コード：8105）について、6月9日売買分から信用取引に関する規制を実施する。日本取引所グループ（JPX）が6月8日に公表した。 規制内容は、同社株式の信用取引による新規の売付けおよび買付けに係る委託保証金率を50％以上に引き上げるもの。うち20％以上は現金で差し入れる必要がある。 東証は今回の規制について、該当基準を「信用取引売買比率基準『ロ』」としている。同基準は、3営業日連続で株価と25日移動平均株価との乖離が30％以上となり、かつ信用取引による新規買付比率が40％以上となった場合などに適用されるものだ。つまり今回の措置は、同社株で株価上昇と信用買いの増加が重なり、信用取引の利用が過度になっていると判断されたことを受けたものとみられる。 また日本証券金融（日証金）も、Bitcoin J",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ビットコイン一時反発も失速、ストラテジー買い増しも現物市場は慎重姿勢｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=715477",
+      "pub_date": "2026-06-09T10:45:24+09:00",
+      "pub_date_utc": "2026-06-09T01:45:24+00:00",
+      "description": "*本レポートは、クリプトアナリストである仮想NISHI（",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "SEC",
+        "ECB"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "米投資銀行、ビットコインの「退屈サイクル」は価値保存論を損なわず",
+      "link": "https://coinpost.jp/?p=715478",
+      "pub_date": "2026-06-09T10:10:26+09:00",
+      "pub_date_utc": "2026-06-09T01:10:26+00:00",
+      "description": "米投資銀行バーンスタインは、2026年にビットコイン現物ETFが26億ドルの純流出を記録した一方、企業財務による購入が流出を補い、長期的な価値保存論は維持されているとの見方を示した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "中国で107BTC盗難、知人がシードフレーズを暗記 男に懲役10年9カ月",
+      "link": "https://cointelegraph.jp/news/man-who-memorized-wallet-mnemonic-jailed-in-china-for-107-btc-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-09T10:02:46+09:00",
+      "pub_date_utc": "2026-06-09T01:02:46+00:00",
+      "description": "中国東部・青島市で、まるで暗号資産版の「記憶泥棒」ともいうべき事件に判決が下った。被害者のウォレットのシードフレーズ12語の大半を記憶し、107ビットコインを盗み出したとして、青島市李滄区人民法院は、張とされる男に懲役10年9カ月の実刑判決を言い渡した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Christina Comben、スタッフライター校閲：Bryan O'Shea、スタッフ編集者中国で107BTC盗難、知人がシードフレーズを暗記 男に懲役10年9カ月59 分前ニュース 中国東部・青島市で、まるで暗号資産版の「記憶泥棒」ともいうべき事件に判決が下った。被害者のウォレットのシードフレーズ12語の大半を記憶し、107ビットコインを盗み出したとして、青島市李滄区人民法院は、張とされる男に懲役10年9カ月の実刑判決を言い渡した。最高人民検察院の公式ウィーチャットアカウントに掲載された事件概要によれば、裁判所は、張が被害者のウォレットを掌握し、その後9万7000ドル超、日本円にして約1550万円を現金化したと認定。張には懲役刑に加え、10万元、日本円で約235万円の罰金も科された。事件の発端は2023年7月にさかのぼる。被害者の馮は、以前からビットコイン取引を手伝ってもらっ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "東証、Bitcoin Japan株を9日売買分から信用規制──1週間で約3.5倍に急騰",
+      "link": "https://www.nadanews.com/354712/",
+      "pub_date": "2026-06-09T09:56:46+09:00",
+      "pub_date_utc": "2026-06-09T00:56:46+00:00",
+      "description": "東京証券取引所は、Bitcoin Japan（旧堀田丸正）株について、6月9日売買分から信用取引に関する臨時措置を実施する。同措置は6月8日に発表された。 短期 The post 東証、Bitcoin Japan株を9日売買分から信用規制──1週間で約3.5倍に急騰 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 東証、Bitcoin Japan株を9日売買分から信用規制──1週間で約3.5倍に急騰 By 平木 昌宏 2026年6月9日09:56 .st0 { fill: #374149; } 2026年6月9日09:56 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 東京証券取引所は、Bitcoin Japan（旧堀田丸正）株について、6月9日売買分から信用取引に関する臨時措置を実施する。同措置は6月8日に発表された。 短期間で株価が急騰し、信用取引の利用が過熱したことを受けた措置とみられる。 Bitcoin Japanは旧堀田丸正を前身とする企業で、ビットコイン・トレジャリー（DAT）事業など、デジタル資産領域への事業転換の計画を打ち出している。 同社をめぐって",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ヒューマニティプロトコル関連ウォレット、約30億円流出　Hトークン85％下落",
+      "link": "https://coinpost.jp/?p=715517",
+      "pub_date": "2026-06-09T09:47:46+09:00",
+      "pub_date_utc": "2026-06-09T00:47:46+00:00",
+      "description": "オンチェーン分析家のスペクターが報告。ヒューマニティプロトコルに関連する17以上のウォレットから合計1,900万ドル超が流出し、Hトークンは24時間で85.6％急落。原因は不明で調査中。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ストラテジー、優先株配当を月2回払いに変更　配当支払い圧力も浮上",
+      "link": "https://coinpost.jp/?p=715479",
+      "pub_date": "2026-06-09T08:30:28+09:00",
+      "pub_date_utc": "2026-06-08T23:30:28+00:00",
+      "description": "ストラテジーは8日の年次株主総会で、優先株STRCの配当を月1回から半月ごとの月2回に変更する定款修正案を可決した。年率11.5%は据え置き、6月末から新方式に移行する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ビットコインは6万ドルの水準を維持できるか、コインシェアーズが分析レポート公開",
+      "link": "https://coinpost.jp/?p=715498",
+      "pub_date": "2026-06-09T08:20:58+09:00",
+      "pub_date_utc": "2026-06-08T23:20:58+00:00",
+      "description": "コインシェアーズは、最近の仮想通貨の弱気相場の原因は構造的な変化ではなく、センチメントの悪化であるとの見方を示した。レポートで相場に影響している材料を分析している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "FRB"
+      ],
+      "main_entities": [
+        "FRB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "CoinbaseやRippleなど200以上の組織・団体、クラリティ法案の本会議採決を求める書簡を送付",
+      "link": "https://www.nadanews.com/354704/",
+      "pub_date": "2026-06-09T07:30:00+09:00",
+      "pub_date_utc": "2026-06-08T22:30:00+00:00",
+      "description": "暗号資産（仮想通貨）関連の企業・業界団体・草の根組織からなる200以上の連合が6月7日、上院多数党院内総務のJohn Thune（ジョン・トゥーン）氏と少数党院 The post CoinbaseやRippleなど200以上の組織・団体、クラリティ法案の本会議採決を求める書簡を送付 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 CoinbaseやRippleなど200以上の組織・団体、クラリティ法案の本会議採決を求める書簡を送付 By 井上 俊彦 2026年6月9日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）関連の企業・業界団体・草の根組織からなる200以上の連合が6月7日、上院多数党院内総務のJohn Thune（ジョン・トゥーン）氏と少数党院内総務のCharles Schumer（チャック・シューマー）氏に書簡を送り、暗号資産市場構造法案「クラリティ法案（Digital Asset Market Clarity Act：CLARITY Act）」の本会議採決を求めた。 上院銀行委員会が超党派で同法案を可決し、本会議審議へ一歩近づいたことを受け",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Kraken",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Circle",
+        "JPMorgan",
+        "a16z"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "シトリーニ・リサーチがHYPEを強気評価、買い戻し累計20億ドル超を根拠に",
+      "link": "https://coinpost.jp/?p=715480",
+      "pub_date": "2026-06-09T07:20:31+09:00",
+      "pub_date_utc": "2026-06-08T22:20:31+00:00",
+      "description": "AIバブル警告で市場を揺るがしたシトリーニ・リサーチが、ハイパーリキッドのHYPEトークンを有望投資先と評価。年換算10億ドル超の手数料収益と大規模な自社買い戻しプログラムを根拠に挙げた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "FTXの創設者サム・バンクマン＝フリード氏、トランプ大統領に恩赦を申請",
+      "link": "https://www.nadanews.com/354696/",
+      "pub_date": "2026-06-09T07:00:00+09:00",
+      "pub_date_utc": "2026-06-08T22:00:00+00:00",
+      "description": "経営破綻した暗号資産（仮想通貨）取引所FTXの創設者で元最高経営責任者（CEO）のSam Bankman-Fried（サム・バンクマン＝フリード）氏が、トランプ The post FTXの創設者サム・バンクマン＝フリード氏、トランプ大統領に恩赦を申請 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "犯罪・事故",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "犯罪・事故 FTXの創設者サム・バンクマン＝フリード氏、トランプ大統領に恩赦を申請 By 井上 俊彦 2026年6月9日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 経営破綻した暗号資産（仮想通貨）取引所FTXの創設者で元最高経営責任者（CEO）のSam Bankman-Fried（サム・バンクマン＝フリード）氏が、トランプ大統領に対し、恩赦を正式に申請していたことが明らかになった。 申請書は、係属中の恩赦案件を掲載する司法省恩赦弁護士事務所のウェブサイトに掲載されたもので、6月1日時点で「保留中」とされている。 申請区分は、早期釈放を伴わず刑期満了後に市民権の一部回復などを認める「刑期満了後の恩赦」に分類されている。 バンクマン＝フリード氏は2023年1",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ビットコインETF市場を動かす3つのプレイヤー｜ヘッジファンド・RIA・機関投資家とは何者なのか【エックスウィン】",
+      "link": "https://www.nadanews.com/354701/",
+      "pub_date": "2026-06-09T06:54:14+09:00",
+      "pub_date_utc": "2026-06-08T21:54:14+00:00",
+      "description": "● 米国現物ビットコインETF市場では、「機関投資家」と一括りにされることが多いが、実際にはヘッジファンド、RIA（投資アドバイザー）、年金基金・大学基金などで The post ビットコインETF市場を動かす3つのプレイヤー｜ヘッジファンド・RIA・機関投資家とは何者なのか【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット ビットコインETF市場を動かす3つのプレイヤー｜ヘッジファンド・RIA・機関投資家とは何者なのか【エックスウィン】 By エックスウィン 2026年6月9日06:54 .st0 { fill: #374149; } 2026年6月9日06:54 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 米国現物ビットコインETF市場では、「機関投資家」と一括りにされることが多いが、実際にはヘッジファンド、RIA（投資アドバイザー）、年金基金・大学基金などで投資目的が大きく異なる。● ヘッジファンドは短期収益を追求する市場参加者であり、価格変動や流動性に大きな影響を与える。● RIAやウェルスマネジメントは富裕層資金の運用窓口として機能し、今後のビットコイン普及を左",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "Fidelity"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "コインベース幹部「機関投資家はビットコイン6.5万ドルの安値を歓迎」",
+      "link": "https://coinpost.jp/?p=715481",
+      "pub_date": "2026-06-09T06:30:33+09:00",
+      "pub_date_utc": "2026-06-08T21:30:33+00:00",
+      "description": "コインベースの機関投資家戦略責任者がCNBCで、ファミリーオフィスや政府系ファンドがビットコインの下落局面を積み増し機会と捉えていると述べた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "Bitmine、イーサリアムの保有量を554万ETHに──総供給量の5％に迫る",
+      "link": "https://www.nadanews.com/354690/",
+      "pub_date": "2026-06-09T06:30:00+09:00",
+      "pub_date_utc": "2026-06-08T21:30:00+00:00",
+      "description": "イーサリアム（ETH）財務企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は6月8日、過去1週間 The post Bitmine、イーサリアムの保有量を554万ETHに──総供給量の5％に迫る first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Ethereum",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ethereum Bitmine、イーサリアムの保有量を554万ETHに──総供給量の5％に迫る By 井上 俊彦 2026年6月9日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イーサリアム（ETH）財務企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は6月8日、過去1週間で12万6971ETHを取得したと発表した。 今年に入って最大規模の週間購入で、約2億1400万ドル（約342億4000万円、1ドル=160円換算）に相当する。 これにより同社のETH保有量は554万3872トークンに達し、総供給量1億2070万ETHの4.59%に相当する規模となった。 掲げる目標「Alchemy of ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "Strategy、1550BTCを購入──32BTCの売却以来初めて",
+      "link": "https://www.nadanews.com/354687/",
+      "pub_date": "2026-06-09T06:00:00+09:00",
+      "pub_date_utc": "2026-06-08T21:00:00+00:00",
+      "description": "ビットコイン（BTC）財務企業Strategy（ストラテジー）が先週、約1億130万ドル（約180億8000万円、1ドル=160円換算）で1550BTCを購入し The post Strategy、1550BTCを購入──32BTCの売却以来初めて first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Strategy、1550BTCを購入──32BTCの売却以来初めて By 井上 俊彦 2026年6月9日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコイン（BTC）財務企業Strategy（ストラテジー）が先週、約1億130万ドル（約180億8000万円、1ドル=160円換算）で1550BTCを購入していたことがわかった。 同社が6月8日にアメリカ証券取引委員会（SEC）へ提出した報告書「8-K」で明らかになったもので、これにより同社のビットコイン保有量は84万5256BTCに達した。 今回の購入は1BTCあたり平均6万5332ドルだった。同社の保有分は平均取得単価が1BTCあたり7万5680ドル、取得総額は約639億7000万ドル",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "MicroStrategy",
+        "SEC"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "コインベースやリップル含む200超の業界団体、クラリティー法案の上院本会議採決を催促",
+      "link": "https://coinpost.jp/?p=715482",
+      "pub_date": "2026-06-09T05:55:34+09:00",
+      "pub_date_utc": "2026-06-08T20:55:34+00:00",
+      "description": "コインベースやリップルなど200超の仮想通貨企業・団体が連名書簡を米上院指導部に送付し、クラリティー法案の本会議採決を促した。一方、JPモルガンは年内成立を阻む複数の障害を指摘。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Kraken",
+        "Ripple",
+        "Circle",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Coinbase",
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ビットマイン、342億円相当イーサリアムを追加取得",
+      "link": "https://coinpost.jp/?p=715472",
+      "pub_date": "2026-06-09T05:35:53+09:00",
+      "pub_date_utc": "2026-06-08T20:35:53+00:00",
+      "description": "米イーサリアム・トレジャリー企業ビットマインは8日、先週126,971ETHを追加取得したと発表した。ETH総保有量は554万ETH超・総供給量の4.59%に達し、5%到達目標の達成率は92%まで進んだ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し",
+      "link": "https://coinpost.jp/?p=715449",
+      "pub_date": "2026-06-08T21:10:40+09:00",
+      "pub_date_utc": "2026-06-08T12:10:40+00:00",
+      "description": "ビットコイン保有上場企業のストラテジーが先週1,550BTCのビットコインを追加取得したと発表した。5月末に32BTCを売却して以来の購入再開となり、市場心理を改善した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "【6/8話題】メルカリがコインチェックと連携で12銘柄の暗号資産を追加、HODL1とスターテイルが業務提携へ、ネットスターズがAllScaleとMOUなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/580838",
+      "pub_date": "2026-06-08T20:56:29+09:00",
+      "pub_date_utc": "2026-06-08T11:56:29+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース メルカリが12銘柄の暗号資産を取扱追加、コインチェックのCaaSと連携で HODL1、スターテイルと業務提携へ。日本円ステーブルコイン関連事業などで協業検討 ネットスターズ、AllScaleとMOU。ステーブルコイン決済のマルチウォレット化で Z",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Kraken",
+        "Bybit",
+        "Toncoin",
+        "Circle",
+        "Grayscale",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "リップルのステーブルコイン「RLUSD」、ベースやインクなどにマルチチェーン展開",
+      "link": "https://www.neweconomy.jp/posts/580675",
+      "pub_date": "2026-06-08T18:32:54+09:00",
+      "pub_date_utc": "2026-06-08T09:32:54+00:00",
+      "description": "RLUSDがBase・Ink・Optimismなど対応 米ドル裏付け型ステーブルコイン「リップルUSD（RLUSD）」が、相互運用プロトコル「ワームホール（Wormhole）」のネイティブトークントランスファー（NTT）",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "RLUSDがBase・Ink・Optimismなど対応 米ドル裏付け型ステーブルコイン「リップルUSD（RLUSD）」が、相互運用プロトコル「ワームホール（Wormhole）」のネイティブトークントランスファー（NTT）標準を通じ、サポート対象の複数ブロックチェーンエコシステム間でネイティブに移転可能になった。ワームホールの公式ブログで6月4日に発表された。 RLUSDは、リップル（Ripple）傘下のスタンダード・カストディ・アンド・トラスト（Standard Custody and Trust Company）発行のステーブルコイン。現在、イーサリアム（Ethereum）とXRPレジャー（XRP Ledger：XRPL）上でネイティブに発行されている。今回、NTTを通じてRLUSDを利用できる主なエコシステムとして、ベース（Base）、インク（Ink）、オプティミズム（Optimism",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple",
+        "Optimism",
+        "Circle"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "暗号資産取引所HTX、WLFI発行USD1を上場廃止。アドレス凍結巡り対立",
+      "link": "https://www.neweconomy.jp/posts/580679",
+      "pub_date": "2026-06-08T18:27:31+09:00",
+      "pub_date_utc": "2026-06-08T09:27:31+00:00",
+      "description": "WLFIによるアドレス凍結受け、HTXがUSD1上場廃止 暗号資産（仮想通貨）取引所HTXが、ワールド・リバティ・ファイナンシャル（World Liberty Financial：WLFI）によるHTX関連の特定オンチェ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "WLFIによるアドレス凍結受け、HTXがUSD1上場廃止 暗号資産（仮想通貨）取引所HTXが、ワールド・リバティ・ファイナンシャル（World Liberty Financial：WLFI）によるHTX関連の特定オンチェーンアドレス凍結を理由として、WLFI発行のステーブルコイン「USD1」の上場廃止を6月6日に発表した。 発表によると、USD1は6月7日3:00（UTC）日本時間同日12:00に上場廃止となり、対象となるユーザー保有分は1:1の比率でUSDTへ転換される。転換後のUSDTはユーザーの現物口座へ付与されるという。 HTXは今回の措置について、WLFIチームが制裁コンプライアンス審査を理由に、HTXに関連する特定のオンチェーンアドレスを凍結したことを受けた対応だと説明している。HTXはWLFIによる一方的な凍結措置に反発し、ユーザー資産の保護や市場の公平性維持を理由としてUS",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "HTX",
+        "Tether"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ジーキャッシュに偽造ZEC疑惑「無限発行バグ」で価格急落、新対策アイアンウッドとは",
+      "link": "https://cointelegraph.jp/news/zcash-ironwood-shielded-pool-orchard-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T18:22:14+09:00",
+      "pub_date_utc": "2026-06-08T09:22:14+00:00",
+      "description": "ジーキャッシュの開発者たちが、新たなシールドプール「アイアンウッド」の導入を提案している。きっかけは、すでに修正済みとされるバグだった。だが、そのバグをめぐっては、偽造されたZECが誰にも気づかれず流通に入り込んでいたのではないか――そんな疑念がくすぶっている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Ezra Reguerra、スタッフライター校閲：Yohan Yu、スタッフライタージーキャッシュに偽造ZEC疑惑「無限発行バグ」で価格急落、新対策アイアンウッドとは16 時間前ニュース ジーキャッシュの開発者たちが、新たなシールドプール「アイアンウッド」の導入を提案している。きっかけは、すでに修正済みとされるバグだった。だが、そのバグをめぐっては、偽造されたZECが誰にも気づかれず流通に入り込んでいたのではないか――そんな疑念がくすぶっている。ジーキャッシュ・オープン・デベロップメント・ラボ（ZODL）は土曜日、タキオン、ヴァラー・グループ、Zキャッシュ財団、シールド・ラボと連携し、ネットワークアップグレード案に取り組んでいると明らかにした。このアップグレードでは、ユーザーが取引内容を明かさずにZECを移動できるプライバシー機能「オーチャード」プロトコルに、形式検証と独立監査を追",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "JPモルガンやシティら米大手銀、トークン化預金の共同ネットワーク計画＝WSJ",
+      "link": "https://www.neweconomy.jp/posts/580636",
+      "pub_date": "2026-06-08T18:12:58+09:00",
+      "pub_date_utc": "2026-06-08T09:12:58+00:00",
+      "description": "米大手銀行、トークン化預金の共同ネットワーク計画 JPモルガン・チェース（JPMorgan Chase）やシティグループ（Citigroup）、バンク・オブ・アメリカ（Bank of America）、ウェルズ・ファーゴ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "米大手銀行、トークン化預金の共同ネットワーク計画 JPモルガン・チェース（JPMorgan Chase）やシティグループ（Citigroup）、バンク・オブ・アメリカ（Bank of America）、ウェルズ・ファーゴ（Wells Fargo）など米大手銀行が、トークン化預金を移転できる共同ネットワークの構築を計画していると米紙ウォール・ストリート・ジャーナル（WSJ）が6月4日に報じた。 報道によると、同ネットワークは米決済インフラ企業クリアリング・ハウス（The Clearing House）が運営する予定だという。同社はJPモルガンやバンク・オブ・アメリカ、シティグループ、ウェルズ・ファーゴなど大手商業銀行が共同所有する決済会社だ。 同ネットワークでは、トークン化預金を24時間365日、即時に移転・決済できる仕組みを提供するという。立ち上げ時期は2027年前半が目標で、基盤技術を担",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "JPMorgan",
+        "金融庁"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "アーサー・ヘイズ氏、ワールドコインを売却 「AI関連銘柄」と持ち上げた直後にWLD急落",
+      "link": "https://cointelegraph.jp/news/arthur-hayes-offloads-wld-days-after-maelstrom-touted-it-as-an-ai-ipo-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T18:00:00+09:00",
+      "pub_date_utc": "2026-06-08T09:00:00+00:00",
+      "description": "メイルストロム共同創業者のアーサー・ヘイズ氏が、ワールドコイン（WLD）の保有分を売却したと明かした。しかも、それは自身のベンチャーキャピタルが同銘柄を「AI投資の波に乗るうえで、最も分かりやすい代理銘柄の一つ」と評した、わずか数日後のことだった。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Martin Young、スタッフライター校閲：Felix Ng、スタッフ編集者アーサー・ヘイズ氏、ワールドコインを売却 「AI関連銘柄」と持ち上げた直後にWLD急落17 時間前ニュース メイルストロム共同創業者のアーサー・ヘイズ氏が、ワールドコイン（WLD）の保有分を売却したと明かした。しかも、それは自身のベンチャーキャピタルが同銘柄を「AI投資の波に乗るうえで、最も分かりやすい代理銘柄の一つ」と評した、わずか数日後のことだった。「このチャートは、よくない方向に向かっている」ヘイズ氏は土曜日、Xにそう投稿した。添えられていたのは、スペースXの上場前パーペチュアル先物契約のチャート。価格は急落していた。そして、こう続けた。「WLDは投げた。俺は降りた。じゃあ、クラブで会おう」つい水曜日のことだった。メイルストロムのリサーチャー、ルーカス・ルパート氏は、ワールドコインを「見過ごされて",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Near Protocol",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "米暗号資産規制「CLARITY法」に黄信号 成立確率75％から60％に低下",
+      "link": "https://cointelegraph.jp/news/galaxy-drops-clarity-act-passage-odds-to-60-percent-as-time-runs-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T17:25:00+09:00",
+      "pub_date_utc": "2026-06-08T08:25:00+00:00",
+      "description": "米暗号資産企業ギャラクシー・デジタルが、暗号資産市場構造法案の年内成立に慎重な見方を強めている。上院での審議に残された時間は、刻一刻と失われつつある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Jesse Coghlan、スタッフ編集者校閲：Felix Ng、スタッフ編集者米暗号資産規制「CLARITY法」に黄信号 成立確率75％から60％に低下17 時間前ニュース 米暗号資産企業ギャラクシー・デジタルが、暗号資産市場構造法案の年内成立に慎重な見方を強めている。上院での審議に残された時間は、刻一刻と失われつつある。同社の調査部門トップ、アレックス・ソーン氏は金曜日のメモでこう記した。「5月22日、われわれはCLARITY法が2026年中に成立する確率を75％に引き上げた。これは、5月14日朝の上院銀行委員会での採決前に示していた55％からの上方修正だった。だが、現在はその見通しを60％に引き下げる」ソーン氏によれば、法案は7月下旬から始まる1カ月間の8月休会前に上院を通過しなければならない。そこを逃せば、「実質的に窓は閉じる」という。中間選挙が近づく局面では、議員らが選挙",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "Galaxy、機関投資家向けOTC予測市場取引を開始──Arcaとの1,000万ドル取引と予測市場の「機関化」【MCB FinTechカタログ通信】",
+      "link": "https://www.nadanews.com/348782/",
+      "pub_date": "2026-06-08T17:00:00+09:00",
+      "pub_date_utc": "2026-06-08T08:00:00+00:00",
+      "description": "2026年6月2日、暗号資産金融大手のGalaxy Digitalが、機関投資家向けにOTC（店頭・相対）での予測市場取引を開始したことを発表しました。同社の機 The post Galaxy、機関投資家向けOTC予測市場取引を開始──Arcaとの1,000万ドル取引と予測市場の「機関化」【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 Galaxy、機関投資家向けOTC予測市場取引を開始──Arcaとの1,000万ドル取引と予測市場の「機関化」【MCB FinTechカタログ通信】 By 宮本航歩 2026年6月8日17:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 2026年6月2日、暗号資産金融大手のGalaxy Digitalが、機関投資家向けにOTC（店頭・相対）での予測市場取引を開始したことを発表しました。同社の機関向けトレーディング部門Galaxy Global Marketsが手がけるもので、初回取引として暗号資産特化のヘッジファンドArcaを相手に1,000万ドル規模の取引を約定しています。 今回は、Galaxy Digitalが整備した機関投資家向けOTC予測市場の仕組",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "マネックスグループ",
+        "CFTC",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "マネックスグループ"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ビットコイン反発、売られすぎで買い戻し 韓国株急落でも6万ドル維持",
+      "link": "https://cointelegraph.jp/news/behind-the-rebound-in-bitcoin-south-korean-stocks-hit-the-brakes-sharply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T16:55:58+09:00",
+      "pub_date_utc": "2026-06-08T07:55:58+00:00",
+      "description": "ビットコイン、イーサリアム、そして暗号資産市場全体が、8日午前にかけて反発した。過去1週間にわたって続いた下落相場の末、ようやく買い戻しの動きが入った格好だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Kazuki Okubo、スタッフライター校閲：Kazuki Okubo、スタッフライタービットコイン反発、売られすぎで買い戻し 韓国株急落でも6万ドル維持18 時間前ニュース ビットコイン、イーサリアム、そして暗号資産市場全体が、8日午前にかけて反発した。過去1週間にわたって続いた下落相場の末、ようやく買い戻しの動きが入った格好だ。8日午前11時25分までの24時間で、ビットコインは3％上昇し、6万3168ドル、約1013万円をつけた。イーサリアムは6.5％高の1687ドル、約27万円。ソラナも4.7％上昇し、66.3ドル、約1万600円となった。市場関係者は、今回のビットコインの反発について「典型的な売られすぎ後の自律反発」とみている。プレスト・リサーチのアソシエイトリサーチャー、ミン・ジョン氏はこう語る。「今朝のビットコインの約5％反発は、先週の急落を受けて市場が売られすぎの",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "FRB"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "HTX、トランプ氏関連WLFIのステーブルコインUSD1を上場廃止へ",
+      "link": "https://www.nadanews.com/354652/",
+      "pub_date": "2026-06-08T16:40:05+09:00",
+      "pub_date_utc": "2026-06-08T07:40:05+00:00",
+      "description": "暗号資産（仮想通貨）取引所HTXは6月6日、World Liberty Financial（ワールド・リバティ・ファイナンシャル、以下WLFI）が発行するステー The post HTX、トランプ氏関連WLFIのステーブルコインUSD1を上場廃止へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス HTX、トランプ氏関連WLFIのステーブルコインUSD1を上場廃止へ By Shoko Galaviz 2026年6月8日16:40 .st0 { fill: #374149; } 2026年6月8日16:40 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所HTXは6月6日、World Liberty Financial（ワールド・リバティ・ファイナンシャル、以下WLFI）が発行するステーブルコインUSD1を上場廃止し、対象ユーザーの保有分をTether（テザー）のUSDTに1対1で交換すると発表した。上場廃止は6月7日に実施された。 HTXは発表で、USD1がWLFIプロジェクトチームによって発行された資産であることを踏まえ、潜在",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "HTX",
+        "Tether"
+      ],
+      "main_entities": [
+        "HTX"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "メタプラネット株、年初来で半値割れ──優先株配当は総額8.7億円に増額",
+      "link": "https://www.nadanews.com/354620/",
+      "pub_date": "2026-06-08T16:14:02+09:00",
+      "pub_date_utc": "2026-06-08T07:14:02+00:00",
+      "description": "メタプラネットは6月8日、B種優先株式について、2026年6月30日、9月30日、12月31日を基準日とする剰余金の配当を実施すると発表した。 1株当たりの配当 The post メタプラネット株、年初来で半値割れ──優先株配当は総額8.7億円に増額 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス メタプラネット株、年初来で半値割れ──優先株配当は総額8.7億円に増額 By 平木 昌宏 2026年6月8日16:14 .st0 { fill: #374149; } 2026年6月8日16:14 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); メタプラネットは6月8日、B種優先株式について、2026年6月30日、9月30日、12月31日を基準日とする剰余金の配当を実施すると発表した。 1株当たりの配当金は各回12円25銭。配当総額は1回当たり2億8922万2500円で、今回決議された3回分の合計は8億6766万7500円となる。 B種優先株式とは、普通株式とは異なる条件で発行される種類株式の一つ。メタプラネットのB種優先株式では、発行要項に基づき、普通株式に",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ロシア中銀、一般投資家の暗号資産取引をBTC・ETH・USDTの3銘柄に限定へ",
+      "link": "https://www.neweconomy.jp/posts/580628",
+      "pub_date": "2026-06-08T16:09:47+09:00",
+      "pub_date_utc": "2026-06-08T07:09:47+00:00",
+      "description": "購入上限は30万ルーブル ロシア中央銀行のウラジーミル・チスチュヒン（Vladimir Chistyukhin）第一副総裁は、非プロ・非適格投資家が取引できる暗号資産（仮想通貨）を、ビットコイン（BTC）、イーサリアム（",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "購入上限は30万ルーブル ロシア中央銀行のウラジーミル・チスチュヒン（Vladimir Chistyukhin）第一副総裁は、非プロ・非適格投資家が取引できる暗号資産（仮想通貨）を、ビットコイン（BTC）、イーサリアム（ETH）、テザー（USDT）の3銘柄に限定する方針を明らかにした。ロシアメディア「RBC」が6月4日に報じた。 報道によると、ロシア中銀は現時点で対象銘柄を拡大する予定はないとしている。ただし、将来的に拡大する場合は、主にドル建て以外のステーブルコインが候補になり得るとの見方も示された。 チスチュヒン氏は、暗号資産はリスクとボラティリティの高い金融商品だと説明。特にUSDTについては、発行体によってウォレットが凍結される可能性がある点にも言及し、リスクを警告したという。 また、一般投資家が1つの仲介事業者を通じて購入できる暗号資産の金額について、30万ルーブル（約65万円）",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "グレースケール、「カントンコイン（CC）」現物ETFのS1登録届出書を米SECに提出",
+      "link": "https://www.neweconomy.jp/posts/580612",
+      "pub_date": "2026-06-08T15:56:43+09:00",
+      "pub_date_utc": "2026-06-08T06:56:43+00:00",
+      "description": "Grayscale Canton ETFのS1登録届出書がSECに提出 米資産運用会社グレースケール（Grayscale）が、カントンネットワーク（Canton Network）のネイティブトークン「カントンコイン（CC",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Grayscale Canton ETFのS1登録届出書がSECに提出 米資産運用会社グレースケール（Grayscale）が、カントンネットワーク（Canton Network）のネイティブトークン「カントンコイン（CC）」の現物ETF（上場投資信託）の登録届出書「S-1申請書（Form S-1）」を、米SEC（証券取引委員会）へ6月5日付で提出した。 提出書類によると、グレースケールが申請中のETFの名称は「Grayscale Canton ETF」。同ETFはCCを保有し、保有するCCの価値を反映することを投資目的とする。1933年証券法に基づいて登録届出された。現時点でティッカーシンボルは未記載だが、上場先の取引所は米NYSEアーカ（NYSE Arca）が予定されている。 同ETFの信託受託者（トラスティー）には、米デラウェア州拠点のサービスプロバイダーのCSCデラウェアトラスト（C",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Sui",
+        "Toncoin",
+        "Hyperliquid",
+        "Grayscale",
+        "SEC"
+      ],
+      "main_entities": [
+        "Toncoin",
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "Bybit、SpaceXのIPOアクセスをトークン化──Krakenに続きxStocks経由で提供",
+      "link": "https://www.nadanews.com/354637/",
+      "pub_date": "2026-06-08T15:50:00+09:00",
+      "pub_date_utc": "2026-06-08T06:50:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Bybit（バイビット）は、SpaceX（スペースX）のIPO（新規株式公開）へのアクセスをトークン化した商品をローンチした。 対象と The post Bybit、SpaceXのIPOアクセスをトークン化──Krakenに続きxStocks経由で提供 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Tokenization",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Tokenization Bybit、SpaceXのIPOアクセスをトークン化──Krakenに続きxStocks経由で提供 By Shoko Galaviz 2026年6月8日15:50 .st0 { fill: #374149; } 2026年6月8日15:54 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所Bybit（バイビット）は、SpaceX（スペースX）のIPO（新規株式公開）へのアクセスをトークン化した商品をローンチした。 対象となるユーザーは、スペースXのナスダック上場が見込まれる6月12日を前に、4日間の申込期間中にUSDコイン（USDC）を拠出できる。 同商品は「IPO Express」と呼ばれ、xStocks Allia",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "Kraken",
+        "OKX",
+        "Bybit",
+        "bitFlyer",
+        "bitbank",
+        "Circle"
+      ],
+      "main_entities": [
+        "Bybit"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ジーキャッシュ、流通量検証の新提案「Ironwood」　偽造脆弱性受け",
+      "link": "https://coinpost.jp/?p=715282",
+      "pub_date": "2026-06-08T15:35:16+09:00",
+      "pub_date_utc": "2026-06-08T06:35:16+00:00",
+      "description": "ジーキャッシュ（ZEC）のOrchardプールで発覚した偽造脆弱性を受け、Shielded Labsらが流通量の独自検証を可能にするネットワークアップグレード「Ironwood」を提案。ターンスタイル機構の仕組みと7月末を目標とする実施計画を解説する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "クラーケンとバイビット、スペースX IPO申込受付を開始。xStocks活用で",
+      "link": "https://www.neweconomy.jp/posts/580604",
+      "pub_date": "2026-06-08T14:52:35+09:00",
+      "pub_date_utc": "2026-06-08T05:52:35+00:00",
+      "description": "クラーケンとバイビットがスペースX IPOへのアクセス提供 暗号資産（仮想通貨）取引所クラーケン（Kraken）が、イーロン・マスク（Elon Musk）氏が設立した民間宇宙開発企業「スペースX（SpaceX）」の新規株",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "クラーケンとバイビットがスペースX IPOへのアクセス提供 暗号資産（仮想通貨）取引所クラーケン（Kraken）が、イーロン・マスク（Elon Musk）氏が設立した民間宇宙開発企業「スペースX（SpaceX）」の新規株式公開（IPO）への参加申込機能の提供を開始したと6月5日に発表した。 今回の取り組みは、同社の「IPOアクセス（IPO Access）」プログラムを通じて実施されるものだ。対象地域の利用者は、スペースXのIPOに参加する意思表示を事前に行えるとのこと。ただし、割当は保証されない。 クラーケンによると、IPOで割当を受けた利用者には、スペースX株式のトークン化表現である「SPCXx」が付与される。同トークンは上場後、24時間365日取引が可能になるとのこと。なお欧州経済領域（EEA）の利用者については24時間・週5日取引とされている。 今回利用されるSPCXxは、株式トーク",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "Bybit",
+        "Hyperliquid",
+        "Circle"
+      ],
+      "main_entities": [
+        "Kraken",
+        "Bybit"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "Zcash、新アップグレード「Ironwood」提案。供給量の自律検証を可能に",
+      "link": "https://www.neweconomy.jp/posts/580590",
+      "pub_date": "2026-06-08T14:44:27+09:00",
+      "pub_date_utc": "2026-06-08T05:44:27+00:00",
+      "description": "Orchard偽造脆弱性を受け プライバシーコイン「ジーキャッシュ（Zcash）」の開発に関わる独立組織シールデッドラボ（Shielded Labs）、ジーキャッシュ財団（Zcash Foundation）、タキオン・グ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Orchard偽造脆弱性を受け プライバシーコイン「ジーキャッシュ（Zcash）」の開発に関わる独立組織シールデッドラボ（Shielded Labs）、ジーキャッシュ財団（Zcash Foundation）、タキオン・グループ（Tachyon Group）、ヴァラー・グループ（Valar Group）、コア開発組織のジーキャッシュ・オープン・デベロップメント・ラボ（Zcash Open Development Lab：ZODL）の5団体が、新たなネットワークアップグレード「アイロンウッド（Ironwood）」を共同提案した。Zcashの創設者であるズーコ・ウィルコックス＝オハーン（Zooko Wilcox-O’Hearn）氏が6月7日に発表した。Zcashの流通量（サーキュレーティングサプライ）について、ユーザーが外部機関に依存せず独自に検証できる仕組みの回復を目的としている。 今回の提案",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ビットワイズCEO、長期投資家に提言　短期価格でなく年単位の本質注視を",
+      "link": "https://coinpost.jp/?p=715254",
+      "pub_date": "2026-06-08T14:39:30+09:00",
+      "pub_date_utc": "2026-06-08T05:39:30+00:00",
+      "description": "ビットコインETFを手がけるビットワイズCEOのハンター・ホーズリー氏が、暗号資産投資家に「週次の価格変動ではなく年単位の本質的進化に目を向けよ」と呼びかけた。オンチェーン技術の成熟や機関投資家参入を根拠に、2022年から2026年の変化は「疑いようがない」と強調した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "HODL1、スターテイルと業務提携へ。日本円ステーブルコイン関連事業などで協業検討",
+      "link": "https://www.neweconomy.jp/posts/580573",
+      "pub_date": "2026-06-08T14:25:02+09:00",
+      "pub_date_utc": "2026-06-08T05:25:02+00:00",
+      "description": "HODL1とスターテイルが業務提携へ 東証スタンダード上場企業のHODL1（ホドルワン）が、スターテイルグループ（Startale Group）と、ブロックチェーン関連事業における業務提携基本合意書（MOU）を締結した。",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "HODL1とスターテイルが業務提携へ 東証スタンダード上場企業のHODL1（ホドルワン）が、スターテイルグループ（Startale Group）と、ブロックチェーン関連事業における業務提携基本合意書（MOU）を締結した。HODL1が6月8日に発表した。 HODL1は暗号資産（仮想通貨）イーサリアム（ETH）の中長期保有と、イーサリアム（Ethereum）関連の開発を軸に事業を進めている企業だ。 一方のスターテイルは、2023年設立のWeb3テクノロジー企業。ソニーグループとの合弁会社ソニー・ブロック・ソリューションズ・ラボ（Sony Block Solutions Labs）を通じた、イーサリアムレイヤー2ブロックチェーン「ソニューム（Soneium）」の開発や、SBIホールディングスと共に、金融資産のオンチェーンでの取引に特化したレイヤー1ブロックチェーン「ストリウム（Strium Ne",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "SBI Holdings"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "コインチェック、仮想通貨売買を組み込む「CaaS」開始　メルカリに導入",
+      "link": "https://coinpost.jp/?p=715098",
+      "pub_date": "2026-06-08T13:35:54+09:00",
+      "pub_date_utc": "2026-06-08T04:35:54+00:00",
+      "description": "コインチェックが、仮想通貨の売買機能をAPIで外部アプリに組み込める基盤「CaaS」の提供を開始。第1弾としてメルカリの子会社メルコインと連携し、メルカリアプリで取引できる仮想通貨が12銘柄増え計15銘柄に。6月施行の仲介業の新制度を活用する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ストラテジーの米ドル準備金積み増しが市場の信頼性回復の鍵になる可能性＝JPモルガン",
+      "link": "https://coinpost.jp/?p=715152",
+      "pub_date": "2026-06-08T13:05:02+09:00",
+      "pub_date_utc": "2026-06-08T04:05:02+00:00",
+      "description": "JPモルガンは仮想通貨市場の見方を「慎重」に変更し、市場回復の条件として、ストラテジー社のドル準備金積み増しと「クラリティ法」可決を挙げている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者 ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調 googletag.cmd.push(function() { googlet",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "セキュリタイズがNYSE上場へ前進 RWAトークン化大手にSECがゴーサイン",
+      "link": "https://cointelegraph.jp/news/securitize-gets-sec-nod-cantor-merger-nyse-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T12:55:06+09:00",
+      "pub_date_utc": "2026-06-08T03:55:06+00:00",
+      "description": "現実資産、いわゆるRWAのトークン化を手がけるセキュリタイズが、いよいよウォール街の表舞台に近づいている。同社は、SPAC（特別買収目的会社）との合併を通じた上場計画を進めてきたが、その重要な関門のひとつだった書類が、米証券取引委員会（SEC）に承認された。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Martin Young、スタッフライター校閲：Felix Ng、スタッフ編集者セキュリタイズがNYSE上場へ前進 RWAトークン化大手にSECがゴーサイン22 時間前ニュース 現実資産、いわゆるRWAのトークン化を手がけるセキュリタイズが、いよいよウォール街の表舞台に近づいている。同社は、SPAC（特別買収目的会社）との合併を通じた上場計画を進めてきたが、その重要な関門のひとつだった書類が、米証券取引委員会（SEC）に承認された。SECが有効と認めたのは、キャンター・フィッツジェラルド傘下の関連会社がスポンサーを務める上場SPAC、キャンター・エクイティ・パートナーズIIと、セキュリタイズによるフォームS-4登録届出書である。セキュリタイズの共同創業者でCEOのカルロス・ドミンゴ氏は、今回の動きについて「セキュリタイズにとって、そしてトークン化の機関投資家による採用拡大にとって、",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "BlackRock",
+        "SEC"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "ジーキャッシュに重大バグ 「偽造ZEC」の不安で価格40％急落",
+      "link": "https://cointelegraph.jp/explained/why-zec-fell-after-zcash-orchard-bug-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T12:36:37+09:00",
+      "pub_date_utc": "2026-06-08T03:36:37+00:00",
+      "description": "プライバシー重視の暗号資産として知られるジーキャッシュ（ZEC）が、2026年6月第1週、ジーキャッシュ側がプライベートプールの不具合を修正したにもかかわらず、約40％下落した。",
+      "category_raw": "徹底解説",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ジーキャッシュに重大バグ 「偽造ZEC」の不安で価格40％急落(function(a,c,b){a[b]=a[b]||[];a[b].push({\"gtm.start\":(new Date).getTime(),event:\"gtm.js\"})})(window,document,\"dataLayer\");{\"@context\":\"http://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"name\":\"ジーキャッシュに重大バグ 「偽造ZEC」の不安で価格40％急落\",\"description\":\"プライバシー重視の暗号資産として知られるジーキャッシュ（ZEC）が、2026年6月第1週、ジーキャッシュ側がプライベートプールの不具合を修正したにもかかわらず、約40％下落した。\",\"headline\":\"ジーキャッシュに重大バグ 「偽造ZEC」の不安で価格",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
+      "title": "トランプ家の暗号資産「USD1」がHTXで上場廃止 ジャスティン・サン氏側と凍結問題で対立",
+      "link": "https://cointelegraph.jp/news/justin-suns-htx-delists-trump-familys-usd1-amid-freeze-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-08T11:44:26+09:00",
+      "pub_date_utc": "2026-06-08T02:44:26+00:00",
+      "description": "暗号資産起業家ジャスティン・サン氏と関係が深い暗号資産取引所HTXが、トランプ家が関与するステーブルコイン「USD1」の上場廃止に踏み切った。背景にあるのは、ワールド・リバティ・ファイナンシャル（WLFI）によるHTX関連アドレスの凍結をめぐる対立だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "執筆者：Jesse Coghlan、スタッフ編集者校閲：Felix Ng、スタッフ編集者トランプ家の暗号資産「USD1」がHTXで上場廃止 ジャスティン・サン氏側と凍結問題で対立23 時間前ニュース 暗号資産起業家ジャスティン・サン氏と関係が深い暗号資産取引所HTXが、トランプ家が関与するステーブルコイン「USD1」の上場廃止に踏み切った。背景にあるのは、ワールド・リバティ・ファイナンシャル（WLFI）によるHTX関連アドレスの凍結をめぐる対立だ。HTXは土曜日、こう声明を出した。「ワールド・リバティ・ファイナンシャルのプロジェクトチームは最近、制裁順守に関する審査を理由として、特定のHTXオンチェーンアドレスに対し、一方的に凍結措置を講じたと発表した」同社によれば、この措置により、対象アドレスに関連する一部WLFI資産のオンチェーン上の流通が制限されたという。HTXは、ユーザー資産を守る",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "HTX",
+        "Tether"
+      ],
+      "main_entities": [
+        "HTX"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-09T11:01:26.212036+09:00"
+    },
+    {
       "title": "ビットコイン暴落、ストラテジーの売却やマウントゴックス資金移動、米国雇用統計受けた金融政策見通しの変化など（仮想通貨市場レポート 6/8 号）",
       "link": "https://www.neweconomy.jp/features/sbivct/580449",
       "pub_date": "2026-06-08T11:31:26+09:00",
@@ -32280,8 +33229,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-08T11:36:29.349948+09:00",
-  "total_count": 1589,
+  "last_updated": "2026-06-09T11:01:26.212036+09:00",
+  "total_count": 1631,
   "sources": [
     "NADA NEWS",
     "CoinPost",
