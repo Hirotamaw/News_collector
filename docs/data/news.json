@@ -1,6 +1,1261 @@
 {
   "articles": [
     {
+      "title": "米大手スタートアップ支援YCがクラリティー法支持　「全社が仮想通貨を使う」",
+      "link": "https://coinpost.jp/?p=716600",
+      "pub_date": "2026-06-12T11:04:43+09:00",
+      "pub_date_utc": "2026-06-12T02:04:43+00:00",
+      "description": "米スタートアップ支援のYコンビネーター（YC）が、米クラリティー法の上院本会議通過を強く支持。仮想通貨・ステーブルコイン技術はやがて全企業が活用すると訴えた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決",
+      "link": "https://www.nadanews.com/355255/",
+      "pub_date": "2026-06-12T10:38:24+09:00",
+      "pub_date_utc": "2026-06-12T01:38:24+00:00",
+      "description": "暗号資産（仮想通貨）の規制を金融商品取引法（金商法）へ移管する改正法案が、6月11日の衆議院本会議で可決された。10日の財務金融委員会での可決を受けたもので、法 The post 【速報】暗号資産の金商法改正案、衆院本会議で可決 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 【速報】暗号資産の金商法改正案、衆院本会議で可決 By 栃山 直樹 2026年6月12日10:38 .st0 { fill: #374149; } 2026年6月12日10:47 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）の規制を金融商品取引法（金商法）へ移管する改正法案が、6月11日の衆議院本会議で可決された。10日の財務金融委員会での可決を受けたもので、法案の舞台は今後、参議院での審議へと移る。 本会議での採決では、自民党や維新の会、国民民主党などの賛成多数で可決された一方、共産党と参政党は反対に回った。 こうした法改正の背景には、暗号資産が決済手段から投資対象へと変化している市場の実態がある。10日の委員会では、高市早苗首相の",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "米超党派議員、仮想通貨盗難対策を強化する法案提出　司法省内にタスクフォース設置目指す",
+      "link": "https://coinpost.jp/?p=716538",
+      "pub_date": "2026-06-12T10:15:06+09:00",
+      "pub_date_utc": "2026-06-12T01:15:06+00:00",
+      "description": "米共和・民主両党の下院議員が「仮想通貨窃盗取締・協調法案」を提出。司法省内に専門タスクフォースを設置し、複数省庁の連携強化と被害防止を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "アバランチ特化のトレジャリー企業、ナスダックに上場　AVAX約3.5％保有",
+      "link": "https://coinpost.jp/?p=716546",
+      "pub_date": "2026-06-12T09:44:52+09:00",
+      "pub_date_utc": "2026-06-12T00:44:52+00:00",
+      "description": "アバランチ（AVAX）に特化したトレジャリー企業アバランチ・トレジャリーが11日、ティッカー「AVAT」でナスダックに上場。時価総額6億7500万ドル超のSPAC合併を経て、AVAX約1500万トークンを保有。単純な資産積み立てにとどまらないエコシステム投資モデルを掲げる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Avalanche",
+        "三井住友銀行"
+      ],
+      "main_entities": [
+        "Avalanche"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "ワールドカップ予想ゲームで最大100万ドル規模の賞金プール──TopNod、Pharosとキャンペーン開始",
+      "link": "https://www.nadanews.com/355214/",
+      "pub_date": "2026-06-12T09:34:35+09:00",
+      "pub_date_utc": "2026-06-12T00:34:35+00:00",
+      "description": "ノンカストディアル（非預託型）のデジタルウォレットを提供するTopNod（トップノッド）は6月11日、金融・AI向けレイヤー1ブロックチェーンのPharos（フ The post ワールドカップ予想ゲームで最大100万ドル規模の賞金プール──TopNod、Pharosとキャンペーン開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス ワールドカップ予想ゲームで最大100万ドル規模の賞金プール──TopNod、Pharosとキャンペーン開始 By 平木 昌宏 2026年6月12日09:34 .st0 { fill: #374149; } 2026年6月12日09:34 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ノンカストディアル（非預託型）のデジタルウォレットを提供するTopNod（トップノッド）は6月11日、金融・AI向けレイヤー1ブロックチェーンのPharos（ファロス）と提携し、ワールドカップに合わせたキャンペーン「TopNod Million Cup」を開始したと発表した。 Pharosは、Alibaba（アリババ）グループから分立したフィンテック企業Ant Group（アント",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "DAT企業ナカモト、600BTC売却で72億円債務返済",
+      "link": "https://coinpost.jp/?p=716513",
+      "pub_date": "2026-06-12T09:30:26+09:00",
+      "pub_date_utc": "2026-06-12T00:30:26+00:00",
+      "description": "ビットコイン運用企業のナカモトが約600BTCを売却して4,500万ドルの債務を返済し、ローン残高の大半を2027年6月まで延長した。最大2,500万ドルの自社株買いプログラムも承認している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Kraken"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "HashPortとBOOSTRY、セキュリティ・トークン向け優待トークンで共同検討を開始",
+      "link": "https://www.nadanews.com/355205/",
+      "pub_date": "2026-06-12T08:34:42+09:00",
+      "pub_date_utc": "2026-06-11T23:34:42+00:00",
+      "description": "HashPort（ハッシュポート）は6月11日、BOOSTRY（ブーストリー）と、セキュリティ・トークン（ST）とアンホステッドウォレットの連携に向けた業務提携 The post HashPortとBOOSTRY、セキュリティ・トークン向け優待トークンで共同検討を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス HashPortとBOOSTRY、セキュリティ・トークン向け優待トークンで共同検討を開始 By 平木 昌宏 2026年6月12日08:34 .st0 { fill: #374149; } 2026年6月12日10:03 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); HashPort（ハッシュポート）は6月11日、BOOSTRY（ブーストリー）と、セキュリティ・トークン（ST）とアンホステッドウォレットの連携に向けた業務提携の検討を開始したと発表した。 アンホステッドウォレットとは、取引所や事業者に預けるのではなく、利用者自身が管理するウォレットのこと。 今回の検討では、STの購入者に付与する優待トークンを、アンホステッドウォレットで管理・利用できる仕組みを目",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速",
+      "link": "https://coinpost.jp/?p=716514",
+      "pub_date": "2026-06-12T08:10:28+09:00",
+      "pub_date_utc": "2026-06-11T23:10:28+00:00",
+      "description": "JPモルガンのアナリストは、ビットコインと金を対象とした通貨価値切り下げトレードからの資金流出が加速していると報告した。金現物ETFは6月5日週に約200億ドルの流出を記録している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "金融大手シティ、非上場株のトークン化預託証券をローンチ",
+      "link": "https://coinpost.jp/?p=716528",
+      "pub_date": "2026-06-12T08:02:06+09:00",
+      "pub_date_utc": "2026-06-11T23:02:06+00:00",
+      "description": "シティは、非上場株のトークン化預託証券をローンチしたことを発表。SIXが運営する規制下のブロックチェーンインフラを活用して非上場株をトークン化預託証券にする仕組みを導入した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+      "link": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T07:58:52+09:00",
+      "pub_date_utc": "2026-06-11T22:58:52+00:00",
+      "description": "With $1.9 billion exiting the spot Bitcoin ETFs and tech stocks under pressure, BTC is failing as a hedge and at risk of falling below the $60,000 support.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "With $1.9 billion exiting the spot Bitcoin ETFs and tech stocks under pressure, BTC is failing as a hedge and at risk of falling below the $60,000 support.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "リップルCEO、クラリティ法案を巡りJPモルガンCEOを批判",
+      "link": "https://www.nadanews.com/355237/",
+      "pub_date": "2026-06-12T07:30:00+09:00",
+      "pub_date_utc": "2026-06-11T22:30:00+00:00",
+      "description": "Ripple（リップル）のBrad Garlinghouse（ブラッド・ガーリングハウス）CEOは、暗号資産（仮想通貨）市場構造法案「クラリティ法案（Digit The post リップルCEO、クラリティ法案を巡りJPモルガンCEOを批判 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 リップルCEO、クラリティ法案を巡りJPモルガンCEOを批判 By 井上 俊彦 2026年6月12日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Ripple（リップル）のBrad Garlinghouse（ブラッド・ガーリングハウス）CEOは、暗号資産（仮想通貨）市場構造法案「クラリティ法案（Digital Asset Market Clarity Act：CLARITY Act）」を巡り、JPMorgan（JPモルガン）のJamie Dimon（ジェイミー・ダイモン）CEOの発言を批判した。 ガーリングハウス氏はFox Business（フォックス・ビジネス）のインタビューで、ダイモン氏が同法案について「コンプライアンス上の懸念を弱め、不正",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Solana",
+        "Ripple",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Ripple",
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "スペースX株をソラナで取引可能、バックパックがIPO初日にトークン化",
+      "link": "https://coinpost.jp/?p=716515",
+      "pub_date": "2026-06-12T07:20:31+09:00",
+      "pub_date_utc": "2026-06-11T22:20:31+00:00",
+      "description": "仮想通貨取引所バックパックは、スペースXのナスダック上場初日にあわせトークン化株式SPCXをソラナ上で提供開始した。実株1:1裏付けで証券口座との相互変換が可能で、24時間365日取引できる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "冷めゆくビットコイン市場、その本質とは──日経新聞掲載のCryptoQuant・エックスウィンデータから読み解く新たな市場構造【エックスウィン】",
+      "link": "https://www.nadanews.com/355243/",
+      "pub_date": "2026-06-12T07:20:00+09:00",
+      "pub_date_utc": "2026-06-11T22:20:00+00:00",
+      "description": "● 世界主要取引所の現物（スポット）取引高は2024年12月の月間2.6兆ドルから2026年5月には6770億ドルまで減少し、約70％縮小した。● 取引量減少の The post 冷めゆくビットコイン市場、その本質とは──日経新聞掲載のCryptoQuant・エックスウィンデータから読み解く新たな市場構造【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 冷めゆくビットコイン市場、その本質とは──日経新聞掲載のCryptoQuant・エックスウィンデータから読み解く新たな市場構造【エックスウィン】 By エックスウィン 2026年6月12日07:20 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 世界主要取引所の現物（スポット）取引高は2024年12月の月間2.6兆ドルから2026年5月には6770億ドルまで減少し、約70％縮小した。● 取引量減少の背景には弱気相場だけでなく、ETF普及による投資家行動の変化や機関投資家の増加がある。● ビットコイン市場は「個人投資家中心の投機市場」から「機関投資家中心の資産市場」へ移行しつつある。 2026年6月11日の日経新聞において、「冷めゆく暗号資産、現物取引7",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BlackRock"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Coinbase、AIが取引や支払いを行える「Coinbase for Agents」を発表",
+      "link": "https://www.nadanews.com/355233/",
+      "pub_date": "2026-06-12T07:00:00+09:00",
+      "pub_date_utc": "2026-06-11T22:00:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所のCoinbase（コインベース）は6月11日、AIエージェントをユーザーのアカウントに直接接続する「Coinbase for Age The post Coinbase、AIが取引や支払いを行える「Coinbase for Agents」を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Coinbase、AIが取引や支払いを行える「Coinbase for Agents」を発表 By 井上 俊彦 2026年6月12日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所のCoinbase（コインベース）は6月11日、AIエージェントをユーザーのアカウントに直接接続する「Coinbase for Agents」を発表した。 この機能によりエージェントは、ユーザーが事前に定めた制限の範囲内で、暗号資産の取引や支払いの実行、ポートフォリオの管理を代行できる。 これまでAIエージェントは投資判断の助言はできても、実際の口座情報を踏まえた執行はできなかった。 Coinbase for Agentsはエージェントに金融情報",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan",
+        "Chainalysis",
+        "MetaMask"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "米銀行団体がクラリティー法案に反対キャンペーン、仮想通貨業界と対立",
+      "link": "https://coinpost.jp/?p=716516",
+      "pub_date": "2026-06-12T06:55:34+09:00",
+      "pub_date_utc": "2026-06-11T21:55:34+00:00",
+      "description": "米コミュニティ銀行団体ICBAがクラリティー法案のステーブルコイン報酬条項を問題視し、仮想通貨業界に対抗する広告キャンペーンを開始した。1.3兆ドルの預金喪失試算を根拠に規制強化を訴えている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "MassPayとCoinbaseが提携、ステーブルコインによる国際決済を拡大",
+      "link": "https://www.nadanews.com/355229/",
+      "pub_date": "2026-06-12T06:30:00+09:00",
+      "pub_date_utc": "2026-06-11T21:30:00+00:00",
+      "description": "国際決済プラットフォームのMassPay（マスペイ）とCoinbase（コインベース）は6月11日、ステーブルコインを用いた国境を越えた支払いサービスを提供する The post MassPayとCoinbaseが提携、ステーブルコインによる国際決済を拡大 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "stablecoin MassPayとCoinbaseが提携、ステーブルコインによる国際決済を拡大 By 井上 俊彦 2026年6月12日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 国際決済プラットフォームのMassPay（マスペイ）とCoinbase（コインベース）は6月11日、ステーブルコインを用いた国境を越えた支払いサービスを提供する戦略的提携を発表した。 両社の連携により、企業顧客は個別の暗号資産（仮想通貨）インフラを管理することなく、法定通貨やUSDコイン（USDC）、その他の暗号資産の間をシームレスにやり取りできるようになる。 MassPayを利用する法人顧客やマーケットプレイス、プラットフォームは、米ドルで資金を調達してCoinbase経由",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Circle",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Citi launches blockchain marketplace for private companies shares: Report",
+      "link": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T06:24:56+09:00",
+      "pub_date_utc": "2026-06-11T21:24:56+00:00",
+      "description": "The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "ワールドカップ開幕で予測市場に30億ドル超の需要増、バーンスタイン予測",
+      "link": "https://coinpost.jp/?p=716517",
+      "pub_date": "2026-06-12T06:10:36+09:00",
+      "pub_date_utc": "2026-06-11T21:10:36+00:00",
+      "description": "投資調査会社バーンスタインは、2026年FIFAワールドカップが予測市場の取引高を30億ドル超押し上げ、賭け金総額で最大100億ドルの増加をもたらすと予測。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Google"
+      ],
+      "main_entities": [
+        "Google"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Digital Asset、3億5500万ドルを調達──カントンを拡大へ",
+      "link": "https://www.nadanews.com/355224/",
+      "pub_date": "2026-06-12T06:00:00+09:00",
+      "pub_date_utc": "2026-06-11T21:00:00+00:00",
+      "description": "ブロックチェーン企業のDigital Asset Holdings（デジタル・アセット・ホールディングス）は6月11日、Andreessen Horowitz（ The post Digital Asset、3億5500万ドルを調達──カントンを拡大へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Finance",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Finance Digital Asset、3億5500万ドルを調達──カントンを拡大へ By 井上 俊彦 2026年6月12日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ブロックチェーン企業のDigital Asset Holdings（デジタル・アセット・ホールディングス）は6月11日、Andreessen Horowitz（アンドリーセン・ホロウィッツ）の暗号資産部門a16z cryptoが主導する新たな資金調達ラウンドで3億5500万ドル（568億円、1ドル=160円換算）を調達したと発表した。 調達資金は、同社が開発・維持管理するCanton Network（カントン・ネットワーク）の規模拡大に充てられる。 カントンは、金融機関向けに設計された",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "Grayscale",
+        "JPMorgan",
+        "Goldman Sachs",
+        "SBI Holdings",
+        "a16z"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "ブラックロックのビットコイン利回りETF、近日上場へ　ゴールドマンに先手か",
+      "link": "https://coinpost.jp/?p=716510",
+      "pub_date": "2026-06-12T05:40:29+09:00",
+      "pub_date_utc": "2026-06-11T20:40:29+00:00",
+      "description": "ブラックロックがビットコイン・プレミアムインカムETF「BITA」の第4次修正申請をSECに提出し、手数料を0.65%に設定した。ブルームバーグETFアナリストは早期上場を予想している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "BlackRock",
+        "Goldman Sachs",
+        "SEC"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "カントン開発企業デジタル・アセットが570億円調達、a16z主導しSBI含む20社超参加",
+      "link": "https://coinpost.jp/?p=716504",
+      "pub_date": "2026-06-12T05:00:12+09:00",
+      "pub_date_utc": "2026-06-11T20:00:12+00:00",
+      "description": "ブロックチェーン企業デジタル・アセットは11日、カントンネットワークの拡大を目的としたa16z crypto主導の3.55億ドルの資金調達を発表。SBIグループを含む金融機関20社超が出資に参加。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Coinbase",
+        "Toncoin",
+        "SBI Holdings",
+        "a16z"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?",
+      "link": "https://cointelegraph.com/markets/ether-bulls-ramp-up-risk-above-16k-can-buyers-regain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T04:37:41+09:00",
+      "pub_date_utc": "2026-06-11T19:37:41+00:00",
+      "description": "ETH traders increased their long positions as Ether price traded near 2026 lows. Will ETH’s rebound eclipse the BTC recovery?",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ETH traders increased their long positions as Ether price traded near 2026 lows. Will ETH’s rebound eclipse the BTC recovery?",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Near Protocol"
+      ],
+      "main_entities": [
+        "Near Protocol"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Three signs that XRP price risks falling below $1 in June",
+      "link": "https://cointelegraph.com/markets/three-signs-that-xrp-price-risks-falling-below-1-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T03:29:54+09:00",
+      "pub_date_utc": "2026-06-11T18:29:54+00:00",
+      "description": "XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe chart, both indicating a dip below $1 in the coming days.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe chart, both indicating a dip below $1 in the coming days.",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Coinbase eyes World Cup boost as prediction markets surge: Bernstein",
+      "link": "https://cointelegraph.com/news/coinbase-world-cup-prediction-market-boost-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T02:57:06+09:00",
+      "pub_date_utc": "2026-06-11T17:57:06+00:00",
+      "description": "Bernstein says the 2026 FIFA World Cup could inject billions into prediction markets, with Coinbase and Robinhood positioned to capture a wave of new users.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Bernstein says the 2026 FIFA World Cup could inject billions into prediction markets, with Coinbase and Robinhood positioned to capture a wave of new users.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "MassPay taps Coinbase to expand stablecoin payouts",
+      "link": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T01:00:00+09:00",
+      "pub_date_utc": "2026-06-11T16:00:00+00:00",
+      "description": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Circle"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
+      "link": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T00:01:27+09:00",
+      "pub_date_utc": "2026-06-11T15:01:27+00:00",
+      "description": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "【6/11話題】大阪取引所がビットコイン先物取扱いか、WIZEのSOL追加取得、マスターカードがAIエージェント向け決済基盤ローンチなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/582011",
+      "pub_date": "2026-06-11T23:59:43+09:00",
+      "pub_date_utc": "2026-06-11T14:59:43+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース 大阪取引所、2028年に「ビットコイン先物」取扱いの方針＝報道 WIZEが約1億円でソラナ（SOL）追加取得、総保有数は4万SOL突破 マスターカード、AIエージェント向け決済基盤「Agent Pay for Machines」ローンチ 暗号資産",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Kraken",
+        "bitbank",
+        "Solana",
+        "Toncoin",
+        "Circle",
+        "SBI Holdings",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure",
+      "link": "https://cointelegraph.com/markets/bitcoin-tags-632k-as-btc-price-action-ignores-new-iran-hormuz-closure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T22:41:47+09:00",
+      "pub_date_utc": "2026-06-11T13:41:47+00:00",
+      "description": "Bitcoin mostly preserved a recent rebound despite the highest US PPI inflation since October 2022 and Iran closing the Strait of Hormuz oil route.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Bitcoin mostly preserved a recent rebound despite the highest US PPI inflation since October 2022 and Iran closing the Strait of Hormuz oil route.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails",
+      "link": "https://cointelegraph.com/news/digital-asset-355m-16z-wall-street-blockchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T21:59:11+09:00",
+      "pub_date_utc": "2026-06-11T12:59:11+00:00",
+      "description": "Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending a Wall Street‑backed funding run as banks ramp up pilots on its Canton Network blockchain.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending a Wall Street‑backed funding run as banks ramp up pilots on its Canton Network blockchain.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "a16z"
+      ],
+      "main_entities": [
+        "a16z"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Hungary to reverse crypto trading crackdown after EU scrutiny",
+      "link": "https://cointelegraph.com/news/hungary-decriminalize-crypto-trading-prison-terms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T21:52:15+09:00",
+      "pub_date_utc": "2026-06-11T12:52:15+00:00",
+      "description": "Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Japan crypto bill advances with ETF, tax reform path: Report",
+      "link": "https://cointelegraph.com/news/japan-crypto-bill-etf-tax-reform-path?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T21:17:21+09:00",
+      "pub_date_utc": "2026-06-11T12:17:21+00:00",
+      "description": "Japan’s Lower House reportedly passed a bill that would bring crypto under the country’s financial instruments framework, potentially opening the door to ETFs and lower tax treatment.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Japan’s Lower House reportedly passed a bill that would bring crypto under the country’s financial instruments framework, potentially opening the door to ETFs and lower tax treatment.",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month",
+      "link": "https://cointelegraph.com/markets/audieras-ai-token-beat-beats-bitcoin-ethereum-as-price-surges-1500-in-a-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T21:08:03+09:00",
+      "pub_date_utc": "2026-06-11T12:08:03+00:00",
+      "description": "BEAT has reached its most overbought readings on record, raising the odds of a 35% price decline in the coming days.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "BEAT has reached its most overbought readings on record, raising the odds of a 35% price decline in the coming days.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO",
+      "link": "https://cointelegraph.com/news/frontier-ai-models-vulnerability-apocalypse-crypto-security-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T21:01:48+09:00",
+      "pub_date_utc": "2026-06-11T12:01:48+00:00",
+      "description": "The proliferation of new frontier AI models is the main catalyst behind the latest resurgence in DeFi hacks, according to Immunefi CEO Mitchell Amador.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The proliferation of new frontier AI models is the main catalyst behind the latest resurgence in DeFi hacks, according to Immunefi CEO Mitchell Amador.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "NYDFS、ステーブルコイン規則案を提示──ジーニアス法に合わせ準備資産要件を強化",
+      "link": "https://www.nadanews.com/355119/",
+      "pub_date": "2026-06-11T19:20:00+09:00",
+      "pub_date_utc": "2026-06-11T10:20:00+00:00",
+      "description": "ニューヨーク州金融サービス局（NYDFS）は6月9日、米ドル建てステーブルコインの規制枠組みを連邦法「GENIUS Act（ジーニアス法）」に合わせるため、新た The post NYDFS、ステーブルコイン規則案を提示──ジーニアス法に合わせ準備資産要件を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 NYDFS、ステーブルコイン規則案を提示──ジーニアス法に合わせ準備資産要件を強化 By Shoko Galaviz 2026年6月11日19:20 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ニューヨーク州金融サービス局（NYDFS）は6月9日、米ドル建てステーブルコインの規制枠組みを連邦法「GENIUS Act（ジーニアス法）」に合わせるため、新たな規則案を発表した。 規則案は「Authorized Payment Stablecoin Issuers」と題され、同州が2022年6月に示したステーブルコイン指針を土台に、連邦要件との整合性を高める内容となっている。 NYDFSのKaitlin Asrow（ケイトリン・アスロー）長官代行は、ニューヨーク",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan",
+        "米財務省"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】",
+      "link": "https://www.nadanews.com/355133/",
+      "pub_date": "2026-06-11T19:01:48+09:00",
+      "pub_date_utc": "2026-06-11T10:01:48+00:00",
+      "description": "・ビットコイン（BTC）は、米CPIが4.2％に達した後、ナスダックが1.1％下落し、VIX指数が約10％上昇するなかでも、2％近く上昇した。・市場の反応は、ト The post BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】 By Ibrahim Ajibade 2026年6月11日19:01 .st0 { fill: #374149; } 2026年6月11日19:01 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・ビットコイン（BTC）は、米CPIが4.2％に達した後、ナスダックが1.1％下落し、VIX指数が約10％上昇するなかでも、2％近く上昇した。・市場の反応は、トレーダーがエネルギー主導のインフレショックを過度に重視していないなかで、BTCが株式市場の弱さから部分的に切り離されつつあることを示唆している。・一方、予測市場のオッズを見ると、トレーダーは依然として下落リスクに備えてお",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Visa、ステーブルコイン決済70億ドル規模に　OpenAIとAI向け基盤で提携",
+      "link": "https://coinpost.jp/?p=716412",
+      "pub_date": "2026-06-11T18:46:07+09:00",
+      "pub_date_utc": "2026-06-11T09:46:07+00:00",
+      "description": "Visaがステーブルコイン決済の年換算ランレート約70億ドルを公表。トークン化預金の技術レイヤー構築やAIエージェント向け決済基盤「Visa Intelligent Commerce」を発表し、OpenAIとの戦略的提携も明らかにした。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "米ナスダック上場フォールド、約45Mドル相当のビットコインを現金化。債務返済と成長資金確保へ",
+      "link": "https://www.neweconomy.jp/posts/581959",
+      "pub_date": "2026-06-11T17:47:37+09:00",
+      "pub_date_utc": "2026-06-11T08:47:37+00:00",
+      "description": "Foldが約72億円相当のBTCを現金化 ビットコイン金融サービスを提供する米ナスダック上場フォールド（Fold）が、約4,500万ドル（約72億円）相当のビットコイン（BTC）を現金化し、2,000万ドル（約32億円）",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Foldが約72億円相当のBTCを現金化 ビットコイン金融サービスを提供する米ナスダック上場フォールド（Fold）が、約4,500万ドル（約72億円）相当のビットコイン（BTC）を現金化し、2,000万ドル（約32億円）のビットコイン担保債務を返済した。同社が米証券取引委員会（SEC）へ6月10日付で提出した報告書「フォーム8-K（Form 8-K）」で明らかになった。 フォールドによると、ビットコインの現金化における平均価格は1BTCあたり約7万1,000ドル（約1,139万円）だという。同社は、現金化で確保した資金のうち2,000万ドルをビットコイン担保債務の返済に充てたとのこと。残る2,500万ドル（約40億円）については、使途制限のない現金として同社の事業全体の成長施策に配分したという。 同社は今回の取引により、すべての担保付債務を解消し、財務面の流動性を強化したとのこと。また、月",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "日銀、CBDC「パイロット実験」の進捗報告書を公開。技術面で致命的課題は確認されず",
+      "link": "https://www.neweconomy.jp/posts/581940",
+      "pub_date": "2026-06-11T17:27:44+09:00",
+      "pub_date_utc": "2026-06-11T08:27:44+00:00",
+      "description": "実験用システムとCBDCフォーラムの進捗報告 日本銀行（日銀）決済機構局が取りまとめた『中央銀行デジタル通貨（CBDC）に関する実証実験「パイロット実験」の進捗報告書（2026年6月）』が6月10日に日銀より公開された。",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "実験用システムとCBDCフォーラムの進捗報告 日本銀行（日銀）決済機構局が取りまとめた『中央銀行デジタル通貨（CBDC）に関する実証実験「パイロット実験」の進捗報告書（2026年6月）』が6月10日に日銀より公開された。あわせて、別冊として「実験用システムの構築と検証」と「CBDCフォーラムにおけるこれまでの議論の総括」の2本も公表されている。 日銀は2023年4月から、一般利用型CBDCについて、概念実証では検証していない技術的検証を行うことと、民間事業者の技術や知見を反映させることを目的として「パイロット実験」を進めている。同実験は、日銀が構築する実験用システムで性能試験などを行う「実験用システムの構築と検証」と、リテール決済に関わる民間事業者と実務的な論点を議論する「CBDCフォーラム」の2本柱で構成される。 今回の進捗報告書では、実験用システムを用いた性能評価として、同一口座に取引",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過",
+      "link": "https://coinpost.jp/?p=716398",
+      "pub_date": "2026-06-11T17:26:21+09:00",
+      "pub_date_utc": "2026-06-11T08:26:21+00:00",
+      "description": "仮想通貨の規制を資金決済法から金融商品取引法へ移行する改正案が、6月10日に衆議院財務金融委員会を可決。インサイダー取引規制の新設や発行者への情報開示義務、分離課税（税率20％）の導入を盛り込む。参議院での審議を経て、成立すれば2027年度の施行を見込む。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "世界最大級のポーカー大会WSOP、ソラナ財団を公式スポンサーに。暗号資産決済導入へ",
+      "link": "https://www.neweconomy.jp/posts/581930",
+      "pub_date": "2026-06-11T17:10:35+09:00",
+      "pub_date_utc": "2026-06-11T08:10:35+00:00",
+      "description": "WSOPがソラナ財団を公式プレゼンティングスポンサーに 世界最大級のポーカー大会「ワールド・シリーズ・オブ・ポーカー（WSOP）」が、ソラナ財団（Solana Foundation）との協業により、ムーンペイ（MoonP",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "WSOPがソラナ財団を公式プレゼンティングスポンサーに 世界最大級のポーカー大会「ワールド・シリーズ・オブ・ポーカー（WSOP）」が、ソラナ財団（Solana Foundation）との協業により、ムーンペイ（MoonPay）提供のインフラによる暗号資産（仮想通貨）決済を導入すると、6月10日に発表した。米ラスベガスで開催中の「第57回ワールド・シリーズ・オブ・ポーカー（2026 WSOP）」から、実際に導入が開始される。なおWSOPが暗号資産決済を導入するのは、今回が初めてだ。 発表によると今回の取り組みにより、プレイヤーは処理手数料ゼロでソラナのネイティブトークン「SOL」またはソラナ上のステーブルコイン「USDC」および「USDT」でトーナメント参加チケットを購入できるようになるという。 またソラナ財団は、2026 WSOPおよび2026 WSOP Paradiseの公式プレゼンティ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Kraken",
+        "Solana",
+        "Tether",
+        "Circle",
+        "Google"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "暗号資産規制の金商法移管を含む法案、衆院財務金融委で可決。国会審議が進む",
+      "link": "https://www.neweconomy.jp/posts/581919",
+      "pub_date": "2026-06-11T16:57:41+09:00",
+      "pub_date_utc": "2026-06-11T07:57:41+00:00",
+      "description": "暗号資産を「有価証券とは別の金融商品」に 政府が国会に提出した金融庁所管の「金融商品取引法及び資金決済に関する法律の一部を改正する法律案」が、6月10日に衆議院の財務金融委員会で可決された。 同法案は、暗号資産（仮想通貨",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "暗号資産を「有価証券とは別の金融商品」に 政府が国会に提出した金融庁所管の「金融商品取引法及び資金決済に関する法律の一部を改正する法律案」が、6月10日に衆議院の財務金融委員会で可決された。 同法案は、暗号資産（仮想通貨）取引に係る規制を、資金決済に関する法律（資金決済法）から金融商品取引法（金商法）へ移管するものだ。同法案が成立すれば、暗号資産は有価証券とは別の金融商品として金商法上に位置付けられ、その性質を踏まえた規制が適用されることになる。 金融庁は今回の制度整備の背景として、暗号資産が現在は決済手段の観点から資金決済法で規制されている一方で、足元では投資対象化が進展していることを挙げている。国内では個人による暗号資産保有が身近になっており、国内口座開設数は1,400万を超えるという。また国際的にも、米国などで暗号資産ETF（上場投資信託）が上場され、機関投資家からの資金流入が増加し",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "トレードワルツがWaveBLと連携、電子船荷証券など貿易書類のデジタル連携拡大へ",
+      "link": "https://www.neweconomy.jp/posts/581891",
+      "pub_date": "2026-06-11T16:49:11+09:00",
+      "pub_date_utc": "2026-06-11T07:49:11+00:00",
+      "description": "TradeWaltzとWaveBLがプラットフォーム連携 貿易情報連携プラットフォーム「トレードワルツ（TradeWaltz）」を提供するトレードワルツ社が、独自ブロックチェーン技術を用いた貿易書類ソリューション「ウェー",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "TradeWaltzとWaveBLがプラットフォーム連携 貿易情報連携プラットフォーム「トレードワルツ（TradeWaltz）」を提供するトレードワルツ社が、独自ブロックチェーン技術を用いた貿易書類ソリューション「ウェーブビーエル（WaveBL）」を提供するOGY DOCSと、プラットフォーム連携契約を締結したと6月11日に発表した。 今回の連携により、「トレードワルツ」のユーザーは、ウェーブビーエル上で発行された電子構造化銀行呈示書類および電子船荷証券記録（eBL）を利用可能になるとのこと。これにより、信用状（LC）取引および取立取引における貿易金融書類の完全デジタル呈示が可能になるという。 また両プラットフォームの接続により、ウェーブビーエルのユーザーは日本の銀行や企業との接続機会を拡大できるとのこと。一方、「トレードワルツ」の参加者は、ウェーブビーエル上で活動する運送業者、フォワーダ",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "三菱UFJ銀行",
+        "みずほ銀行",
+        "三井住友銀行"
+      ],
+      "main_entities": [
+        "三菱UFJ銀行"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "WIZEが約1億円でソラナ（SOL）追加取得、総保有数は4万SOL突破",
+      "link": "https://www.neweconomy.jp/posts/581904",
+      "pub_date": "2026-06-11T16:41:23+09:00",
+      "pub_date_utc": "2026-06-11T07:41:23+00:00",
+      "description": "WIZEのSOL取得金額が累計7億円規模に 東証グロース上場のワイズ（WIZE、旧モブキャストホールディングス）が、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を6月11日に発表した。 発表によるとワイズは、6月8日と",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "WIZEのSOL取得金額が累計7億円規模に 東証グロース上場のワイズ（WIZE、旧モブキャストホールディングス）が、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を6月11日に発表した。 発表によるとワイズは、6月8日と10日にそれぞれ約5,000万円ずつ、合計1億2万4,660円でSOLを追加取得したという。これにより、ステーキング報酬を含む同社のソラナの総保有量は4万1,793.66883923SOL。累計取得金額は7億2万4,668円となった。 今回のSOL購入は、SOL価格がワイズのこれまでの平均取得単価を下回り、同社が割安と判断する水準にあったことが背景だという。追加取得2回分の平均取得単価は1万490円で、同社のこれまでの平均取得単価1万8,672円を約4割下回っている。 ワイズによると、現在同社のSOL保有規模は、6月10日時点のCoinGecko「Solana Treasu",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "TON、トークン名称を「トンコイン（TON）」から「グラム（GRAM）」へ。コミュニティが名称変更案を承認",
+      "link": "https://www.neweconomy.jp/posts/581896",
+      "pub_date": "2026-06-11T16:32:22+09:00",
+      "pub_date_utc": "2026-06-11T07:32:22+00:00",
+      "description": "TONコミュニティが名称変更案を承認 ザ・オープン・ネットワーク（The Open Network：TON）のネイティブトークン「トンコイン（Toncoin）」を「グラム（Gram）」へ名称を変更するコミュニティ提案が承",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "TONコミュニティが名称変更案を承認 ザ・オープン・ネットワーク（The Open Network：TON）のネイティブトークン「トンコイン（Toncoin）」を「グラム（Gram）」へ名称を変更するコミュニティ提案が承認された。TON公式Xアカウントおよび公式テレグラム（Telegram）が6月9日に発表した。 TON Vote上で実施された投票は6月1日に開始し、6月8日に終了した。投票では81.22%が賛成票を投じた。これにより、トークン名称は「トンコイン」から「グラム」へ、ティッカーシンボルは「TON」から「GRAM」へ変更される。 変更は6月15日12時（UTC）に実施される予定だ。TONによると、取引所を含む各エコシステムプロジェクトは同時刻に協調して表示更新を行うことが想定されており、6月22日までにエコシステム全体での表記の整合が見込まれているという。 一方で、ブロックチェ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Toncoin"
+      ],
+      "main_entities": [
+        "Toncoin"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "ビットワイズCIO報告、投資顧問の関心はビットコインよりステーブルコインに",
+      "link": "https://coinpost.jp/?p=716344",
+      "pub_date": "2026-06-11T16:23:00+09:00",
+      "pub_date_utc": "2026-06-11T07:23:00+00:00",
+      "description": "ビットワイズのCIOマット・ホーガン氏が1日で40人超の投資顧問と面談。関心は依然として高いが、BTCよりステーブルコインと資産トークン化に注目が集まる実態が明らかに。ETH・SOL・HYPEなど具体的銘柄名も言及された。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Circle",
+        "三菱UFJ銀行",
+        "みずほ銀行",
+        "三井住友銀行"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise",
+      "link": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T16:01:31+09:00",
+      "pub_date_utc": "2026-06-11T07:01:31+00:00",
+      "description": "Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails",
+      "link": "https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T16:00:53+09:00",
+      "pub_date_utc": "2026-06-11T07:00:53+00:00",
+      "description": "“Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "“Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "US lawmakers seek coordinated federal response to crypto theft and scams",
+      "link": "https://cointelegraph.com/news/doj-crypto-theft-task-force-proposed-by-bipartisan-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T16:00:00+09:00",
+      "pub_date_utc": "2026-06-11T07:00:00+00:00",
+      "description": "The bipartisan bill envisions the Justice Department leading a task force to coordinate crypto theft investigations, support local law enforcement and improve blockchain forensics efforts.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The bipartisan bill envisions the Justice Department leading a task force to coordinate crypto theft investigations, support local law enforcement and improve blockchain forensics efforts.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership",
+      "link": "https://cointelegraph.com/news/ripple-bitso-bring-mxn-stablecoin-settlement-to-xrp-ledger-for-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T16:00:00+09:00",
+      "pub_date_utc": "2026-06-11T07:00:00+00:00",
+      "description": "The companies are pairing MXNB and RLUSD on the XRP Ledger to support institutional payments between the United States and Mexico as stablecoin adoption grows across Latin America.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The companies are pairing MXNB and RLUSD on the XRP Ledger to support institutional payments between the United States and Mexico as stablecoin adoption grows across Latin America.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Archax introduces real-time yield payments for tokenized securities on Hedera",
+      "link": "https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T16:00:00+09:00",
+      "pub_date_utc": "2026-06-11T07:00:00+00:00",
+      "description": "The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Circle"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "コインベース、決済基盤「Coinbase Payments」にx402統合。AIエージェント決済にも対応へ",
+      "link": "https://www.neweconomy.jp/posts/581863",
+      "pub_date": "2026-06-11T15:38:51+09:00",
+      "pub_date_utc": "2026-06-11T06:38:51+00:00",
+      "description": "Coinbase Paymentsにx402統合 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、企業向けステーブルコイン決済基盤「コインベース・ペイメンツ（Coinbase Payments）」の機",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Coinbase Paymentsにx402統合 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、企業向けステーブルコイン決済基盤「コインベース・ペイメンツ（Coinbase Payments）」の機能拡張した。同社インフラ製品責任者のアレック・ラベット（Alec Lovett）氏が6月9日に公式ブログで公表した。 コインベース・ペイメンツは、2025年6月にUSDC決済向けソリューションとして発表されたサービスだ。当初はECプラットフォームや決済サービス事業者などを主な対象に、加盟店がUSDC決済を受け入れられる仕組みとして紹介されていた。今回の発表では、従来の加盟店決済機能に加え、AIエージェント向け決済プロトコル「x402」が同基盤に統合されていることが示された。 x402は、AIエージェントやアプリケーションがAPIやデジタルサービスの利用料を自律的に支払うため",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Ripple"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Teen crypto scammer stole $13M to splurge on private jets, Lambo",
+      "link": "https://cointelegraph.com/news/teen-admits-to-scamming-13m-crypto-to-splurge-on-private-jets-lambo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T14:57:24+09:00",
+      "pub_date_utc": "2026-06-11T05:57:24+00:00",
+      "description": "Trenton Richard Johnston was arrested in March during a traffic stop for speeding, but investigators soon found he was involved in a wider fraud scheme.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Trenton Richard Johnston was arrested in March during a traffic stop for speeding, but investigators soon found he was involved in a wider fraud scheme.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "モルフォ、「DeFi史上最大級」約280億円調達　パラダイム・a16z・SBIグループ参加",
+      "link": "https://coinpost.jp/?p=716296",
+      "pub_date": "2026-06-11T14:47:14+09:00",
+      "pub_date_utc": "2026-06-11T05:47:14+00:00",
+      "description": "DeFiレンディングプロトコルのモルフォが1億7500万ドル（約280億円）の資金調達を発表。パラダイム、a16zクリプト、リビットキャピタルが主導し、SBIグループも出資に参加した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Circle",
+        "VanEck",
+        "SBI Holdings",
+        "a16z"
+      ],
+      "main_entities": [
+        "SBI Holdings",
+        "a16z"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "マスターカード、AIエージェント向け決済基盤「Agent Pay for Machines」ローンチ",
+      "link": "https://www.neweconomy.jp/posts/581855",
+      "pub_date": "2026-06-11T14:23:50+09:00",
+      "pub_date_utc": "2026-06-11T05:23:50+00:00",
+      "description": "マスターカードがAIエージェント向け決済基盤ローンチ 米決済大手マスターカード（Mastercard）が、AIエージェントや機械同士による自律的な決済を支援する新サービス「エージェントペイ・フォー・マシンズ（Agent",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "マスターカードがAIエージェント向け決済基盤ローンチ 米決済大手マスターカード（Mastercard）が、AIエージェントや機械同士による自律的な決済を支援する新サービス「エージェントペイ・フォー・マシンズ（Agent Pay for Machines：AP4M）」のローンチを6月10日に発表した。 AP4Mは、AIエージェントや機械、ソフトウェアが、取引ごとに人の操作を介さず継続的かつ自動的に支払いを行うための決済基盤だ。 近年は、コインベース（Coinbase）が開発を主導した「x402」や、ストライプ（Stripe）とテンポ（Tempo）が共同策定した「MPP（Machine Payments Protocol）」など、AIエージェントによる自律決済を支えるプロトコル開発や標準化の取り組みが進められている。マスターカードは今回、この分野向けの決済インフラを提供する。 AP4Mでは、エ",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "OKX",
+        "Solana",
+        "Polygon",
+        "Ripple",
+        "Aave"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "ステラ、量子コンピュータ対策を発表 2027年末までに量子耐性署名への移行対応完了目指す",
+      "link": "https://coinpost.jp/?p=716258",
+      "pub_date": "2026-06-11T13:55:43+09:00",
+      "pub_date_utc": "2026-06-11T04:55:43+00:00",
+      "description": "ステラ開発財団（SDF）が量子対応計画（QPP）を発表した。QPPは3段階で実施され、2027年末までに全アカウントの量子耐性署名への移行完了を目指している。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 仮想通貨を金融商品に、金商法改正案が衆院委を通過 ビットコイン供給量の5割超が含み損、底値シグナル点灯か＝K33分析 ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687-0');",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%",
+      "link": "https://cointelegraph.com/news/pressure-on-bitcoin-and-gold-increases-as-us-inflation-tops-4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T13:51:52+09:00",
+      "pub_date_utc": "2026-06-11T04:51:52+00:00",
+      "description": "“We continue to view the current macro environment as a headwind for Bitcoin,” 10x Research’s Markus Thielen said.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "“We continue to view the current macro environment as a headwind for Bitcoin,” 10x Research’s Markus Thielen said.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
+      "title": "Delaware, New Jersey advance bills banning crypto ATMs",
+      "link": "https://cointelegraph.com/news/delaware-new-jersey-advance-bills-banning-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-11T12:18:43+09:00",
+      "pub_date_utc": "2026-06-11T03:18:43+00:00",
+      "description": "Lawmakers in Delaware and New Jersey have advanced laws that would completely ban crypto ATMs, a measure that has only been enacted in three US states.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Lawmakers in Delaware and New Jersey have advanced laws that would completely ban crypto ATMs, a measure that has only been enacted in three US states.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-12T11:31:42.695453+09:00"
+    },
+    {
       "title": "CFTC、予測市場契約の審査枠組み案公表。スポーツ関連契約の拡大受け",
       "link": "https://www.neweconomy.jp/posts/581764",
       "pub_date": "2026-06-11T11:11:27+09:00",
@@ -35746,8 +37001,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-11T11:36:42.429835+09:00",
-  "total_count": 1746,
+  "last_updated": "2026-06-12T11:31:42.695453+09:00",
+  "total_count": 1803,
   "sources": [
     "NADA NEWS",
     "CoinPost",
