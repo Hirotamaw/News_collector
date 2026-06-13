@@ -1,6 +1,1185 @@
 {
   "articles": [
     {
+      "title": "gumi、国内最大のXRP運用事業者目指す──保有140億円の暗号資産移行へ",
+      "link": "https://www.nadanews.com/355420/",
+      "pub_date": "2026-06-13T10:21:33+09:00",
+      "pub_date_utc": "2026-06-13T01:21:33+00:00",
+      "description": "gumiは6月12日、2026年4月期の通期決算説明資料を公表し、暗号資産（仮想通貨）運用をエックス・アール・ピー（XRP）中心に再編する方針を示した。 同社は The post gumi、国内最大のXRP運用事業者目指す──保有140億円の暗号資産移行へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス gumi、国内最大のXRP運用事業者目指す──保有140億円の暗号資産移行へ By 平木 昌宏 2026年6月13日10:21 .st0 { fill: #374149; } 2026年6月13日10:21 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); gumiは6月12日、2026年4月期の通期決算説明資料を公表し、暗号資産（仮想通貨）運用をエックス・アール・ピー（XRP）中心に再編する方針を示した。 同社はこれまでも、SBIグループとの連携を軸に暗号資産関連事業を進めてきた。 2022年にはSBIホールディングスと資本業務提携を締結。 その後、戦略子会社のgC Labsを通じて、保有暗号資産のリバランスやヘッジ取引、ステーキングなどを活用した運用戦略を推",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "ビットコインの底打ち価格、基本シナリオは？　ギャラクシーデジタル予想",
+      "link": "https://coinpost.jp/?p=716956",
+      "pub_date": "2026-06-13T10:20:50+09:00",
+      "pub_date_utc": "2026-06-13T01:20:50+00:00",
+      "description": "ギャラクシーデジタルが仮想通貨ビットコインの今サイクルにおける底値シナリオを3つ提示した。4年周期は有効だが価格の振れ幅が小さくなっているとも指摘する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "JPMorgan",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Galaxy Digital"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
+      "link": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T09:51:36+09:00",
+      "pub_date_utc": "2026-06-13T00:51:36+00:00",
+      "description": "New data from Galaxy Research suggests that Bitcoin's floor price may not drop as low as previous bear markets, but the bottom-finding process is still playing out.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "New data from Galaxy Research suggests that Bitcoin's floor price may not drop as low as previous bear markets, but the bottom-finding process is still playing out.",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "セキュリタイズの債券ファンド、ソラナへ拡張　エセナが400億円出資計画",
+      "link": "https://coinpost.jp/?p=716939",
+      "pub_date": "2026-06-13T09:45:26+09:00",
+      "pub_date_utc": "2026-06-13T00:45:26+00:00",
+      "description": "現実資産トークン化プラットフォーム、セキュリタイズがAAA格CLOファンド「STAC」をソラナへ拡張。エセナラボは2億5,000万ドルの出資計画を発表し、ソラナ上で最大規模のトークン化ストラクチャードクレジット案件となる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana",
+        "BlackRock",
+        "VanEck",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "恐怖の中の反発、そして残る疑念── 市場が試しているのは価格ではなく「需要の回復」【BitTrade Market Weekly】",
+      "link": "https://www.nadanews.com/355444/",
+      "pub_date": "2026-06-13T09:05:00+09:00",
+      "pub_date_utc": "2026-06-13T00:05:00+00:00",
+      "description": "今週のビットコイン市場は、「恐怖が支配する中で反発は見られたものの、市場参加者がまだ確信を持てない一週間」だった。 ビットコインは週初に60,000ドル近辺まで The post 恐怖の中の反発、そして残る疑念── 市場が試しているのは価格ではなく「需要の回復」【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 恐怖の中の反発、そして残る疑念── 市場が試しているのは価格ではなく「需要の回復」【BitTrade Market Weekly】 By 荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト 2026年6月13日09:05 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 今週のビットコイン市場は、「恐怖が支配する中で反発は見られたものの、市場参加者がまだ確信を持てない一週間」だった。 ビットコインは週初に60,000ドル近辺まで下落した後、週後半には64,000ドル前後まで回復した。日本円建てでも一時1,000万円を割り込む場面があったが、その後は1,020万円前後まで持ち直している。しかし、この反発によって市場の不安が解消されたわけではない",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BitTrade",
+        "Ripple"
+      ],
+      "main_entities": [
+        "BitTrade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
+      "link": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T08:42:12+09:00",
+      "pub_date_utc": "2026-06-12T23:42:12+00:00",
+      "description": "A positive bid-ask readings and a bullish RSI divergence support Bitcoin's recovery, with $70,000 emerging as a key target.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "A positive bid-ask readings and a bullish RSI divergence support Bitcoin's recovery, with $70,000 emerging as a key target.",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "仮想通貨ウォレットのエクソダス、ソラナ上でトークン化RWA市場をローンチ　200超の株などに対応",
+      "link": "https://coinpost.jp/?p=716942",
+      "pub_date": "2026-06-13T07:50:14+09:00",
+      "pub_date_utc": "2026-06-12T22:50:14+00:00",
+      "description": "仮想通貨ウォレットのエクソダスは、トークン化した株やETF、RWAを売買できるエクソダス・マーケッツをソラナ上でローンチ。取り扱う銘柄や商品の数は計200超である。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "ゲンスラー前委員長が予測市場カルシ提訴でオハイオ州支持、スポーツ賭博はCFTC管轄外と主張",
+      "link": "https://coinpost.jp/?p=716940",
+      "pub_date": "2026-06-13T07:30:29+09:00",
+      "pub_date_utc": "2026-06-12T22:30:29+00:00",
+      "description": "ゲンスラー前SEC・CFTC委員長が6月11日、予測市場プラットフォームのカルシを相手取ったオハイオ州側の主張を支持する法廷意見書を控訴裁判所に提出した。ドッド・フランク法はスポーツ賭博を米CFTC管轄とする根拠を与えておらず、各州の規制が有効と訴えている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "JPMorgan",
+        "Google",
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "日銀利上げはビットコインに何をもたらすのか──日本の金融正常化と暗号資産市場の行方【エックスウィン】",
+      "link": "https://www.nadanews.com/355439/",
+      "pub_date": "2026-06-13T07:00:00+09:00",
+      "pub_date_utc": "2026-06-12T22:00:00+00:00",
+      "description": "市場では、2026年6月の日銀金融政策決定会合で、政策金利が0.75％から1.00％へ引き上げられるとの見方が急速に強まっています。 長らく続いた超低金利時代が The post 日銀利上げはビットコインに何をもたらすのか──日本の金融正常化と暗号資産市場の行方【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 日銀利上げはビットコインに何をもたらすのか──日本の金融正常化と暗号資産市場の行方【エックスウィン】 By エックスウィン 2026年6月13日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 市場では、2026年6月の日銀金融政策決定会合で、政策金利が0.75％から1.00％へ引き上げられるとの見方が急速に強まっています。 長らく続いた超低金利時代が終わり、日本も本格的な金融正常化の局面へ入ろうとしています。 では、この利上げは株式市場や債券市場だけでなく、ビットコインをはじめとする暗号資産市場にどのような影響を与えるのでしょうか。 今回は、日本の利上げが各資産クラスへ与える影響を整理しながら、ビットコイン市場の現在地について考えてみたいと思いま",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "米クラリティー法案のボトルネックである『倫理条項』、暫定合意が白紙に　再協議へ",
+      "link": "https://coinpost.jp/?p=716935",
+      "pub_date": "2026-06-13T06:55:59+09:00",
+      "pub_date_utc": "2026-06-12T21:55:59+00:00",
+      "description": "米クラリティー法案の本会議採決に向けた倫理条項交渉が11日の超党派会合で暗礁に乗り上げた。共和党が暫定合意の主要条件を撤回し民主党が反発。ホワイトハウスは7月4日成立の目標を依然として維持。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "需要殺到でスペースXのIPO申込金を返金、バイナンス等仮想通貨取引所3社",
+      "link": "https://coinpost.jp/?p=716932",
+      "pub_date": "2026-06-13T06:25:43+09:00",
+      "pub_date_utc": "2026-06-12T21:25:43+00:00",
+      "description": "バイナンス、バイビット、ビットゲットウォレットの3社が、スペースXのトークン化IPO申込金を全額返金。xStocksが裏付け株式を確保できず、割当がゼロとなった。SPCX現物株は上場後に176ドルまで上昇した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "Bybit",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "米SEC、株式取引保護規定の廃止を提案　DeFiでのトークン化株売買に道筋",
+      "link": "https://coinpost.jp/?p=716922",
+      "pub_date": "2026-06-13T05:00:29+09:00",
+      "pub_date_utc": "2026-06-12T20:00:29+00:00",
+      "description": "米SECが2005年以来の米株式市場構造を規定するルールの廃止を提案した。ギャラクシー・デジタルのリサーチ責任者は、自動マーケットメーカーを用いたトークン化米国株のDeFi取引における最大の構造的障壁が取り除かれる可能性があると考察。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "JPMorgan",
+        "SEC"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
+      "link": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T01:39:16+09:00",
+      "pub_date_utc": "2026-06-12T16:39:16+00:00",
+      "description": "A federal appeals court upheld the former FTX chief’s conviction, while his bid for clemency from President Donald Trump appears to face steep political odds.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "A federal appeals court upheld the former FTX chief’s conviction, while his bid for clemency from President Donald Trump appears to face steep political odds.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
+      "link": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T01:17:33+09:00",
+      "pub_date_utc": "2026-06-12T16:17:33+00:00",
+      "description": "Bitcoin hit $64,000 as SpaceX launched a record-breaking IPO and US-Iran peace deal hopes continued to grow, but doubts over BTC price support remained.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Bitcoin hit $64,000 as SpaceX launched a record-breaking IPO and US-Iran peace deal hopes continued to grow, but doubts over BTC price support remained.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "【6/12話題】みんなの銀行とスラッシュが提携、スペースXが米史上最大IPO、暗号資産の金商法移管法案が衆議院で可決など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/582303",
+      "pub_date": "2026-06-13T01:07:27+09:00",
+      "pub_date_utc": "2026-06-12T16:07:27+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース みんなの銀行とスラッシュが提携、ステーブルコイン決済ソリューション共同開発へ スペースX、米史上最大IPOで約12兆円調達。評価額は約284兆円に 暗号資産の金商法移管法案、衆議院で可決。参議院へ ストラテジーCEO、ビットコイン売却は「プロセス",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ripple",
+        "Arbitrum",
+        "Tether",
+        "Circle",
+        "SBI Holdings",
+        "NVIDIA"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Crypto Biz: SpaceX fuels tokenization’s next boom",
+      "link": "https://cointelegraph.com/news/tokenized-rwas-kraken-spacex-ipo-prediction-markets-sbf-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T01:07:08+09:00",
+      "pub_date_utc": "2026-06-12T16:07:08+00:00",
+      "description": "Tokenized RWAs surge despite crypto volatility, Kraken launches SpaceX IPO xStocks, prediction markets outpace onchain gambling and Sam Bankman-Fried seeks a Trump pardon.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Tokenized RWAs surge despite crypto volatility, Kraken launches SpaceX IPO xStocks, prediction markets outpace onchain gambling and Sam Bankman-Fried seeks a Trump pardon.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Kraken"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
+      "link": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T22:25:53+09:00",
+      "pub_date_utc": "2026-06-12T13:25:53+00:00",
+      "description": "Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "KuCoin has not paid $2M award tied to delisted token dispute, investor says",
+      "link": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T22:03:23+09:00",
+      "pub_date_utc": "2026-06-12T13:03:23+00:00",
+      "description": "A Seychelles court said KuCoin can’t treat unwithdrawn tokens as “abandoned,” and awarded a Swiss investor over $2 million. He says the exchange still hasn’t paid and plans to sue again.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "A Seychelles court said KuCoin can’t treat unwithdrawn tokens as “abandoned,” and awarded a Swiss investor over $2 million. He says the exchange still hasn’t paid and plans to sue again.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "KuCoin"
+      ],
+      "main_entities": [
+        "KuCoin"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Metaplanet to form securities arm through Siiibo acquisition",
+      "link": "https://cointelegraph.com/news/metaplanet-to-form-securities-arm-through-siiibo-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T21:05:09+09:00",
+      "pub_date_utc": "2026-06-12T12:05:09+00:00",
+      "description": "Metaplanet will acquire Siiibo Securities and rename it Metaplanet Securities as it builds out Project Nova, its Bitcoin-centric finance strategy in Japan.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Metaplanet will acquire Siiibo Securities and rename it Metaplanet Securities as it builds out Project Nova, its Bitcoin-centric finance strategy in Japan.",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "【7/10まで】全員に500円＆抽選で5万円相当のBTCが当たる！SBI VCトレードがキャンペーン実施",
+      "link": "https://www.nadanews.com/355402/",
+      "pub_date": "2026-06-12T20:35:45+09:00",
+      "pub_date_utc": "2026-06-12T11:35:45+00:00",
+      "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のSBI VCトレードは The post 【7/10まで】全員に500円＆抽選で5万円相当のBTCが当たる！SBI VCトレードがキャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "キャンペーン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "キャンペーン 【7/10まで】全員に500円＆抽選で5万円相当のBTCが当たる！SBI VCトレードがキャンペーン実施 By NADA NEWS編集部 2026年6月12日20:35 .st0 { fill: #374149; } 2026年6月12日20:35 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のSBI VCトレードは12日、VCTRADEサービスでの新規口座開設者を対象とした暗号資産デビューキャンペーンを開始した。 キャンペーン期間は、2026年6月12日15時から7月10日23時59分まで。 対象となるのは、2026",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "Ripple",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
+      "link": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T20:32:44+09:00",
+      "pub_date_utc": "2026-06-12T11:32:44+00:00",
+      "description": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut today.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut today.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom",
+      "link": "https://cointelegraph.com/markets/bitcoin-miner-capitulation-comes-as-trader-sees-later-2026-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T19:46:54+09:00",
+      "pub_date_utc": "2026-06-12T10:46:54+00:00",
+      "description": "Bitcoin miner metic sparked talk of \"capitulation\" as profit margins stayed under 5%, but the BTC price bear-market bottom remained absent.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Bitcoin miner metic sparked talk of \"capitulation\" as profit margins stayed under 5%, but the BTC price bear-market bottom remained absent.",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium",
+      "link": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T19:18:58+09:00",
+      "pub_date_utc": "2026-06-12T10:18:58+00:00",
+      "description": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "「メタプラネット証券」誕生へ──Siiibo証券を21億円で買収",
+      "link": "https://www.nadanews.com/355390/",
+      "pub_date": "2026-06-12T19:04:37+09:00",
+      "pub_date_utc": "2026-06-12T10:04:37+00:00",
+      "description": "メタプラネットは6月12日、Siiibo証券の発行済株式を取得し、完全子会社化すると発表した。 取得価額は21億円。株式譲渡の実行日は7月13日、完全子会社化に The post 「メタプラネット証券」誕生へ──Siiibo証券を21億円で買収 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス 「メタプラネット証券」誕生へ──Siiibo証券を21億円で買収 By 平木 昌宏 2026年6月12日19:04 .st0 { fill: #374149; } 2026年6月12日19:18 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); メタプラネットは6月12日、Siiibo証券の発行済株式を取得し、完全子会社化すると発表した。 取得価額は21億円。株式譲渡の実行日は7月13日、完全子会社化に向けた手続きの完了は8月下旬を予定している。 買収後は、所定の手続きを経て、Siiibo証券の商号を「株式会社メタプラネット証券」に変更する方針だ。 Siiibo証券は、私募社債を中心とするオンライン証券プラットフォームを運営する第一種金融商品取引業者。これまでに",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "イーサリアムアップグレード「Hegota」候補に秘匿送金提案EIP-8182",
+      "link": "https://www.neweconomy.jp/posts/582306",
+      "pub_date": "2026-06-12T19:02:16+09:00",
+      "pub_date_utc": "2026-06-12T10:02:16+00:00",
+      "description": "共有シールドプール導入を提案 イーサリアム（Ethereum）で予定されているアップグレード「ヘゴタ（Hegota）」の候補提案として、プライベート送金機能を実現する「EIP-8182」がPFI（Proposed for",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "共有シールドプール導入を提案 イーサリアム（Ethereum）で予定されているアップグレード「ヘゴタ（Hegota）」の候補提案として、プライベート送金機能を実現する「EIP-8182」がPFI（Proposed for Inclusion）に追加された。提案者のトム・レーマン（Tom Lehman）氏が6月11日に報告した。なお同ネットワークの次期アップグレードは「グラムステルダム（Glamsterdam）」だ。 レーマン氏によると、EIP-8182はPFIとして登録された。PFIはアップグレードへの採用候補として検討される提案を指しており、現時点で実装が決定したわけではない。今後、イーサリアム開発者会議などで議論が進められる見込みだ。 EIP-8182は、ETHおよびERC20トークンのプライベート送金を可能にする改善提案だ。同提案では、イーサリアム上に共有の「シールドプール（Shie",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Polygon"
+      ],
+      "main_entities": [
+        "Polygon"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Crypto scammers exploit World Cup ticket demand, TRM warns",
+      "link": "https://cointelegraph.com/news/trm-world-cup-crypto-scams-fake-tickets-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T18:52:36+09:00",
+      "pub_date_utc": "2026-06-12T09:52:36+00:00",
+      "description": "FIFA and the FBI warned of ticket scams as TRM Labs identified World Cup-themed crypto fraud operations tied to multiple wallet addresses.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "FIFA and the FBI warned of ticket scams as TRM Labs identified World Cup-themed crypto fraud operations tied to multiple wallet addresses.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "「Web3はBaaSの延長線上にある」ーみんなの銀行5周年、頭取が語った”接続”戦略",
+      "link": "https://www.nadanews.com/355359/",
+      "pub_date": "2026-06-12T18:06:37+09:00",
+      "pub_date_utc": "2026-06-12T09:06:37+00:00",
+      "description": "ふくおかフィナンシャルグループ傘下の「みんなの銀行」は6月12日、都内で開業5周年を記念した記者発表を行った。同行取締役頭取の永吉健一氏が、銀行機能を外部企業へ The post 「Web3はBaaSの延長線上にある」ーみんなの銀行5周年、頭取が語った”接続”戦略 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム 「Web3はBaaSの延長線上にある」ーみんなの銀行5周年、頭取が語った”接続”戦略 By 橋本 祐樹 2026年6月12日18:06 .st0 { fill: #374149; } 2026年6月12日18:06 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ふくおかフィナンシャルグループ傘下の「みんなの銀行」は6月12日、都内で開業5周年を記念した記者発表を行った。同行取締役頭取の永吉健一氏が、銀行機能を外部企業へ提供するBaaS（バース、Banking as a Service）事業の戦略について説明したほか、ステーブルコイン決済サービスを手がけるSlash Visionとの基本合意書（MOU）締結を発表した。 同行は2021年5月にサービス提供を",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Solana",
+        "Circle",
+        "Fireblocks"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ",
+      "link": "https://coinpost.jp/?p=716849",
+      "pub_date": "2026-06-12T17:58:29+09:00",
+      "pub_date_utc": "2026-06-12T08:58:29+00:00",
+      "description": "メタプラネットが社債プラットフォームのSiiibo証券を21億円で完全子会社化。BTC連動型金融商品の組成・販売を一体運営する「Project Nova」の第一弾M&A。クロージングは7月13日予定。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "CPI上昇で見えてきたアメリカ経済の現実、そしてビットコインが注目される理由【サンフランシスコ レポート】",
+      "link": "https://www.nadanews.com/355340/",
+      "pub_date": "2026-06-12T17:30:00+09:00",
+      "pub_date_utc": "2026-06-12T08:30:00+00:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、今週発表されたアメリカのCPI（消費者物価指数）についてお伝えしま The post CPI上昇で見えてきたアメリカ経済の現実、そしてビットコインが注目される理由【サンフランシスコ レポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 CPI上昇で見えてきたアメリカ経済の現実、そしてビットコインが注目される理由【サンフランシスコ レポート】 By Delia Rojo 2026年6月12日17:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、今週発表されたアメリカのCPI（消費者物価指数）についてお伝えします。 今回発表された5月のCPIは前年同月比4.2％上昇となり、約3年ぶりの高水準を記録しました。市場予想の範囲内ではあったものの、インフレ率が再び4％台へ乗せたことは、アメリカ市場にとって決して小さなニュースではありません。 今回のインフレ上昇を主導したのはエネルギー価格です。エネルギー価格は",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "マトリックス法によるテクニカル分析（2026/6/12）底打ちか？底割れか？まだ勝負はついていない【楽天ウォレット】",
+      "link": "https://www.nadanews.com/355346/",
+      "pub_date": "2026-06-12T17:02:25+09:00",
+      "pub_date_utc": "2026-06-12T08:02:25+00:00",
+      "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル The post マトリックス法によるテクニカル分析（2026/6/12）底打ちか？底割れか？まだ勝負はついていない【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット マトリックス法によるテクニカル分析（2026/6/12）底打ちか？底割れか？まだ勝負はついていない【楽天ウォレット】 By 松田康生 2026年6月12日17:02 .st0 { fill: #374149; } 2026年6月12日17:02 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル分析で5段階（5→1：強→弱）評価し、その平均で相場の強弱を評価する。テクニカル分析において定点観測と客観性が重要と考える。代表的な分析手法を複数組み合わせることで、恣意性を排除し、精度を高める狙い。 googl",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "Ripple",
+        "JPMorgan",
+        "三菱UFJ銀行"
+      ],
+      "main_entities": [
+        "楽天ウォレット"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "韓国LG、広告向けブロックチェーン基盤を開発中、アービトラムと協力＝報道",
+      "link": "https://www.neweconomy.jp/posts/582271",
+      "pub_date": "2026-06-12T16:32:56+09:00",
+      "pub_date_utc": "2026-06-12T07:32:56+00:00",
+      "description": "広告在庫や利用データをオンチェーン管理へ 韓国総合電機メーカーのLGエレクトロニクス（LG Electronics）が、広告向けのブロックチェーン基盤ネットワークを構築していると、米経済誌「フォーチュン（Fortune）",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "広告在庫や利用データをオンチェーン管理へ 韓国総合電機メーカーのLGエレクトロニクス（LG Electronics）が、広告向けのブロックチェーン基盤ネットワークを構築していると、米経済誌「フォーチュン（Fortune）」が6月11日に報じた。 報道によると、同ネットワークは広告主やパブリッシャー向けに設計されたものだという。広告在庫（アドインベントリ）の共有データベースを提供するほか、顧客が広告とどのように相互作用したかを記録する仕組みを備えるとのことだ。 LGエレクトロニクスは、イーサリアム（Ethereum）のレイヤー2ネットワークであるアービトラム（Arbitrum）と協力し、広告用途に特化した独自のレイヤー2ネットワークを構築したという。同ネットワークは、複数の取引をまとめて処理することで、低コストな運用を実現する仕組みになっている。 フォーチュンによると、LGエレクトロニクスは",
+      "summary_error": true,
+      "category": "NFT",
+      "all_entities": [
+        "Arbitrum",
+        "Circle"
+      ],
+      "main_entities": [
+        "Arbitrum"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Visa、AI・ステーブルコイン・トークン化を決済基盤に統合──OpenAI提携も発表",
+      "link": "https://www.nadanews.com/355343/",
+      "pub_date": "2026-06-12T16:30:00+09:00",
+      "pub_date_utc": "2026-06-12T07:30:00+00:00",
+      "description": "Visa（ビザ）は6月10日、年次イベント「Visa Payments Forum 2026」で、AI、ステーブルコイン、トークン化を軸とする新たな決済インフラ The post Visa、AI・ステーブルコイン・トークン化を決済基盤に統合──OpenAI提携も発表 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Visa、AI・ステーブルコイン・トークン化を決済基盤に統合──OpenAI提携も発表 By Shoko Galaviz 2026年6月12日16:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Visa（ビザ）は6月10日、年次イベント「Visa Payments Forum 2026」で、AI、ステーブルコイン、トークン化を軸とする新たな決済インフラ構想を発表した。 ビザの最高製品・戦略責任者であるJack Forestell（ジャック・フォレステル）氏は基調講演で、「AIは商取引のフロントエンドを変革し、ステーブルコインはバックエンドを再構築している」と述べた。そのうえで、ビザの役割は、こうした新たな仕組みを安全かつ信頼できる形で、世界規模で機能さ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "博報堂キースリーとHODL1、デジタル社債関連事業でMoU締結。ステーブルコイン決済導入支援も",
+      "link": "https://www.neweconomy.jp/posts/582264",
+      "pub_date": "2026-06-12T16:27:52+09:00",
+      "pub_date_utc": "2026-06-12T07:27:52+00:00",
+      "description": "デジタル社債関連事業で協業 博報堂キースリーと東証スタンダード上場のHODL1（ホドルワン）が、デジタル社債関連事業の推進に向けた業務提携の基本合意書（MoU）を締結した。両社が6月11日に発表した。 両社は今回のMoU",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "デジタル社債関連事業で協業 博報堂キースリーと東証スタンダード上場のHODL1（ホドルワン）が、デジタル社債関連事業の推進に向けた業務提携の基本合意書（MoU）を締結した。両社が6月11日に発表した。 両社は今回のMoUに基づき、デジタル社債の企画・案件組成、マーケティング、コミュニティ形成、ステーブルコイン決済の導入支援などを一体的に提供できる体制の構築を目指す。 デジタル社債は、ブロックチェーン技術などを用いて発行・管理される社債で、セキュリティトークン（ST）の一種に位置付けられる。発行体にとっては資金調達手段の多様化、投資家にとっては小口化や透明性、権利管理の効率化につながる可能性がある。またプロジェクト関係者にとっては、資金調達とマーケティングを一体化する手段にもなり得るという。 今回の協業では、デジタル社債関連プロジェクトを対象に、企画・推進・開発、共同マーケティング、事業領域",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "ハンガリー、仮想通貨取引の非犯罪化へ　EU圧力を受け規制を撤回",
+      "link": "https://coinpost.jp/?p=716782",
+      "pub_date": "2026-06-12T16:27:48+09:00",
+      "pub_date_utc": "2026-06-12T07:27:48+00:00",
+      "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "ハンガリー、暗号資産取引を非犯罪化へ。前政権の厳格規制を撤回",
+      "link": "https://www.neweconomy.jp/posts/582258",
+      "pub_date": "2026-06-12T16:21:03+09:00",
+      "pub_date_utc": "2026-06-12T07:21:03+00:00",
+      "description": "MiCA整合に転換 ハンガリー政府が、暗号資産（仮想通貨）取引を事実上犯罪化していた規制を撤回する方針を示した。「ブルームバーグ」が6月11日に報じた。 報道によると、ハンガリー政府報道官のアニタ・コボル（Anita K",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MiCA整合に転換 ハンガリー政府が、暗号資産（仮想通貨）取引を事実上犯罪化していた規制を撤回する方針を示した。「ブルームバーグ」が6月11日に報じた。 報道によると、ハンガリー政府報道官のアニタ・コボル（Anita Kobol）氏は、前政権下で導入された暗号資産関連規制を見直し、暗号資産取引の非犯罪化を進める方針を明らかにしたという。 問題となっていた規制は2025年7月に施行されたもので、無認可の暗号資産交換サービスの利用や、一部の高額な暗号資産取引を刑事罰の対象としていた。 同規制では、暗号資産と法定通貨間、および暗号資産同士の交換について、「認可済み検証サービス」による承認・検証を義務付けていた。無認可サービスを通じた取引については、取引額に応じて最大5年の懲役刑が科される可能性があり、中央銀行ライセンスを持たない事業者には最大8年の懲役刑が適用され得る内容だった。 刑事責任の対象",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "zERC20、JPYC向けプライバシートークン「zJPYC」公開",
+      "link": "https://www.neweconomy.jp/posts/582252",
+      "pub_date": "2026-06-12T16:16:08+09:00",
+      "pub_date_utc": "2026-06-12T07:16:08+00:00",
+      "description": "JPYC対応のプライバシートークン「zJPYC」公開 イントマックス（INTMAX）のコア開発者らが手がけるプライバシー送金プロトコル「zERC20」で、日本円建てステーブルコイン「JPYC」に対応するプライバシートーク",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "JPYC対応のプライバシートークン「zJPYC」公開 イントマックス（INTMAX）のコア開発者らが手がけるプライバシー送金プロトコル「zERC20」で、日本円建てステーブルコイン「JPYC」に対応するプライバシートークン「zJPYC」が公開された。zERC20の公式ブログおよび公式Xアカウントで6月11日に発表された。 zERC20は、イーサリアム（Ethereum）のトークン規格「ERC20」のプライバシー保護機能の実現を目指すプロトコルだ。公式サイトによると、専用ウォレットや専用アプリを必要とせず、メタマスク（MetaMask）など一般的なウォレットで利用できることが特徴とのこと。また同プロトコルは、イーサリアムやBNBチェーン（BNB Chain）、アービトラム（Arbitrum）、ベース（Base）など、複数のEVM互換チェーン上で利用できる設計になっているという。 今回発表され",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Polygon",
+        "Arbitrum",
+        "JPYC",
+        "MetaMask"
+      ],
+      "main_entities": [
+        "Polygon"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "International sting shuts down $390M crypto money-laundering ring",
+      "link": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T16:12:06+09:00",
+      "pub_date_utc": "2026-06-12T07:12:06+00:00",
+      "description": "Eleven countries were involved in the joint operation that ended the AudiA6 crypto laundering ring and Dark2Web marketplace.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Eleven countries were involved in the joint operation that ended the AudiA6 crypto laundering ring and Dark2Web marketplace.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "ビザ、AIエージェント向け決済基盤を強化。OpenAI提携やステーブルコイン清算拡大も",
+      "link": "https://www.neweconomy.jp/posts/582246",
+      "pub_date": "2026-06-12T16:09:48+09:00",
+      "pub_date_utc": "2026-06-12T07:09:48+00:00",
+      "description": "ビザがAIエージェント向け新機能を発表 米決済大手ビザ（Visa）が、AIエージェント向けコマース基盤やステーブルコイン清算、トークン機能に関する新たな取り組みを6月11日に発表した。この発表は、米サンフランシスコで開催",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ビザがAIエージェント向け新機能を発表 米決済大手ビザ（Visa）が、AIエージェント向けコマース基盤やステーブルコイン清算、トークン機能に関する新たな取り組みを6月11日に発表した。この発表は、米サンフランシスコで開催された「ビザ・ペイメンツ・フォーラム2026（Visa Payments Forum 2026）」にて行われた。 今回の発表の中心となるのは、AIエージェントによる商取引の実現に向けた取り組みだ。ビザは、AIエージェントが消費者や企業に代わって商品やサービスを購入する「エージェンティック・コマース（Agentic Commerce）」の普及を見据え、取引の信頼性や安全性を確保するための新機能を発表した。 その一環としてビザは、加盟店サイトがAIエージェントによる利用に対応しているかを評価する「エージェントスコア（Agent Score）」や、ビザが正当な参加者として検証した",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "リップル、XRPレジャー向けAIエージェント決済スターターキット公開",
+      "link": "https://www.neweconomy.jp/posts/582213",
+      "pub_date": "2026-06-12T16:01:44+09:00",
+      "pub_date_utc": "2026-06-12T07:01:44+00:00",
+      "description": "RippleがXRPL AI Starter Kit公開 米リップル（Ripple）が、分散型パブリックブロックチェーン「XRPレジャー（XRP Ledger：XRPL）」上で、AIエージェント向け決済アプリケーションを",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "RippleがXRPL AI Starter Kit公開 米リップル（Ripple）が、分散型パブリックブロックチェーン「XRPレジャー（XRP Ledger：XRPL）」上で、AIエージェント向け決済アプリケーションを構築する開発者向けキット「XRPL AI Starter Kit」を公開した。同社が6月10日に発表した。 同キットは段階的に提供される予定とのこと。今回は、開発者がXRPレジャー上でAIエージェントを活用したアプリケーションを見つけ、学び、構築しやすくすることに重点を置いた第1弾が公開された。 第1弾には、XRPLドックスMCPサーバー（XRPL Docs MCP Server）を通じてXRPL関連文書へアクセスできる機能が含まれる。また、米アンソロピック（Anthropic）のAIアシスタント「クロード（Claude）」向けに、XRPLエージェントウォレットスキル（XR",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple",
+        "Optimism"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Blockworks acquires Messari in crypto data consolidation push",
+      "link": "https://cointelegraph.com/news/blockworks-buys-rival-messari-at-fraction-of-2022-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T16:00:00+09:00",
+      "pub_date_utc": "2026-06-12T07:00:00+00:00",
+      "description": "The acquisition follows leadership changes and layoffs at Messari and adds one of crypto's largest data and analytics platforms to Blockworks' growing research business.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The acquisition follows leadership changes and layoffs at Messari and adds one of crypto's largest data and analytics platforms to Blockworks' growing research business.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Exodus launches tokenized stock marketplace with Ondo, adds 200-plus onchain equities",
+      "link": "https://cointelegraph.com/news/exodus-launches-tokenized-stock-marketplace-with-ondo-adds-200-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T16:00:00+09:00",
+      "pub_date_utc": "2026-06-12T07:00:00+00:00",
+      "description": "The launch comes as tokenized equities surge in popularity, with crypto exchanges and wallets racing to offer onchain access to stocks and pre-IPO companies.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The launch comes as tokenized equities surge in popularity, with crypto exchanges and wallets racing to offer onchain access to stocks and pre-IPO companies.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "スタークネット、秘匿送金機能「STRK20」提供開始。DeFi対応拡大へ",
+      "link": "https://www.neweconomy.jp/posts/582233",
+      "pub_date": "2026-06-12T15:58:45+09:00",
+      "pub_date_utc": "2026-06-12T06:58:45+00:00",
+      "description": "スタークネットが秘匿送金機能「STRK20」公開 イーサリアム（Ethereum）のレイヤー2ネットワーク「スタークネット（Starknet）」が、ERC20トークン向け秘匿送金機能「STRK20」の提供開始を6月9日に",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "スタークネットが秘匿送金機能「STRK20」公開 イーサリアム（Ethereum）のレイヤー2ネットワーク「スタークネット（Starknet）」が、ERC20トークン向け秘匿送金機能「STRK20」の提供開始を6月9日に発表した。 STRK20は、スタークネット上の任意のERC20トークンについて、残高や送金額、送金先などを公開せずに利用できる仕組みだ。対応ウォレット「レディX（Ready X）」および「Xバース（Xverse）」から利用できる。 ユーザーはウォレット上で対象トークンを秘匿化（Shield）することで、公開残高を非公開残高へ切り替えられる。秘匿化した資産は、プライベート送金やプライベートスワップに利用できるほか、必要に応じて再び公開状態へ戻すことも可能だという。 同機能ではゼロ知識証明（ZKP）を活用することで、取引の正当性を証明しながら送信者や受信者、送金額などを秘匿でき",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Sui"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "テザー、エヌビディア、アマゾンが独ロボティクス「NEURA」の最大14億ドル調達ラウンドに出資",
+      "link": "https://www.neweconomy.jp/posts/582226",
+      "pub_date": "2026-06-12T15:51:38+09:00",
+      "pub_date_utc": "2026-06-12T06:51:38+00:00",
+      "description": "Tether InvestmentsがNEURAのリード投資家に ドイツのロボティクス企業ニューラロボティクス（NEURA Robotics：以下、ニューラ）が、最大14億ドル（約2,243億円）規模のシリーズC資金調達",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Tether InvestmentsがNEURAのリード投資家に ドイツのロボティクス企業ニューラロボティクス（NEURA Robotics：以下、ニューラ）が、最大14億ドル（約2,243億円）規模のシリーズC資金調達を6月10日に発表した。同ラウンドでは、テザー（Tether）の投資部門テザー・インベストメンツ（Tether Investments）がリード投資家を務める。またアマゾン（Amazon）、エヌビディア（NVIDIA）、クアルコム・テクノロジーズ（Qualcomm Technologies）、ボッシュ（Bosch）、シェフラー（Schaeffler）、欧州投資銀行（EIB）などが投資家として参加している。 テザーによると同社は今回の出資に加え、ニューラのロボットエコシステムに自社技術を導入する方針だという。ニューラのロボット基盤には、テザーのオープンソースのウォレット開発キ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether",
+        "NVIDIA"
+      ],
+      "main_entities": [
+        "Tether",
+        "NVIDIA"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "SECのNMS規則撤廃案、トークン化米国株に追い風か",
+      "link": "https://www.nadanews.com/355299/",
+      "pub_date": "2026-06-12T15:50:07+09:00",
+      "pub_date_utc": "2026-06-12T06:50:07+00:00",
+      "description": "米証券取引委員会（SEC）が、株式市場構造に関する重要規則の撤廃を提案したことで、分散型金融（DeFi）におけるトークン化米国株取引の障壁が下がる可能性がある。 The post SECのNMS規則撤廃案、トークン化米国株に追い風か first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 SECのNMS規則撤廃案、トークン化米国株に追い風か By Shoko Galaviz 2026年6月12日15:50 .st0 { fill: #374149; } 2026年6月12日15:50 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米証券取引委員会（SEC）が、株式市場構造に関する重要規則の撤廃を提案したことで、分散型金融（DeFi）におけるトークン化米国株取引の障壁が下がる可能性がある。 SECは6月11日、2005年に導入されたRegulation NMS（全国市場システム規則）のうち、Rule 611とRule 610（e）の撤廃案を発表した。 SECのPaul Atkins（ポール・アトキンス）委員長は、今回の提案について、市場構造を",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan",
+        "SEC",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy",
+      "link": "https://cointelegraph.com/news/sec-plan-to-scrap-rule-611-a-boon-for-tokenized-us-stocks-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T15:44:20+09:00",
+      "pub_date_utc": "2026-06-12T06:44:20+00:00",
+      "description": "Galaxy’s Alex Thorn says a plan to scrap rules on stock orders and quotes would remove a major barrier to tokenized stocks trading on decentralized platforms.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Galaxy’s Alex Thorn says a plan to scrap rules on stock orders and quotes would remove a major barrier to tokenized stocks trading on decentralized platforms.",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "仮想通貨の金商法移管、衆院で可決　参院審議へ",
+      "link": "https://coinpost.jp/?p=716734",
+      "pub_date": "2026-06-12T15:17:17+09:00",
+      "pub_date_utc": "2026-06-12T06:17:17+00:00",
+      "description": "仮想通貨の規制を資金決済法から金融商品取引法へ移管する改正法案が6月11日、衆議院本会議で可決。インサイダー取引規制の新設や発行者への情報開示義務、分離課税20％の導入を盛り込む。参院審議を経て成立すれば2027年度の施行を見込む。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "利用禁止の米国ユーザー、国際版ポリマーケット取引高の約3割占める可能性＝レポート",
+      "link": "https://coinpost.jp/?p=716708",
+      "pub_date": "2026-06-12T14:30:26+09:00",
+      "pub_date_utc": "2026-06-12T05:30:26+00:00",
+      "description": "予測市場分析会社Crane&Zengは最新レポートで、規制をかいくぐる米国ユーザーのオフショア予測市場利用を初めて定量化した。中でもポリマーケットでは全体の約30％が米国からの利用だった可能性がある。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "JPMorgan",
+        "CFTC"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明",
+      "link": "https://coinpost.jp/?p=716718",
+      "pub_date": "2026-06-12T13:47:17+09:00",
+      "pub_date_utc": "2026-06-12T04:47:17+00:00",
+      "description": "ストラテジー共同創業者マイケル・セイラー氏がBTCプラハで声明。「BTCを売るな」は個人投資家向けのメッセージで、同社が必要時にBTCを売却することは5年間の開示文書で明示済みだと説明。5月の32BTC売却をめぐる議論の背景を読む。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "JPMorgan",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "イーサリアム開発者、プライバシー送金機能の次期アップグレード「ヘゴタ」搭載を提案",
+      "link": "https://coinpost.jp/?p=716609",
+      "pub_date": "2026-06-12T13:45:44+09:00",
+      "pub_date_utc": "2026-06-12T04:45:44+00:00",
+      "description": "仮想通貨イーサリアム開発者レーマン氏がプライバシー送金機能の次期アップグレード「ヘゴタ」組み込みを提案した。利便性の高い匿名送金を実現し、プライバシー強化を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "LG, Arbitrum launch blockchain-based bid in $679B ad market",
+      "link": "https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T13:32:04+09:00",
+      "pub_date_utc": "2026-06-12T04:32:04+00:00",
+      "description": "LG is building a blockchain focused on buying and selling ads, joining a wave of companies launching their own blockchains in recent years.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "LG is building a blockchain focused on buying and selling ads, joining a wave of companies launching their own blockchains in recent years.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Arbitrum"
+      ],
+      "main_entities": [
+        "Arbitrum"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Coinbase launches tool letting AI agents make payments and trade crypto",
+      "link": "https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T13:19:03+09:00",
+      "pub_date_utc": "2026-06-12T04:19:03+00:00",
+      "description": "Coinbase for Agents will allow users of the crypto exchange to manage their holdings without \"constant manual oversight,” autonomously performing a range of tasks.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Coinbase for Agents will allow users of the crypto exchange to manage their holdings without \"constant manual oversight,” autonomously performing a range of tasks.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "Avalanche Treasury falls 16% as it debuts on Nasdaq",
+      "link": "https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-12T13:16:51+09:00",
+      "pub_date_utc": "2026-06-12T04:16:51+00:00",
+      "description": "Avalanche Treasury holds about 15 million of the blockchain’s native token, AVAX, which is trading at a five-year low.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Avalanche Treasury holds about 15 million of the blockchain’s native token, AVAX, which is trading at a five-year low.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Avalanche"
+      ],
+      "main_entities": [
+        "Avalanche"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
+      "title": "韓国大手LG、アービトラム上で独自ブロックチェーンの展開を模索　日本の広告代理店と協業＝報道",
+      "link": "https://coinpost.jp/?p=716569",
+      "pub_date": "2026-06-12T13:15:31+09:00",
+      "pub_date_utc": "2026-06-12T04:15:31+00:00",
+      "description": "仮想通貨イーサリアムのL2アービトラムは、韓国大手LGがアービトラム上で試験的に広告ネットワークを開発していることをXで公表。独自ブロックチェーンを開発している模様だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Arbitrum",
+        "JPMorgan",
+        "野村ホールディングス"
+      ],
+      "main_entities": [
+        "Arbitrum"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-13T11:12:52.642549+09:00"
+    },
+    {
       "title": "米大手スタートアップ支援YCがクラリティー法支持　「全社が仮想通貨を使う」",
       "link": "https://coinpost.jp/?p=716600",
       "pub_date": "2026-06-12T11:04:43+09:00",
@@ -37001,8 +38180,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-12T11:31:42.695453+09:00",
-  "total_count": 1803,
+  "last_updated": "2026-06-13T11:12:52.642549+09:00",
+  "total_count": 1856,
   "sources": [
     "NADA NEWS",
     "CoinPost",
