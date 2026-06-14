@@ -1,6 +1,299 @@
 {
   "articles": [
     {
+      "title": "ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=716767",
+      "pub_date": "2026-06-14T11:30:38+09:00",
+      "pub_date_utc": "2026-06-14T02:30:38+00:00",
+      "description": "ビットコイン（BTC）は970万円台まで下落したが、中東情勢の緊張緩和期待を受けて1000万円台を回復。FOMCでのウォーシュ議長の政策見通しと6.4万ドル水準の攻防が目先の焦点となる",
+      "category_raw": "市況・解説",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 「仮想通貨の冬は終息」と宣言、スタンダードチャータード ビットコインの底打ち価格、基本シナリオは？　ギャラクシーデジタル予想 JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitbank",
+        "JPMorgan",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "bitbank"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ",
+      "link": "https://coinpost.jp/?p=716648",
+      "pub_date": "2026-06-14T09:25:10+09:00",
+      "pub_date_utc": "2026-06-14T00:25:10+00:00",
+      "description": "今週は、金融商品取引法改正案の衆議院財務金融委員会の通過、ストラテジーの仮想通貨ビットコイン売却後の買い戻し、ビットコイン先物の国内上場方針に関する記事が関心を集めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 「仮想通貨の冬は終息」と宣言、スタンダードチャータード ビットコインの底打ち価格、基本シナリオは？　ギャラクシーデジタル予想 JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Solana",
+        "Ripple",
+        "Hyperliquid",
+        "JPMorgan",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由【編集長コラム】",
+      "link": "https://www.nadanews.com/355506/",
+      "pub_date": "2026-06-14T09:00:00+09:00",
+      "pub_date_utc": "2026-06-14T00:00:00+00:00",
+      "description": "メタプラネットは、個人向け私募社債に強みを持つ証券会社を買った。だが、その狙いは社債事業そのものではない。 6月12日、メタプラネットはSiiibo証券を21億 The post ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由【編集長コラム】 By 増田隆幸 2026年6月14日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); メタプラネットは、個人向け私募社債に強みを持つ証券会社を買った。だが、その狙いは社債事業そのものではない。 6月12日、メタプラネットはSiiibo証券を21億円で買収し、完全子会社化すると発表した。7月のクロージング後には「メタプラネット証券」へ商号変更する予定だ。 Siiibo証券は、個人向け私募社債のオンラインプラットフォームを運営する第一種金融商品取引業者。これまで40社超、100銘柄以上の社債発行を支援してきた。 一見すると、ビットコイントレ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決／BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】【日曜日に読みたい厳選10本】",
+      "link": "https://www.nadanews.com/355422/",
+      "pub_date": "2026-06-14T08:00:00+09:00",
+      "pub_date_utc": "2026-06-13T23:00:00+00:00",
+      "description": "暗号資産（仮想通貨）の規制を金融商品取引法（金商法）へ移管する改正法案が、6月11日の衆議院本会議で可決された。10日の財務金融委員会での可決を受けたもので、法 The post 【速報】暗号資産の金商法改正案、衆院本会議で可決／BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム 【速報】暗号資産の金商法改正案、衆院本会議で可決／BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】【日曜日に読みたい厳選10本】 By 橋本 祐樹 2026年6月14日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）の規制を金融商品取引法（金商法）へ移管する改正法案が、6月11日の衆議院本会議で可決された。10日の財務金融委員会での可決を受けたもので、法案の舞台は今後、参議院での審議へと移る。──先週の土曜日から一昨日の金曜日までに公開した記事のなかから、日曜日に読みたい10本を厳選！ googletag.cmd.push(function() { googletag.display('",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "マネックスグループ",
+        "bitbank",
+        "Grayscale",
+        "三菱UFJ銀行",
+        "みずほ銀行",
+        "三井住友銀行"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "夏枯れか、それとも選挙相場か──ビットコイン市場が迎える8〜9月の正念場【エックスウィン】",
+      "link": "https://www.nadanews.com/355497/",
+      "pub_date": "2026-06-14T07:47:28+09:00",
+      "pub_date_utc": "2026-06-13T22:47:28+00:00",
+      "description": "● ビットコインは歴史的に6月・8月・9月のパフォーマンスが弱い傾向にあるが、本質的な要因は季節性ではなく市場の需要環境にある。● 現在はETF資金流入の減速、 The post 夏枯れか、それとも選挙相場か──ビットコイン市場が迎える8〜9月の正念場【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 夏枯れか、それとも選挙相場か──ビットコイン市場が迎える8〜9月の正念場【エックスウィン】 By エックスウィン 2026年6月14日07:47 .st0 { fill: #374149; } 2026年6月14日07:54 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● ビットコインは歴史的に6月・8月・9月のパフォーマンスが弱い傾向にあるが、本質的な要因は季節性ではなく市場の需要環境にある。● 現在はETF資金流入の減速、企業需要の鈍化、ステーブルコイン供給の伸び悩みが見られ、「需要が弱い状態で夏を迎えている」ことが最大のリスクとなっている。● さらに今年は米国中間選挙を控えた不確実性も重なっており、今後の方向性を占う上ではETFフローやステーブルコ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BitTrade"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
+      "link": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T23:45:43+09:00",
+      "pub_date_utc": "2026-06-13T14:45:43+00:00",
+      "description": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+      "link": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T22:58:24+09:00",
+      "pub_date_utc": "2026-06-13T13:58:24+00:00",
+      "description": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+      "link": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T20:52:41+09:00",
+      "pub_date_utc": "2026-06-13T11:52:41+00:00",
+      "description": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "暗号資産投資家、SpaceXのトークン化IPOに5億ドル超を申し込むも株式は届かず【価格分析】",
+      "link": "https://www.nadanews.com/355457/",
+      "pub_date": "2026-06-13T14:59:34+09:00",
+      "pub_date_utc": "2026-06-13T05:59:34+00:00",
+      "description": "・SpaceXの新規株式公開（IPO）は750億ドルを調達し、6月12日の上場初日に時価総額2兆1100億ドルを達成した。・Binance WalletのSpa The post 暗号資産投資家、SpaceXのトークン化IPOに5億ドル超を申し込むも株式は届かず【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 暗号資産投資家、SpaceXのトークン化IPOに5億ドル超を申し込むも株式は届かず【価格分析】 By Ibrahim Ajibade 2026年6月13日14:59 .st0 { fill: #374149; } 2026年6月13日14:59 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・SpaceXの新規株式公開（IPO）は750億ドルを調達し、6月12日の上場初日に時価総額2兆1100億ドルを達成した。・Binance WalletのSpaceXトークン化IPOキャンペーンには、キャンセル前に2万7689のウォレットから5億5700万ドル超の申込が集まったが、株式割当が不足したため中止された。・BybitとBitgetも、提携先のxStocksが十",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Binance",
+        "Bybit",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "米控訴裁判所、FTX前CEOサム・バンクマン＝フリード氏の有罪判決を支持",
+      "link": "https://coinpost.jp/?p=716971",
+      "pub_date": "2026-06-13T14:15:53+09:00",
+      "pub_date_utc": "2026-06-13T05:15:53+00:00",
+      "description": "米国の控訴裁判所は、破綻した仮想通貨取引所FTXの前CEOであるサム・バンクマン＝フリード氏の有罪判決と25年の懲役、財産没収を支持する判決を下した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 「仮想通貨の冬は終息」と宣言、スタンダードチャータード ビットコインの底打ち価格、基本シナリオは？　ギャラクシーデジタル予想 JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "JPMorgan",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "「仮想通貨の冬は終息」と宣言、スタンダードチャータード",
+      "link": "https://coinpost.jp/?p=716938",
+      "pub_date": "2026-06-13T13:25:24+09:00",
+      "pub_date_utc": "2026-06-13T04:25:24+00:00",
+      "description": "スタンダードチャータード銀行のアナリストは13日付ノートで、ビットコインのサイクル安値を5万9,000ドルと主張し「仮想通貨の冬は終わった」と表明。スペースX上場と米・イラン和平交渉進展が回復の契機になるとみている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 「仮想通貨の冬は終息」と宣言、スタンダードチャータード ビットコインの底打ち価格、基本シナリオは？　ギャラクシーデジタル予想 JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740713356687",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "JPMorgan",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
+      "link": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T12:24:05+09:00",
+      "pub_date_utc": "2026-06-13T03:24:05+00:00",
+      "description": "Demand for ETH leverage remains low, but corporate accumulation and stakers’ dedication may prevent an Ether price crash to $1,500.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Demand for ETH leverage remains low, but corporate accumulation and stakers’ dedication may prevent an Ether price crash to $1,500.",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
+      "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
+      "link": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-13T11:37:40+09:00",
+      "pub_date_utc": "2026-06-13T02:37:40+00:00",
+      "description": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns.",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-14T11:36:38.361578+09:00"
+    },
+    {
       "title": "gumi、国内最大のXRP運用事業者目指す──保有140億円の暗号資産移行へ",
       "link": "https://www.nadanews.com/355420/",
       "pub_date": "2026-06-13T10:21:33+09:00",
@@ -38180,8 +38473,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-13T11:12:52.642549+09:00",
-  "total_count": 1856,
+  "last_updated": "2026-06-14T11:36:38.361578+09:00",
+  "total_count": 1869,
   "sources": [
     "NADA NEWS",
     "CoinPost",
