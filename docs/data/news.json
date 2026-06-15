@@ -1,6 +1,477 @@
 {
   "articles": [
     {
+      "title": "Unifi、JPYC流通量首位と発表　対応開始から1ヶ月未満",
+      "link": "https://coinpost.jp/?p=716571",
+      "pub_date": "2026-06-15T10:22:14+09:00",
+      "pub_date_utc": "2026-06-15T01:22:14+00:00",
+      "description": "LINE NEXTのグローバルフィンテックサービスUnifiが、JPYC対応開始から1ヶ月未満でJPYC流通量首位を獲得。LINEアプリ上で完結するノンカストディアル型の設計が実ユーザー獲得につながった。リワード機能や海外決済など今後の展開を解説する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿 「仮想通貨の冬は終息」と宣言、スタンダードチャータード googletag.cmd.push(function() { googl",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "JPYC"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "米ビットコイン現物ETF、8500万ドル超の純流入──5日連続の流出に終止符",
+      "link": "https://www.nadanews.com/355565/",
+      "pub_date": "2026-06-15T10:00:00+09:00",
+      "pub_date_utc": "2026-06-15T01:00:00+00:00",
+      "description": "米国のビットコイン（BTC）現物ETF（上場投資信託）には6月12日に8585万ドル（約133億円、1ドル155円換算）の純流入があり、5営業日連続の資金流出に The post 米ビットコイン現物ETF、8500万ドル超の純流入──5日連続の流出に終止符 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 米ビットコイン現物ETF、8500万ドル超の純流入──5日連続の流出に終止符 By 廣瀬 優香 2026年6月15日10:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米国のビットコイン（BTC）現物ETF（上場投資信託）には6月12日に8585万ドル（約133億円、1ドル155円換算）の純流入があり、5営業日連続の資金流出に終止符が打たれたことが、SoSoValueのデータで明らかになった。 米国で最大の運用資産残高（AUM）を誇るビットコインETFであるBlackRock（ブラックロック）のIBITは、6月12日に5769万ドル（約89億4000万円）の純流入を記録し、資金流入額でトップとなった。 これに続き、Fidelity（フィデリティ）のF",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "Fidelity",
+        "Morgan Stanley"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "量子耐性アドレスへの移行で「放置されたビットコイン」をどうすべきか＝コインベースレポート",
+      "link": "https://coinpost.jp/?p=717016",
+      "pub_date": "2026-06-15T09:57:34+09:00",
+      "pub_date_utc": "2026-06-15T00:57:34+00:00",
+      "description": "コインベース諮問委員会が仮想通貨ビットコインと量子コンピュータ脅威に関するレポートを発表。「砂時計プロトコル」など3つの方策を組み合わせた中間的アプローチを提案した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿 「仮想通貨の冬は終息」と宣言、スタンダードチャータード googletag.cmd.push(function() { googl",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "ビットコイン長期保有者の取引所流入、2015年来の最低水準＝アナリスト",
+      "link": "https://coinpost.jp/?p=717028",
+      "pub_date": "2026-06-15T09:37:17+09:00",
+      "pub_date_utc": "2026-06-15T00:37:17+00:00",
+      "description": "CryptoQuantアナリストのDarkfost氏が、ビットコイン長期保有者の取引所流入データを分析。年間平均は1日800BTC超と2015年以降で最低水準に低下。ETF・機関投資家の参入が長期保有者層の構造変化を促している可能性を指摘する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿 「仮想通貨の冬は終息」と宣言、スタンダードチャータード googletag.cmd.push(function() { googl",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "CLARITY法案が変えるDeFiの未来とアメリカ金融市場の転換点【サンフランシスコ レポート】",
+      "link": "https://www.nadanews.com/355558/",
+      "pub_date": "2026-06-15T09:03:00+09:00",
+      "pub_date_utc": "2026-06-15T00:03:00+00:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、現在アメリカの暗号資産業界で最も重要な政策テーマとなっているCL The post CLARITY法案が変えるDeFiの未来とアメリカ金融市場の転換点【サンフランシスコ レポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 CLARITY法案が変えるDeFiの未来とアメリカ金融市場の転換点【サンフランシスコ レポート】 By Delia Rojo 2026年6月15日09:03 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、現在アメリカの暗号資産業界で最も重要な政策テーマとなっているCLARITY Act（デジタル資産市場構造法案）についてお伝えします。 アメリカでは今、CLARITY法案がいよいよ最終局面へ入りつつあります。 下院での審議を経て、現在は上院での議論と法案調整が進められており、市場関係者の関心は「成立するのか」から、「どのような形で成立するのか」へ移り始めています。 私は",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "JPMorgan",
+        "SEC"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "ストラテジー、ビットコイン追加購入を示唆　セイラー氏「ドットを加え続けている」",
+      "link": "https://coinpost.jp/?p=717008",
+      "pub_date": "2026-06-15T08:43:52+09:00",
+      "pub_date_utc": "2026-06-14T23:43:52+00:00",
+      "description": "ストラテジーのマイケル・セイラー会長が6月14日、過去の購入履歴を示すチャートをXに投稿し「ドットを加え続けている」と記述。845,256 BTCを保有する同社の新たな追加取得が週内にも開示される可能性が高まっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿 「仮想通貨の冬は終息」と宣言、スタンダードチャータード googletag.cmd.push(function() { googl",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Strategyのセイラー氏、「まだドットを追加中」と投稿──BTC購入を示唆",
+      "link": "https://www.nadanews.com/355547/",
+      "pub_date": "2026-06-15T08:30:00+09:00",
+      "pub_date_utc": "2026-06-14T23:30:00+00:00",
+      "description": "ビットコイン（BTC）財務企業Strategy（ストラテジー）のMichael Saylor（マイケル・セイラー）会長が、恒例の日曜のX投稿で、おなじみの「ドッ The post Strategyのセイラー氏、「まだドットを追加中」と投稿──BTC購入を示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Strategyのセイラー氏、「まだドットを追加中」と投稿──BTC購入を示唆 By 井上 俊彦 2026年6月15日08:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコイン（BTC）財務企業Strategy（ストラテジー）のMichael Saylor（マイケル・セイラー）会長が、恒例の日曜のX投稿で、おなじみの「ドットチャート」を添えて「まだドットを追加中（Still adding dots）」と述べた。こうした投稿はその週のビットコイン購入を予告する際にしばしば使われる。 ストラテジーは6月1日に2022年以来初となる32BTCの売却を開示した一方、6月8日には、先週分として約1億130万ドル（約162億円、1ドル=160円換算）で1",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "BTCマイニング難易度が10.09％低下──今年2番目の大幅調整",
+      "link": "https://www.nadanews.com/355543/",
+      "pub_date": "2026-06-15T08:00:00+09:00",
+      "pub_date_utc": "2026-06-14T23:00:00+00:00",
+      "description": "ビットコインのマイニング難易度が週末、10.09％低下し、2026年で2番目に大きい下方調整となった。 Galaxy Research（ギャラクシー・リサーチ） The post BTCマイニング難易度が10.09％低下──今年2番目の大幅調整 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Technology BTCマイニング難易度が10.09％低下──今年2番目の大幅調整 By Shoko Galaviz 2026年6月15日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコインのマイニング難易度が週末、10.09％低下し、2026年で2番目に大きい下方調整となった。 Galaxy Research（ギャラクシー・リサーチ）によると、難易度はブロック高95万3568で138.96兆から124.93兆へ低下した。今回の調整はビットコインネットワーク史上11番目に大きい下方調整であり、2026年では2月初旬に続く規模となる。 マイニング難易度は、マイナーがブロックを追加するために必要な計算量を示す指標だ。ビットコインでは、ブロック生成時間",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "MARA Holdings",
+        "Core Scientific"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "ビットコイン6万ドルからショート踏み上げ、売り圧力は依然継続＝アナリスト",
+      "link": "https://coinpost.jp/?p=717001",
+      "pub_date": "2026-06-15T07:55:17+09:00",
+      "pub_date_utc": "2026-06-14T22:55:17+00:00",
+      "description": "CryptoQuantのオンチェーンアナリスト、Axel Adler Jr氏が6月第2週の市場を分析。取引所への週間ネットフローは20,900BTCと売り圧力が継続する一方、ショートポジション清算が相場を下支え。マイナーのPuellマルチプルも過去サイクルの底値と比較して注目される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿 「仮想通貨の冬は終息」と宣言、スタンダードチャータード googletag.cmd.push(function() { googl",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "4年サイクルは終わったのか──CryptoQuantのデータが示す2026年ビットコイン相場の本質【エックスウィン】",
+      "link": "https://www.nadanews.com/355551/",
+      "pub_date": "2026-06-15T07:40:34+09:00",
+      "pub_date_utc": "2026-06-14T22:40:34+00:00",
+      "description": "● 2026年は4年サイクル上では弱気相場の年に位置付けられるが、その背景は半減期ではなく「需要の減速」にある可能性が高い。● MVRVは2013年の5.88か The post 4年サイクルは終わったのか──CryptoQuantのデータが示す2026年ビットコイン相場の本質【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン 4年サイクルは終わったのか──CryptoQuantのデータが示す2026年ビットコイン相場の本質【エックスウィン】 By エックスウィン 2026年6月15日07:40 .st0 { fill: #374149; } 2026年6月15日07:40 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 2026年は4年サイクル上では弱気相場の年に位置付けられるが、その背景は半減期ではなく「需要の減速」にある可能性が高い。● MVRVは2013年の5.88から2025年の2.74まで一貫して低下しており、市場の成熟によって過去のような投機的バブルは縮小している。● エックスウィンでは、2026年相場を決める最大の要因は半減期ではなく需要だと考えており、App",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "ビットコインの底値、基本シナリオでは4万ドル前半＝Galaxy Research",
+      "link": "https://www.nadanews.com/355544/",
+      "pub_date": "2026-06-15T07:15:00+09:00",
+      "pub_date_utc": "2026-06-14T22:15:00+00:00",
+      "description": "Galaxy Research（ギャラクシー・リサーチ）が6月11日に顧客向けに送付したレポートによると、ビットコイン（BTC）の底値は過去の弱気相場ほど深くは The post ビットコインの底値、基本シナリオでは4万ドル前半＝Galaxy Research first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン ビットコインの底値、基本シナリオでは4万ドル前半＝Galaxy Research By 井上 俊彦 2026年6月15日07:15 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Galaxy Research（ギャラクシー・リサーチ）が6月11日に顧客向けに送付したレポートによると、ビットコイン（BTC）の底値は過去の弱気相場ほど深くは下落しない可能性があるが、底打ちを探るプロセスはなお進行中だという。 リサーチ責任者のAlex Thorn（アレックス・ソーン）氏は、過去サイクルの最高値と最安値をすべて分析し、4年周期がビットコインの過去の推移とほぼ一致していると指摘した。 一方で、2025年10月のピークは過去のサイクルピークとは異なると主張。根拠とし",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "Grayscale",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "サム・バンクマン＝フリード氏の控訴棄却──懲役25年の判決を覆せず",
+      "link": "https://www.nadanews.com/355539/",
+      "pub_date": "2026-06-15T07:00:00+09:00",
+      "pub_date_utc": "2026-06-14T22:00:00+00:00",
+      "description": "経営破綻した暗号資産（仮想通貨）取引所FTXの元CEO、Sam Bankman-Fried（サム・バンクマン＝フリード）氏は、詐欺罪での有罪判決と懲役25年の刑 The post サム・バンクマン＝フリード氏の控訴棄却──懲役25年の判決を覆せず first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "犯罪・事故",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "犯罪・事故 サム・バンクマン＝フリード氏の控訴棄却──懲役25年の判決を覆せず By 井上 俊彦 2026年6月15日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 経営破綻した暗号資産（仮想通貨）取引所FTXの元CEO、Sam Bankman-Fried（サム・バンクマン＝フリード）氏は、詐欺罪での有罪判決と懲役25年の刑を覆すことができなかった。 アメリカの連邦第2巡回区控訴裁判所は6月12日、3人の裁判官からなる控訴審が同氏の救済申し立てを全員一致で却下し、有罪判決を支持したことを明らかにした。 バンクマン＝フリード氏は、数十億ドル規模に上ったFTXの破綻に端を発する詐欺と共謀の罪で有罪となり、2024年に懲役25年を言い渡された。今回の控訴棄却により",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Y Combinator、クラリティ法案可決を支持",
+      "link": "https://www.nadanews.com/355537/",
+      "pub_date": "2026-06-15T07:00:00+09:00",
+      "pub_date_utc": "2026-06-14T22:00:00+00:00",
+      "description": "Airbnb（エアビーアンドビー）やDoorDash（ドアダッシュ）の初期支援で知られるスタートアップアクセラレーターのY Combinator（ワイ・コンビネ The post Y Combinator、クラリティ法案可決を支持 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Y Combinator、クラリティ法案可決を支持 By Shoko Galaviz 2026年6月15日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Airbnb（エアビーアンドビー）やDoorDash（ドアダッシュ）の初期支援で知られるスタートアップアクセラレーターのY Combinator（ワイ・コンビネーター）は、暗号資産（仮想通貨）技術が将来的にあらゆるポートフォリオ企業で使われるようになるとの見方を示した。 ワイ・コンビネーターはXへの投稿で、「ワイ・コンビネーターが支援するすべてのスタートアップが、近いうちにステーブルコインのような暗号資産技術を使うようになると考えている」と述べた。その対象は暗号資産スタートアップやフィンテック企業",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPMorgan",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "CFTC、ニューメキシコ州を提訴──予測市場めぐり管轄権争い拡大",
+      "link": "https://www.nadanews.com/355531/",
+      "pub_date": "2026-06-15T06:30:00+09:00",
+      "pub_date_utc": "2026-06-14T21:30:00+00:00",
+      "description": "米商品先物取引委員会（CFTC）は6月12日、ニューメキシコ州を相手取り、同州がCFTC登録市場に州の賭博法を適用することを阻止するため、連邦裁判所に訴訟を起こ The post CFTC、ニューメキシコ州を提訴──予測市場めぐり管轄権争い拡大 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 CFTC、ニューメキシコ州を提訴──予測市場めぐり管轄権争い拡大 By Shoko Galaviz 2026年6月15日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米商品先物取引委員会（CFTC）は6月12日、ニューメキシコ州を相手取り、同州がCFTC登録市場に州の賭博法を適用することを阻止するため、連邦裁判所に訴訟を起こした。 対象には同州のMichelle Lujan Grisham（ミシェル・ルーハン・グリシャム）知事やRaúl Torrez（ラウル・トレス）司法長官らが含まれる。 今回の訴訟は、予測市場、とりわけスポーツ関連イベント契約をめぐる管轄権争いの一環だ。ニューメキシコ州は前週、予測市場プラットフォームKalshiEX（カルシ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Exodus、ソラナ上でトークン化株式市場をローンチ",
+      "link": "https://www.nadanews.com/355534/",
+      "pub_date": "2026-06-15T06:00:00+09:00",
+      "pub_date_utc": "2026-06-14T21:00:00+00:00",
+      "description": "暗号資産（仮想通貨）ウォレットを手がけるExodus（エクソダス）は6月12日、トークン化資産分野の大手Ondo Finance（オンド・ファイナンス）との提携 The post Exodus、ソラナ上でトークン化株式市場をローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット Exodus、ソラナ上でトークン化株式市場をローンチ By 井上 俊彦 2026年6月15日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）ウォレットを手がけるExodus（エクソダス）は6月12日、トークン化資産分野の大手Ondo Finance（オンド・ファイナンス）との提携により、トークン化資産のマーケットプレイス「Exodus Markets」を立ち上げたと発表した。 ユーザーは、Solana（ソラナ）上で200種類以上のトークン化された株式やETF（上場投資信託）、その他の現実資産（RWA）を暗号資産ウォレットから直接売買できるようになる。 このサービスは一部の市場で利用可能で、対象となるユーザーはアプリを最新版に更",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
+      "link": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-15T04:05:46+09:00",
+      "pub_date_utc": "2026-06-14T19:05:46+00:00",
+      "description": "Standard Chartered’s Geoff Kendrick tells clients “winter is over” as the analyst said crypto prices have likely seen the low for the cycle, ahead of Strategy’s Bitcoin purchase update.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Standard Chartered’s Geoff Kendrick tells clients “winter is over” as the analyst said crypto prices have likely seen the low for the cycle, ahead of Strategy’s Bitcoin purchase update.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "link": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-14T22:49:48+09:00",
+      "pub_date_utc": "2026-06-14T13:49:48+00:00",
+      "description": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
+      "link": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-14T20:07:34+09:00",
+      "pub_date_utc": "2026-06-14T11:07:34+00:00",
+      "description": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp.",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+      "link": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-14T19:06:04+09:00",
+      "pub_date_utc": "2026-06-14T10:06:04+00:00",
+      "description": "Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound.",
+      "category_raw": "Markets",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Near Protocol"
+      ],
+      "main_entities": [
+        "Near Protocol"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+      "link": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-14T14:07:31+09:00",
+      "pub_date_utc": "2026-06-14T05:07:31+00:00",
+      "description": "Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies.",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
+      "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+      "link": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-14T12:36:49+09:00",
+      "pub_date_utc": "2026-06-14T03:36:49+00:00",
+      "description": "Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
+      "category_raw": "Latest News",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
+      "summary_error": true,
+      "category": "イベント・人事",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-15T11:40:48.251482+09:00"
+    },
+    {
       "title": "ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿",
       "link": "https://coinpost.jp/?p=716767",
       "pub_date": "2026-06-14T11:30:38+09:00",
@@ -38473,8 +38944,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-14T11:36:38.361578+09:00",
-  "total_count": 1869,
+  "last_updated": "2026-06-15T11:40:48.251482+09:00",
+  "total_count": 1890,
   "sources": [
     "NADA NEWS",
     "CoinPost",
