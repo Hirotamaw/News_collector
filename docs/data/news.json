@@ -1,6 +1,608 @@
 {
   "articles": [
     {
+      "title": "イーサリアム財団、まさかの資金難か 中核開発に年間48億円必要との警告",
+      "link": "https://cointelegraph.jp/news/former-ethereum-foundation-contributor-claims-core-development-funding-crisis?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-21T10:57:05+09:00",
+      "pub_date_utc": "2026-06-21T01:57:05+00:00",
+      "description": "イーサリアム財団が支出を絞り、財務戦略の見直しを進め、さらに幹部の離脱が相次ぐなかで、今回の警告は発せられた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "イーサリアム財団が支出を絞り、財務戦略の見直しを進め、さらに幹部の離脱が相次ぐなかで、今回の警告は発せられた。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "バイナンスは欧州から追放されるのか MiCA申請却下報道でECB関与疑惑が急浮上",
+      "link": "https://cointelegraph.jp/news/mica-rules-questions-ecb-role-binance-licensing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-21T10:42:50+09:00",
+      "pub_date_utc": "2026-06-21T01:42:50+00:00",
+      "description": "弁護士らは、MiCAの規則上、欧州中央銀行（ECB）が申請審査のさなかに各国の規制当局と接触すること自体は禁じられていないと指摘する。とはいえ、暗号資産ライセンスを出すか否かの“決定権”は、なお加盟国の手にある。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "弁護士らは、MiCAの規則上、欧州中央銀行（ECB）が申請審査のさなかに各国の規制当局と接触すること自体は禁じられていないと指摘する。とはいえ、暗号資産ライセンスを出すか否かの“決定権”は、なお加盟国の手にある。",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "Binance",
+        "ECB"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "バイナンス、フィリピンで“復活”へ ただしペソ送金は不可、中央銀行が釘を刺す",
+      "link": "https://cointelegraph.jp/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-21T10:28:04+09:00",
+      "pub_date_utc": "2026-06-21T01:28:04+00:00",
+      "description": "ブロックショールズの法務責任者は、バイナンスがフィリピンSECの暗号資産規制枠組みのもとで取引アクセスを提供できると説明した。一方で、ペソ送金や中央銀行の監督対象となるサービスには、認可済みVASPライセンスが必要になるという。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ブロックショールズの法務責任者は、バイナンスがフィリピンSECの暗号資産規制枠組みのもとで取引アクセスを提供できると説明した。一方で、ペソ送金や中央銀行の監督対象となるサービスには、認可済みVASPライセンスが必要になるという。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ",
+      "link": "https://coinpost.jp/?p=718319",
+      "pub_date": "2026-06-21T09:25:00+09:00",
+      "pub_date_utc": "2026-06-21T00:25:00+00:00",
+      "description": "今週は、米FOMCタカ派シフトによる仮想通貨相場下落、ビットコイン大口保有者の保有量の過去最高更新、リップルのアフリカ最大決済インフラへの戦略投資に関する記事が関心を集めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 全国ビジネス企業年金基金、通貨リスク分散目的で仮想通貨投資へ＝報道 リップル『スウェル2026』、XRPLアペックスと初統合　10月ニューヨーク開催予定 googletag.cmd.push(function() { googletag.display('di",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana",
+        "Ripple",
+        "Hyperliquid",
+        "BlackRock"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
+      "link": "https://www.nadanews.com/356304/",
+      "pub_date": "2026-06-21T09:00:00+09:00",
+      "pub_date_utc": "2026-06-21T00:00:00+00:00",
+      "description": "暗号資産（仮想通貨）関連のイベントと聞くと、多くの人はビットコイン（BTC）やアルトコインの価格動向、あるいは新しいブロックチェーン技術の話題を思い浮かべるかも The post 「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム 「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】 By 増田隆幸 2026年6月21日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）関連のイベントと聞くと、多くの人はビットコイン（BTC）やアルトコインの価格動向、あるいは新しいブロックチェーン技術の話題を思い浮かべるかもしれない。 だが、今年の「IVS2026 CRYPTO ZONE Powered by NADA NEWS」のプログラムを見渡すと、少し違う景色が見えてくる。 並んでいるのは、「AI」「オンチェーン金融」「ステーブルコイン」「ウォレット」「トークン化MMF」「金商法移行」といったテーマだ。 もち",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Circle"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由／IPO直前に一部売却、それでも過半を保有──アステリアはなぜSpaceXに投資したのか【日曜日に読みたい厳選10本】",
+      "link": "https://www.nadanews.com/356352/",
+      "pub_date": "2026-06-21T08:00:00+09:00",
+      "pub_date_utc": "2026-06-20T23:00:00+00:00",
+      "description": "メタプラネットは、個人向け私募社債に強みを持つ証券会社を買った。一見すると、ビットコイントレジャリー企業が社債販売会社を買収した案件に見える。だが、この買収の本 The post ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由／IPO直前に一部売却、それでも過半を保有──アステリアはなぜSpaceXに投資したのか【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由／IPO直前に一部売却、それでも過半を保有──アステリアはなぜSpaceXに投資したのか【日曜日に読みたい厳選10本】 By 橋本 祐樹 2026年6月21日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); メタプラネットは、個人向け私募社債に強みを持つ証券会社を買った。一見すると、ビットコイントレジャリー企業が社債販売会社を買収した案件に見える。だが、この買収の本質は社債事業にはない。──先週の土曜日から一昨日の金曜日までに公開した記事のなかから、日曜日に読みたい10本を厳選！ googletag.cmd.push(function() { googl",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "Kalshi、IPOに向け投資銀行と初期協議か＝The Information",
+      "link": "https://www.nadanews.com/356186/",
+      "pub_date": "2026-06-21T07:50:00+09:00",
+      "pub_date_utc": "2026-06-20T22:50:00+00:00",
+      "description": "予測市場プラットフォームのKalshi（カルシ）が、将来的なIPO（新規株式公開）に向けて投資銀行と初期協議を始めたと、The Informationが事情に詳 The post Kalshi、IPOに向け投資銀行と初期協議か＝The Information first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Kalshi、IPOに向け投資銀行と初期協議か＝The Information By Shoko Galaviz 2026年6月21日07:50 .st0 { fill: #374149; } 2026年6月21日07:51 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 予測市場プラットフォームのKalshi（カルシ）が、将来的なIPO（新規株式公開）に向けて投資銀行と初期協議を始めたと、The Informationが事情に詳しい関係者の話として報じた。 The Informationの報道では、カルシの年換算収益が20億ドル（約3200億円、1ドル＝160円換算）を超えたともされている。 IPO協議は、カルシが急速に事業を拡大する中で浮上した。カルシは5",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "ARK Invest",
+        "Morgan Stanley",
+        "a16z"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ウォーシュFRB改革はビットコインを変えるのか──「金融緩和期待相場」から「流動性相場」への転換点【エックスウィン】",
+      "link": "https://www.nadanews.com/356355/",
+      "pub_date": "2026-06-21T07:02:06+09:00",
+      "pub_date_utc": "2026-06-20T22:02:06+00:00",
+      "description": "● ウォーシュFRBはフォワードガイダンスの後退とコミュニケーション改革を打ち出し、「市場を誘導する中央銀行」から「市場が判断する中央銀行」への転換を進めている The post ウォーシュFRB改革はビットコインを変えるのか──「金融緩和期待相場」から「流動性相場」への転換点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン ウォーシュFRB改革はビットコインを変えるのか──「金融緩和期待相場」から「流動性相場」への転換点【エックスウィン】 By エックスウィン 2026年6月21日07:02 .st0 { fill: #374149; } 2026年6月21日07:02 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● ウォーシュFRBはフォワードガイダンスの後退とコミュニケーション改革を打ち出し、「市場を誘導する中央銀行」から「市場が判断する中央銀行」への転換を進めている。● 短期的には金利パスの不確実性上昇やETFフローの不安定化によってビットコインには逆風となる可能性が高い。一方で長期的には、BTCが金融緩和期待ではなく実際の流動性で評価される市場へ移行する契機となる",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコイン取引が異常増加 価格低迷でも「少額取引8割」で過去最高水準に迫る",
+      "link": "https://cointelegraph.jp/news/bitcoin-activity-nears-record-highs-on-microtransaction-surge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T17:26:13+09:00",
+      "pub_date_utc": "2026-06-20T08:26:13+00:00",
+      "description": "OP_RETURNの利用が過去最高に近づくなか、少額のビットコイン取引が急増している。価格が伸び悩む一方で、ビットコインのネットワーク活動は過去最高水準に迫っている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "OP_RETURNの利用が過去最高に近づくなか、少額のビットコイン取引が急増している。価格が伸び悩む一方で、ビットコインのネットワーク活動は過去最高水準に迫っている。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "金バブルに黄信号？ゴールドマンが年末予想を500ドル下方修正、ビットコインにも冷や水",
+      "link": "https://cointelegraph.jp/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T17:20:06+09:00",
+      "pub_date_utc": "2026-06-20T08:20:06+00:00",
+      "description": "ゴールドマン・サックスは、金の年末予想を1オンス4,900ドル（約78万8,000円）に改めた。いまの価格からは上値を見込むものの、かつて描いていた強気シナリオには届かない――そんな慎重な見立てである。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ゴールドマン・サックスは、金の年末予想を1オンス4,900ドル（約78万8,000円）に改めた。いまの価格からは上値を見込むものの、かつて描いていた強気シナリオには届かない――そんな慎重な見立てである。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Goldman Sachs"
+      ],
+      "main_entities": [
+        "Goldman Sachs"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "暗号資産は量子コンピューターに破られるのか？アルゴランドが2027年までに本格対策へ",
+      "link": "https://cointelegraph.jp/news/algorand-plans-broad-quantum-resilience-by-2027?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T17:13:55+09:00",
+      "pub_date_utc": "2026-06-20T08:13:55+00:00",
+      "description": "量子コンピューターが暗号技術を突破する――そんな未来の脅威に備え、アルゴランドは耐性を持つ新アカウントとコンセンサスメカニズムの導入に動き出している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "量子コンピューターが暗号技術を突破する――そんな未来の脅威に備え、アルゴランドは耐性を持つ新アカウントとコンセンサスメカニズムの導入に動き出している。",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "USBを挿すだけで危険？暗号資産ウォレットを狙う新型マルウェアにマイクロソフトが警告",
+      "link": "https://cointelegraph.jp/news/microsoft-alerts-users-to-crypto-clipper-windows-malware?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T17:06:51+09:00",
+      "pub_date_utc": "2026-06-20T08:06:51+00:00",
+      "description": "このマルウェアの厄介さは、データを盗むだけではない点にある。リモートコード実行まで組み合わせることで、「金銭目的の窃取ツールを軽量なバックドアへと変貌させている」とマイクロソフトは警鐘を鳴らした。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "このマルウェアの厄介さは、データを盗むだけではない点にある。リモートコード実行まで組み合わせることで、「金銭目的の窃取ツールを軽量なバックドアへと変貌させている」とマイクロソフトは警鐘を鳴らした。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [
+        "Microsoft"
+      ],
+      "main_entities": [
+        "Microsoft"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコインETFで何が変わった？ブラックロックが語る暗号資産投資家の新潮流",
+      "link": "https://cointelegraph.jp/news/blackrocks-ibit-is-pulling-bitcoiners-into-traditional-finance-exec-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:59:45+09:00",
+      "pub_date_utc": "2026-06-20T07:59:45+00:00",
+      "description": "暗号資産、分散型金融、そして伝統金融の融合――ブラックロックはこの流れを「グレート・コンバージェンス（大収斂）」と呼んでいる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "暗号資産、分散型金融、そして伝統金融の融合――ブラックロックはこの流れを「グレート・コンバージェンス（大収斂）」と呼んでいる。",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "BlackRock"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコイン急落、6万ドル割れも視野　AI株に資金流出でBTCは正念場",
+      "link": "https://cointelegraph.jp/markets/bitcoin-decouples-from-tech-stocks-is-60k-btcs-next-stop?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:53:08+09:00",
+      "pub_date_utc": "2026-06-20T07:53:08+00:00",
+      "description": "ビットコインの下落は、投資マネーがAIセクターへ一段と流れ込むなかで加速した。市場では、BTC価格が6万ドル（約960万円）を割り込む可能性も高まりつつある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインの下落は、投資マネーがAIセクターへ一段と流れ込むなかで加速した。市場では、BTC価格が6万ドル（約960万円）を割り込む可能性も高まりつつある。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "銀行預金がステーブルコインに変わる？ カストディアとバンテージ銀行の新トークン構想",
+      "link": "https://cointelegraph.jp/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:46:16+09:00",
+      "pub_date_utc": "2026-06-20T07:46:16+00:00",
+      "description": "銀行が顧客預金を手元に残したまま、従来の銀行インフラとブロックチェーン決済網をつなぐ――。今回提案された新システムは、その“橋渡し役”を狙うものだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "銀行が顧客預金を手元に残したまま、従来の銀行インフラとブロックチェーン決済網をつなぐ――。今回提案された新システムは、その“橋渡し役”を狙うものだ。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "イーサリアムはまだ下がる？取引所にETH流入、先物も冷え込み売り圧力強まる",
+      "link": "https://cointelegraph.jp/markets/ether-below-17k-gains-interest-as-analysts-warn-of-another-selling-wave?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:41:01+09:00",
+      "pub_date_utc": "2026-06-20T07:41:01+00:00",
+      "description": "取引所への流入増、需要の失速、そしてイーサ先物の未決済建玉が31％減少したことは、ETHにもう一段の売り波が押し寄せる可能性を示している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "取引所への流入増、需要の失速、そしてイーサ先物の未決済建玉が31％減少したことは、ETHにもう一段の売り波が押し寄せる可能性を示している。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "「分散型」は本当か マルタ当局、DeFiとDAOに規制のメス",
+      "link": "https://cointelegraph.jp/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:32:23+09:00",
+      "pub_date_utc": "2026-06-20T07:32:23+00:00",
+      "description": "マルタ当局は、ソフトウェアによって運営される組織をめぐる法的枠組みについて、業界から意見を募っている。多くのDeFiプロジェクトは、実態として「完全な分散化」とは言い切れない、というのがその理由だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "マルタ当局は、ソフトウェアによって運営される組織をめぐる法的枠組みについて、業界から意見を募っている。多くのDeFiプロジェクトは、実態として「完全な分散化」とは言い切れない、というのがその理由だ。",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "カナダで「予測市場アプリ」開始へ ウェルスシンプル、カルシ連携で個人投資家に提供",
+      "link": "https://cointelegraph.jp/news/wealthsimple-launches-kalshi-powered-prediction-market-app-for-canadian-investors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:27:19+09:00",
+      "pub_date_utc": "2026-06-20T07:27:19+00:00",
+      "description": "カナダのウェルスシンプルが、カルシ基盤の予測市場アプリ「ウェルスシンプル・プレディクト」を今夏開始する。一方、米国ではCMEがCFTCを提訴するなど、予測市場と暗号資産デリバティブをめぐる規制対立が激化している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "カナダのウェルスシンプルが、カルシ基盤の予測市場アプリ「ウェルスシンプル・プレディクト」を今夏開始する。一方、米国ではCMEがCFTCを提訴するなど、予測市場と暗号資産デリバティブをめぐる規制対立が激化している。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "イーサリアム財団で止まらぬ幹部流出 揺らぐガバナンスと分散化の理想",
+      "link": "https://cointelegraph.jp/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:20:06+09:00",
+      "pub_date_utc": "2026-06-20T07:20:06+00:00",
+      "description": "シャオウェイ・ワン氏の退任で、イーサリアム財団の人材流出はさらに加速した。ガバナンス、分散化、そしてネットワークの将来をめぐる議論に、また火がついている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "シャオウェイ・ワン氏の退任で、イーサリアム財団の人材流出はさらに加速した。ガバナンス、分散化、そしてネットワークの将来をめぐる議論に、また火がついている。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ステーブルコイン規制強化へ 米当局が発行体に顧客本人確認を要求",
+      "link": "https://cointelegraph.jp/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:13:59+09:00",
+      "pub_date_utc": "2026-06-20T07:13:59+00:00",
+      "description": "米政府機関が示した規則案では、ステーブルコイン発行体にも、規制対象の金融会社と同様に、銀行秘密法に基づく顧客本人確認プログラムの要件を課すべきだとしている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "米政府機関が示した規則案では、ステーブルコイン発行体にも、規制対象の金融会社と同様に、銀行秘密法に基づく顧客本人確認プログラムの要件を課すべきだとしている。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "アイルランドが暗号資産に本腰 マネロン・制裁逃れ・贈収賄リスクを7年ぶり評価",
+      "link": "https://cointelegraph.jp/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:07:29+09:00",
+      "pub_date_utc": "2026-06-20T07:07:29+00:00",
+      "description": "アイルランド政府は7年ぶりにデジタル資産に関するリスク評価を公表した。マネーロンダリング、テロ資金供与、制裁違反、そして贈収賄――暗号資産をめぐる“黒い使われ方”への警戒感を、あらためて鮮明にした格好だ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "アイルランド政府は7年ぶりにデジタル資産に関するリスク評価を公表した。マネーロンダリング、テロ資金供与、制裁違反、そして贈収賄――暗号資産をめぐる“黒い使われ方”への警戒感を、あらためて鮮明にした格好だ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコイン採掘企業HIVE、AI向けGPU事業で約354億円契約 年113億円の収益増へ",
+      "link": "https://cointelegraph.jp/news/hive-secures-220m-ai-infrastructure-contract-with-bell-and-cohere?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T16:00:43+09:00",
+      "pub_date_utc": "2026-06-20T07:00:43+00:00",
+      "description": "今回の契約により、同社がAI向け事業を拡大するなかで、年間経常収益は約7000万ドル（約113億円）上積みされる見通しだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "今回の契約により、同社がAI向け事業を拡大するなかで、年間経常収益は約7000万ドル（約113億円）上積みされる見通しだ。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "CMEがCFTCを提訴 暗号資産「無期限先物」はなぜ問題なのか",
+      "link": "https://cointelegraph.jp/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T15:52:23+09:00",
+      "pub_date_utc": "2026-06-20T06:52:23+00:00",
+      "description": "CMEの訴訟は、米連邦規制当局である商品先物取引委員会（CFTC）とマイケル・セリグ委員長を標的にしたものだ。訴状では、CFTCが暗号資産の「先物」を「スワップ」として扱っていると主張しており、これがデリバティブ市場にリスクをもたらすおそれがあると指摘している。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "CMEの訴訟は、米連邦規制当局である商品先物取引委員会（CFTC）とマイケル・セリグ委員長を標的にしたものだ。訴状では、CFTCが暗号資産の「先物」を「スワップ」として扱っていると主張しており、これがデリバティブ市場にリスクをもたらすおそれがあると指摘している。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコイン採掘からAIデータセンターへ IRENに3.4兆円の資金不足",
+      "link": "https://cointelegraph.jp/news/bitcoin-miners-50b-ai-pivot-iren-21b-funding-gap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T15:44:51+09:00",
+      "pub_date_utc": "2026-06-20T06:44:51+00:00",
+      "description": "IRENは、上場ビットコイン採掘企業の中で最大となる211億ドル、約3.4兆円のAIインフラ資金不足を抱えると見込まれている。採掘施設をデータセンターへ転換するには、いかに巨額の資金が必要になるかを浮き彫りにしている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "IRENは、上場ビットコイン採掘企業の中で最大となる211億ドル、約3.4兆円のAIインフラ資金不足を抱えると見込まれている。採掘施設をデータセンターへ転換するには、いかに巨額の資金が必要になるかを浮き彫りにしている。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "スウェーデン版ステーブルコイン「SEKAU」登場 オールユニティがMiCA準拠で本格展開",
+      "link": "https://cointelegraph.jp/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T15:36:42+09:00",
+      "pub_date_utc": "2026-06-20T06:36:42+00:00",
+      "description": "オールユニティが、スウェーデンクローナに裏付けられたステーブルコイン「SEKAU」をローンチした。複数のブロックチェーンにまたがって展開されるこの新通貨は、EUのMiCA規制下で進む同社のステーブルコイン戦略を、さらに一歩押し広げるものとなる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "オールユニティが、スウェーデンクローナに裏付けられたステーブルコイン「SEKAU」をローンチした。複数のブロックチェーンにまたがって展開されるこの新通貨は、EUのMiCA規制下で進む同社のステーブルコイン戦略を、さらに一歩押し広げるものとなる。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコインは買い時か 割安指標点灯もFRBと流動性不足が壁に",
+      "link": "https://cointelegraph.jp/markets/bitcoin-flashes-a-discount-to-ai-stocks-but-hawkish-fed-risk-lingers-bitwise?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T15:29:24+09:00",
+      "pub_date_utc": "2026-06-20T06:29:24+00:00",
+      "description": "ビットワイズのアナリストは、ビットコインが歴史的に見て割安な水準で取引されていると指摘する。ただし、タカ派色をにじませる米連邦準備制度理事会（FRB）のシグナルと、投資マネーを奪い合う流動性競争が、買い手をしばらく様子見に追いやる可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットワイズのアナリストは、ビットコインが歴史的に見て割安な水準で取引されていると指摘する。ただし、タカ派色をにじませる米連邦準備制度理事会（FRB）のシグナルと、投資マネーを奪い合う流動性競争が、買い手をしばらく様子見に追いやる可能性がある。",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "FRB"
+      ],
+      "main_entities": [
+        "FRB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "ビットコインは2026年10月に14万5000ドル？4chan予言が怪しい3つの理由",
+      "link": "https://cointelegraph.jp/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-20T15:19:59+09:00",
+      "pub_date_utc": "2026-06-20T06:19:59+00:00",
+      "description": "SNSで拡散する4chan発のビットコイン予言は、過去のBTC価格を言い当てたようにも見える。だが、後から編集された疑いのある目標価格や、供給量をめぐる不可能な主張が、14万5000ドル（約2,328万円）到達説の信ぴょう性を揺るがしている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "SNSで拡散する4chan発のビットコイン予言は、過去のBTC価格を言い当てたようにも見える。だが、後から編集された疑いのある目標価格や、供給量をめぐる不可能な主張が、14万5000ドル（約2,328万円）到達説の信ぴょう性を揺るがしている。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "イーサリアム財団の元メンバー、ETH開発の資金面のリスクを指摘",
+      "link": "https://coinpost.jp/?p=718644",
+      "pub_date": "2026-06-20T13:45:47+09:00",
+      "pub_date_utc": "2026-06-20T04:45:47+00:00",
+      "description": "イーサリアム財団の元メンバーであるトレントン・ヴァン・エップス氏は、イーサリアム財団に関する自身の考えをXで共有。仮想通貨イーサリアムの開発の資金についてリスクを指摘した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 全国ビジネス企業年金基金、通貨リスク分散目的で仮想通貨投資へ＝報道 リップル『スウェル2026』、XRPLアペックスと初統合　10月ニューヨーク開催予定 googletag.cmd.push(function() { googletag.display('di",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
+      "title": "アニメ壁紙マルウェアに注意、仮想通貨も標的　Steamで数万回DL＝カスペルスキー",
+      "link": "https://coinpost.jp/?p=718630",
+      "pub_date": "2026-06-20T13:30:46+09:00",
+      "pub_date_utc": "2026-06-20T04:30:46+00:00",
+      "description": "カスペルスキーがSteamワークショップで発見したマルウェア入り壁紙について注意喚起した。情報窃盗マルウェアによるゲームアカウント乗っ取りなどが確認されている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 全国ビジネス企業年金基金、通貨リスク分散目的で仮想通貨投資へ＝報道 リップル『スウェル2026』、XRPLアペックスと初統合　10月ニューヨーク開催予定 googletag.cmd.push(function() { googletag.display('di",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-21T11:39:24.658063+09:00"
+    },
+    {
       "title": "アルゴランドが耐量子暗号ロードマップを公開、2026年Q3に主要実装",
       "link": "https://coinpost.jp/?p=718600",
       "pub_date": "2026-06-20T10:40:33+09:00",
@@ -44588,8 +45190,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-20T11:14:15.615142+09:00",
-  "total_count": 2145,
+  "last_updated": "2026-06-21T11:39:24.658063+09:00",
+  "total_count": 2174,
   "sources": [
     "NADA NEWS",
     "CoinPost",
