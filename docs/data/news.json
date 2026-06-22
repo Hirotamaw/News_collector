@@ -1,6 +1,380 @@
 {
   "articles": [
     {
+      "title": "今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】",
+      "link": "https://www.nadanews.com/356400/",
+      "pub_date": "2026-06-22T11:30:00+09:00",
+      "pub_date_utc": "2026-06-22T02:30:00+00:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、現在アメリカの暗号資産業界で最も重要なテーマとなっているCLAR The post 今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】 By Delia Rojo 2026年6月22日11:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、現在アメリカの暗号資産業界で最も重要なテーマとなっているCLARITY法案についてお伝えします。私はここ数週間、ワシントンで進む議論を追い続けていますが、多くの関係者が共通して語る言葉があります。 それは、「もし今夏を逃せば、次の本格的な機会はかなり先になるかもしれない」ということです。 実際、市場では「8月までに方向性が固まらなければ、CLARITY法案",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "香港の仮想通貨投資家、「追随・塩漬け型」が最多　女性比率も高",
+      "link": "https://coinpost.jp/?p=718714",
+      "pub_date": "2026-06-22T10:24:24+09:00",
+      "pub_date_utc": "2026-06-22T01:24:24+00:00",
+      "description": "香港投委会と香港理工大学の追跡研究で、仮想通貨投資家の行動類型4種が判明。最多は「追随・塩漬け型」（33.9％）で18〜29歳と女性比率が高く、市場ムードに流されやすい特徴を持つ。2023年の規制導入後、非合理的行動は全体的に改善傾向。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携 週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ googletag.cmd.push(function",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言",
+      "link": "https://coinpost.jp/?p=718687",
+      "pub_date": "2026-06-22T09:33:33+09:00",
+      "pub_date_utc": "2026-06-22T00:33:33+00:00",
+      "description": "「金持ち父さん貧乏父さん」著者ロバート・キヨサキ氏が、金・銀・ビットコイン・イーサリアムについて、下落からの反転を確認後に買い増す方針を明らかにした。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携 週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ googletag.cmd.push(function",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple",
+        "FRB"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "Base、「Beryl」アップグレードをメインネット実装へ",
+      "link": "https://www.nadanews.com/356391/",
+      "pub_date": "2026-06-22T09:30:00+09:00",
+      "pub_date_utc": "2026-06-22T00:30:00+00:00",
+      "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）が支援するイーサリアム（Ethereum）のレイヤー2チェーン「Base（ベース）」は19日、2回目の The post Base、「Beryl」アップグレードをメインネット実装へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Technology Base、「Beryl」アップグレードをメインネット実装へ By 井上 俊彦 2026年6月22日09:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所Coinbase（コインベース）が支援するイーサリアム（Ethereum）のレイヤー2チェーン「Base（ベース）」は19日、2回目のネットワークアップグレード「Beryl」を6月25日にメインネットに実装すると発表した。テストネットではすでに稼働している。 Berylは3つの主要な変更を含む。第一に、独自のトークン標準「B20」の導入。第二に、Baseからイーサリアムへ資産を引き出す際の待機期間を、一般的な経路で7日から5日に短縮し、資本効率を高める。第三に、実行ク",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Grayscale",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "ビットコイン現物ETF、30日純流出が過去最大　約64億ドル＝ギャラクシー",
+      "link": "https://coinpost.jp/?p=718683",
+      "pub_date": "2026-06-22T08:55:37+09:00",
+      "pub_date_utc": "2026-06-21T23:55:37+00:00",
+      "description": "ギャラクシー・リサーチが6月20日に公表したデータによると、米国のビットコイン現物ETFの直近30日間純流出額が約64億ドルと、ETF承認来で最大規模に達した。累積純流入も630億ドルのピークから約90億ドル減少している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携 週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ googletag.cmd.push(function",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "米ビットコイン現物ETF、過去30日間で63億ドル以上を失う＝Galaxy Research",
+      "link": "https://www.nadanews.com/356399/",
+      "pub_date": "2026-06-22T08:30:00+09:00",
+      "pub_date_utc": "2026-06-21T23:30:00+00:00",
+      "description": "Galaxy Research（ギャラクシー・リサーチ）のデータによると、アメリカのビットコイン（BTC）現物ETF（上場投資信託）は過去30営業日で63億50 The post 米ビットコイン現物ETF、過去30日間で63億ドル以上を失う＝Galaxy Research first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン 米ビットコイン現物ETF、過去30日間で63億ドル以上を失う＝Galaxy Research By 井上 俊彦 2026年6月22日08:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Galaxy Research（ギャラクシー・リサーチ）のデータによると、アメリカのビットコイン（BTC）現物ETF（上場投資信託）は過去30営業日で63億5000万ドル（約1兆160億円、1ドル=160円換算）の純流出を記録した。 2024年1月の上場開始以来で最大の30日間の純流出であり、同社によると流出は日を追うごとに拡大しているとしているという。 背景にはビットコイン価格の下落がある。ビットコインは過去1カ月で17.4%下落した。アメリカのインフレや、米国とイ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "Morgan Stanley",
+        "Galaxy Digital"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下",
+      "link": "https://coinpost.jp/?p=718677",
+      "pub_date": "2026-06-22T08:07:29+09:00",
+      "pub_date_utc": "2026-06-21T23:07:29+00:00",
+      "description": "ギャラクシー・リサーチが6月21日、ビットコインのマイニング難易度がピークから約19.9％低下し、2021年の中国禁止措置以来最大の下落幅に達したと指摘。難易度低下はマイナーがリグを停止していることを示すシグナルとして注目される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携 週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ googletag.cmd.push(function",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "GoMining、ビットコイン決済「GoBTC Pay」公開",
+      "link": "https://www.nadanews.com/356378/",
+      "pub_date": "2026-06-22T08:00:00+09:00",
+      "pub_date_utc": "2026-06-21T23:00:00+00:00",
+      "description": "ビットコイン（BTC）マイニング企業のGoMining（ゴーマイニング）は、企業がビットコイン決済を受け入れやすくするための決済プロトコル「GoBTC Pay」 The post GoMining、ビットコイン決済「GoBTC Pay」公開 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス GoMining、ビットコイン決済「GoBTC Pay」公開 By Shoko Galaviz 2026年6月22日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコイン（BTC）マイニング企業のGoMining（ゴーマイニング）は、企業がビットコイン決済を受け入れやすくするための決済プロトコル「GoBTC Pay」のSDKとAPIを公開した。 これにより、Jack Dorsey（ジャック・ドーシー）氏が共同創業したBlock（ブロック）の決済サービスSquare（スクエア）などと競合する形になる。 ゴーマイニングが強調する違いは、加盟店がビットコインを直接受け取れる点だ。スクエアを含む多くの競合サービスでは、顧客がビットコインで支払っても、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "イーサリアム最大の「サンドイッチ攻撃」ボットが750万ドルを奪われる",
+      "link": "https://www.nadanews.com/356377/",
+      "pub_date": "2026-06-22T07:30:00+09:00",
+      "pub_date_utc": "2026-06-21T22:30:00+00:00",
+      "description": "セキュリティ企業のBlockaid（ブロックエイド）は、イーサリアム上で最も活発なMEV「サンドイッチ攻撃」ボットの一つ「jaredfromsubway.eth The post イーサリアム最大の「サンドイッチ攻撃」ボットが750万ドルを奪われる first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "犯罪・事故",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "犯罪・事故 イーサリアム最大の「サンドイッチ攻撃」ボットが750万ドルを奪われる By 井上 俊彦 2026年6月22日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); セキュリティ企業のBlockaid（ブロックエイド）は、イーサリアム上で最も活発なMEV「サンドイッチ攻撃」ボットの一つ「jaredfromsubway.eth」が6月20日に攻撃を受け、約750万ドル（約12億円、1ドル=160円換算）相当のWETH・USDコイン（USDC）・テザー（USDT）を奪われたとXで報告した。 MEV（Maximal Extractable Value、最大抽出可能価値）ボットは、ブロックチェーン上のトランザクションを監視して大規模な買い注文を差し込み、その後に売",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Tether",
+        "Circle",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "同じオンチェーンデータを見ても、なぜ個人とプロで判断が違うのか──ビットコイン市場の情報格差を読み解く【エックスウィン】",
+      "link": "https://www.nadanews.com/356394/",
+      "pub_date": "2026-06-22T07:15:00+09:00",
+      "pub_date_utc": "2026-06-21T22:15:00+00:00",
+      "description": "● 個人投資家と機関投資家は同じオンチェーンデータを見ていても、重視する指標や解釈方法が大きく異なる。● 個人はアクティブアドレスやクジラ送金など「市場の盛り上 The post 同じオンチェーンデータを見ても、なぜ個人とプロで判断が違うのか──ビットコイン市場の情報格差を読み解く【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン 同じオンチェーンデータを見ても、なぜ個人とプロで判断が違うのか──ビットコイン市場の情報格差を読み解く【エックスウィン】 By エックスウィン 2026年6月22日07:15 .st0 { fill: #374149; } 2026年6月22日07:15 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 個人投資家と機関投資家は同じオンチェーンデータを見ていても、重視する指標や解釈方法が大きく異なる。● 個人はアクティブアドレスやクジラ送金など「市場の盛り上がり」を見る傾向がある一方、プロはMVRV、SOPR、実現時価総額など「投資家のコスト構造」を重視する。● ETF時代の現在は、オンチェーンデータ単独ではなく、ETFフローやデリバティブ市場を含めた総",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "Fidelity"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "Charles Schwab、S&P 500連動のバイナリーオプション準備＝WSJ",
+      "link": "https://www.nadanews.com/356371/",
+      "pub_date": "2026-06-22T07:00:00+09:00",
+      "pub_date_utc": "2026-06-21T22:00:00+00:00",
+      "description": "米証券大手Charles Schwab（チャールズ・シュワブ）が、S&P 500の終値を対象にした「イエス・オア・ノー」型のバイナリーオプション契約を提 The post Charles Schwab、S&P 500連動のバイナリーオプション準備＝WSJ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Charles Schwab、S&P 500連動のバイナリーオプション準備＝WSJ By Shoko Galaviz 2026年6月22日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米証券大手Charles Schwab（チャールズ・シュワブ）が、S&P 500の終値を対象にした「イエス・オア・ノー」型のバイナリーオプション契約を提供する準備を進めていると、Wall Street Journal（ウォール・ストリート・ジャーナル、WSJ）が事情に詳しい関係者の話として報じた。 WSJによると、シュワブはCboe Global Markets（シーボー・グローバル・マーケッツ）と共同で同商品を開発しており、今後数カ月以内に提供を始める計画だという",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "Franklin Templeton、株式配当をビットコインへ再投資するETFを申請",
+      "link": "https://www.nadanews.com/356370/",
+      "pub_date": "2026-06-22T06:30:00+09:00",
+      "pub_date_utc": "2026-06-21T21:30:00+00:00",
+      "description": "資産運用大手のFranklin Templeton（フランクリン・テンプルトン）は、米国株の配当収入をビットコイン（BTC）への投資に転換することを目的とした2 The post Franklin Templeton、株式配当をビットコインへ再投資するETFを申請 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Franklin Templeton、株式配当をビットコインへ再投資するETFを申請 By 井上 俊彦 2026年6月22日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 資産運用大手のFranklin Templeton（フランクリン・テンプルトン）は、米国株の配当収入をビットコイン（BTC）への投資に転換することを目的とした2つのETF（上場投資信託）の設立を申請した。 6月18日にアメリカ証券取引委員会（SEC）へ提出した書類で明らかになった。 申請したのは「Franklin US Equity Bitcoin DRIP Index ETF」と「Franklin US Innovation Bitcoin DRIP Index ETF」。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "Goldman Sachs",
+        "SBI Holdings",
+        "SEC"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "CFTCとSEC、スワップ定義の明確化で意見募集",
+      "link": "https://www.nadanews.com/356368/",
+      "pub_date": "2026-06-22T06:00:00+09:00",
+      "pub_date_utc": "2026-06-21T21:00:00+00:00",
+      "description": "米商品先物取引委員会（CFTC）と米証券取引委員会（SEC）は6月18日、デリバティブ商品の定義や解釈を更新・明確化する取り組みについて、共同でパブリックコメン The post CFTCとSEC、スワップ定義の明確化で意見募集 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 CFTCとSEC、スワップ定義の明確化で意見募集 By Shoko Galaviz 2026年6月22日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米商品先物取引委員会（CFTC）と米証券取引委員会（SEC）は6月18日、デリバティブ商品の定義や解釈を更新・明確化する取り組みについて、共同でパブリックコメントの募集を発表した。 両当局は、現在の規制定義や管轄枠組みが、市場構造や金融商品、取引慣行の変化に適切に対応しているかを検討するため、広範な意見を求めている。コメント募集では、スワップと証券ベース・スワップの定義、ミックスド・スワップの扱い、新興商品、管轄や解釈上の論点、規制上の定義線引きが不明確な分野、代替的なコンプライアンスの可能性など",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "Kraken",
+        "bitFlyer",
+        "bitbank",
+        "Grayscale",
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale",
+      "link": "https://www.nadanews.com/356138/",
+      "pub_date": "2026-06-21T22:20:00+09:00",
+      "pub_date_utc": "2026-06-21T13:20:00+00:00",
+      "description": "暗号資産（仮想通貨）投資会社Grayscale（グレースケール）のリサーチ部門Grayscale Research（グレースケール・リサーチ）は6月16日、レポ The post AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Other Cryptocurrencies",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Other Cryptocurrencies AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale By 井上 俊彦 2026年6月21日22:20 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）投資会社Grayscale（グレースケール）のリサーチ部門Grayscale Research（グレースケール・リサーチ）は6月16日、レポート「Guide to Buying the Dip: Valuing Crypto with Cash Flows（押し目買いの指針：キャッシュフローによる暗号資産の評価）」を公表した。 暗号資産市場は年初来の相場下落局面にあるが、報告書は株式などに使う伝統的な金融モデルをDeFi（分散型金融）トーク",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Aave",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携",
+      "link": "https://coinpost.jp/?p=718670",
+      "pub_date": "2026-06-21T14:50:35+09:00",
+      "pub_date_utc": "2026-06-21T05:50:35+00:00",
+      "description": "コインハブはJR西日本SC開発と契約を締結し、大阪の商業施設「天王寺ミオ」に西日本初の仮想通貨ATMを設置する。現金と仮想通貨の双方向取引が可能で、3000台規模の全国展開を目指す方針。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト 大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携 週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ googletag.cmd.push(function",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ripple",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
       "title": "イーサリアム財団、まさかの資金難か 中核開発に年間48億円必要との警告",
       "link": "https://cointelegraph.jp/news/former-ethereum-foundation-contributor-claims-core-development-funding-crisis?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "pub_date": "2026-06-21T10:57:05+09:00",
@@ -45190,8 +45564,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-21T11:39:24.658063+09:00",
-  "total_count": 2174,
+  "last_updated": "2026-06-22T11:42:36.318885+09:00",
+  "total_count": 2189,
   "sources": [
     "NADA NEWS",
     "CoinPost",
