@@ -1,6 +1,976 @@
 {
   "articles": [
     {
+      "title": "トランプ大統領が量子コンピュータ推進の大統領令に署名、2028年実現目標",
+      "link": "https://coinpost.jp/?p=719000",
+      "pub_date": "2026-06-23T11:02:40+09:00",
+      "pub_date_utc": "2026-06-23T02:02:40+00:00",
+      "description": "トランプ米大統領が22日、量子コンピュータの開発・商用化を加速する大統領令に署名した。科学研究向けの量子コンピュータを2028年までに実現する目標を掲げ、政府システムのポスト量子暗号移行は2030〜31年を目指す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "米上院、FRBのCBDC発行禁止を含む住宅法案を可決",
+      "link": "https://www.nadanews.com/356504/",
+      "pub_date": "2026-06-23T10:54:47+09:00",
+      "pub_date_utc": "2026-06-23T01:54:47+00:00",
+      "description": "米上院は6月22日、米連邦準備制度理事会（FRB）による中央銀行デジタル通貨（CBDC）の発行を2030年末まで禁じる条項を含む住宅価格適正化法案を可決したと、 The post 米上院、FRBのCBDC発行禁止を含む住宅法案を可決 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米上院、FRBのCBDC発行禁止を含む住宅法案を可決 By 廣瀬 優香 2026年6月23日10:54 .st0 { fill: #374149; } 2026年6月23日10:54 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米上院は6月22日、米連邦準備制度理事会（FRB）による中央銀行デジタル通貨（CBDC）の発行を2030年末まで禁じる条項を含む住宅価格適正化法案を可決したと、米CoinDeskが報じた。 Tim Scott（ティム・スコット）上院銀行委員長やElizabeth Warren（エリザベス・ウォーレン）同委員会筆頭理事ら超党派の議員グループは先週、住宅価格の適正化を狙い、機関投資家による既存の一戸建て住宅の賃貸目的での買い占めを禁じ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "FRB",
+        "ECB"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ビットコインマイナーHIVE Digital、自社GPUクラスターでH100同等性能を実証",
+      "link": "https://coinpost.jp/?p=718983",
+      "pub_date": "2026-06-23T10:45:14+09:00",
+      "pub_date_utc": "2026-06-23T01:45:14+00:00",
+      "description": "ビットコインマイナーからAIインフラ企業へと転換するHive Digital Technologiesの株価が一時上昇。コロンビア大学の研究チームがパラグアイのGPUクラスターで大規模言語モデルの効率化実験を行い、その成果がNeurIPSへ投稿された。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "NVIDIA",
+        "HIVE Digital"
+      ],
+      "main_entities": [
+        "HIVE Digital"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "イーサリアム、バリデーター報酬の一部を開発資金に充当する提案が物議",
+      "link": "https://coinpost.jp/?p=718963",
+      "pub_date": "2026-06-23T10:15:17+09:00",
+      "pub_date_utc": "2026-06-23T01:15:17+00:00",
+      "description": "イーサリアム開発者がバリデーター報酬の一部を公共財開発に充当する仕組みを提案。フリーライダー問題への対処を狙うも、コミュニティから反発の声も上がり議論を呼んでいる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "XRPは7月に爆上げくるか「デッドクロス」なのに25％反発、8ドル到達説まで浮上",
+      "link": "https://cointelegraph.jp/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-23T09:59:10+09:00",
+      "pub_date_utc": "2026-06-23T00:59:10+00:00",
+      "description": "XRPに「デッドクロス」が迫っている。通常なら弱気シグナルと受け止められる局面だが、清算データとあわせて見ると、短期的には25％前後の反発ラリーにつながる可能性が浮上している。さらに、あるアナリストは長期的に8ドル、日本円で約1293円方向への回復も視野に入れている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "XRPに「デッドクロス」が迫っている。通常なら弱気シグナルと受け止められる局面だが、清算データとあわせて見ると、短期的には25％前後の反発ラリーにつながる可能性が浮上している。さらに、あるアナリストは長期的に8ドル、日本円で約1293円方向への回復も視野に入れている。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ソニック崩壊危機？Sトークン97％暴落、アンドレ・クロンジェら元幹部3人が一斉退任",
+      "link": "https://cointelegraph.jp/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-23T09:51:21+09:00",
+      "pub_date_utc": "2026-06-23T00:51:21+00:00",
+      "description": "ソニック・ラボでは金曜日、アンドレ・クロンジェ氏、マイケル・コング氏、デイビッド・リチャードソン氏の3人が取締役会を去った。一方、新CEOにはマット・ヴィッサー氏が就任。2月に辞任したミッチェル・デメター氏の後任として、沈むSトークンの立て直しを託されることになる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ソニック・ラボでは金曜日、アンドレ・クロンジェ氏、マイケル・コング氏、デイビッド・リチャードソン氏の3人が取締役会を去った。一方、新CEOにはマット・ヴィッサー氏が就任。2月に辞任したミッチェル・デメター氏の後任として、沈むSトークンの立て直しを託されることになる。",
+      "summary_error": true,
+      "category": "イベント・人事",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性",
+      "link": "https://coinpost.jp/?p=718924",
+      "pub_date": "2026-06-23T09:45:09+09:00",
+      "pub_date_utc": "2026-06-23T00:45:09+00:00",
+      "description": "グレースケールは22日、FRBが利上げを見送った場合にビットコイン価格が米株式市場に追いつく可能性があると指摘した。イラン戦争開始後の価格乖離を背景に金利上昇懸念があるとし、ビットコインは現水準で割安と分析。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale",
+        "FRB"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ビットコイン現物ETF、6週連続で資金流出　過去最長の記録更新",
+      "link": "https://coinpost.jp/?p=718961",
+      "pub_date": "2026-06-23T09:25:10+09:00",
+      "pub_date_utc": "2026-06-23T00:25:10+00:00",
+      "description": "SoSoValueのデータによると、6月18日までの週に米現物ビットコインETFから約2億2680万ドルが流出し、6週連続の流出を記録。過去最長の連続流出ストリークとなる一方、流出額は6月第1週の17億2000万ドルから大幅に縮小しており、アナリストは売り圧力の収束を指摘する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "MEXC、SpaceX関連トークンの応募倍率が15.5倍に",
+      "link": "https://coinpost.jp/?p=718115",
+      "pub_date": "2026-06-23T09:00:21+09:00",
+      "pub_date_utc": "2026-06-23T00:00:21+00:00",
+      "description": "海外の仮想通貨取引所MEXCが2026年5月の月次ハイライトを公表。SpaceX関連トークン「SPACEX（PRE）」の販売では応募倍率が15.5倍に達した。TradFi先物は前月比21％増（米国株先物85％増）、新規トークンの資金はRWA・AIへ推移したと報告した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Kraken",
+        "Circle",
+        "Tesla",
+        "NVIDIA"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "Franklin Templeton、暗号資産専門部門を設立",
+      "link": "https://www.nadanews.com/356485/",
+      "pub_date": "2026-06-23T09:00:00+09:00",
+      "pub_date_utc": "2026-06-23T00:00:00+00:00",
+      "description": "資産運用大手のFranklin Templeton（フランクリン・テンプルトン）は6月22日、暗号資産（仮想通貨）運用会社250 Digital（250デジタル The post Franklin Templeton、暗号資産専門部門を設立 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Franklin Templeton、暗号資産専門部門を設立 By 井上 俊彦 2026年6月23日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 資産運用大手のFranklin Templeton（フランクリン・テンプルトン）は6月22日、暗号資産（仮想通貨）運用会社250 Digital（250デジタル）の買収完了を発表した。 これに伴い、デジタル資産のアクティブ運用に特化した専門部門「Franklin Crypto（フランクリン・クリプト）」を正式に設立した。 今回の買収には、250 Digitalの運用チームとCoinFund（コインファンド）が従来運用していた流動性の高い暗号資産戦略が含まれる。 新部門のFranklin Cryptoは、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "NYSE親会社ICEと仮想通貨取引所OKX、トークン化株式取引拡大などを計画　次世代の金融インフラ構築へ",
+      "link": "https://coinpost.jp/?p=718945",
+      "pub_date": "2026-06-23T08:30:32+09:00",
+      "pub_date_utc": "2026-06-22T23:30:32+00:00",
+      "description": "NYSE親会社のICEは、仮想通貨取引所OKXと新たな共同事業を行う計画を発表。トークン化した金融商品やデジタルネイティブの金融商品のための次世代のインフラを構築する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "Enso、RWAアプリをリリース──米国株などのトークン化資産の取引を提供",
+      "link": "https://www.nadanews.com/356480/",
+      "pub_date": "2026-06-23T08:30:00+09:00",
+      "pub_date_utc": "2026-06-22T23:30:00+00:00",
+      "description": "スイスを拠点とするWeb3開発プラットフォームのEnso（エンソ）は6月22日、米国株などのトークン化資産にアクセスできるRWA（現実資産）アプリをリリースした The post Enso、RWAアプリをリリース──米国株などのトークン化資産の取引を提供 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Tokenization",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Tokenization Enso、RWAアプリをリリース──米国株などのトークン化資産の取引を提供 By 井上 俊彦 2026年6月23日08:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); スイスを拠点とするWeb3開発プラットフォームのEnso（エンソ）は6月22日、米国株などのトークン化資産にアクセスできるRWA（現実資産）アプリをリリースした。xStocks（エックスストックス）、Ondo Finance（オンド・ファイナンス）などと連携する。 ユーザーはEnsoの実行レイヤーを介して、トークン化された株式やETF（上場投資信託）、債券、コモディティ、ステーブルコインにアクセスできる。 発行体やチェーンの違いを意識する必要はなく、利用したい資産を選べばE",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Solana",
+        "Sui",
+        "Tesla",
+        "Microsoft",
+        "Google",
+        "NVIDIA"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "フランクリン・テンプルトン、仮想通貨専門部門を正式設立",
+      "link": "https://coinpost.jp/?p=718925",
+      "pub_date": "2026-06-23T08:10:11+09:00",
+      "pub_date_utc": "2026-06-22T23:10:11+00:00",
+      "description": "フランクリン・テンプルトンは22日、『250デジタル』の買収を完了し、機関投資家向け仮想通貨アクティブ運用部門フランクリン・クリプトを正式に設立した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "Bitmine、5万2203ETHを購入──総保有資産は107億ドルに",
+      "link": "https://www.nadanews.com/356472/",
+      "pub_date": "2026-06-23T08:00:00+09:00",
+      "pub_date_utc": "2026-06-22T23:00:00+00:00",
+      "description": "イーサリアム（ETH）財務企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は6月22日、過去1週 The post Bitmine、5万2203ETHを購入──総保有資産は107億ドルに first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Ethereum",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ethereum Bitmine、5万2203ETHを購入──総保有資産は107億ドルに By 井上 俊彦 2026年6月23日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イーサリアム（ETH）財務企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は6月22日、過去1週間で5万2203ETHを取得したと発表した。 これにより保有量は567万2956ETHに達し、暗号資産・現金・投資資産を合わせた総資産は107億ドル（約1兆7120億円、1ドル=160円換算）となった。 6月21日時点で、保有ETHはETH供給量（1億2070万枚）の4.7%に相当する。 総資産には、1ETH＝1733ドル換算の",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "Strategy、3週連続ビットコイン買い増し──保有総数は84万7363BTCに",
+      "link": "https://www.nadanews.com/356468/",
+      "pub_date": "2026-06-23T07:30:00+09:00",
+      "pub_date_utc": "2026-06-22T22:30:00+00:00",
+      "description": "ビットコイン（BTC）財務企業のStrategy（ストラテジー）は6月22日、アメリカ証券取引委員会（SEC）へ提出した8-K報告書で、6月15日から21日の1 The post Strategy、3週連続ビットコイン買い増し──保有総数は84万7363BTCに first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Strategy、3週連続ビットコイン買い増し──保有総数は84万7363BTCに By 井上 俊彦 2026年6月23日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ビットコイン（BTC）財務企業のStrategy（ストラテジー）は6月22日、アメリカ証券取引委員会（SEC）へ提出した8-K報告書で、6月15日から21日の1週間で520BTCを3490万ドル（約56億円、1ドル=160円換算）で取得したことを公表した。3週連続の買い増しとなる。 購入価格は1BTCあたり平均6万7068ドルで、保有総数は84万7363BTCに達した。累計購入額は641億ドル（約10兆2560億円）、平均取得コストは1BTCあたり7万5651ドルとなり、含み損",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "MicroStrategy",
+        "SEC"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
+      "link": "https://www.nadanews.com/356475/",
+      "pub_date": "2026-06-23T07:21:15+09:00",
+      "pub_date_utc": "2026-06-22T22:21:15+00:00",
+      "description": "● 日本では暗号資産規制を資金決済法から金融商品取引法（金商法）へ移行する法改正が進んでおり、暗号資産は「決済手段」から「金融商品」へと位置付けが大きく変わろう The post ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】 By エックスウィン 2026年6月23日07:21 .st0 { fill: #374149; } 2026年6月23日07:21 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 日本では暗号資産規制を資金決済法から金融商品取引法（金商法）へ移行する法改正が進んでおり、暗号資産は「決済手段」から「金融商品」へと位置付けが大きく変わろうとしている。● 情報開示、不公正取引規制、インサイダー取引規制などが導入されることで、市場の透明性向上と機関投資家の参入促進が期待される。● 一方でDeFiやDEXについては制度設計が継続検討段階にあり、今後の制度整備次第で日本の",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "21シェアーズのHYPE現物ETF、ナスダックでオプション取引開始",
+      "link": "https://coinpost.jp/?p=718926",
+      "pub_date": "2026-06-23T07:05:13+09:00",
+      "pub_date_utc": "2026-06-22T22:05:13+00:00",
+      "description": "21シェアーズのハイパーリキッド現物ETF「THYP」のオプション取引が6月18日にナスダックで開始した。月次・週次の両オプションを提供する設計で、競合のHYPE現物ETF3銘柄の中で唯一の対応となる。",
+      "category_raw": "ハイパーリキッド（HYPE）ニュース・最新情報一覧",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Hyperliquid",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "MoneyGram、ソラナのバリデーターに──ステーブルコイン決済インフラ構築を加速",
+      "link": "https://www.nadanews.com/356464/",
+      "pub_date": "2026-06-23T07:00:00+09:00",
+      "pub_date_utc": "2026-06-22T22:00:00+00:00",
+      "description": "国際送金大手MoneyGram（マネーグラム）は、ソラナブロックチェーンのバリデーターになったと発表した。 ステーブルコインを軸にした決済インフラの構築を進める The post MoneyGram、ソラナのバリデーターに──ステーブルコイン決済インフラ構築を加速 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Industries",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Industries MoneyGram、ソラナのバリデーターに──ステーブルコイン決済インフラ構築を加速 By Shoko Galaviz 2026年6月23日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 国際送金大手MoneyGram（マネーグラム）は、ソラナブロックチェーンのバリデーターになったと発表した。 ステーブルコインを軸にした決済インフラの構築を進める中で、暗号資産（仮想通貨）ネットワークへの関与をさらに深める動きとなる。 マネーグラムはバリデーターとして、ソラナのプルーフ・オブ・ステーク（PoS）ネットワークに参加する。 同社のLuke Tuttle（ルーク・タトル）最高製品・技術責任者は、バリデーター運用により、マネーグラムはソラナのコン",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "マネーグラムがソラナのバリデーターに参加、韓国トスバンクも海外送金の実証実験へ",
+      "link": "https://coinpost.jp/?p=718927",
+      "pub_date": "2026-06-23T06:50:15+09:00",
+      "pub_date_utc": "2026-06-22T21:50:15+00:00",
+      "description": "米送金大手のマネーグラムが22日、ソラナのバリデーターとして稼働を開始した。韓国のトスバンクも同日、ソラナ財団とブロックチェーン基盤の海外送金インフラ構築に向けた覚書を締結したと発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "元イーサリアム財団研究者がEthlabs設立──Bitmine、SharpLink、Joe Lubin氏が支援",
+      "link": "https://www.nadanews.com/356461/",
+      "pub_date": "2026-06-23T06:30:00+09:00",
+      "pub_date_utc": "2026-06-22T21:30:00+00:00",
+      "description": "イーサリアムの成長に向けた新たな非営利研究開発組織「Ethlabs（イーサラボ）」が立ち上がった。 プレスリリースによると、同組織はEthereum Found The post 元イーサリアム財団研究者がEthlabs設立──Bitmine、SharpLink、Joe Lubin氏が支援 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Industries",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Industries 元イーサリアム財団研究者がEthlabs設立──Bitmine、SharpLink、Joe Lubin氏が支援 By Shoko Galaviz 2026年6月23日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イーサリアムの成長に向けた新たな非営利研究開発組織「Ethlabs（イーサラボ）」が立ち上がった。 プレスリリースによると、同組織はEthereum Foundation（イーサリアム財団）の元シニア研究者5人が共同創設し、イーサリアム共同創設者のJoe Lubin（ジョー・ルービン）氏、イーサリアム（ETH）トレジャリー企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "イーサリアム財団元研究者5名が『エスラボ』設立、ビットマインらが出資し機関対応研究を推進",
+      "link": "https://coinpost.jp/?p=718928",
+      "pub_date": "2026-06-23T06:20:18+09:00",
+      "pub_date_utc": "2026-06-22T21:20:18+00:00",
+      "description": "元イーサリアム財団の上級研究者5名が非営利研究開発組織「エスラボ」を設立した。ビットマインやシャープリンクなどETH大口保有企業の支援を受け、機関投資家のオンチェーン移行に向けたプロトコル研究を推進する方針だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Ethereum Foundation",
+        "ConsenSys"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "暗号資産業界団体、マイニング・ステーキング課税明確化法案の無修正成立を要請",
+      "link": "https://www.nadanews.com/356459/",
+      "pub_date": "2026-06-23T06:00:00+09:00",
+      "pub_date_utc": "2026-06-22T21:00:00+00:00",
+      "description": "暗号資産（仮想通貨）業界団体の連合が、マイニングとステーキング報酬の課税時期を明確化する法案「Tax Clarity for Mining and Stakin The post 暗号資産業界団体、マイニング・ステーキング課税明確化法案の無修正成立を要請 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 暗号資産業界団体、マイニング・ステーキング課税明確化法案の無修正成立を要請 By Shoko Galaviz 2026年6月23日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）業界団体の連合が、マイニングとステーキング報酬の課税時期を明確化する法案「Tax Clarity for Mining and Staking Act（H.R. 9175）」について、修正せずに成立させるよう米議会に求めた。 Blockchain Association（ブロックチェーン・アソシエーション）、Crypto Council for Innovation（クリプト・カウンシル・フォー・イノベーション）、The Digital Chamber",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "米仮想通貨業界3団体、マイニング・ステーキング課税法案の無修正成立を要求",
+      "link": "https://coinpost.jp/?p=718929",
+      "pub_date": "2026-06-23T05:55:19+09:00",
+      "pub_date_utc": "2026-06-22T20:55:19+00:00",
+      "description": "米仮想通貨業界3団体が6月21日、マイニング・ステーキング報酬の課税を売却時まで繰り延べる法案について、修正なしで通過させるよう下院歳入委員会に要求した。民主党が提案する5年間の課税猶予上限には反対している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ビットマイン、1週間で約5.2万ETHを追加取得　総保有量567万ETHに",
+      "link": "https://coinpost.jp/?p=718923",
+      "pub_date": "2026-06-23T05:30:36+09:00",
+      "pub_date_utc": "2026-06-22T20:30:36+00:00",
+      "description": "米イーサリアム・トレジャリー企業ビットマインは21日、ETH保有量が567万2,956トークンに達したと発表した。前週比で約5万2,202ETHを追加取得し、総供給量に占める保有比率は4.7%に拡大した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "【6/22話題】イーサL2「Taiko」でチェーン状態検証機構の侵害、フェンタニル不正輸出組織が日本拠点で暗号資産詐欺に関与かなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/585448",
+      "pub_date": "2026-06-22T21:30:41+09:00",
+      "pub_date_utc": "2026-06-22T12:30:41+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース イーサL2「Taiko」でチェーン状態検証機構の侵害、全ブリッジからの資金引き出し勧告 イーサリアム著名MEVボット「JaredFromSubway」が約750万ドル被害、トークン承認悪用の攻撃受ける イーサL2のアズテック、旧インフラで約216",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "Circle",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ストラテジーが3週連続でビットコイン買い増し実施、BTC累計保有額8.8兆円相当",
+      "link": "https://coinpost.jp/?p=718906",
+      "pub_date": "2026-06-22T21:15:38+09:00",
+      "pub_date_utc": "2026-06-22T12:15:38+00:00",
+      "description": "ビットコイントレジャリー企業最大手のストラテジーが22日、3週連続となるビットコインの買い増しを発表した。今週は520BTCを約3,490万ドルで取得し、累計保有量は847,363BTCに達した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "LINE上のステーブルコインウォレット「Unifi」がミニアプリに──個別アプリ不要で利用可能",
+      "link": "https://www.nadanews.com/356449/",
+      "pub_date": "2026-06-22T21:05:50+09:00",
+      "pub_date_utc": "2026-06-22T12:05:50+00:00",
+      "description": "LINE NEXTは6月22日、LINEアプリ上で利用できるステーブルコイン基盤のフィンテックサービス「Unifi mini」を、日本国内向けに提供開始したと発 The post LINE上のステーブルコインウォレット「Unifi」がミニアプリに──個別アプリ不要で利用可能 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス LINE上のステーブルコインウォレット「Unifi」がミニアプリに──個別アプリ不要で利用可能 By 平木 昌宏 2026年6月22日21:05 .st0 { fill: #374149; } 2026年6月22日21:05 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); LINE NEXTは6月22日、LINEアプリ上で利用できるステーブルコイン基盤のフィンテックサービス「Unifi mini」を、日本国内向けに提供開始したと発表した。 Unifi miniは、LINEアプリ内で検索して使える「LINEミニアプリ」として提供される。 ユーザーは個別アプリをインストールすることなく、普段使っているLINEアカウントでログインし、JPYCなどのデジタル資産を受け",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "パンケーキスワップのOLPC/LABUBUプールで約110万ドル被害、OLPCトークン機能悪用か",
+      "link": "https://www.neweconomy.jp/posts/585206",
+      "pub_date": "2026-06-22T18:27:20+09:00",
+      "pub_date_utc": "2026-06-22T09:27:20+00:00",
+      "description": "パンケーキスワップ上の特定流動性プールで約110万ドル流出 BNBチェーン（BNB Chain）上の分散型取引所（DEX）パンケーキスワップ（PancakeSwap）上に展開された「OLPC/LABUBU」ペアの流動性プ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "パンケーキスワップ上の特定流動性プールで約110万ドル流出 BNBチェーン（BNB Chain）上の分散型取引所（DEX）パンケーキスワップ（PancakeSwap）上に展開された「OLPC/LABUBU」ペアの流動性プールが攻撃を受け、約110万ドル（約1.77億円）の被害が発生した。オンチェーン分析企業ペックシールド（PeckShield）が6月20日に報告した。 ペックシールドによると、攻撃者は流出資金をイーサリアム（Ethereum）へブリッジし、633.4ETHをトルネードキャッシュ（Tornado Cash）へ入金したという。 パンケーキスワップ公式Xアカウントは同日、初期調査の結果として同社のスマートコントラクトに問題は確認されていないと発表した。同チームは現在も調査を継続しているという。 セキュリティ企業エックスヴァル（ExVul）は、同社Xアカウントで今回の攻撃について、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "フランクリンテンプルトン、株式配当をビットコイン関連投資に再投資する指数連動ETF2本を申請",
+      "link": "https://www.neweconomy.jp/posts/585201",
+      "pub_date": "2026-06-22T18:23:04+09:00",
+      "pub_date_utc": "2026-06-22T09:23:04+00:00",
+      "description": "株式配当をBTCに再投資する指数連動ETFが2本申請 米大手資産運用会社フランクリン・テンプルトン（Franklin Templeton）系のフランクリン・テンプルトンETFトラスト（Franklin Templeton",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "株式配当をBTCに再投資する指数連動ETFが2本申請 米大手資産運用会社フランクリン・テンプルトン（Franklin Templeton）系のフランクリン・テンプルトンETFトラスト（Franklin Templeton ETF Trust）が、株式配当をビットコイン（BTC）配分に再投資する指数連動ETF（上場投資信託）2本に関するフォームN-1A（Form N-1A）の事後効力発生修正届出書を、米SEC（証券取引委員会）へ6月18日付けで提出した。 各ETFの名称は「Franklin US Equity Bitcoin DRIP Index ETF」と、「Franklin US Innovation Bitcoin DRIP Index ETF」だ。各ETFは手数料・費用控除前で、それぞれの対象指数に連動する投資成果を目指す。なお、各ETFのティッカーシンボルや上場先の取引所欄は空欄と",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Kraken",
+        "SEC"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "LINEミニアプリ版ステーブルコイン基盤サービス「Unifi mini」、LINE NEXTが日本で提供開始",
+      "link": "https://www.neweconomy.jp/posts/584979",
+      "pub_date": "2026-06-22T18:10:59+09:00",
+      "pub_date_utc": "2026-06-22T09:10:59+00:00",
+      "description": "Unifi miniが日本で提供開始 ラインネクスト（LINE NEXT）が、ステーブルコイン基盤のフィンテックサービス「ユニファイミニ（Unifi mini）」をLINEミニアプリ（MINI App）として日本国内向け",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Unifi miniが日本で提供開始 ラインネクスト（LINE NEXT）が、ステーブルコイン基盤のフィンテックサービス「ユニファイミニ（Unifi mini）」をLINEミニアプリ（MINI App）として日本国内向けにリリースしたと6月22日に発表した。 ラインネクストは、LINEヤフーグループの米国法人で、グローバルなWeb3エコシステムの構築を目指す企業。またLINEミニアプリは、日本国内で約1億の月間アクティブユーザー数（MAU）を抱えるLINEアプリ上で提供されるサービスだ。 ラインネクストでは、LINEアプリ上で利用可能なノンカストディアル（自己管理型）ウォレット「ユニファイ（Unifi）」を別途提供している。同ウォレットの提供地域はグローバルで、LINEアカウントなどのソーシャルアカウントだけで即座に利用開始できる。 今回リリースされたユニファイミニは、ユニファイと同じく、",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "JPYC"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "イーサL2「Taiko」でチェーン状態検証機構の侵害、全ブリッジからの資金引き出し勧告",
+      "link": "https://www.neweconomy.jp/posts/585158",
+      "pub_date": "2026-06-22T16:45:20+09:00",
+      "pub_date_utc": "2026-06-22T07:45:20+00:00",
+      "description": "Taikoが全ブリッジからの資金引き出し呼びかけ イーサリアム（Ethereum）向けレイヤー2ネットワーク「タイコ（Taiko）」で、チェーン状態検証メカニズムの侵害が確認された。同チェーン公式Xアカウントが6月22日",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Taikoが全ブリッジからの資金引き出し呼びかけ イーサリアム（Ethereum）向けレイヤー2ネットワーク「タイコ（Taiko）」で、チェーン状態検証メカニズムの侵害が確認された。同チェーン公式Xアカウントが6月22日に発表した。 公式Xアカウントは、この影響により、タイコ上に展開されているすべてのブリッジのセキュリティ前提が信頼できなくなったと説明。ユーザーに対し、タイコ上のすべてのブリッジから直ちに資金を引き出すよう呼びかけた。また中央集権型取引所（CEX）に対しては、公式の追加通知があるまでTAIKOの入金を停止するよう要請している。 オンチェーンセキュリティ企業ブロックエイド（Blockaid）は同日、タイコブリッジ（Taiko Bridge）の資産保管コントラクト「ERC20ボールト（ERC20 Vault）」を標的とした攻撃を検知したと報告した。ブロックエイドは被害額を100",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "3〜9ヶ月以内にイーサリアムのコア開発資金が危機か、元財団貢献者が警告",
+      "link": "https://www.neweconomy.jp/posts/584964",
+      "pub_date": "2026-06-22T15:52:34+09:00",
+      "pub_date_utc": "2026-06-22T06:52:34+00:00",
+      "description": "コア開発維持に年間約3,000万ドル イーサリアム財団（Ethereum Foundation：EF）の元コントリビューターであるトレント・ヴァン・エップス（Trent Van Epps）氏が、イーサリアム（Ethere",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "コア開発維持に年間約3,000万ドル イーサリアム財団（Ethereum Foundation：EF）の元コントリビューターであるトレント・ヴァン・エップス（Trent Van Epps）氏が、イーサリアム（Ethereum）のコア開発を支える資金基盤に構造的な課題があるとして、今後3〜9カ月以内に「ゆっくりと進行する資金危機（slow-burning funding crisis）」に直面するリスクがあるとの見解を6月18日に示した。 同氏は「Succession After Subtraction」と題した論考を公開。2021年5月から2026年4月までEFに在籍し、コア開発の調整やプロトコル・ギルド（Protocol Guild）を通じた資金提供、イーサリアムの政治経済研究などに携わってきた立場から、イーサリアムエコシステムが直面する制度的課題について論じた。 ヴァン・エップス氏は、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "全国ビジネス企業年金基金、2026年度に資産の1%を暗号資産へ＝報道",
+      "link": "https://www.neweconomy.jp/posts/584907",
+      "pub_date": "2026-06-22T15:46:53+09:00",
+      "pub_date_utc": "2026-06-22T06:46:53+00:00",
+      "description": "全国ビジネス企業年金基金がポートフォリオに暗号資産1％割当へ 岡山市に拠点を置く全国ビジネス企業年金基金が、2026年度内にも運用資産の約1%を暗号資産（仮想通貨）に振り向ける方針だと、「日本経済新聞」が6月18日に報じ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "全国ビジネス企業年金基金がポートフォリオに暗号資産1％割当へ 岡山市に拠点を置く全国ビジネス企業年金基金が、2026年度内にも運用資産の約1%を暗号資産（仮想通貨）に振り向ける方針だと、「日本経済新聞」が6月18日に報じた。 報道によると同年金基金は、大手ヘッジファンド運用による、複数の暗号資産を組み入れるパッシブ型ファンドに投資するとのこと。目的は通貨リスクの分散だという。なお同基金には、約1,200の中小企業が加入しているとのことだ。 同基金の2025年度の運用資産比率は、円80%、ドル15%、その他通貨5%だったという。2026年度は円を70%に減らし、新たにドル以外の先進国通貨の枠を10%分設けるとのこと。残る5%は、新興国通貨、金、暗号資産などで構成される。このうち暗号資産の比率は約1%になる見通しだ。 なお報道ベースでは、同基金の運用資産は約213億円で、1%の暗号資産配分は約",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "コインベース・プレミアム指数がマイナス圏　機関需要の不在続く＝アナリスト",
+      "link": "https://coinpost.jp/?p=718843",
+      "pub_date": "2026-06-22T15:46:34+09:00",
+      "pub_date_utc": "2026-06-22T06:46:34+00:00",
+      "description": "オンチェーン分析者のDarkfost氏がコインベース・プレミアム指数を解説。同指数は2025年12月の高値圏以降マイナス推移が続き、機関投資家の買い需要が不在の状態を示す。機関がリテールと異なる行動原理をとる理由を読む。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Binance"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ビットコイン市場、米イラン停戦合意で上昇もFOMCでのタカ派姿勢やSTRC急落による需給不安から下落へ（仮想通貨市場レポート 6/22 号）",
+      "link": "https://www.neweconomy.jp/features/sbivct/584803",
+      "pub_date": "2026-06-22T15:28:26+09:00",
+      "pub_date_utc": "2026-06-22T06:28:26+00:00",
+      "description": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 6/14~6/20週のサマリー 米－イランの暫定合意が成立し両国首脳が覚書に署名 ウォーシュ新FRB議長就任後",
+      "category_raw": "BTC",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 6/14~6/20週のサマリー 米－イランの暫定合意が成立し両国首脳が覚書に署名 ウォーシュ新FRB議長就任後初めてのFOMC開催、タカ派姿勢を示す Strategy社の優先株STRCが急落、同社のビットコイン購入ペース鈍化と追加売却リスクへの警戒広がる 暗号資産市場概況 6/14～6/20週におけるBTC/JPYの週足終値は前週比▲0.11%の10,318,850円、ETH/JPYの週足終値は同+3.52%の279,710円（※終値は6/20の当社現物EOD［6/21 6:59:59］レートMid値）。 先週の暗号資産市場は、週前半は米－イラン停戦合意を受けたリスクオン相場で上昇したものの、週後半はFOMCでのタカ派姿勢やSTRC急落による需給不安から下落へと転じた。 週前半は中",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "SBI VC Trade",
+        "FRB"
+      ],
+      "main_entities": [
+        "SBI VC Trade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "モルガンスタンレー、イーサリアム（ETH）・ソラナ（SOL）の現物ETFのS1修正第2弾を提出",
+      "link": "https://www.neweconomy.jp/posts/584895",
+      "pub_date": "2026-06-22T15:25:53+09:00",
+      "pub_date_utc": "2026-06-22T06:25:53+00:00",
+      "description": "Morgan StanleyがETHとSOLの現物ETF修正書を提出 米金融大手モルガンスタンレー（Morgan Stanley）が、暗号資産（仮想通貨）イーサリアム（ETH）とソラナ（SOL）を対象とする現物ETF（上",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Morgan StanleyがETHとSOLの現物ETF修正書を提出 米金融大手モルガンスタンレー（Morgan Stanley）が、暗号資産（仮想通貨）イーサリアム（ETH）とソラナ（SOL）を対象とする現物ETF（上場投資信託）2銘柄の登録届出書「フォームS-1（Form S-1）」の修正書類を、それぞれ米SEC（証券取引委員会）へ6月18日付で提出した。 今回のモルガンスタンレーによる、両ETFの修正書類の提出は第2弾にあたる。第2弾では5月20日付の修正第1弾と同じく、各ETFの名称は「Morgan Stanley Ethereum Trust」と「Morgan Stanley Solana Trust」だ。 また各ETFは、それぞれ米NYSEアーカ（NYSE Arca）への上場が見込まれており、ティッカーシンボルはETH現物ETFが「MSSE」、SOL現物ETFが「MSOL」とさ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Solana",
+        "Morgan Stanley",
+        "SEC"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "イーサリアムL2タイコ、ブリッジ侵害　ブロック生成停止し出金勧告",
+      "link": "https://coinpost.jp/?p=718829",
+      "pub_date": "2026-06-22T15:17:56+09:00",
+      "pub_date_utc": "2026-06-22T06:17:56+00:00",
+      "description": "イーサリアムL2のタイコが、チェーン状態検証機構の侵害を確認。全ブリッジの安全性前提が崩れたとして資金引き出しを緊急勧告。PeckShieldは被害額を約170万ドルと推計、事態は収束へ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言 ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下 ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導 googletag.cmd.push(function() { googletag.display('div-gp",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "中国、越境デジタル人民元決済網を拡大、26金融機関が新プラットフォーム参加＝報道",
+      "link": "https://www.neweconomy.jp/posts/584783",
+      "pub_date": "2026-06-22T14:39:05+09:00",
+      "pub_date_utc": "2026-06-22T05:39:05+00:00",
+      "description": "中国が越境デジタル人民元決済網を拡大 中国が、越境デジタル人民元（e-CNY）決済プラットフォームに国内外の金融機関26社を参加させたと、香港紙「サウス・チャイナ・モーニング・ポスト（South China Mornin",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "中国が越境デジタル人民元決済網を拡大 中国が、越境デジタル人民元（e-CNY）決済プラットフォームに国内外の金融機関26社を参加させたと、香港紙「サウス・チャイナ・モーニング・ポスト（South China Morning Post：SCMP）」が6月17日に報じた。 報道によると、参加機関は中国人民銀行（PBOC）が管理する「クロスボーダーe-CNYトランスファー・サービス（Cross-border e-CNY Transfer Services：CBETS）」に直接参加者として加わるという。 CBETSは、外国の中央銀行や海外金融機関との24時間体制のデジタル決済接続を支援するプラットフォームだ。参加機関は越境デジタル人民元ネットワークへ直接アクセスできるようになり、従来の仲介チャネルへの依存を減らせるとのこと。また、報道ではブラジル、カタール、タイなどで事業を展開する銀行がすでに参加",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ビットコインはまだ下がるのか 130億ドルのオプション満期で売り方が優勢に",
+      "link": "https://cointelegraph.jp/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T13:54:45+09:00",
+      "pub_date_utc": "2026-06-22T04:54:45+00:00",
+      "description": "ビットコイン市場に、不穏な影が差している。6月26日に迫るビットコイン（BTC）オプションの満期では、弱気派が優勢に立っている。これは、BTC価格にさらなる下落圧力がかかる可能性を示す、早めの警告サインともいえる。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン市場に、不穏な影が差している。6月26日に迫るビットコイン（BTC）オプションの満期では、弱気派が優勢に立っている。これは、BTC価格にさらなる下落圧力がかかる可能性を示す、早めの警告サインともいえる。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "EU暗号資産市場で始まる「取引所の淘汰」ホワイトビットはMiCA認可で生き残りへ",
+      "link": "https://cointelegraph.jp/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T13:43:45+09:00",
+      "pub_date_utc": "2026-06-22T04:43:45+00:00",
+      "description": "オーストリアでの認可取得により、ホワイトビットはEUの統一暗号資産規制の枠組みにアクセスできるようになった。7月1日以降、取引所はMiCAライセンスを保有するか、顧客向けサービスを停止するかの選択を迫られる。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "オーストリアでの認可取得により、ホワイトビットはEUの統一暗号資産規制の枠組みにアクセスできるようになった。7月1日以降、取引所はMiCAライセンスを保有するか、顧客向けサービスを停止するかの選択を迫られる。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "米国株がカジノ化？シュワブ、S&P500の二択予想商品を投入へ",
+      "link": "https://cointelegraph.jp/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T13:35:58+09:00",
+      "pub_date_utc": "2026-06-22T04:35:58+00:00",
+      "description": "金融サービス大手が繰り出す新商品は、S&P500が目標価格を上回って引けるか、下回って引けるか――その一点に絞った「イエスかノー」の賭けに限られる見通しだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "金融サービス大手が繰り出す新商品は、S&P500が目標価格を上回って引けるか、下回って引けるか――その一点に絞った「イエスかノー」の賭けに限られる見通しだ。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "エヌビディア3.2兆円社債で加速 ビットコイン採掘業者がAIインフラ企業に変わる日",
+      "link": "https://cointelegraph.jp/news/crypto-biz-ai-exit-strategy-bitcoin-miners?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T13:26:07+09:00",
+      "pub_date_utc": "2026-06-22T04:26:07+00:00",
+      "description": "ビットコイン採掘業者はAI事業にさらに傾斜。トークン化RWAは430億ドル、約6兆9400億円を突破し、リップルはアフリカ決済網を強化。さらにサム・バンクマン＝フリードは控訴審でも敗れた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン採掘業者はAI事業にさらに傾斜。トークン化RWAは430億ドル、約6兆9400億円を突破し、リップルはアフリカ決済網を強化。さらにサム・バンクマン＝フリードは控訴審でも敗れた。",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple",
+        "NVIDIA"
+      ],
+      "main_entities": [
+        "NVIDIA"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "ビットコイン急落警戒、5万9000ドル割れで2026年安値更新か それでも強気派が「押し目買い」に動く理由",
+      "link": "https://cointelegraph.jp/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T12:00:32+09:00",
+      "pub_date_utc": "2026-06-22T03:00:32+00:00",
+      "description": "5万9000ドル（約951万円）を下回る水準に厚い流動性の塊が控えており、ビットコインが2026年の年初来安値を更新する売りに見舞われる可能性は高まっている。ただし、データは強気派がその下落を買い支える展開を示唆している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "5万9000ドル（約951万円）を下回る水準に厚い流動性の塊が控えており、ビットコインが2026年の年初来安値を更新する売りに見舞われる可能性は高まっている。ただし、データは強気派がその下落を買い支える展開を示唆している。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "米株の配当でビットコインを買う時代へ フランクリン・テンプルトンが新ETFを申請",
+      "link": "https://cointelegraph.jp/news/franklin-templeton-bitcoin-drip-etfs-reinvest-stock-dividends-btc-exposure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T11:42:56+09:00",
+      "pub_date_utc": "2026-06-22T02:42:56+00:00",
+      "description": "提案中のファンドが狙うのは、株の配当をそのままビットコイン関連投資へ流し込む仕組みだ。配当再投資という伝統的な手法を使いながら、時間をかけて暗号資産への“持ち分”をじわじわ増やしていく。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "提案中のファンドが狙うのは、株の配当をそのままビットコイン関連投資へ流し込む仕組みだ。配当再投資という伝統的な手法を使いながら、時間をかけて暗号資産への“持ち分”をじわじわ増やしていく。",
+      "summary_error": true,
+      "category": "暗号資産ETF",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
+      "title": "議員が政策で一儲け？米国で「政治賭博」禁止法案、予測市場にメス",
+      "link": "https://cointelegraph.jp/news/prediction-markets-law-white-house-officials?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T11:34:58+09:00",
+      "pub_date_utc": "2026-06-22T02:34:58+00:00",
+      "description": "法案は、米連邦議員による予測市場プラットフォームの利用やスポーツ賭博そのものを明確に禁じたものではない。狙い撃ちされたのは、政策をめぐる“賭け”だった。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "法案は、米連邦議員による予測市場プラットフォームの利用やスポーツ賭博そのものを明確に禁じたものではない。狙い撃ちされたのは、政策をめぐる“賭け”だった。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
+    },
+    {
       "title": "今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】",
       "link": "https://www.nadanews.com/356400/",
       "pub_date": "2026-06-22T11:30:00+09:00",
@@ -22,6 +992,24 @@
       ],
       "manually_edited": false,
       "fetched_at": "2026-06-22T11:42:36.318885+09:00"
+    },
+    {
+      "title": "「金で裏付けたステーブルコイン」USDKGとは？新興国マネーを変える“本物資産コイン”の正体",
+      "link": "https://cointelegraph.jp/learn/what-kyrgyzstans-usdkg-reveals-about-real-asset-stablecoins-in-emerging-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-22T11:22:49+09:00",
+      "pub_date_utc": "2026-06-22T02:22:49+00:00",
+      "description": "キルギスのUSDKGは、米ドル連動という安定性と、金準備という“実物資産”の物語を組み合わせたステーブルコインだ。新興国市場において、この設計は何を意味するのか。そして、次に確認すべきポイントは何か。",
+      "category_raw": "Learn",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "キルギスのUSDKGは、米ドル連動という安定性と、金準備という“実物資産”の物語を組み合わせたステーブルコインだ。新興国市場において、この設計は何を意味するのか。そして、次に確認すべきポイントは何か。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-23T11:08:49.344094+09:00"
     },
     {
       "title": "香港の仮想通貨投資家、「追随・塩漬け型」が最多　女性比率も高",
@@ -45564,8 +46552,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-22T11:42:36.318885+09:00",
-  "total_count": 2189,
+  "last_updated": "2026-06-23T11:08:49.344094+09:00",
+  "total_count": 2235,
   "sources": [
     "NADA NEWS",
     "CoinPost",
