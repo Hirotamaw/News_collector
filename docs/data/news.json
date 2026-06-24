@@ -1,6 +1,993 @@
 {
   "articles": [
     {
+      "title": "米大手取引所Cboe、予測市場に参入　S&P500連動のバイナリーオプション上場",
+      "link": "https://coinpost.jp/?p=719350",
+      "pub_date": "2026-06-24T10:30:01+09:00",
+      "pub_date_utc": "2026-06-24T01:30:01+00:00",
+      "description": "米デリバティブ取引所Cboeが予測市場ブランド「Cboe Predicts」を発表し、S&P500ミニ指数（XSP）連動のバイナリーオプション契約を上場。インタラクティブ・ブローカーズで提供中、チャールズ・シュワブでも数カ月内に展開予定。証券規制下でOCC中央清算を採用し、Polymarketとは異なる制度化された予測市場として注目される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Sui",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ビットコインに暴落警報、5万4000ドル説が浮上 アジアのテック株売りでBTCは11日ぶり安値",
+      "link": "https://cointelegraph.jp/markets/bitcoin-gets-new-54k-warning-as-btc-price-hits-11-day-low-on-asia-tech-sell-off?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-24T10:06:08+09:00",
+      "pub_date_utc": "2026-06-24T01:06:08+00:00",
+      "description": "アジア市場が最大10％下落し、BTC価格が約2週間ぶりに6万2000ドル（約1001万円）を割り込むなか、ビットコイン分析では「新安値」への警戒感が強まっている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "アジア市場が最大10％下落し、BTC価格が約2週間ぶりに6万2000ドル（約1001万円）を割り込むなか、ビットコイン分析では「新安値」への警戒感が強まっている。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ビットコイン、短期反発の余地もレンジ相場続くか＝ウィンターミュート",
+      "link": "https://coinpost.jp/?p=719331",
+      "pub_date": "2026-06-24T09:45:45+09:00",
+      "pub_date_utc": "2026-06-24T00:45:45+00:00",
+      "description": "ウィンターミュートが仮想通貨週間レポートを発表。ビットコインが週末に下落した要因としてFRBタカ派姿勢などを指摘。資金流入の改善なくレンジ相場脱却は困難と分析している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui",
+        "Grayscale",
+        "FRB"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "カトリック教指導者80人超、クラリティー法案が人身売買監視を弱体化と警告",
+      "link": "https://coinpost.jp/?p=719305",
+      "pub_date": "2026-06-24T09:35:16+09:00",
+      "pub_date_utc": "2026-06-24T00:35:16+00:00",
+      "description": "全米のカトリック指導者82人が米上院指導者に書簡を送り、仮想通貨市場構造法「クラリティー法案」のブロックチェーン規制確実性法（BRCA）条項が人身売買監視を弱体化させると警告した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "Strategyはビットコインの購入を停止し、現金準備金を再構築すべき＝CryptoQuant",
+      "link": "https://www.nadanews.com/356585/",
+      "pub_date": "2026-06-24T09:00:00+09:00",
+      "pub_date_utc": "2026-06-24T00:00:00+00:00",
+      "description": "オンチェーン分析企業CryptoQuant（クリプトクワント）は6月23日付のレポートで、Michael Saylor（マイケル・セイラー）氏率いるStrate The post Strategyはビットコインの購入を停止し、現金準備金を再構築すべき＝CryptoQuant first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Strategyはビットコインの購入を停止し、現金準備金を再構築すべき＝CryptoQuant By 井上 俊彦 2026年6月24日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); オンチェーン分析企業CryptoQuant（クリプトクワント）は6月23日付のレポートで、Michael Saylor（マイケル・セイラー）氏率いるStrategy（ストラテジー）に対し、当面はビットコイン（BTC）の購入を停止し、現金準備金の再構築に注力すべきだと提言した。 配当義務が膨らむ一方で現金準備金が大幅に減少し、含み損も拡大しているためだ。 同社の調査責任者Julio Moreno（フリオ・モレノ）氏によると、Strategyの現金準備金は2026年初か",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "JPMorgan",
+        "MicroStrategy",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "米上院民主党議員、トランプ一族とUAEの5億ドル取引めぐり公聴会要求",
+      "link": "https://coinpost.jp/?p=719306",
+      "pub_date": "2026-06-24T08:30:54+09:00",
+      "pub_date_utc": "2026-06-23T23:30:54+00:00",
+      "description": "米民主党の上院議員5名が23日、トランプ一族関連のワールド・リバティへのUAE5億ドル投資について公聴会の開催を要求する書簡を共和党委員長に送付した。米国の安全保障への影響と利益相反の調査を求めている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "リップル、MiCAライセンスを取得へ──7月1日の移行期限を前に",
+      "link": "https://www.nadanews.com/356591/",
+      "pub_date": "2026-06-24T08:30:00+09:00",
+      "pub_date_utc": "2026-06-23T23:30:00+00:00",
+      "description": "Ripple（リップル）は6月23日、ルクセンブルク金融規制当局（CSSF）から、EU（欧州連合）の暗号資産市場規制（MiCA）に基づく暗号資産サービスプロバイ The post リップル、MiCAライセンスを取得へ──7月1日の移行期限を前に first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 リップル、MiCAライセンスを取得へ──7月1日の移行期限を前に By 井上 俊彦 2026年6月24日08:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Ripple（リップル）は6月23日、ルクセンブルク金融規制当局（CSSF）から、EU（欧州連合）の暗号資産市場規制（MiCA）に基づく暗号資産サービスプロバイダー（CASP）ライセンスの暫定承認を得たと発表した。 承認は「グリーンライト・レター」の形を取り、最終条件の充足が前提となる。 リップルによると、この承認が確定すれば、単一の規制パスポートを通じて、欧州経済領域（EEA）全30カ国の銀行やフィンテック企業などに、規制に準拠した暗号資産サービスを提供できるようになるという。 既存のElect",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "Ripple",
+        "JPMorgan",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "EU委員会、デジタルユーロのルール案を承認──2029年の発行へ前進",
+      "link": "https://www.nadanews.com/356577/",
+      "pub_date": "2026-06-24T08:00:00+09:00",
+      "pub_date_utc": "2026-06-23T23:00:00+00:00",
+      "description": "欧州議会の経済・通貨委員会（ECON）は6月23日、デジタルユーロ導入案に関する立場を賛成43票、反対14票、棄権1票で承認したと発表した。 プライバシー保護措 The post EU委員会、デジタルユーロのルール案を承認──2029年の発行へ前進 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 EU委員会、デジタルユーロのルール案を承認──2029年の発行へ前進 By 井上 俊彦 2026年6月24日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 欧州議会の経済・通貨委員会（ECON）は6月23日、デジタルユーロ導入案に関する立場を賛成43票、反対14票、棄権1票で承認したと発表した。 プライバシー保護措置や保有上限、無利子といった条件を盛り込み、オンライン・オフラインの両方で使えるデジタルユーロのルールが支持された。 承認された草案によると、デジタルユーロは欧州中央銀行（ECB）が発行し、オンラインとオフラインの両方で機能する。 オンライン決済は口座ベースで処理する一方、オフライン決済は端末内に直接保存する仕組みで、現金と同様に扱われ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "ECB",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "イーサリアム財団、人員の20％削減と組織再編を発表",
+      "link": "https://www.nadanews.com/356569/",
+      "pub_date": "2026-06-24T07:30:00+09:00",
+      "pub_date_utc": "2026-06-23T22:30:00+00:00",
+      "description": "Ethereum Foundation（イーサリアム財団、EF）は6月23日、公式ブログで従業員54人（全体の約20％）の解雇と新たな組織構造を発表した。 財団 The post イーサリアム財団、人員の20％削減と組織再編を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Ethereum",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Ethereum イーサリアム財団、人員の20％削減と組織再編を発表 By 井上 俊彦 2026年6月24日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Ethereum Foundation（イーサリアム財団、EF）は6月23日、公式ブログで従業員54人（全体の約20％）の解雇と新たな組織構造を発表した。 財団の指針「EF Mandate（任務）」と財務管理方針に沿った、数カ月にわたる再編を完了させたという。 新体制は、プロトコル、アクセス、ユーザー、コミュニティ、機関（インスティテューショナル）の5つの業務領域別クラスターが軸となる。このほか、運営担当とマネジメント担当のクラスターも設ける。 各クラスターは異なる責務を担い、検閲耐性や捕捉耐性、プライバ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "金融庁",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化",
+      "link": "https://coinpost.jp/?p=719307",
+      "pub_date": "2026-06-24T07:05:56+09:00",
+      "pub_date_utc": "2026-06-23T22:05:56+00:00",
+      "description": "クリプトクアントは23日、キャッシュリザーブの38%減少と配当カバレッジの急低下がストラテジーの優先株STRC回復の障壁になっていると分析し、ビットコイン購入の一時停止を提言。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "Chainlink、韓国・欧州の銀行連合と共同でFX決済のT＋0化へ",
+      "link": "https://www.nadanews.com/356570/",
+      "pub_date": "2026-06-24T07:00:00+09:00",
+      "pub_date_utc": "2026-06-23T22:00:00+00:00",
+      "description": "ブロックチェーンインフラ企業Chainlink（チェーンリンク）は、韓国と欧州の金融機関などと共同で、外国為替（FX）市場の決済をリアルタイム化する取り組み「P The post Chainlink、韓国・欧州の銀行連合と共同でFX決済のT＋0化へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Chainlink、韓国・欧州の銀行連合と共同でFX決済のT＋0化へ By Shoko Galaviz 2026年6月24日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ブロックチェーンインフラ企業Chainlink（チェーンリンク）は、韓国と欧州の金融機関などと共同で、外国為替（FX）市場の決済をリアルタイム化する取り組み「Project Pangea（プロジェクト・パンゲア）」を立ち上げた。 プレスリリースによると、参加する金融機関グループは合計で10兆ドル（約1600兆円、1ドル＝160円換算）超の運用資産を代表しており、ステーブルコインを活用した国境をまたぐFX決済の実用化を目指す。 プロジェクト・パンゲアには、チェーンリンクのほか、韓国",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "クラリティー法案、米下院委が7月17日に公聴会　独立記念日前成立は困難に",
+      "link": "https://coinpost.jp/?p=719308",
+      "pub_date": "2026-06-24T06:30:58+09:00",
+      "pub_date_utc": "2026-06-23T21:30:58+00:00",
+      "description": "米下院委員会が仮想通貨市場構造法「クラリティー法」の公聴会を7月17日にニューヨークで開催する。上院は60票のクロージャー確保と委員会間テキスト統合が未解決のまま議会休会が迫っている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Grayscale",
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "CFTC、予測市場規制めぐりケンタッキー州を提訴",
+      "link": "https://www.nadanews.com/356567/",
+      "pub_date": "2026-06-24T06:30:00+09:00",
+      "pub_date_utc": "2026-06-23T21:30:00+00:00",
+      "description": "米商品先物取引委員会（CFTC）は6月23日、予測市場をめぐる管轄権争いで、ケンタッキー州を相手取り訴訟を起こした。CFTCは、同州が州法を使ってCFTC登録済 The post CFTC、予測市場規制めぐりケンタッキー州を提訴 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 CFTC、予測市場規制めぐりケンタッキー州を提訴 By Shoko Galaviz 2026年6月24日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米商品先物取引委員会（CFTC）は6月23日、予測市場をめぐる管轄権争いで、ケンタッキー州を相手取り訴訟を起こした。CFTCは、同州が州法を使ってCFTC登録済みの指定契約市場（DCM）を閉鎖に追い込もうとしており、連邦法上の専属的管轄権を侵害していると主張している。 CFTCの発表によると、今回の訴訟は、ケンタッキー州がCFTC規制下にあるDCMに対し、州裁判所で民事執行手続きを起こしたことを受けたものだ。 同州は先週、Kalshi（カルシ）、Polymarket（ポリマーケット）などを相手取り",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "CFTC",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "Meta、予測市場アプリ「Arena」開発か＝NYT",
+      "link": "https://www.nadanews.com/356564/",
+      "pub_date": "2026-06-24T06:00:00+09:00",
+      "pub_date_utc": "2026-06-23T21:00:00+00:00",
+      "description": "Meta（メタ）のMark Zuckerberg（マーク・ザッカーバーグ）CEOが、Polymarket（ポリマーケット）やKalshi（カルシ）が主要プレイヤ The post Meta、予測市場アプリ「Arena」開発か＝NYT first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Meta、予測市場アプリ「Arena」開発か＝NYT By Shoko Galaviz 2026年6月24日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Meta（メタ）のMark Zuckerberg（マーク・ザッカーバーグ）CEOが、Polymarket（ポリマーケット）やKalshi（カルシ）が主要プレイヤーとなっている予測市場分野への参入を目指していると、New York Times（ニューヨーク・タイムズ、NYT）が報じた。 NYTによると、ザッカーバーグ氏は最近、社内の小規模チームに対し、ポリマーケットやカルシに似たスマートフォンアプリの開発を指示した。 アプリは社内で「Arena（アリーナ）」と呼ばれており、Facebook（フェイ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "メタが予測市場アプリ「アリーナ」を開発、カルシ・ポリマーケットと競合へ＝報道",
+      "link": "https://coinpost.jp/?p=719309",
+      "pub_date": "2026-06-24T05:55:25+09:00",
+      "pub_date_utc": "2026-06-23T20:55:25+00:00",
+      "description": "メタのマーク・ザッカーバーグCEOが予測市場アプリ「アリーナ」の開発を指示したと報じられた。フェイスブックやインスタグラムとは独立した新アプリとして展開し、カルシやポリマーケットとの競争に参入する方針とされる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "イーサリアム財団が組織再編、人員を20%削減しプロトコル強化に集中",
+      "link": "https://coinpost.jp/?p=719310",
+      "pub_date": "2026-06-24T05:35:02+09:00",
+      "pub_date_utc": "2026-06-23T20:35:02+00:00",
+      "description": "イーサリアム財団は23日、数ヶ月に及ぶ組織再編の結果として54名（全体の約20%）を削減し、プロトコル層をはじめとする5つのクラスターを軸とした新体制に移行したと発表した。投資家にとっては財団の戦略的優先順位が明確化される局面となる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "米上場ナカモト、医療クリニックを閉鎖しビットコイン専業企業へ移行完了",
+      "link": "https://coinpost.jp/?p=719295",
+      "pub_date": "2026-06-24T05:00:57+09:00",
+      "pub_date_utc": "2026-06-23T20:00:57+00:00",
+      "description": "米上場のビットコインDAT企業のナカモトが6月19日に医療クリニックの運営を終了し、ビットコイン専業企業への転換を完了した。メディア・資産運用・コンサルの3事業に注力する方針だ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "【6/23話題】イーサリアム財団の元研究者ら設立のEthlabs、英中銀がステーブルコイン規制を緩和、ストラテジーとビットマインの追加取得など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/586066",
+      "pub_date": "2026-06-23T22:49:07+09:00",
+      "pub_date_utc": "2026-06-23T13:49:07+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース 元イーサリアム財団研究者らが研究開発組織「Ethlabs」設立。ビットマインやシャープリンクら支援 英中銀がステーブルコイン規制を緩和、保有上限見送りで発行総額上限方式へ セキュリタイズ、tZEROの特許侵害主張に反発し提訴＝報道 ストラテジーが",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Solana",
+        "Ripple",
+        "Hyperliquid",
+        "Circle",
+        "SBI Holdings",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "SBI新生信託銀行、円連動ステーブルコイン「JPYSC」を6月中に発行　信託型で国内初＝日本経済新聞",
+      "link": "https://coinpost.jp/?p=719292",
+      "pub_date": "2026-06-23T21:14:14+09:00",
+      "pub_date_utc": "2026-06-23T12:14:14+00:00",
+      "description": "SBIグループが日本円連動のステーブルコイン「JPYSC」を週内にも発行する。SBI新生信託銀行が発行体となる信託型では国内初。発行額の上限がなく機関投資家・グローバル企業の大口利用を見込む。3メガバンクの共同発行構想にも影響を与えそうだ。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "SBI VC Trade",
+        "Grayscale",
+        "SBI Holdings",
+        "金融庁"
+      ],
+      "main_entities": [
+        "SBI VC Trade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ソラナ、トークン化株式の95％を独占 暴落SOLはついに底打ちか",
+      "link": "https://cointelegraph.jp/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-23T20:56:24+09:00",
+      "pub_date_utc": "2026-06-23T11:56:24+00:00",
+      "description": "ソラナがトークン化株式取引高の95％を独占するなか、市場では「SOLの60ドル、約9700円は本当に底だったのか」を巡って、アナリストの見方が割れている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ソラナがトークン化株式取引高の95％を独占するなか、市場では「SOLの60ドル、約9700円は本当に底だったのか」を巡って、アナリストの見方が割れている。",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ストラテジーがまたビットコインを買った理由 株を売って520BTC追加、現金も積み増し",
+      "link": "https://cointelegraph.jp/news/strategy-300-million-usd-reserve-acquires-520-btc?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-23T20:33:43+09:00",
+      "pub_date_utc": "2026-06-23T11:33:43+00:00",
+      "description": "マイケル・セイラー氏率いるストラテジーは、MSTR株の売却で3億3550万ドル（約542億円）を調達。米ドル準備金を14億ドル（約2261億円）に積み増す一方、ビットコイン520BTCも追加購入した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "マイケル・セイラー氏率いるストラテジーは、MSTR株の売却で3億3550万ドル（約542億円）を調達。米ドル準備金を14億ドル（約2261億円）に積み増す一方、ビットコイン520BTCも追加購入した。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経",
+      "link": "https://www.nadanews.com/356553/",
+      "pub_date": "2026-06-23T20:21:56+09:00",
+      "pub_date_utc": "2026-06-23T11:21:56+00:00",
+      "description": "SBIグループが、日本円に連動するステーブルコイン「JPYSC」を週内にも発行すると、日本経済新聞が6月23日に報じた。発行に必要な金融庁の承認を得たという。 The post SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 By NADA NEWS編集部 2026年6月23日20:21 .st0 { fill: #374149; } 2026年6月23日21:35 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); SBIグループが、日本円に連動するステーブルコイン「JPYSC」を週内にも発行すると、日本経済新聞が6月23日に報じた。発行に必要な金融庁の承認を得たという。 JPYSCは、SBI新生信託銀行が発行者となり、暗号資産交換業者のSBI VCトレードが取り扱う。信託会社が裏付け資産を管理する「信託型」のステーブルコインとしては、国内初の発行となる見通しだ。 関連記事：SBIとStar",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "JPYC",
+        "三菱UFJ銀行",
+        "みずほ銀行",
+        "三井住友銀行",
+        "SBI Holdings",
+        "Google",
+        "金融庁",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ビットコイン7万ドル目前？強気派が復活も、ETF流出で上値に暗雲",
+      "link": "https://cointelegraph.jp/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-23T19:54:23+09:00",
+      "pub_date_utc": "2026-06-23T10:54:23+00:00",
+      "description": "ビットコインの資金調達率と注文板の構図は、投資家心理の改善を示している。だが、ETFからの資金流出とマクロ経済の不穏なシグナルが、BTCの短期的な上値を抑える可能性がある。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインの資金調達率と注文板の構図は、投資家心理の改善を示している。だが、ETFからの資金流出とマクロ経済の不穏なシグナルが、BTCの短期的な上値を抑える可能性がある。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "米サークル「USDC」と「EURC」、クロノスに対応へ。CCTPも導入予定",
+      "link": "https://www.neweconomy.jp/posts/585645",
+      "pub_date": "2026-06-23T19:32:54+09:00",
+      "pub_date_utc": "2026-06-23T10:32:54+00:00",
+      "description": "USDC・EURC・CCTPがCronosに導入へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」が、レイヤー1ブロッ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "USDC・EURC・CCTPがCronosに導入へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」が、レイヤー1ブロックチェーン「クロノス（Cronos）」にネイティブ対応する予定だ。サークルが6月22日に発表した。 あわせてUSDCのブロックチェーン間転送を可能にする「クロスチェーン転送プロトコル（Cross-Chain Transfer Protocol：CCTP）」もクロノスに導入予定とのことだ。 クロノスは、暗号資産（仮想通貨）取引所などを運営するクリプトドットコム（Crypto.com）関連のEVM（イーサリアムバーチャルマシン）互換のブロックチェーン。決済、DeFi（分散型金融）、AIネイティブのワークフローなどに対応するネットワークとして展開されている。 公式ブログによるとク",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana",
+        "Polygon",
+        "Ripple",
+        "Avalanche",
+        "Near Protocol",
+        "Sui",
+        "Aptos",
+        "Arbitrum",
+        "Circle"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "英国、ステーブルコイン覇権争いでまさかの自爆か 発行上限に業界が警戒",
+      "link": "https://cointelegraph.jp/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-23T19:00:00+09:00",
+      "pub_date_utc": "2026-06-23T10:00:00+00:00",
+      "description": "イングランド銀行が、システム上重要なステーブルコイン規制案を公表した。準備資産要件は緩めたものの、保有限度の代わりに400億ポンド、約8兆5600億円の“一時的な発行上限”を突きつけた。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "イングランド銀行が、システム上重要なステーブルコイン規制案を公表した。準備資産要件は緩めたものの、保有限度の代わりに400億ポンド、約8兆5600億円の“一時的な発行上限”を突きつけた。",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ビットコインが再び爆発寸前 原油急落でBTCは7万ドル突破へ秒読みか",
+      "link": "https://cointelegraph.jp/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-23T18:24:31+09:00",
+      "pub_date_utc": "2026-06-23T09:24:31+00:00",
+      "description": "イラン関連ニュースを受けて原油価格が3月初旬以来の安値圏へ向かうなか、ビットコインは7万ドル、日本円で約1131万円近辺を視野に、ブレイクアウトを試す展開となった。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "イラン関連ニュースを受けて原油価格が3月初旬以来の安値圏へ向かうなか、ビットコインは7万ドル、日本円で約1131万円近辺を視野に、ブレイクアウトを試す展開となった。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "元イーサリアム財団研究者らが研究開発組織「Ethlabs」を設立。ビットマインやシャープリンクらが支援",
+      "link": "https://www.neweconomy.jp/posts/585656",
+      "pub_date": "2026-06-23T17:43:44+09:00",
+      "pub_date_utc": "2026-06-23T08:43:44+00:00",
+      "description": "元イーサリアム財団研究者らが「Ethlabs」設立 イーサリアム財団（Ethereum Foundation）の元研究者らが、非営利の研究開発組織「エスラボ（Ethlabs）」を立ち上げた。エスラボは、イーサリアムの機関",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "元イーサリアム財団研究者らが「Ethlabs」設立 イーサリアム財団（Ethereum Foundation）の元研究者らが、非営利の研究開発組織「エスラボ（Ethlabs）」を立ち上げた。エスラボは、イーサリアムの機関投資家や企業による採用拡大を目的に、関連する研究開発を進める。エスラボ公式Xアカウントより6月23日に発表された。 エスラボは、イーサリアムをグローバル経済の決済・清算レイヤーとして発展させることを目的とする非営利の研究開発組織だ。ステーブルコインやトークン化された現実世界資産（RWA）、ファンド、自律型AIコマースなどの利用拡大を見据え、イーサリアムの高速化や信頼性の高い相互運用性の実現に取り組むという。 同組織は、アンスガー・ディートリックス（Ansgar Dietrichs）氏、バルナベ・モノ（Barnabé Monnot）氏、キャスパー・シュワルツ＝シリング（Cas",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "仮想通貨市場、6月の下落銘柄比率が87％　「年間最弱月」の可能性＝CryptoRank",
+      "link": "https://coinpost.jp/?p=719215",
+      "pub_date": "2026-06-23T17:32:31+09:00",
+      "pub_date_utc": "2026-06-23T08:32:31+00:00",
+      "description": "CryptoRankのデータによると、ステーブルコインを除くトップ100銘柄のうち87.1％が6月に下落し、2026年最高水準を記録した。平均リターンはマイナス8.6％、中央値はマイナス12.3％と広範な下落となっている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "デジタルアセットマーケッツ、機関投資家・法人向け取引基盤を強化──Prime Service提供開始",
+      "link": "https://www.nadanews.com/356536/",
+      "pub_date": "2026-06-23T17:26:42+09:00",
+      "pub_date_utc": "2026-06-23T08:26:42+00:00",
+      "description": "デジタルアセットマーケッツは6月23日、機関投資家および法人向けのデジタル資産取引サービス「Digital Asset Prime Service」の提供を開始 The post デジタルアセットマーケッツ、機関投資家・法人向け取引基盤を強化──Prime Service提供開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス デジタルアセットマーケッツ、機関投資家・法人向け取引基盤を強化──Prime Service提供開始 By NADA NEWS編集部 2026年6月23日17:26 .st0 { fill: #374149; } 2026年6月23日17:26 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); デジタルアセットマーケッツは6月23日、機関投資家および法人向けのデジタル資産取引サービス「Digital Asset Prime Service」の提供を開始したと発表した。 同サービスは、暗号資産（仮想通貨）を含むデジタル資産の大口取引を想定した機関投資家・法人向けサービス。 リリースによると、デジタルアセットマーケッツ所定の審査および取引基準を満たした顧客を対象に、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "リップル、ルクセンブルク当局がMiCAライセンス予備承認　欧州展開へ",
+      "link": "https://coinpost.jp/?p=719195",
+      "pub_date": "2026-06-23T16:41:11+09:00",
+      "pub_date_utc": "2026-06-23T07:41:11+00:00",
+      "description": "リップルがルクセンブルクの金融規制機関CSSFより、MiCA規制に基づくCASPライセンスの予備承認を取得。既存のEMIライセンスと組み合わせ、欧州経済領域（EEA）30カ国での仮想通貨決済サービスの全面展開が可能になる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple",
+        "Grayscale",
+        "JPMorgan"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "トークンは「お金」に換えられるのか？一物一価と無裁定から考えるトークンの価値（「そうだったのかブロックチェーン Ep.8」内田善彦・酒井勇也・大津賀新也）",
+      "link": "https://www.neweconomy.jp/features/sbc/585567",
+      "pub_date": "2026-06-23T16:30:26+09:00",
+      "pub_date_utc": "2026-06-23T07:30:26+00:00",
+      "description": "「そうだったのかブロックチェーン」Ep.8 このポッドキャスト番組では、日銀・金融庁で銀行監督の経歴をもち、現在は周南公立大学情報科学部でブロックチェーンについての教鞭をとる内田善彦と、グルメアプリのファウンダーとして、",
+      "category_raw": "そうブロ",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "「そうだったのかブロックチェーン」Ep.8 このポッドキャスト番組では、日銀・金融庁で銀行監督の経歴をもち、現在は周南公立大学情報科学部でブロックチェーンについての教鞭をとる内田善彦と、グルメアプリのファウンダーとして、Web2サービスにブロックチェーンを掛け合わせWeb3事業を構築したキャリアを持つ酒井勇也、そしてクリプト専門メディア「あたらしい経済」副編集長の大津賀新也の３人が、ブロックチェーンについて知っておべきことを紹介します。 第8回目となる今回は、これまでのエピソードで扱ってきたトークンの考え方を踏まえ、トークンの「換金可能性」について議論しました。 トークンを単なる有価証券の電子化や投機対象としてではなく、コミュニティのナラティブや経済活動への貢献をインセンティブづけるものとして捉え直しました。そのうえで、「一物一価」と「無裁定」という2つの考え方を手がかりに、トークンの価値",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "SBI VCトレード、XRP/JPYレバレッジ取引の標準スプレッドを期間限定で0.5円に",
+      "link": "https://www.neweconomy.jp/posts/585623",
+      "pub_date": "2026-06-23T16:28:48+09:00",
+      "pub_date_utc": "2026-06-23T07:28:48+00:00",
+      "description": "XRP/JPYレバレッジ取引の標準スプレッド0.5円に 国内暗号資産（仮想通貨）取引所SBI VCトレードが、暗号資産エックスアールピー（XRP）と日本円の通貨ペア「XRP/JPY」のレバレッジ取引における標準スプレッド",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "XRP/JPYレバレッジ取引の標準スプレッド0.5円に 国内暗号資産（仮想通貨）取引所SBI VCトレードが、暗号資産エックスアールピー（XRP）と日本円の通貨ペア「XRP/JPY」のレバレッジ取引における標準スプレッドを、期間限定で0.5円にすると6月22日に発表した。 対象期間は6月22日16:00から7月3日11:59まで。対象となるのはVCTRADEサービスにおける「XRP/JPY」のレバレッジ取引。BITPOINTサービスは対象外となる。 SBI VCトレードによると、今回提供する標準スプレッド0.5円は、金融庁・財務局に登録された主要な暗号資産交換業者かつ第一種金融商品取引業者におけるレバレッジ取引（販売所）を対象とした同社調べで、業界最狭水準だという。 また同社は、同取引における2026年5月の平均スプレッドが2.3633円だったとしており、今回の0.5円はそれと比較して約7",
+      "summary_error": true,
+      "category": "NFT",
+      "all_entities": [
+        "Solana",
+        "Ripple",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "韓国トスバンク、ソラナ財団とブロックチェーン金融インフラ構築を検証へ",
+      "link": "https://www.neweconomy.jp/posts/585615",
+      "pub_date": "2026-06-23T16:22:56+09:00",
+      "pub_date_utc": "2026-06-23T07:22:56+00:00",
+      "description": "ソラナ財団と次世代金融インフラを検証 韓国のインターネット専業銀行トスバンク（Toss Bank）が、ソラナ財団（Solana Foundation）とブロックチェーン基盤の次世代金融インフラ構築に向けた戦略的業務協約を",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ソラナ財団と次世代金融インフラを検証 韓国のインターネット専業銀行トスバンク（Toss Bank）が、ソラナ財団（Solana Foundation）とブロックチェーン基盤の次世代金融インフラ構築に向けた戦略的業務協約を締結した。韓国メディア「デジタルトゥデイ（Digital Today）」が6月22日に報じた。 デジタルトゥデイによると、両者は6月19日にソウル市内で協約を締結したという。今回の提携は、韓国のインターネット専業銀行がソラナ財団と個別に締結する初の戦略的協力になるとのことだ。 トスバンクは今後、ソラナネットワークを活用し、ブロックチェーンインフラを既存の金融サービスへ適用できるかを段階的に検証する予定だ。 トスバンクによると、主な協力分野には、ソラナ基盤のグローバル送金・清算インフラの実証、ブロックチェーン基盤の決済・清算モデルの共同検討、ステーブルコインおよびデジタル資産",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "フランクリン・テンプルトン、250デジタル買収完了で「Franklin Crypto」始動",
+      "link": "https://www.neweconomy.jp/posts/585607",
+      "pub_date": "2026-06-23T16:15:51+09:00",
+      "pub_date_utc": "2026-06-23T07:15:51+00:00",
+      "description": "機関投資家向け暗号資産運用部門が正式始動 投資運用会社フランクリン・テンプルトン（Franklin Templeton）が、暗号資産（仮想通貨）運用会社250デジタル（250 Digital）の買収完了を6月22日に発表",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "機関投資家向け暗号資産運用部門が正式始動 投資運用会社フランクリン・テンプルトン（Franklin Templeton）が、暗号資産（仮想通貨）運用会社250デジタル（250 Digital）の買収完了を6月22日に発表した。あわせて、機関投資家向けのアクティブ運用型デジタル資産運用部門「フランクリン・クリプト（Franklin Crypto）」を正式に設立した。 今回新たに設立されたフランクリン・クリプトは、機関投資家向けにアクティブ運用型の暗号資産戦略を提供する部門だ。フランクリン・テンプルトンは、250デジタルの投資チームや運用戦略を取り込むことで、同分野の事業拡大を図るという。 今回の買収には、250デジタルの投資チームに加え、暗号資産投資会社コインファンド（CoinFund）がこれまで運用していた流動性の高い暗号資産を対象とする投資戦略が含まれる。フランクリン・テンプルトンは契約",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Kraken"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ムーンペイ、AI財務・会計自動化の「Entendre」買収",
+      "link": "https://www.neweconomy.jp/posts/585598",
+      "pub_date": "2026-06-23T16:05:45+09:00",
+      "pub_date_utc": "2026-06-23T07:05:45+00:00",
+      "description": "MoonPayがAI会計エージェント企業買収 暗号資産（仮想通貨）決済インフラ企業ムーンペイ（MoonPay）が、AI活用の財務・会計オペレーション自動化プラットフォームを開発するアンタンドレ（Entendre）を買収し",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MoonPayがAI会計エージェント企業買収 暗号資産（仮想通貨）決済インフラ企業ムーンペイ（MoonPay）が、AI活用の財務・会計オペレーション自動化プラットフォームを開発するアンタンドレ（Entendre）を買収したと6月22日に発表した。なお買収額などの条件は明らかにされていない。 アンタンドレは、ステーブルコイン決済やデジタル資産を扱う企業向けに、照合、財務管理、記帳、決算業務などの財務オペレーションを自動化するAI会計エージェント企業だ。 ムーンペイは今回の買収により、同社のステーブルコイン決済インフラを、取引後の会計・財務処理領域へ拡張する。また今回の買収に伴い、アンタンドレのプラットフォームとチームは即時にムーンペイへ加わり、既存顧客へのサービス中断はないという。またアンタンドレ創業者のカリーム・ハッターブ（Kareem Khattab）氏は、ムーンペイの応用AI担当バイス",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Solana",
+        "Polygon",
+        "Sui"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "21シェアーズ、「ハイパーリキッド（HYPE）」現物ETFの週次・月次オプション開始",
+      "link": "https://www.neweconomy.jp/posts/585583",
+      "pub_date": "2026-06-23T15:57:29+09:00",
+      "pub_date_utc": "2026-06-23T06:57:29+00:00",
+      "description": "21Shares Hyperliquid ETFの週次・月次オプション開始 スイスの資産運用会社21シェアーズ（21Shares）の米国法人21シェアーズUS（21Shares US）が、ハイパーリキッド（Hyperli",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "21Shares Hyperliquid ETFの週次・月次オプション開始 スイスの資産運用会社21シェアーズ（21Shares）の米国法人21シェアーズUS（21Shares US）が、ハイパーリキッド（Hyperliquid）のネイティブトークンHYPEの現物ETF（上場投資信託）について、オプション取引が可能になったと6月23日に発表した。 同ETFの名称は「21Shares Hyperliquid ETF」で、ティッカーシンボルは「THYP」だ。21シェアーズUSによると、THYPのオプションは6月22日から米ナスダック（Nasdaq）で取引可能となり、週次・月次オプションに対応したという。今回のオプションは、レバレッジ型商品ではなく、通常のTHYPを対象とするものだ。 21シェアーズは5月12日、THYPと、HYPEの日次価格変動の2倍に連動する投資成果を目指すレバレッジ型ETF",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui",
+        "Hyperliquid",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "英中銀がステーブルコイン規制を緩和、保有上限見送りで発行総額上限方式へ",
+      "link": "https://www.neweconomy.jp/posts/585577",
+      "pub_date": "2026-06-23T15:47:26+09:00",
+      "pub_date_utc": "2026-06-23T06:47:26+00:00",
+      "description": "業界からは歓迎と懸念の声 英中央銀行のイングランド銀行（BoE）が、英ポンド建てシステミック・ステーブルコイン発行体の規制に関する政策声明および実務規範（コード・オブ・プラクティス）草案を6月22日に公表した。昨年11月",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "業界からは歓迎と懸念の声 英中央銀行のイングランド銀行（BoE）が、英ポンド建てシステミック・ステーブルコイン発行体の規制に関する政策声明および実務規範（コード・オブ・プラクティス）草案を6月22日に公表した。昨年11月に公表した協議案から複数の要件を緩和しており、同実務規範について2026年末までの最終化を目指す。 今回公表された政策声明における大きな変更点は、個人および企業ごとの保有上限（キャップ）を設けない方針に転じたことだ。BoEは代わりに、各ステーブルコインの発行総額に対する上限、いわゆる「一時的な発行ガードレール」を設けるアプローチを採用した。 このガードレールは、初期段階において1つのシステミック・ステーブルコイン商品あたり400億ポンド（約8.5兆円）に設定される。新たな形態の通貨に金融システムが適応していく移行期において、家計や企業への信用供給に与える影響を抑えながら、段",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト",
+      "link": "https://coinpost.jp/?p=719166",
+      "pub_date": "2026-06-23T15:31:10+09:00",
+      "pub_date_utc": "2026-06-23T06:31:10+00:00",
+      "description": "保有5年超のビットコイン古参投資家（OG）による売却ペースが急速に鈍化。90日移動平均は962BTCと2024年11月以来の低水準に低下し、相場への売り圧力が緩和しつつあることをCryptoQuantのデータが示す。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "NYSE親会社ICEとOKX、合弁会社設立──トークン化株式市場へのアクセス提供へ",
+      "link": "https://www.nadanews.com/356524/",
+      "pub_date": "2026-06-23T15:05:53+09:00",
+      "pub_date_utc": "2026-06-23T06:05:53+00:00",
+      "description": "ニューヨーク証券取引所（NYSE）の親会社であるIntercontinental Exchange（インターコンチネンタル取引所：ICE）と、暗号資産（仮想通貨 The post NYSE親会社ICEとOKX、合弁会社設立──トークン化株式市場へのアクセス提供へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス NYSE親会社ICEとOKX、合弁会社設立──トークン化株式市場へのアクセス提供へ By 廣瀬 優香 2026年6月23日15:05 .st0 { fill: #374149; } 2026年6月23日15:05 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ニューヨーク証券取引所（NYSE）の親会社であるIntercontinental Exchange（インターコンチネンタル取引所：ICE）と、暗号資産（仮想通貨）取引所OKXは6月22日、トークン化された金融商品およびデジタルネイティブな金融商品の次世代インフラ構築に注力する合弁会社の設立を発表した。 合弁会社はICEとOKXがそれぞれ50%ずつ出資して設立され、規制当局の承認を前提として、米国で登録さ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "OKX",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "米住宅法案、上院を通過　CBDC発行を2030年まで禁止",
+      "link": "https://coinpost.jp/?p=719132",
+      "pub_date": "2026-06-23T14:21:31+09:00",
+      "pub_date_utc": "2026-06-23T05:21:31+00:00",
+      "description": "米上院が住宅法案「21世紀ROADHousingAct」を85対5で可決。法案には連邦準備制度によるCBDC発行を2030年まで禁じる条項が盛り込まれた。下院通過・大統領署名を経て成立する見通し。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Grayscale",
+        "FRB"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか",
+      "link": "https://coinpost.jp/?p=719068",
+      "pub_date": "2026-06-23T13:45:55+09:00",
+      "pub_date_utc": "2026-06-23T04:45:55+00:00",
+      "description": "グレースケールは、米クラリティー法案が成立した場合、トークン化資産（RWA）や分散型金融（DeFi）の本格的普及が進み、イーサリアム・ソラナ・BNBチェーン・カントンネットワークの4つが最大の受益者になると予測した。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
+      "title": "英中銀、ポンド建てステーブルコインの行動規範案を公開　発行上限や利回り禁止など提案",
+      "link": "https://coinpost.jp/?p=719027",
+      "pub_date": "2026-06-23T13:05:10+09:00",
+      "pub_date_utc": "2026-06-23T04:05:10+00:00",
+      "description": "イングランド銀行は、金融システム上重要なポンド建てステーブルコインを対象とした行動規範草案を公開した。発行上限、利回り禁止、償還などの内容を盛り込んでいる。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定　機関投資家の資金はどこへ向かうか ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト グレースケール予測、FRB利上げ見送りならビットコインが株式に追いつく可能性 googletag.cmd.push(function() { goo",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-24T11:10:55.245056+09:00"
+    },
+    {
       "title": "トランプ大統領が量子コンピュータ推進の大統領令に署名、2028年実現目標",
       "link": "https://coinpost.jp/?p=719000",
       "pub_date": "2026-06-23T11:02:40+09:00",
@@ -46552,8 +47539,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-23T11:08:49.344094+09:00",
-  "total_count": 2235,
+  "last_updated": "2026-06-24T11:10:55.245056+09:00",
+  "total_count": 2277,
   "sources": [
     "NADA NEWS",
     "CoinPost",
