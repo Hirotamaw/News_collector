@@ -1,6 +1,833 @@
 {
   "articles": [
     {
+      "title": "トランプ大統領、CBDC条項含む住宅法案への署名延期　クラリティー法案への影響可能性",
+      "link": "https://coinpost.jp/?p=719688",
+      "pub_date": "2026-06-25T10:10:32+09:00",
+      "pub_date_utc": "2026-06-25T01:10:32+00:00",
+      "description": "トランプ大統領が「米国救済法」の成立を優先し、CBDC禁止条項を含む住宅関連法案の署名式を中止。仮想通貨市場構造を定めるクラリティー法審議日程への影響も懸念される。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Grayscale",
+        "FRB"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=719702",
+      "pub_date": "2026-06-25T09:40:22+09:00",
+      "pub_date_utc": "2026-06-25T00:40:22+00:00",
+      "description": "*本レポートは、クリプトアナリストである仮想NISHI（",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "米議会、仮想通貨企業のFRB直接接続を審議　リスク論争が本格化",
+      "link": "https://coinpost.jp/?p=719697",
+      "pub_date": "2026-06-25T09:21:43+09:00",
+      "pub_date_utc": "2026-06-25T00:21:43+00:00",
+      "description": "FRBの決済システムへの仮想通貨・フィンテック企業の直接接続を認める「スキニー口座」構想をめぐり、米下院金融サービス委員会が公聴会を開催。クラーケン承認・トランプ大統領令を受け、安全性論争が本格化。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Kraken",
+        "Grayscale",
+        "FRB"
+      ],
+      "main_entities": [
+        "Kraken"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "カルシ、イリノイ州を提訴──スポーツ予測市場の州ライセンス義務付けに反発",
+      "link": "https://www.nadanews.com/356849/",
+      "pub_date": "2026-06-25T09:00:00+09:00",
+      "pub_date_utc": "2026-06-25T00:00:00+00:00",
+      "description": "予測市場のKalshi（カルシ）は6月23日、米イリノイ州を同州北部地区連邦地方裁判所に提訴した。 先週成立した州法「上院法案3019号（SB3019）」が、ス The post カルシ、イリノイ州を提訴──スポーツ予測市場の州ライセンス義務付けに反発 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 カルシ、イリノイ州を提訴──スポーツ予測市場の州ライセンス義務付けに反発 By 井上 俊彦 2026年6月25日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 予測市場のKalshi（カルシ）は6月23日、米イリノイ州を同州北部地区連邦地方裁判所に提訴した。 先週成立した州法「上院法案3019号（SB3019）」が、スポーツイベント契約を提供する予測市場に州ライセンスの取得を義務付けており、連邦法に違反すると主張している。 同法は2027会計年度の州予算案の一部として可決された。 また、7月1日に発足する「Sports Wagering Fund（スポーツ賭博基金）」は、スポーツ関連の予測市場における賭けの総収入に15％を課税するものだ。 同予算",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "CFTC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ビットコインの4年サイクルはまだ終わっていない＝21Shares",
+      "link": "https://www.nadanews.com/356844/",
+      "pub_date": "2026-06-25T08:30:00+09:00",
+      "pub_date_utc": "2026-06-24T23:30:00+00:00",
+      "description": "暗号資産投資会社でETF（上場投資信託）発行会社でもある21Shares（21シェアーズ）は、ビットコイン（BTC）が2026年に「4年サイクル」から外れると予 The post ビットコインの4年サイクルはまだ終わっていない＝21Shares first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン ビットコインの4年サイクルはまだ終わっていない＝21Shares By 井上 俊彦 2026年6月25日08:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産投資会社でETF（上場投資信託）発行会社でもある21Shares（21シェアーズ）は、ビットコイン（BTC）が2026年に「4年サイクル」から外れると予測していた。 しかし同社は、6月24日に公開した最新レポート「Market outlook 2026:mid-year update」で、その予測が外れたことを認めた。「正直に言って、価格変動は依然として以前と変わらないように見える」と同社は書いている。 4年サイクル（周期）とは、BTCが約4年ごとのマイニング報酬半減の後にピークを付け、",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷",
+      "link": "https://www.nadanews.com/356828/",
+      "pub_date": "2026-06-25T08:00:00+09:00",
+      "pub_date_utc": "2026-06-24T23:00:00+00:00",
+      "description": "暗号資産（仮想通貨）データ集計のCryptoRank（クリプトランク）が6月24日に公表したレポートによると、分散型金融（DeFi）の預け入れ総資産額（TVL） The post DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "DeFi",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "DeFi DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷 By 井上 俊彦 2026年6月25日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）データ集計のCryptoRank（クリプトランク）が6月24日に公表したレポートによると、分散型金融（DeFi）の預け入れ総資産額（TVL）は2026年に入って約39％減少した。 TVLは1月の約1150億ドル（約18兆4000億円、1ドル=160円換算）から直近では約700億ドル（約11兆2000億円）まで縮小し、2025年10月の市場ピーク以降の調整局面が主因とされる。 TVL上位10チェーンのうち、2026年にプラス成長となったのはTRON（トロン）とHyperl",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Hyperliquid",
+        "Tether",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止",
+      "link": "https://www.nadanews.com/356823/",
+      "pub_date": "2026-06-25T07:30:00+09:00",
+      "pub_date_utc": "2026-06-24T22:30:00+00:00",
+      "description": "Donald Trump（ドナルド・トランプ）米大統領は6月24日朝（現地時間）、Truth Socialへの投稿で、米上院・下院を通過した住宅関連法案「21s The post トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止 By 井上 俊彦 2026年6月25日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Donald Trump（ドナルド・トランプ）米大統領は6月24日朝（現地時間）、Truth Socialへの投稿で、米上院・下院を通過した住宅関連法案「21st Century ROAD to Housing Act（21世紀住宅への道法案）」への署名を中止すると表明した。 「切実に必要とされている『SAVE America Act』が可決されるまで」としている。 火曜日に下院を通過した同法案には、アメリカ連邦準備制度理事会（FRB）が2030年末まで中央銀行デジタル通貨（CBDC）や「実質的に類似す",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "金融庁",
+        "FRB"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "Strategyは本当に大丈夫なのか──CryptoQuantが警鐘を鳴らす「ビットコイン財務戦略」の限界【エックスウィン】",
+      "link": "https://www.nadanews.com/356831/",
+      "pub_date": "2026-06-25T07:15:00+09:00",
+      "pub_date_utc": "2026-06-24T22:15:00+00:00",
+      "description": "● CryptoQuantは、Strategy（旧MicroStrategy）の優先株STRCが過去最大のディスカウントで取引されている背景について詳細な分析を The post Strategyは本当に大丈夫なのか──CryptoQuantが警鐘を鳴らす「ビットコイン財務戦略」の限界【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン Strategyは本当に大丈夫なのか──CryptoQuantが警鐘を鳴らす「ビットコイン財務戦略」の限界【エックスウィン】 By エックスウィン 2026年6月25日07:15 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● CryptoQuantは、Strategy（旧MicroStrategy）の優先株STRCが過去最大のディスカウントで取引されている背景について詳細な分析を公表した。● 問題の本質はビットコイン価格下落だけではなく、現金準備金の減少と急拡大した配当負担にある。● エックスウィンでは、今回の事例は「企業によるビットコイン保有戦略」が次の段階へ入ったことを示していると考えている。 ビットコイン市場では長らく、Strategy（旧Mi",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "Binance、ギリシャでのMiCA申請取り下げ",
+      "link": "https://www.nadanews.com/356819/",
+      "pub_date": "2026-06-25T07:00:00+09:00",
+      "pub_date_utc": "2026-06-24T22:00:00+00:00",
+      "description": "世界最大級の暗号資産（仮想通貨）取引所Binance（バイナンス）は、欧州連合（EU）の暗号資産規制「MiCA」に基づくライセンス取得に引き続き取り組む姿勢を示 The post Binance、ギリシャでのMiCA申請取り下げ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 Binance、ギリシャでのMiCA申請取り下げ By Shoko Galaviz 2026年6月25日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 世界最大級の暗号資産（仮想通貨）取引所Binance（バイナンス）は、欧州連合（EU）の暗号資産規制「MiCA」に基づくライセンス取得に引き続き取り組む姿勢を示した。一方で、同社はギリシャでのMiCAライセンス申請を取り下げ、別のEU加盟国で認可取得を目指す方針を明らかにした。 バイナンスは6月24日、ギリシャでの申請を取り下げ、他のEU加盟国で認可を追求することを決定したと発表した。 同社の共同CEOであるRichard Teng（リチャード・テン）氏はXへの投稿で、規制上の不確実性が利用者にと",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ワールドカップ効果でPolymarket取引高300％増＝The Block",
+      "link": "https://www.nadanews.com/356816/",
+      "pub_date": "2026-06-25T06:30:00+09:00",
+      "pub_date_utc": "2026-06-24T21:30:00+00:00",
+      "description": "サッカーのワールドカップ開幕を受け、予測市場プラットフォームのPolymarket（ポリマーケット）とKalshi（カルシ）で取引活動が急拡大している。 The The post ワールドカップ効果でPolymarket取引高300％増＝The Block first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット ワールドカップ効果でPolymarket取引高300％増＝The Block By Shoko Galaviz 2026年6月25日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); サッカーのワールドカップ開幕を受け、予測市場プラットフォームのPolymarket（ポリマーケット）とKalshi（カルシ）で取引活動が急拡大している。 The Blockによると、ポリマーケットの「サッカー」カテゴリーは、ワールドカップ開始後10日間で20億ドル（約3200億円、1ドル＝160円換算）超の取引高を記録し、直前の10日間と比べて300％増加した。 同カテゴリーの1日平均取引高も大きく伸びた。開幕前1カ月の平均は5300万ドルだったが、大会期間中はこれまで",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "CFTC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "Cboe、S&P 500連動のバイナリーオプションをローンチ",
+      "link": "https://www.nadanews.com/356813/",
+      "pub_date": "2026-06-25T06:00:00+09:00",
+      "pub_date_utc": "2026-06-24T21:00:00+00:00",
+      "description": "Cboe Global Markets（シーボー・グローバル・マーケッツ）は6月23日、新たな予測市場向け商品群「Cboe Predicts（シーボー・プレディ The post Cboe、S&P 500連動のバイナリーオプションをローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Cboe、S&P 500連動のバイナリーオプションをローンチ By Shoko Galaviz 2026年6月25日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Cboe Global Markets（シーボー・グローバル・マーケッツ）は6月23日、新たな予測市場向け商品群「Cboe Predicts（シーボー・プレディクツ）」の第一弾を開始したと発表した。 対象となるのは、Mini-S&P 500 Index（XSP）を基にしたバイナリーオプション契約で、投資家がXSPの終値が特定水準以上になるか、または下回るかについて「イエス」または「ノー」の形で見通しを示せる商品となる。 Cboeによると、XSPはS&P 500 Index（SPX）の10",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "【6/24話題】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始、SBI VCトレードはリップルの「RLUSD」取扱開始、イーサリアム財団の新体制など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/586348",
+      "pub_date": "2026-06-25T01:56:40+09:00",
+      "pub_date_utc": "2026-06-24T16:56:40+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース 国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ 【国内初】SBI VCトレード、リップルの米ドルステーブルコイン「RLUSD」取扱開始。イーサリアムのみ対応 イーサリアム財団が新体制発表、54人削減で",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Ripple",
+        "Circle",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Ethereum Foundation",
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "メタプラネット、株主優待で最大10万JPYCを付与へ",
+      "link": "https://www.nadanews.com/356784/",
+      "pub_date": "2026-06-24T21:57:07+09:00",
+      "pub_date_utc": "2026-06-24T12:57:07+00:00",
+      "description": "メタプラネットは6月24日、HashPort（ハッシュポート）およびJPYCとの提携による株主優待プログラムの内容を発表した。 同プログラムでは、JPYC社が発 The post メタプラネット、株主優待で最大10万JPYCを付与へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス メタプラネット、株主優待で最大10万JPYCを付与へ By 平木 昌宏 2026年6月24日21:57 .st0 { fill: #374149; } 2026年6月24日21:57 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); メタプラネットは6月24日、HashPort（ハッシュポート）およびJPYCとの提携による株主優待プログラムの内容を発表した。 同プログラムでは、JPYC社が発行する日本円ステーブルコイン「JPYC」を、HashPortが提供するノンカストディアル型Web3ウォレット「HashPort Wallet」を通じて対象株主に付与する。 対象となるのは、6月30日時点でメタプラネット株式を1単元、100株以上保有する個人株主。株主ポータルで",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "JPYC",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "コインチェック、法人向けオンチェーン分析レポートを本格展開──キリフダと協働で定期発信",
+      "link": "https://www.nadanews.com/356689/",
+      "pub_date": "2026-06-24T20:51:13+09:00",
+      "pub_date_utc": "2026-06-24T11:51:13+00:00",
+      "description": "暗号資産（仮想通貨）取引所のコインチェックは6月24日、Web3ソリューションを展開するキリフダと協働し、事業法人・機関投資家向けオンチェーン分析レポート「Co The post コインチェック、法人向けオンチェーン分析レポートを本格展開──キリフダと協働で定期発信 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス コインチェック、法人向けオンチェーン分析レポートを本格展開──キリフダと協働で定期発信 By NADA NEWS編集部 2026年6月24日20:51 .st0 { fill: #374149; } 2026年6月24日20:51 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産（仮想通貨）取引所のコインチェックは6月24日、Web3ソリューションを展開するキリフダと協働し、事業法人・機関投資家向けオンチェーン分析レポート「Coincheck Prime Onchain Report」の定期発信を開始したと発表した。 同レポートは、コインチェックの法人・機関投資家向けサービス「Coincheck Prime」の顧客を対象に、暗号資産市場やオンチェーン経",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "金融庁"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "SBI VCトレード、米ドル建てステーブルコイン「RLUSD」取扱い開始",
+      "link": "https://coinpost.jp/?p=719591",
+      "pub_date": "2026-06-24T17:53:41+09:00",
+      "pub_date_utc": "2026-06-24T08:53:41+00:00",
+      "description": "SBI VCトレードがVCTRADEで米ドル建てステーブルコイン「RLUSD」の取扱いを開始。同社は国内初の4号電子決済手段と位置づける。USDCに続く2銘柄目で入出庫手数料は無料、対応チェーンはイーサリアム。発行体や裏付け資産の仕組みも整理した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple",
+        "Grayscale",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "【国内初】SBI VCトレード、リップルの米ドルステーブルコイン「RLUSD」取扱開始。イーサリアムのみ対応",
+      "link": "https://www.neweconomy.jp/posts/586315",
+      "pub_date": "2026-06-24T17:50:04+09:00",
+      "pub_date_utc": "2026-06-24T08:50:04+00:00",
+      "description": "国内初の4号電子決済手段が取扱開始 国内暗号資産（仮想通貨）取引所SBI VCトレードが、米ドル連動型ステーブルコイン「リップルUSD（RLUSD）」の取扱開始を6月24日に発表した。対応チェーンはイーサリアム（Ethe",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "国内初の4号電子決済手段が取扱開始 国内暗号資産（仮想通貨）取引所SBI VCトレードが、米ドル連動型ステーブルコイン「リップルUSD（RLUSD）」の取扱開始を6月24日に発表した。対応チェーンはイーサリアム（Ethereum）のみとのこと。国内初の4号電子決済手段の提供となる。 RLUSDは、米リップル（Ripple）傘下のスタンダード・カストディ・アンド・トラスト（Standard Custody and Trust Company）発行のステーブルコイン。現在、イーサリアムとXRPレジャー（XRP Ledger：XRPL）上でネイティブに発行されている。相互運用プロトコル「ワームホール（Wormhole）」のネイティブトークントランスファー（NTT）標準を通じることにより、ベース（Base）、インク（Ink）、オプティミズム（Optimism）、ユニチェーン（Unichain）、X",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple",
+        "Optimism",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "SBIグループ、国内初の信託型円建てステーブルコイン「JPYSC」提供開始",
+      "link": "https://coinpost.jp/?p=719565",
+      "pub_date": "2026-06-24T17:34:13+09:00",
+      "pub_date_utc": "2026-06-24T08:34:13+00:00",
+      "description": "SBIグループとStartale Groupが信託型円建てステーブルコイン「JPYSC」を2026年6月24日に発行。SBI VCトレードの口座内で先行提供を開始し、100万円の送金上限がない第3号電子決済手段として国内初の発行となる。",
+      "category_raw": "AD",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Grayscale",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "SBI Holdings"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ",
+      "link": "https://www.neweconomy.jp/posts/586241",
+      "pub_date": "2026-06-24T17:00:29+09:00",
+      "pub_date_utc": "2026-06-24T08:00:29+00:00",
+      "description": "JPYSCは初日から100億円分発行へ SBIグループおよびスターテイルグループ（Startale Group）が共同開発する、信託型円建てステーブルコイン「JPYSC」の発行および提供の開始が6月24日に発表された。信",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "JPYSCは初日から100億円分発行へ SBIグループおよびスターテイルグループ（Startale Group）が共同開発する、信託型円建てステーブルコイン「JPYSC」の発行および提供の開始が6月24日に発表された。信託銀行が裏付け資産を管理する信託型として国内初の発行となる。発行者はSBI新生信託銀行だ。 JPYSCは、先行して発行されている資金移動業型の「JPYC」とは異なり、滞留・送金にかかる100万円制限を受けないのが特徴だ。ステーブルコインは既存の決済手段に比べ送金コストが大幅に安価であり、JPYSCは大口での送金にも対応できることから、法人を含めた様々なユースケースがあるとされている。 「あたらしい経済」編集部がスターテイルグループへ取材したところ、JPYSCの発行先ブロックチェーンはイーサリアム（Ethereum）であることと、初日より100億JPYSCを発行予定であること",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "JPYC",
+        "SBI Holdings",
+        "金融庁"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "カントンのスーパーバリデーターZenith、Progmat主催の国債トークン化WGに参画",
+      "link": "https://coinpost.jp/?p=719384",
+      "pub_date": "2026-06-24T17:00:19+09:00",
+      "pub_date_utc": "2026-06-24T08:00:19+00:00",
+      "description": "カントン主要バリデーターのZenithが、Progmat主催のDCCのWGに参画。三メガバンクやブラックロック・ジャパンらと、約1.6兆ドルの国債レポ市場でトークン化国債を用いたオンチェーン・レポ取引を共同検討する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "BlackRock",
+        "Grayscale",
+        "三菱UFJ銀行",
+        "みずほ銀行"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道",
+      "link": "https://coinpost.jp/?p=719542",
+      "pub_date": "2026-06-24T16:44:04+09:00",
+      "pub_date_utc": "2026-06-24T07:44:04+00:00",
+      "description": "米ファストフードチェーンのステーキンシェイクが、ビットコイン決済導入から約1年が経過した現時点でも、クレジットカード比で処理手数料を約50％削減できていると明らかにした。全顧客がBTCで支払えば年間約600万ドルの節約になるとの試算も示している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "韓国大手保険会社、ウォン建てステーブルコインで保険料納付などの概念実証完了",
+      "link": "https://coinpost.jp/?p=719515",
+      "pub_date": "2026-06-24T16:02:04+09:00",
+      "pub_date_utc": "2026-06-24T07:02:04+00:00",
+      "description": "韓国の大手生命保険会社・教保生命がブロックチェーン企業EQBRと共同で、ウォン建てステーブルコインによる保険料収納・保険金支払いの技術検証（PoC）を完了。法制化前の先手対応として保険業界初と位置づけた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "機関投資家向けサミット「The Capital Summit Tokyo」、7/15虎ノ門ヒルズで開催へ",
+      "link": "https://www.neweconomy.jp/posts/586228",
+      "pub_date": "2026-06-24T15:56:13+09:00",
+      "pub_date_utc": "2026-06-24T06:56:13+00:00",
+      "description": "The Capital Summit Tokyoが7/15に東京で開催 グローバル機関投資家向けフォーラム「ザ・キャピタル・サミット（The Capital Summit）」の東京版イベント「The Capital Su",
+      "category_raw": "ストーリー",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "The Capital Summit Tokyoが7/15に東京で開催 グローバル機関投資家向けフォーラム「ザ・キャピタル・サミット（The Capital Summit）」の東京版イベント「The Capital Summit Tokyo」が、7月15日に東京・虎ノ門のCIC Tokyoで開催される。 同イベントは、The Capital SummitとWeb3特化コンサルティング企業ディファイマンズ（DeFimans）が共催する完全招待制・事前登録制のサミット。参加費は無料。定員は最大200名となる。 The Capital Summitは、投資・市場構造・資本形成に特化した完全招待制のグローバル機関投資家向けフォーラムだ。東京・ソウル・シンガポール・ロンドンなどを中心に開催されており、これまでに1,200名以上の参加者、113名以上の登壇者、50社超の機関投資家パートナーが参加してい",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "アンカレッジ・デジタル、銀行向けトークン化預金インフラ提供開始",
+      "link": "https://www.neweconomy.jp/posts/586223",
+      "pub_date": "2026-06-24T15:47:22+09:00",
+      "pub_date_utc": "2026-06-24T06:47:22+00:00",
+      "description": "Anchorage Digitalが銀行向けトークン化預金基盤提供 機関向け暗号資産プラットフォームのアンカレッジ・デジタル（Anchorage Digital）が、銀行向けのトークン化預金基盤の提供開始を6月22日に発",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Anchorage Digitalが銀行向けトークン化預金基盤提供 機関向け暗号資産プラットフォームのアンカレッジ・デジタル（Anchorage Digital）が、銀行向けのトークン化預金基盤の提供開始を6月22日に発表した。 同基盤は、既存の基幹勘定系システムを置き換えることなく、ブロックチェーンを活用した24時間365日の決済・清算機能を銀行に提供する設計とのこと。 同基盤の特徴は、スマートコントラクトによるルールベースの資金移動、銀行ごとの業務要件に応じたカスタマイズ、既存の預金規制・会計・コンプライアンス枠組みとの親和性だという。同基盤の提供機能には、スマートコントラクト基盤、ウォレット管理・鍵カストディAPI、発行・バーンAPIエンドポイント、ブロックチェーン分析・監視機能が含まれるとのこと。 また同基盤は、ブロックチェーンを既存の銀行システムと並行して稼働する台帳として利用す",
+      "summary_error": true,
+      "category": "Tokenized Deposit",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "米上院、CBDC発行禁止条項盛り込んだ住宅法案を可決、大統領署名へ",
+      "link": "https://www.neweconomy.jp/posts/586216",
+      "pub_date": "2026-06-24T15:38:09+09:00",
+      "pub_date_utc": "2026-06-24T06:38:09+00:00",
+      "description": "2030年末までFRBによるCBDC発行を禁止 米上院が、大型住宅政策法案「21世紀の住宅への道法案（21st Century ROAD to Housing Act）」を賛成85、反対5の賛成多数で6月22日に可決した",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "2030年末までFRBによるCBDC発行を禁止 米上院が、大型住宅政策法案「21世紀の住宅への道法案（21st Century ROAD to Housing Act）」を賛成85、反対5の賛成多数で6月22日に可決した。また同法案は6月23日に米下院でも賛成358、反対32で可決され、トランプ大統領の署名に送付された。 同法案は住宅供給の拡大や規制改革などを柱とする包括的な住宅政策法案だが、その中には米連邦準備制度（Fed）の中央銀行デジタル通貨（CBDC）発行を制限する条項も盛り込まれている。 法案に含まれる条項では、FRB理事会および各地区連銀が、CBDCまたは実質的に類似するデジタル資産を直接または金融機関などを通じて間接的に発行・創設することを禁止する内容が定められている。 禁止期間は2030年12月31日までとされている。 また同条項では、法案の内容がFRBにCBDC発行権限を",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "FRB"
+      ],
+      "main_entities": [
+        "FRB"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "メタが予測市場アプリ「Arena」開発か、ポリマーケットやカルシ成長の中で=報道",
+      "link": "https://www.neweconomy.jp/posts/586209",
+      "pub_date": "2026-06-24T15:30:48+09:00",
+      "pub_date_utc": "2026-06-24T06:30:48+00:00",
+      "description": "メタが予測市場アプリ「Arena」開発か 米IT大手メタ（Meta）が、予測市場アプリ「アリーナ（Arena）」を開発していると、米紙「ニューヨーク・タイムズ（The New York Times）」が6月23日に報じた",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "メタが予測市場アプリ「Arena」開発か 米IT大手メタ（Meta）が、予測市場アプリ「アリーナ（Arena）」を開発していると、米紙「ニューヨーク・タイムズ（The New York Times）」が6月23日に報じた。 報道によると、同アプリは予測市場プラットフォーム「ポリマーケット（Polymarket）」や「カルシ（Kalshi）」に似たサービスとして開発が進められているとのこと。同メディアは、メタのマーク・ザッカーバーグ（Mark Zuckerberg）CEOが社内の小規模チームに開発を指示したと伝えている。 アリーナは、フェイスブック（Facebook）やインスタグラム（Instagram）、ワッツアップ（WhatsApp）、メッセンジャー（Messenger）など、メタの既存SNSとは独立したアプリとして提供される見込みだ。一方でメタは、既存SNSからアリーナへ利用者を誘導す",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Coinbase",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "米下院、7月にFed公聴会とクラリティ法案関連ヒアリングを開催へ",
+      "link": "https://www.neweconomy.jp/posts/586201",
+      "pub_date": "2026-06-24T15:21:48+09:00",
+      "pub_date_utc": "2026-06-24T06:21:48+00:00",
+      "description": "ウォーシュFRB議長の初議会証言にも注目 米下院金融サービス委員会（HFSC）が、米連邦準備制度（Federal Reserve、Fed）の半期金融政策報告に関する公聴会と、暗号資産（仮想通貨）市場構造法案「クラリティ法",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "ウォーシュFRB議長の初議会証言にも注目 米下院金融サービス委員会（HFSC）が、米連邦準備制度（Federal Reserve、Fed）の半期金融政策報告に関する公聴会と、暗号資産（仮想通貨）市場構造法案「クラリティ法案（CLARITY Act）」に関するヒアリングを7月に相次いで開催する予定だ。 HFSC公式ページによれば、委員会は7月14日10:00（米東部時間）に「The Federal Reserve’s Semi-Annual Monetary Policy Report」と題した公聴会を開催する予定。ロイターによれば、ケビン・ウォーシュ（Kevin Warsh）連邦準備制度理事会（FRB）議長は同公聴会で、就任後初めて金融政策に関する議会証言を行う見通しだ。 また7月17日10:00（米東部時間）にはニューヨークで、HFSCのデジタル資産・金融技術・AI小委員会によるフィール",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "SEC",
+        "CFTC",
+        "FRB"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ビットコイン短期保有者、含み損8カ月継続＝アナリスト",
+      "link": "https://coinpost.jp/?p=719463",
+      "pub_date": "2026-06-24T14:09:59+09:00",
+      "pub_date_utc": "2026-06-24T05:09:59+00:00",
+      "description": "オンチェーンアナリストDarkfostが24日に分析を公開。ビットコインの短期保有者（STH）は実現価格7万4,800ドルを下回る状態が8カ月継続し、含み損は平均14.4％。コスト基準の奪還が相場転換の鍵と指摘する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "7/12開催「Japan Blockchain Week Summit 2026」、タイトルスポンサーにビットマイン。登壇者も公開",
+      "link": "https://www.neweconomy.jp/posts/586149",
+      "pub_date": "2026-06-24T13:56:54+09:00",
+      "pub_date_utc": "2026-06-24T04:56:54+00:00",
+      "description": "7月12日に渋谷ストリームホールで開催 「Japan Blockchain Week Summit 2026（JBWS 2026）」のタイトルスポンサーとカンファレンス登壇者が決定した。 JBWS 2026は、7月12日",
+      "category_raw": "ストーリー",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "7月12日に渋谷ストリームホールで開催 「Japan Blockchain Week Summit 2026（JBWS 2026）」のタイトルスポンサーとカンファレンス登壇者が決定した。 JBWS 2026は、7月12日に東京・渋谷ストリームホールで開催されるブロックチェーンサミットだ。国内外から1,000人以上の参加者を見込んでおり、世界のブロックチェーン業界関係者が集い、ブロックチェーンの未来、AIと暗号資産（仮想通貨）の融合、オンチェーン経済の進化などを議論するという。 なおJBWS 2026は、7月1日から15日まで開催される「Japan Blockchain Week 2026（JBW 2026）」のメインイベントのひとつとして実施される。 今回タイトルスポンサーとなったのは、米NYSE上場のビットマイン・イマージョン・テクノロジーズ（Bitmine Immersion Tech",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Binance",
+        "Circle",
+        "MicroStrategy",
+        "Animoca Brands",
+        "a16z"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ヴィタリック、イーサリアム財団の予算4割削減と基金モデルへの転換を発表",
+      "link": "https://coinpost.jp/?p=719432",
+      "pub_date": "2026-06-24T13:50:45+09:00",
+      "pub_date_utc": "2026-06-24T04:50:45+00:00",
+      "description": "イーサリアム創設者ヴィタリック・ブテリン氏が、2026年のイーサリアム財団（EF）予算を約40%削減すると発表した。20%の人員削減と組織再編を伴う今回の改革で、EFは運用収益で活動を賄う「基金（エンダウメント）モデル」への移行を計画。",
+      "category_raw": "CoinPost",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "チェーンリンク、外為決済の短縮プロジェクトに参画　韓国・欧州の金融機関と",
+      "link": "https://coinpost.jp/?p=719402",
+      "pub_date": "2026-06-24T13:15:39+09:00",
+      "pub_date_utc": "2026-06-24T04:15:39+00:00",
+      "description": "チェーンリンクは、ステーブルコインを活用した国際決済モデルを構築して外国為替市場を再定義する共同プロジェクトProject Pangeaを発表。韓国・欧州の金融機関などと協業する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "SBIとスターテイルのステーブルコイン「JPYSC」が近日発行開始か、金融庁が承認＝報道",
+      "link": "https://www.neweconomy.jp/posts/586128",
+      "pub_date": "2026-06-24T12:33:37+09:00",
+      "pub_date_utc": "2026-06-24T03:33:37+00:00",
+      "description": "JPYSCが近日に発行開始か SBIホールディングスとスターテイルグループ（Startale Group）が共同開発を進めている日本円ステーブルコイン「JPYSC」が、今週内にも発行開始されると、「日本経済新聞」が6月2",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "JPYSCが近日に発行開始か SBIホールディングスとスターテイルグループ（Startale Group）が共同開発を進めている日本円ステーブルコイン「JPYSC」が、今週内にも発行開始されると、「日本経済新聞」が6月23日に報じた。 報道によるとSBIは、発行に必要な承認を金融庁から得たとのことだ。 JPYSCは、日本の金融規制の枠組みに基づき、信託銀行である新生信託銀行が信託型の3号電子決済手段として発行するステーブルコインとのこと。SBIグループの暗号資産（仮想通貨）取引所で電子決済手段等取引業者であるSBI VCトレードが主要な販売パートナーを務め、スターテイルGがコアパートナーとしてプロジェクトを主導している。正式ローンチは、2026年度第1四半期（1Q：4~6月）が目指されているとのことだった。 日本におけるステーブルコインは「電子決済手段」として位置付けられ、資金移動業者にて",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "三菱UFJ銀行",
+        "三井住友銀行",
+        "SBI Holdings",
+        "野村ホールディングス",
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ポリマーケット、W杯中継でTV広告　優勝国予想の取引高30億ドル超に",
+      "link": "https://coinpost.jp/?p=719410",
+      "pub_date": "2026-06-24T12:30:20+09:00",
+      "pub_date_utc": "2026-06-24T03:30:20+00:00",
+      "description": "Crypto Briefingが23日報じたところによると、予測市場プラットフォームのポリマーケットが6月15日、FIFAワールドカップのFox中継中にTV広告を初放映。同社サイトによると優勝予測市場の累計取引高は30億ドルを超えており、MLSやリーガMXとの提携も進め、主流スポーツ市場への進出を本格化させている。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ビットコイン「9月大底」説が浮上 古参投資家は売らず、新参組だけが投げ売りか",
+      "link": "https://cointelegraph.jp/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-24T11:45:14+09:00",
+      "pub_date_utc": "2026-06-24T02:45:14+00:00",
+      "description": "古参ビットコイン勢の売りは19カ月ぶりの低水準に落ち込んだ。一方、市場サイクル指標は、9月が相場の底打ち時期となる可能性を示している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "古参ビットコイン勢の売りは19カ月ぶりの低水準に落ち込んだ。一方、市場サイクル指標は、9月が相場の底打ち時期となる可能性を示している。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "ジーキャッシュ採掘Fortitude、HeartSciencesと合併",
+      "link": "https://coinpost.jp/?p=719389",
+      "pub_date": "2026-06-24T11:35:46+09:00",
+      "pub_date_utc": "2026-06-24T02:35:46+00:00",
+      "description": "DCG傘下の仮想通貨ジーキャッシュ・マイニング企業Fortitude MiningとAI医療技術企業HeartSciencesが合併契約を締結。2026年下半期の取引完了を目指している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道 クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化 グレースケール、米クラリティー法で恩恵を受け得る4大仮想通貨銘柄を特定 googletag.cmd.push(function() { googletag.display('div",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
+      "title": "スターマー退陣で英国暗号資産業界が色めき立つ「Web3推進派」バーナム氏が後継最有力に",
+      "link": "https://cointelegraph.jp/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "pub_date": "2026-06-24T11:35:31+09:00",
+      "pub_date_utc": "2026-06-24T02:35:31+00:00",
+      "description": "マンチェスター市長時代にブロックチェーン産業を後押ししてきたバーナム氏の登場は、英国の暗号資産業界に一筋の楽観ムードをもたらしている。",
+      "category_raw": "特徴",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "マンチェスター市長時代にブロックチェーン産業を後押ししてきたバーナム氏の登場は、英国の暗号資産業界に一筋の楽観ムードをもたらしている。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-25T11:10:26.338510+09:00"
+    },
+    {
       "title": "米大手取引所Cboe、予測市場に参入　S&P500連動のバイナリーオプション上場",
       "link": "https://coinpost.jp/?p=719350",
       "pub_date": "2026-06-24T10:30:01+09:00",
@@ -47539,8 +48366,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-24T11:10:55.245056+09:00",
-  "total_count": 2277,
+  "last_updated": "2026-06-25T11:10:26.338510+09:00",
+  "total_count": 2312,
   "sources": [
     "NADA NEWS",
     "CoinPost",
