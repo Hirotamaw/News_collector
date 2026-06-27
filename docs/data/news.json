@@ -1,6 +1,964 @@
 {
   "articles": [
     {
+      "title": "スペイン当局「MiCA猶予延長なし」明言　バイナンスもEUでの営業停止へ",
+      "link": "https://coinpost.jp/?p=720473",
+      "pub_date": "2026-06-27T11:00:31+09:00",
+      "pub_date_utc": "2026-06-27T02:00:31+00:00",
+      "description": "スペイン当局がEUの仮想通貨規制「MiCA」ライセンス未取得企業への猶予延長を否定した。バイナンスもEU域内でのサービス提供が不可能となる見通しだ。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットコイン支持者モウ氏、ストラテジーとBSTRのビットコインのOTC取引提案",
+      "link": "https://coinpost.jp/?p=720485",
+      "pub_date": "2026-06-27T10:30:36+09:00",
+      "pub_date_utc": "2026-06-27T01:30:36+00:00",
+      "description": "仮想通貨ビットコイン支持者のサムソン・モウ氏が、ストラテジーとビットコインDAT企業とのOTC取引を提案した。現金準備金の補充と保有量ブーストを同時に解決する構造だと説明。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "Baseチェーン、2日連続でブロック生成障害発生　B20有効化も延期",
+      "link": "https://coinpost.jp/?p=720445",
+      "pub_date": "2026-06-27T09:35:06+09:00",
+      "pub_date_utc": "2026-06-27T00:35:06+00:00",
+      "description": "コインベース支援のイーサリアムL2「ベース」が26日、前日に続き2度目のチェーンホルトを経験した。ブロック生成は約38分後に復旧したが、B20トークン標準のメインネット有効化延期も発表された。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "恐怖の再燃と、静かな蓄積── ビットコイン市場が試される「投げ売り後」の需給構造【BitTrade Market Weekly】",
+      "link": "https://www.nadanews.com/357230/",
+      "pub_date": "2026-06-27T09:00:00+09:00",
+      "pub_date_utc": "2026-06-27T00:00:00+00:00",
+      "description": "今週の市場は、「短期資金の逃避が強まる一方で、長期投資家の蓄積が水面下で続いた一週間」だった。 ビットコインは週前半に63,000〜64,000ドル（約1,02 The post 恐怖の再燃と、静かな蓄積── ビットコイン市場が試される「投げ売り後」の需給構造【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット 恐怖の再燃と、静かな蓄積── ビットコイン市場が試される「投げ売り後」の需給構造【BitTrade Market Weekly】 By 荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト 2026年6月27日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 今週の市場は、「短期資金の逃避が強まる一方で、長期投資家の蓄積が水面下で続いた一週間」だった。 ビットコインは週前半に63,000〜64,000ドル（約1,020万〜1,040万円）付近で推移していたが、週後半には一時58,000ドル台（約940万円台）まで下落した。その後も59,000〜60,000ドル（約950万〜960万円）前後で上値の重い展開が続いている。 価格だけを見",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BitTrade"
+      ],
+      "main_entities": [
+        "BitTrade"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "米VCのフレームワークが640億円超調達、仮想通貨・AI・ロボット・エネルギー領域に投資へ",
+      "link": "https://coinpost.jp/?p=720462",
+      "pub_date": "2026-06-27T08:15:29+09:00",
+      "pub_date_utc": "2026-06-26T23:15:29+00:00",
+      "description": "フレームワーク・ベンチャーズは、4号ファンド用に640億円超の資金を調達。仮想通貨・AI・ロボット・エネルギー領域に投資する計画や投資の背景について説明した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "金融資産トークン化企業セキュリタイズ、NYSE上場予定",
+      "link": "https://coinpost.jp/?p=720447",
+      "pub_date": "2026-06-27T08:05:10+09:00",
+      "pub_date_utc": "2026-06-26T23:05:10+00:00",
+      "description": "RWAトークン化インフラ大手のセキュリタイズが、米カンター・フィッツジェラルド系SPACとの合併を通じて約4億ドルを調達する見込みで7月2日にNYSEへ上場する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
+      "link": "https://www.nadanews.com/357179/",
+      "pub_date": "2026-06-27T08:00:00+09:00",
+      "pub_date_utc": "2026-06-26T23:00:00+00:00",
+      "description": "みなさん、今週もお疲れ様でした！ 暗号資産規制の金融商品取引法（金商法）への移行や、与党が推進する「AIオンチェーン金融」の進展など、いまWeb3は私たちの日常 The post 今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】 By NADA NEWS編集部 2026年6月27日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); みなさん、今週もお疲れ様でした！ 暗号資産規制の金融商品取引法（金商法）への移行や、与党が推進する「AIオンチェーン金融」の進展など、いまWeb3は私たちの日常（マス）へ溶け込む新たなステージに差し掛かっています。 今週も、国内初の信託型ステーブルコインの発行開始や大手取引所を巡る業界再編の動きなど怒涛の1週間でした。 そんな変化の速い業界を読者の皆さまと一緒に学んでいくために、NADA NEWSでは毎週土曜日にその週の重要ニュースをクイズ形式でおさらいする企画をスタートします",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットコインはまだ底ではないのか──Ki Young Ju氏が示す「Realized Price」と市場の現在地【エックスウィン】",
+      "link": "https://www.nadanews.com/357216/",
+      "pub_date": "2026-06-27T07:00:57+09:00",
+      "pub_date_utc": "2026-06-26T22:00:57+00:00",
+      "description": "● CryptoQuant CEOのKi Young Ju氏は、「ビットコインはまだサイクル底ではない可能性が高い」との見解を示し、その根拠としてRealize The post ビットコインはまだ底ではないのか──Ki Young Ju氏が示す「Realized Price」と市場の現在地【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン ビットコインはまだ底ではないのか──Ki Young Ju氏が示す「Realized Price」と市場の現在地【エックスウィン】 By エックスウィン 2026年6月27日07:00 .st0 { fill: #374149; } 2026年6月27日07:05 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● CryptoQuant CEOのKi Young Ju氏は、「ビットコインはまだサイクル底ではない可能性が高い」との見解を示し、その根拠としてRealized Price（実現価格）への未到達を挙げている。● 過去の主要な弱気相場では、ビットコイン価格はRealized Price付近まで下落してから反転するケースが多く、この指標は現在も市場全",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "リップルCEO、ストラテジーのビットコイン購入手法を疑問視",
+      "link": "https://coinpost.jp/?p=720448",
+      "pub_date": "2026-06-27T06:45:12+09:00",
+      "pub_date_utc": "2026-06-26T21:45:12+00:00",
+      "description": "リップルのガーリングハウスCEOがCNBCで、ストラテジーのビットコイン購入を支える『金融工学手法』を批判した。優先株STRCは26日に過去最安値を更新し、クリプトクアントはBTC購入停止と現金準備金の回復を提言している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "米上院議員、CFTCにポリマーケット調査を要求　架空動画問題受け",
+      "link": "https://coinpost.jp/?p=720449",
+      "pub_date": "2026-06-27T06:14:14+09:00",
+      "pub_date_utc": "2026-06-26T21:14:14+00:00",
+      "description": "米上院の超党派議員2人が商品先物取引委員会（CFTC）委員長に書簡を送り、予測市場ポリマーケットによる欺瞞的マーケティングの調査と7月10日までの回答を求めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "CFTC"
+      ],
+      "main_entities": [
+        "CFTC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "イーサリアムクジラ、8年ぶり売却　2025年高値から利益8割超減",
+      "link": "https://coinpost.jp/?p=720450",
+      "pub_date": "2026-06-27T05:50:17+09:00",
+      "pub_date_utc": "2026-06-26T20:50:17+00:00",
+      "description": "2018年から8年間イーサリアムを保有し続けてきた4つのウォレットが売却を開始。1億5,000万ドル超のピーク時含み益から約2,740万ドルに大幅縮小。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ハイパーリキッド、シンガポール金融管理局の投資家警告リストに掲載",
+      "link": "https://coinpost.jp/?p=720438",
+      "pub_date": "2026-06-27T05:00:56+09:00",
+      "pub_date_utc": "2026-06-26T20:00:56+00:00",
+      "description": "シンガポール金融管理局（MAS）は26日、投資家警告リストにDeFi大手ハイパーリキッドを追加した。違法認定ではなく、MASの規制対象でないことを投資家に周知する措置で、ハイパーリキッドは同日に声明を発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Bybit",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "SharpLink株が4％下落──8カ月ぶりETH購入再開も含み損懸念が重荷に【価格分析】",
+      "link": "https://www.nadanews.com/357127/",
+      "pub_date": "2026-06-26T22:43:45+09:00",
+      "pub_date_utc": "2026-06-26T13:43:45+00:00",
+      "description": "・SharpLinkは8カ月ぶりにイーサリアム（ETH）の購入を再開し、5000ETHを取得した。これにより、同社のETH保有量は87万6000ETH超に拡大し The post SharpLink株が4％下落──8カ月ぶりETH購入再開も含み損懸念が重荷に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット SharpLink株が4％下落──8カ月ぶりETH購入再開も含み損懸念が重荷に【価格分析】 By Ibrahim Ajibade 2026年6月26日22:43 .st0 { fill: #374149; } 2026年6月26日22:43 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ・SharpLinkは8カ月ぶりにイーサリアム（ETH）の購入を再開し、5000ETHを取得した。これにより、同社のETH保有量は87万6000ETH超に拡大した。・同社株は約4％下落し、52週安値に迫った。投資家は、同社が抱える多額の暗号資産の含み損を引き続き懸念している。・ETH保有者のうち利益圏にある割合は低下傾向が続いており、ステーキング参加が過去最高水準にあるにも",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Sui"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "【6/26話題】野村HDとサークルが協業へ、Baseが約2時間ブロック生成停止、ハイリキ分析レポート公開など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/587358",
+      "pub_date": "2026-06-26T22:41:56+09:00",
+      "pub_date_utc": "2026-06-26T13:41:56+00:00",
+      "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotify、Voicy、YouTubeなどで配信中。ぜひとも各サービスでチャンネルをフォロー（購読登録）して、日々の情報収集にお役立てください。 この番組は、暗号資産取引におけるフルラインナップサービスを提供する「SBI VCトレード」のスポンサーでお届けします。スポンサー企業についての詳細はページ下部をご確認ください。 紹介したニュース 【正式発表】野村HDと米サークル、ステーブルコイン活用の次世代金融インフラ検討 イーサL2「Base」メインネットで約2時間ブロック生成停止、原因特定し復旧 マルチコインキャピタル、ハイパーリキッド分析レポート公開。HYPE価格を2028年319",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Kraken",
+        "Ethereum Foundation",
+        "Solana",
+        "Ripple",
+        "Sui",
+        "Aave",
+        "Hyperliquid",
+        "Circle",
+        "SBI Holdings",
+        "金融庁",
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "【7/11まで】最大2000円相当のETHがもらえる！コインチェック、つみたてキャンペーン開始",
+      "link": "https://www.nadanews.com/357193/",
+      "pub_date": "2026-06-26T18:29:13+09:00",
+      "pub_date_utc": "2026-06-26T09:29:13+00:00",
+      "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 コインチェック（Coincheck）は6月26日、 The post 【7/11まで】最大2000円相当のETHがもらえる！コインチェック、つみたてキャンペーン開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "キャンペーン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "キャンペーン 【7/11まで】最大2000円相当のETHがもらえる！コインチェック、つみたてキャンペーン開始 By NADA NEWS編集部 2026年6月26日18:29 .st0 { fill: #374149; } 2026年6月26日18:29 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 コインチェック（Coincheck）は6月26日、暗号資産（仮想通貨）積立サービス「Coincheckつみたて」で、最大2000円相当のイーサリアム（ETH）がもらえるキャンペーンを開始した。 対象者全員に、初回つみたて設定額の10%相当のETHを付与する。上限は2",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "「同意なし」で個人情報を海外へ 韓国ビッサムに当局が制裁金",
+      "link": "https://cointelegraph.jp/news/south-korea-investigation-bithumb-user-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T17:44:41+09:00",
+      "pub_date_utc": "2026-06-26T08:44:41+00:00",
+      "description": "調査の結果、ビッサムが利用者データを保護するための法律に違反し、多数の海外取引所と情報を共有していたことが判明。今回の制裁金は、それを受けたものだ。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "調査の結果、ビッサムが利用者データを保護するための法律に違反し、多数の海外取引所と情報を共有していたことが判明。今回の制裁金は、それを受けたものだ。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットコイン暴落警戒が再燃 オプション投資家は「下落保険」に殺到、ストラテジー危機説はまだ織り込まず",
+      "link": "https://cointelegraph.jp/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T17:37:47+09:00",
+      "pub_date_utc": "2026-06-26T08:37:47+00:00",
+      "description": "アンカレッジ・デジタルの最新分析によれば、ビットコインのオプション投資家は、目先の不透明感が拭えないなかでなお守りの姿勢を崩していない。ただし市場は、ストラテジーに対して極端な下落シナリオまでは織り込んでいない。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "アンカレッジ・デジタルの最新分析によれば、ビットコインのオプション投資家は、目先の不透明感が拭えないなかでなお守りの姿勢を崩していない。ただし市場は、ストラテジーに対して極端な下落シナリオまでは織り込んでいない。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "バイナンス、EU顧客に出金案内　MiCAライセンス取得できず＝報道",
+      "link": "https://coinpost.jp/?p=720404",
+      "pub_date": "2026-06-26T17:35:08+09:00",
+      "pub_date_utc": "2026-06-26T08:35:08+00:00",
+      "description": "バイナンスがギリシャへのMiCAライセンス申請を取り下げ、7月1日からEU域内のサービスを停止する。ポーランド・フランスなど複数国のユーザーに出金案内メールが届いており、マネロン罰則歴や複雑な企業構造が審査の障壁となった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "XRP暴落寸前、1ドル割れ目前でも大口投資家が買い集めるワケ",
+      "link": "https://cointelegraph.jp/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T17:30:33+09:00",
+      "pub_date_utc": "2026-06-26T08:30:33+00:00",
+      "description": "XRPは、1ドルを下回って日足を終える可能性が高まりつつある。だが、大口投資家による買い集めと、取引所に置かれた供給量の減少は、トレーダーたちがこの下落局面で買いに動いている兆候かもしれない。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "XRPは、1ドルを下回って日足を終える可能性が高まりつつある。だが、大口投資家による買い集めと、取引所に置かれた供給量の減少は、トレーダーたちがこの下落局面で買いに動いている兆候かもしれない。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "JPYC、総流通量10億円を突破",
+      "link": "https://www.nadanews.com/357126/",
+      "pub_date": "2026-06-26T17:00:14+09:00",
+      "pub_date_utc": "2026-06-26T08:00:14+00:00",
+      "description": "日本円ステーブルコイン「JPYC」の総流通量が10億JPYCを突破したことが、オンチェーンデータをまとめる「JPYC info」で6月26日、確認された。 JP The post JPYC、総流通量10億円を突破 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス JPYC、総流通量10億円を突破 By 平木 昌宏 2026年6月26日17:00 .st0 { fill: #374149; } 2026年6月26日17:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 日本円ステーブルコイン「JPYC」の総流通量が10億JPYCを突破したことが、オンチェーンデータをまとめる「JPYC info」で6月26日、確認された。 ＜JPYCのリアルタイムチェーン別 総流通量 出典：JPYC infoより＞ JPYCは1JPYC＝1円で発行・償還される円建てステーブルコイン。今回の突破により、約10億円相当のJPYCが複数のパブリックブロックチェーン上で流通していることになる。 なお、国内の円建てステーブルコイン市場では、SB",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Polygon",
+        "Avalanche",
+        "JPYC",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットコイン、機関投資家の売り圧力が加速　コインベース・プレミアム指数が40日超マイナス",
+      "link": "https://coinpost.jp/?p=720383",
+      "pub_date": "2026-06-26T16:46:30+09:00",
+      "pub_date_utc": "2026-06-26T07:46:30+00:00",
+      "description": "オンチェーンアナリストのダークフォスト氏が分析。コインベース・プレミアム指数が5月15日以降マイナス圏に留まり、米PCEが2023年4月以来の高水準を記録。機関投資家のリスク回避姿勢が長期化している背景を読む。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Coinbase",
+        "Binance"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "イーサリアムトレジャリー企業Sharplink、8カ月ぶりにETHを購入",
+      "link": "https://www.nadanews.com/357120/",
+      "pub_date": "2026-06-26T16:40:00+09:00",
+      "pub_date_utc": "2026-06-26T07:40:00+00:00",
+      "description": "イーサリアム（ETH）トレジャリー企業のSharplink（シャープリンク）は、約8カ月ぶりにイーサリアムを購入した。 オンチェーンデータ分析企業Arkham（ The post イーサリアムトレジャリー企業Sharplink、8カ月ぶりにETHを購入 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス イーサリアムトレジャリー企業Sharplink、8カ月ぶりにETHを購入 By 廣瀬 優香 2026年6月26日16:40 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イーサリアム（ETH）トレジャリー企業のSharplink（シャープリンク）は、約8カ月ぶりにイーサリアムを購入した。 オンチェーンデータ分析企業Arkham（アーカム）のデータによると、シャープリンクに関連するウォレットは6月25日、暗号資産プライムブローカーのFalconXから5000ETHを取得した。 シャープリンクが前回イーサリアムを購入したのは2025年10月26日で、FalconXから1万9270ETHを取得していた。 今回の購入は、イーサリアム価格が6月25日に1500ドル台前",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ethereum Foundation"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+      "link": "https://www.neweconomy.jp/posts/587207",
+      "pub_date": "2026-06-26T16:30:36+09:00",
+      "pub_date_utc": "2026-06-26T07:30:36+00:00",
+      "description": "アニモカブランズJPのCEOに松尾直輝氏が就任 グローバルWeb3企業アニモカブランズ（Animoca Brands）の戦略的子会社であるアニモカブランズジャパン（Animoca Brands Japan）の代表取締役社",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "アニモカブランズJPのCEOに松尾直輝氏が就任 グローバルWeb3企業アニモカブランズ（Animoca Brands）の戦略的子会社であるアニモカブランズジャパン（Animoca Brands Japan）の代表取締役社長CEOの新任について6月24日に発表された。前CEOの天羽健介氏は同日付で退任し、今後はシニアアドバイザーとして同社をサポートする。 新たに代表取締役社長CEOに就くのは。同社の取締役CBO（Chief Business Officer）松尾直輝氏だ。同氏は、広告代理店での営業職からウェブエンジニアへの転向後、ビーノス（BEENOS）でエンジニア兼新規事業開発者として複数の事業立ち上げを主導してきた人物。2023年よりアニモカブランズジャパンでIP事業責任者を務め、2026年に現職に就任し全事業を管掌した。 アニモカブランズジャパンの発表によると、今回の体制変更は日本にお",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Animoca Brands"
+      ],
+      "main_entities": [
+        "Animoca Brands"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "SUIのDAT企業スイグループHD支援のブルーウォーター・ラボ、スイレンドを買収",
+      "link": "https://www.neweconomy.jp/posts/587196",
+      "pub_date": "2026-06-26T16:23:08+09:00",
+      "pub_date_utc": "2026-06-26T07:23:08+00:00",
+      "description": "Bluewater LabsがSuilendを買収 レイヤー1ブロックチェーン「スイ（Sui）」上の分散型金融（DeFi）レンディングプロトコル「スイレンド（Suilend）」および、その関連サービス「スプリングスイ（S",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Bluewater LabsがSuilendを買収 レイヤー1ブロックチェーン「スイ（Sui）」上の分散型金融（DeFi）レンディングプロトコル「スイレンド（Suilend）」および、その関連サービス「スプリングスイ（SpringSui）」、「スティーム（STEAMM）」を、ブルーウォーター・ラボ（Bluewater Labs）が買収した。6月25日にスイレンド公式Xアカウントで発表された。今後はブルーウォーター・ラボが各プロダクトの開発および運営を引き継ぐとのこと。 スイレンドチームによると、今回の買収後も、スイレンドは独立したブランドとして運営されるという。預入（Deposit）、引き出し（Withdrawal）、借入（Borrow）、リキッドステーキング、スワップなど既存機能はそのまま利用でき、ユーザー側で特別な対応は不要と説明されている。 また、スイレンドのガバナンストークン「SE",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Sui"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "マトリックス法によるテクニカル分析（2026/6/26）底固めは失敗したが、底割れはしていない【楽天ウォレット】",
+      "link": "https://www.nadanews.com/357152/",
+      "pub_date": "2026-06-26T16:13:30+09:00",
+      "pub_date_utc": "2026-06-26T07:13:30+00:00",
+      "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル The post マトリックス法によるテクニカル分析（2026/6/26）底固めは失敗したが、底割れはしていない【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット マトリックス法によるテクニカル分析（2026/6/26）底固めは失敗したが、底割れはしていない【楽天ウォレット】 By 松田康生 2026年6月26日16:13 .st0 { fill: #374149; } 2026年6月26日16:13 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル分析で5段階（5→1：強→弱）評価し、その平均で相場の強弱を評価する。テクニカル分析において定点観測と客観性が重要と考える。代表的な分析手法を複数組み合わせることで、恣意性を排除し、精度を高める狙い。 googlet",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "楽天ウォレット",
+        "bitbank",
+        "三菱UFJ銀行"
+      ],
+      "main_entities": [
+        "楽天ウォレット"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "リップル、ルクセンブルクでMiCAに基づくCASPライセンスの予備承認取得",
+      "link": "https://www.neweconomy.jp/posts/587189",
+      "pub_date": "2026-06-26T16:12:26+09:00",
+      "pub_date_utc": "2026-06-26T07:12:26+00:00",
+      "description": "RippleがCASPライセンス予備承認取得 米リップル（Ripple）が、欧州連合（EU）の暗号資産市場規則（MiCA／MiCAR：Markets in Crypto-Assets Regulation）に基づく暗号資",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "RippleがCASPライセンス予備承認取得 米リップル（Ripple）が、欧州連合（EU）の暗号資産市場規則（MiCA／MiCAR：Markets in Crypto-Assets Regulation）に基づく暗号資産サービスプロバイダー（CASP）ライセンスの予備承認取得を6月23日に発表した。 今回の予備承認は、リップルが提供する国際決済ソリューション「リップル・ペイメンツ（Ripple Payments）」を、欧州経済領域（EEA）全域で提供拡大するための重要なステップとのこと。 この予備承認は、ルクセンブルク金融監督委員会（CSSF）が発行する、最終承認に向けた条件付きの通知書「グリーンライトレター（Green Light Letter）」の形で付与されたという。 リップル・ペイメンツは、許認可を受けたエンドツーエンド型の国際決済ソリューションだ。顧客に代わって資金フローを管理",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Ripple"
+      ],
+      "main_entities": [
+        "Ripple"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
+      "link": "https://www.nadanews.com/357107/",
+      "pub_date": "2026-06-26T16:03:18+09:00",
+      "pub_date_utc": "2026-06-26T07:03:18+00:00",
+      "description": "イングランド銀行は6月22日、政策声明と実務規範案に関する市中協議文書を公表し、英ポンド建てのシステミック・ステーブルコイン発行に向けた道筋を示した。同行は、2 The post Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進 By Ibrahim Ajibade 2026年6月26日16:03 .st0 { fill: #374149; } 2026年6月26日16:03 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); イングランド銀行は6月22日、政策声明と実務規範案に関する市中協議文書を公表し、英ポンド建てのシステミック・ステーブルコイン発行に向けた道筋を示した。同行は、2026年末までに実務規範を最終化し、FCAとの共同作業を続けながら補足資料も公表する方針だ。規制対象となるステーブルコインは、2027年から英国で運用可能になる見込みだ。 執筆時点で、DeFi（分散型金融）",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Sui",
+        "SBI Holdings",
+        "FRB",
+        "FSB",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "BTC（ビットコイン）はAI関連株の調整と米雇用統計次第でさらなる下落に警戒か【マネックス証券】",
+      "link": "https://www.nadanews.com/357143/",
+      "pub_date": "2026-06-26T16:01:55+09:00",
+      "pub_date_utc": "2026-06-26T07:01:55+00:00",
+      "description": "● 今週のビットコインは、米ハイテク株の調整や米金利の高止まり、CLARITY法案を巡る失望感が投資家心理を冷やし、軟調に推移した。 ● 来週のビットコインは、 The post BTC（ビットコイン）はAI関連株の調整と米雇用統計次第でさらなる下落に警戒か【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "マーケット",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "マーケット BTC（ビットコイン）はAI関連株の調整と米雇用統計次第でさらなる下落に警戒か【マネックス証券】 By 松嶋 真倫 マネックス証券 フィナンシャル・インテリジェンス部 暗号資産アナリスト 2026年6月26日16:01 .st0 { fill: #374149; } 2026年6月26日16:01 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● 今週のビットコインは、米ハイテク株の調整や米金利の高止まり、CLARITY法案を巡る失望感が投資家心理を冷やし、軟調に推移した。 ● 来週のビットコインは、AI関連株の調整継続や米雇用統計後の利上げ観測次第ではさらなる下落が警戒される。直近の価格レンジとして、上値はBTC=68,000ドル（約1098万円）、下値",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "楽天ウォレット",
+        "マネックスグループ",
+        "bitbank",
+        "SBI Holdings"
+      ],
+      "main_entities": [
+        "マネックスグループ"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "Slash Card、イーサリアムUSDCのソラナへのブリッジ機能を実装",
+      "link": "https://www.neweconomy.jp/posts/587178",
+      "pub_date": "2026-06-26T15:59:01+09:00",
+      "pub_date_utc": "2026-06-26T06:59:01+00:00",
+      "description": "Slash Cardに新機能 ステーブルコインでカード決済可能な「Slash Card」に、新機能として「ブリッジ機能」が実装された。スラッシュビジョン（SLASH VISION）が6月25日に発表した。 ブリッジ機能実",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Slash Cardに新機能 ステーブルコインでカード決済可能な「Slash Card」に、新機能として「ブリッジ機能」が実装された。スラッシュビジョン（SLASH VISION）が6月25日に発表した。 ブリッジ機能実装によりユーザーは、イーサリアム（Ethereum）上のUSDCをSlash Cardの決済に利用できるソラナ（Solana）上のUSDCへ、アプリ内で直接ブリッジ可能となった。これにより、これまでソラナ上のUSDCにのみ対応していた入金プロセスが簡略化された。 「あたらしい経済」編集部がスラッシュへ取材したところ、ウォレット内のソラナへのブリッジは、米サークル（Circle）提供の「クロスチェーン転送プロトコル（Cross-Chain Transfer Protocol：CCTP）」採用により実現したとのこと。 また手数料については、ガス代および交換レートはかからないが、",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana",
+        "Circle"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "バイナンス、EU市場から締め出しか ギリシャ認可撤回で暗号資産大手に暗雲",
+      "link": "https://cointelegraph.jp/news/binance-eu-license-greece-mica-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T15:47:29+09:00",
+      "pub_date_utc": "2026-06-26T06:47:29+00:00",
+      "description": "EUの暗号資産規制「マイカ（MiCA）」の期限が7月1日に迫るなか、バイナンスはギリシャでの申請を取り下げ、別のEU加盟国で認可を目指すと明らかにした。認可なき暗号資産企業は、EU域内での事業縮小・撤退を迫られる。巨大取引所の欧州戦略に、土壇場で暗雲が垂れ込めている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "EUの暗号資産規制「マイカ（MiCA）」の期限が7月1日に迫るなか、バイナンスはギリシャでの申請を取り下げ、別のEU加盟国で認可を目指すと明らかにした。認可なき暗号資産企業は、EU域内での事業縮小・撤退を迫られる。巨大取引所の欧州戦略に、土壇場で暗雲が垂れ込めている。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "英国の富裕層マネーが暗号資産へ流入か 金融アドバイザーの半数超が「顧客資産を把握できない」",
+      "link": "https://cointelegraph.jp/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T15:34:27+09:00",
+      "pub_date_utc": "2026-06-26T06:34:27+00:00",
+      "description": "コインシェアーズの調査で、EU域内のウェルスマネジメント企業の多くが、デジタル資産への投資を制限する方針を設けているか、あるいはその扱いについて明確な指針を示していない実態が浮かび上がった。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "コインシェアーズの調査で、EU域内のウェルスマネジメント企業の多くが、デジタル資産への投資を制限する方針を設けているか、あるいはその扱いについて明確な指針を示していない実態が浮かび上がった。",
+      "summary_error": true,
+      "category": "ビジネス",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットコイン、ついに崩壊寸前？ETF資金流出とストラテジー含み損で「AI株に完敗」の現実",
+      "link": "https://cointelegraph.jp/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T15:27:14+09:00",
+      "pub_date_utc": "2026-06-26T06:27:14+00:00",
+      "description": "2026年の安値をさらに掘り進めるビットコイン。現物BTC ETFからの資金流出、弱気に傾いた月次オプション満期、そしてストラテジーの含み損拡大が重なり、AI関連株とのリターン格差は一段と広がった。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "2026年の安値をさらに掘り進めるビットコイン。現物BTC ETFからの資金流出、弱気に傾いた月次オプション満期、そしてストラテジーの含み損拡大が重なり、AI関連株とのリターン格差は一段と広がった。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットマイン、ラッセル1000に本日組み入れ　16万超イーサリアムを追加ステーキング",
+      "link": "https://coinpost.jp/?p=720322",
+      "pub_date": "2026-06-26T15:24:59+09:00",
+      "pub_date_utc": "2026-06-26T06:24:59+00:00",
+      "description": "ビットマイン（NYSE：BMNR）が6月26日には新たに16万480 ETHを追加ステーキングし累計488万ETH（86％）に達した。同社株は同日、ラッセル1000指数へ組み入れられた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "Sui"
+      ],
+      "main_entities": [
+        "Sui"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットコイン暴落、5万8000ドル割れで弱気シグナル点灯 次の下値メドは5万4000ドルか",
+      "link": "https://cointelegraph.jp/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T15:17:01+09:00",
+      "pub_date_utc": "2026-06-26T06:17:01+00:00",
+      "description": "ビットコイン、5万8000ドル急落で弱気シグナル点灯――次の下値メドは5万4000ドル、なお底割れの恐れも。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコイン、5万8000ドル急落で弱気シグナル点灯――次の下値メドは5万4000ドル、なお底割れの恐れも。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "アーベ創設者が反論、クラーケン親会社によるAave関連企業への出資報道に「AAVE安売りはない」",
+      "link": "https://www.neweconomy.jp/posts/587137",
+      "pub_date": "2026-06-26T15:14:40+09:00",
+      "pub_date_utc": "2026-06-26T06:14:40+00:00",
+      "description": "CoinDesk報道にスタニ氏が反論 暗号資産（仮想通貨）取引所クラーケン（Kraken）を傘下に持つ企業のペイワード（Payward）が、分散型金融（DeFi）レンディングプロトコル「アーベ（Aave）」関連企業への出",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "CoinDesk報道にスタニ氏が反論 暗号資産（仮想通貨）取引所クラーケン（Kraken）を傘下に持つ企業のペイワード（Payward）が、分散型金融（DeFi）レンディングプロトコル「アーベ（Aave）」関連企業への出資を協議していると、暗号資産メディア「コインデスク（CoinDesk）」が6月25日に報じた。一方、アーベ創設者でアーベラボ（Aave Labs）CEOのスタニ・クレチョフ（Stani Kulechov）氏はその報道を受け、自身のXアカウントで「記事のフレーミングは正確ではない」と反論した。 コインデスクによると、同メディアが確認した文書では、クラーケンは35,000ETHを投資し、250,000AAVEトークンと、アーベラボの親会社にあたる「アーベグループ（Aave Group）」の普通株式15%を取得する案が検討されているという。同報道では、アーベグループの評価額は3億",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Kraken",
+        "Aave"
+      ],
+      "main_entities": [
+        "Kraken",
+        "Aave"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "【正式発表】野村HDと米サークル、ステーブルコイン活用の次世代金融インフラ検討",
+      "link": "https://www.neweconomy.jp/posts/587122",
+      "pub_date": "2026-06-26T14:47:03+09:00",
+      "pub_date_utc": "2026-06-26T05:47:03+00:00",
+      "description": "野村HDとサークルが協業へ 野村ホールディングスが、米ドル建てステーブルコイン「USDC」発行元のサークル・インターネット・フィナンシャル（Circle Internet Financial：以下、サークル）と、デジタル",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "野村HDとサークルが協業へ 野村ホールディングスが、米ドル建てステーブルコイン「USDC」発行元のサークル・インターネット・フィナンシャル（Circle Internet Financial：以下、サークル）と、デジタル金融分野における戦略的協業に向けた基本合意書を締結した。野村HDが6月26日に発表した。 なお25日の「日経新聞」の報道では、野村HDはサークルとの協業により、2027年にも日本企業向けに外貨の即時決済を始めると伝えられている。 発表によると今回の基本合意は、日本を含むグローバル市場において、ステーブルコインやブロックチェーン技術を活用した次世代市場インフラの創出を目指すものだ。 野村HDは、ブロックチェーン技術を活用して金融取引をネットワーク上で直接行う「オンチェーン金融」の分野で、次世代の市場インフラの可能性を検討するという。 両社は今後、サークルが有するステーブルコイ",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Circle",
+        "野村ホールディングス"
+      ],
+      "main_entities": [
+        "Circle"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "予測市場ユーザーの6割、DEX未経験　W杯が大衆の入り口に＝Bitget Wallet調査",
+      "link": "https://coinpost.jp/?p=720308",
+      "pub_date": "2026-06-26T14:33:01+09:00",
+      "pub_date_utc": "2026-06-26T05:33:01+00:00",
+      "description": "Bitget Walletが公表したポリマーケット利用者85万人超の90日間調査で、アクティブユーザーの約60％がDEX取引経験なしで参入していたことが判明。ステーブルコイン主体の資金流入やアプリ完結型の行動パターンが明らかになった。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "インドネシア金融庁、金融系インフルエンサー規制を公表",
+      "link": "https://www.neweconomy.jp/posts/587104",
+      "pub_date": "2026-06-26T14:02:15+09:00",
+      "pub_date_utc": "2026-06-26T05:02:15+00:00",
+      "description": "消費者保護強化へ インドネシアの金融サービス庁（OJK）が、金融分野のインフルエンサーを対象とした新たな規則「OJK規則2026年第6号（POJK第6号）」について6月24日に公表した。同規則は金融サービス分野における情",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "消費者保護強化へ インドネシアの金融サービス庁（OJK）が、金融分野のインフルエンサーを対象とした新たな規則「OJK規則2026年第6号（POJK第6号）」について6月24日に公表した。同規則は金融サービス分野における情報発信者の行動規範を定めるもので、消費者保護や金融リテラシーの向上を目的としている。なお、同規則は5月26日に制定され、6月4日に公布・施行されている。 OJKは、SNSやオンラインメディアの普及により、金融商品やサービスに関する情報を発信する「フィンフルエンサー」の影響力が高まっている状況を受け、情報発信の透明性や正確性を確保し、消費者が誤った情報に基づいて金融判断を行うリスクを抑える必要があるとしている。 同規則でいう「情報発信者（Penyampai Informasi）」とは、金融サービス事業者（PUJK）以外の個人または団体で、金融リテラシーの向上や、消費者による金",
+      "summary_error": true,
+      "category": "分析・レポート",
+      "all_entities": [
+        "Coinbase",
+        "金融庁"
+      ],
+      "main_entities": [
+        "金融庁"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "米下院民主党、AI自動取引の規制巡りSECに質問状",
+      "link": "https://coinpost.jp/?p=720259",
+      "pub_date": "2026-06-26T14:00:49+09:00",
+      "pub_date_utc": "2026-06-26T05:00:49+00:00",
+      "description": "進化を急速に遂げるAIエージェントによる株式や仮想通貨資産の自律取引サービスが拡大する中、米下院民主党議員8名がSECに対し、証券会社やAI企業の法的責任が曖昧なままになっている現状に警鐘を鳴らす書簡を送った。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "SEC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ユーロポール、国際作戦で仮想通貨盗むマルウェア摘発　約75億円相当を凍結",
+      "link": "https://coinpost.jp/?p=720224",
+      "pub_date": "2026-06-26T12:55:32+09:00",
+      "pub_date_utc": "2026-06-26T03:55:32+00:00",
+      "description": "ユーロポールが国際作戦「オペレーション・エンドゲーム」を展開し3種のインフォスティーラーのインフラを取り締まった。仮想通貨約75億円を凍結し注意喚起している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Microsoft",
+        "MetaMask"
+      ],
+      "main_entities": [
+        "Microsoft"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "韓国個人情報保護委、ビッサムに課徴金。個人情報の無断国外移転で",
+      "link": "https://www.neweconomy.jp/posts/587099",
+      "pub_date": "2026-06-26T12:20:47+09:00",
+      "pub_date_utc": "2026-06-26T03:20:47+00:00",
+      "description": "オーダーブック共有で無断国外移転 韓国の個人情報保護委員会が、個人情報保護法上の国外移転規定に違反したとして、暗号資産（仮想資産）取引所のビッサム（Bithumb）に対し課徴金2億1,000万ウォン（約2,200万円）を",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "オーダーブック共有で無断国外移転 韓国の個人情報保護委員会が、個人情報保護法上の国外移転規定に違反したとして、暗号資産（仮想資産）取引所のビッサム（Bithumb）に対し課徴金2億1,000万ウォン（約2,200万円）を賦課するとともに、適法な国外移転要件を満たすよう是正命令を下した。6月24日に開催した第12回全体会議で議決した。 個人情報保護委員会は、2025年の国政監査でビッサムのオーダーブック（板情報）共有に伴う個人情報の国外移転の適法性が指摘されたことを受け、調査に着手した。 調査の結果、ビッサムは2025年9月から11月にかけて、テザー（USDT）建て市場で海外暗号資産取引所とオーダーブックを共有していたことが判明した。この際、利用者からは「ステラ取引所（Stellar Exchange）」へ個人情報を国外移転するとの内容で別途同意を取得していた一方、実際には別の取引所が運営す",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Tether"
+      ],
+      "main_entities": [
+        "Tether"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "ビットコインのオプション市場、下落への備えが歴史的高水準に",
+      "link": "https://coinpost.jp/?p=720245",
+      "pub_date": "2026-06-26T12:16:06+09:00",
+      "pub_date_utc": "2026-06-26T03:16:06+00:00",
+      "description": "アンカレッジ・デジタルのリサーチ責任者が、ビットコインのオプション市場を3つの取引市場にわたって分析したレポートを公開した。下落への備えコストが過去5年間でも上位に入る水準に達しており、2026年は約半分の取引日で「今週の方が来月より危険」という異常な状態が続いていると報告している。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコインのオプション市場、下落への備えが歴史的高水準に ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googletag.display('div-gpt-",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "BlackRock",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
+      "title": "Cboeが予測市場に参入、ミニS＆P500指数のYes/No型オプション提供開始",
+      "link": "https://www.neweconomy.jp/posts/587085",
+      "pub_date": "2026-06-26T11:56:52+09:00",
+      "pub_date_utc": "2026-06-26T02:56:52+00:00",
+      "description": "Cboe Predictsで初回商品ローンチ 予測市場向けプロダクト群「Cboeプレディクツ（Cboe Predicts）」で、ミニS&P500指数（Mini-S&P 500 Index：XSP）に基づく",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "Cboe Predictsで初回商品ローンチ 予測市場向けプロダクト群「Cboeプレディクツ（Cboe Predicts）」で、ミニS&P500指数（Mini-S&P 500 Index：XSP）に基づくYes/No型のバイナリーオプション契約が提供開始された。これによりCboeは、成長が注目される予測市場分野へ参入したかたちだ。同サービスを提供する米取引所運営大手Cboeグローバル・マーケッツ（Cboe Global Markets）が6月23日に発表した。 同契約は、Cboeプレディクツで提供される初回商品群とのこと。Cboeの発表ではXSPBWとXSPBXの両シンボルが示されているが、FAQではローンチ時に取引されるPM決済型の取引シンボルはXSPBW、原資産となるミニS&P500バイナリー指数およびPM決済値のシンボルはXSPBXと整理されている。同契約はインタラクティブブローカー",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana",
+        "Ripple"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
+    },
+    {
       "title": "イーサL2「Base」メインネットで約2時間ブロック生成停止、原因特定し復旧",
       "link": "https://www.neweconomy.jp/posts/587066",
       "pub_date": "2026-06-26T11:12:22+09:00",
@@ -62,6 +1020,24 @@
       "main_entities": [],
       "manually_edited": false,
       "fetched_at": "2026-06-26T11:12:29.539547+09:00"
+    },
+    {
+      "title": "ビットコイン急落は終わりの始まりか パワーロー分析が示す底値圏と先物市場の警告",
+      "link": "https://cointelegraph.jp/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-26T11:08:32+09:00",
+      "pub_date_utc": "2026-06-26T02:08:32+00:00",
+      "description": "ビットコインは5万8000ドル（約939万円）まで沈み、パワーローモデルが示す「過去の底値圏」に差しかかった。だが、先物市場の数字は、BTCにもう一段安の影を落としている。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ビットコインは5万8000ドル（約939万円）まで沈み、パワーローモデルが示す「過去の底値圏」に差しかかった。だが、先物市場の数字は、BTCにもう一段安の影を落としている。",
+      "summary_error": true,
+      "category": "マーケット",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-27T11:07:13.179983+09:00"
     },
     {
       "title": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ｜仮想NISHI",
@@ -49340,8 +50316,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-26T11:12:29.539547+09:00",
-  "total_count": 2353,
+  "last_updated": "2026-06-27T11:07:13.179983+09:00",
+  "total_count": 2397,
   "sources": [
     "NADA NEWS",
     "CoinPost",
