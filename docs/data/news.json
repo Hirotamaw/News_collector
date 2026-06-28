@@ -1,6 +1,172 @@
 {
   "articles": [
     {
+      "title": "ステーブルコインの先にあるもの──野村×Circleが示した「オンチェーン金融」【編集長コラム】",
+      "link": "https://www.nadanews.com/357277/",
+      "pub_date": "2026-06-28T10:00:00+09:00",
+      "pub_date_utc": "2026-06-28T01:00:00+00:00",
+      "description": "「現時点で、当社がUSDCを日本国内で取り扱うことや、特定のステーブルコインを用いたサービスを開始することを決定しているものではありません」 野村ホールディング The post ステーブルコインの先にあるもの──野村×Circleが示した「オンチェーン金融」【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム ステーブルコインの先にあるもの──野村×Circleが示した「オンチェーン金融」【編集長コラム】 By 増田隆幸 2026年6月28日10:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 「現時点で、当社がUSDCを日本国内で取り扱うことや、特定のステーブルコインを用いたサービスを開始することを決定しているものではありません」 野村ホールディングスの広報担当者は、NADA NEWSの取材にそう答えた。 今週は、日本で初めて信託型の円建てステーブルコイン「JPYSC」の発行が始まった。SBIホールディングスの北尾吉孝会長兼社長が「2026年度第1四半期でのローンチ」と明言していたこともあり、関係者と当局の間で調整が続いたことだろう。 このビッグニュース",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "Circle",
+        "BlackRock",
+        "JPMorgan",
+        "SBI Holdings",
+        "野村ホールディングス"
+      ],
+      "main_entities": [
+        "bitFlyer"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-28T11:28:53.959684+09:00"
+    },
+    {
+      "title": "週刊仮想通貨ニュース（6/26）｜BTC年初来安値更新・キヨサキの投資方針・クラリティー法恩恵銘柄分析の動向まとめ",
+      "link": "https://coinpost.jp/?p=720161",
+      "pub_date": "2026-06-28T09:25:16+09:00",
+      "pub_date_utc": "2026-06-28T00:25:16+00:00",
+      "description": "今週は、著名投資家のロバート・キヨサキ氏の投資方針、グレースケールのクラリティー法恩恵銘柄分析、クリプトクアントによるストラテジーへの仮想通貨ビットコイン購入停止提言に関する記事が関心を集めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン支持者モウ氏、ストラテジーとBSTRのビットコインのOTC取引提案 ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ 米民主党重鎮議員、退職金401kの仮想通貨解禁規則の撤回を要求 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "Ethereum Foundation",
+        "Solana",
+        "Ripple",
+        "Hyperliquid",
+        "Grayscale"
+      ],
+      "main_entities": [
+        "Ethereum Foundation"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-28T11:28:53.959684+09:00"
+    },
+    {
+      "title": "CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】",
+      "link": "https://www.nadanews.com/357274/",
+      "pub_date": "2026-06-28T09:00:00+09:00",
+      "pub_date_utc": "2026-06-28T00:00:00+00:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、現在アメリカの暗号資産業界で最も重要な政策テーマとなっているCL The post CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "連載",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "連載 CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】 By Delia Rojo 2026年6月28日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、現在アメリカの暗号資産業界で最も重要な政策テーマとなっているCLARITY法案の最新動向をお伝えします。 私はこれまで何度かCLARITY法案についてお伝えしてきましたが、現在はいよいよ最終局面に入りつつあります。 ワシントンでは今、「この夏が最後のチャンスになるかもしれない」という見方が急速に広がっています。 その理由は、上院が7月13日に再開し、8月上旬の夏",
+      "summary_error": true,
+      "category": "Blockchain",
+      "all_entities": [
+        "SEC",
+        "CFTC"
+      ],
+      "main_entities": [
+        "SEC"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-28T11:28:53.959684+09:00"
+    },
+    {
+      "title": "【速報】ビットバンク、SBIグループの完全子会社に／メタプラネット、株主優待で最大10万JPYCを付与へ【日曜日に読みたい厳選10本】",
+      "link": "https://www.nadanews.com/357168/",
+      "pub_date": "2026-06-28T08:00:00+09:00",
+      "pub_date_utc": "2026-06-27T23:00:00+00:00",
+      "description": "暗号資産取引所ビットバンク（bitbank）は6月25日、SBIグループの完全子会社となることを発表した。 ──先週の土曜日から一昨日の金曜日までに公開した記事 The post 【速報】ビットバンク、SBIグループの完全子会社に／メタプラネット、株主優待で最大10万JPYCを付与へ【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "取材・コラム",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "取材・コラム 【速報】ビットバンク、SBIグループの完全子会社に／メタプラネット、株主優待で最大10万JPYCを付与へ【日曜日に読みたい厳選10本】 By 橋本 祐樹 2026年6月28日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 暗号資産取引所ビットバンク（bitbank）は6月25日、SBIグループの完全子会社となることを発表した。──先週の土曜日から一昨日の金曜日までに公開した記事のなかから、日曜日に読みたい10本を厳選！ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684848749222-0'); }); 【速報】ビットバンク、SBIグループの完全子会社に SBI",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BitTrade",
+        "Tether",
+        "Circle",
+        "SBI Holdings",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "bitbank",
+        "SBI Holdings"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-28T11:28:53.959684+09:00"
+    },
+    {
+      "title": "ブラックロックのビットコインETFから資金流出──IBITの7週連続流出が示す市場の変化【エックスウィン】",
+      "link": "https://www.nadanews.com/357267/",
+      "pub_date": "2026-06-28T07:00:00+09:00",
+      "pub_date_utc": "2026-06-27T22:00:00+00:00",
+      "description": "● ブラックロックの米国現物ビットコインETFであるIBITは、5月中旬以降、7週連続で週次純流出となり、累計流出額は約53億ドルに達した。● 今回の流出はIB The post ブラックロックのビットコインETFから資金流出──IBITの7週連続流出が示す市場の変化【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン ブラックロックのビットコインETFから資金流出──IBITの7週連続流出が示す市場の変化【エックスウィン】 By エックスウィン 2026年6月28日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● ブラックロックの米国現物ビットコインETFであるIBITは、5月中旬以降、7週連続で週次純流出となり、累計流出額は約53億ドルに達した。● 今回の流出はIBIT固有の問題というより、ビットコイン価格下落、ドル高、高金利観測、先物ベーシス縮小、ETF全体のリスク削減が重なった結果と考えられる。● エックスウィンでは、今後の焦点はIBITフローが反転するか、BTCが60,000ドル前後を維持できるか、そしてCME先物ベーシスとドル指数が改善するかにあ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "bitFlyer",
+        "bitbank",
+        "BlackRock"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-28T11:28:53.959684+09:00"
+    },
+    {
+      "title": "エテナ関連トレジャリー企業「ステーブルコインX」がナスダック上場、450億円相当ENAを保有",
+      "link": "https://coinpost.jp/?p=720496",
+      "pub_date": "2026-06-27T13:15:26+09:00",
+      "pub_date_utc": "2026-06-27T04:15:26+00:00",
+      "description": "仮想通貨エテナ（ENA）特化のトレジャリー企業ステーブルコインXがナスダックにSPAC上場。約30億枚のENAを保有し、「USDE」ティッカーで取引開始する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン支持者モウ氏、ストラテジーとBSTRのビットコインのOTC取引提案 ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI googletag.cmd.push(function() { googletag.display",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-28T11:28:53.959684+09:00"
+    },
+    {
+      "title": "米民主党重鎮議員、退職金401kの仮想通貨解禁規則の撤回を要求",
+      "link": "https://coinpost.jp/?p=720446",
+      "pub_date": "2026-06-27T11:40:08+09:00",
+      "pub_date_utc": "2026-06-27T02:40:08+00:00",
+      "description": "米下院金融サービス委員会筆頭野党メンバーのマキシン・ウォーターズ議員が米労働省に書簡を送り、401k退職口座への仮想通貨などの代替資産解禁を認める規則案の即時撤回を求めた。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています ビットコイン支持者モウ氏、ストラテジーとBSTRのビットコインのOTC取引提案 ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ 米民主党重鎮議員、退職金401kの仮想通貨解禁規則の撤回を要求 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1740",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-28T11:28:53.959684+09:00"
+    },
+    {
       "title": "スペイン当局「MiCA猶予延長なし」明言　バイナンスもEUでの営業停止へ",
       "link": "https://coinpost.jp/?p=720473",
       "pub_date": "2026-06-27T11:00:31+09:00",
@@ -50316,8 +50482,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-27T11:07:13.179983+09:00",
-  "total_count": 2397,
+  "last_updated": "2026-06-28T11:28:53.959684+09:00",
+  "total_count": 2404,
   "sources": [
     "NADA NEWS",
     "CoinPost",
