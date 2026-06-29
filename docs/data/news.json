@@ -1,6 +1,553 @@
 {
   "articles": [
     {
+      "title": "バイナンス、EU向けサービス停止へ。MiCA認可申請取り下げ",
+      "link": "https://www.neweconomy.jp/posts/587411",
+      "pub_date": "2026-06-29T11:17:03+09:00",
+      "pub_date_utc": "2026-06-29T02:17:03+00:00",
+      "description": "MiCAライセンス取得できずEU向けサービス停止へ 世界最大の暗号資産（仮想通貨）取引所バイナンス（Binance）が、EUの暗号資産規制「MiCA（Markets in Crypto-Assets Regulation",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "MiCAライセンス取得できずEU向けサービス停止へ 世界最大の暗号資産（仮想通貨）取引所バイナンス（Binance）が、EUの暗号資産規制「MiCA（Markets in Crypto-Assets Regulation）」に基づく認可申請をギリシャで取り下げたと6月24日に発表した。同社は別のEU加盟国で改めて認可取得を目指す方針だ。 バイナンスによると、同社はギリシャ資本市場委員会（Hellenic Capital Market Commission：HCMC）から申請に関する正式な判断を受け取っていないという。また、MiCAの移行期間終了が近づく中、利用者への影響を考慮して申請を取り下げたとしている。 また同社は、影響を受ける利用者に対し、今後の対応や利用可能な選択肢、関連するスケジュールなどを個別に案内しているという。利用者資産は安全に保管され、常にアクセス可能だとしている。 一方",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "KuCoin"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "セキュリタイズ、ティッカー「SECZ」で7/2にNYSE上場へ。約4億ドル調達見込み",
+      "link": "https://www.neweconomy.jp/posts/587400",
+      "pub_date": "2026-06-29T11:15:09+09:00",
+      "pub_date_utc": "2026-06-29T02:15:09+00:00",
+      "description": "セキュリタイズが7月2日にNYSE上場予定 現実資産（RWA）のトークン化インフラを提供するセキュリタイズ（Securitize）が、特別買収目的会社（SPAC）との事業統合により約4億ドル（約644億円）の資金を調達（",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "セキュリタイズが7月2日にNYSE上場予定 現実資産（RWA）のトークン化インフラを提供するセキュリタイズ（Securitize）が、特別買収目的会社（SPAC）との事業統合により約4億ドル（約644億円）の資金を調達（グロス収入：取引費用控除前）する見込みになったと6月26日に発表した。 今回セキュリタイズが進めているのは、SPACのキャンター・エクイティ・パートナーズII（Cantor Equity Partners II：CEPT）との事業統合による上場だ。SPACは、未上場企業との統合を目的として設立された上場企業で、統合に反対する投資家は、保有株式をSPACへ買い取ってもらう「償還（Redemption）」を選択できる。 今回、CEPT株主のうち償還を選択した割合は30%未満だった。この結果、事業統合後の会社へ引き継がれる資金が多く残る見込みとなり、セキュリタイズはPIPE（機関",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "BlackRock",
+        "VanEck"
+      ],
+      "main_entities": [
+        "BlackRock"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "米民主党下院議員、401kでの暗号資産投資を解禁する規則案の撤回要求",
+      "link": "https://www.nadanews.com/357337/",
+      "pub_date": "2026-06-29T11:15:00+09:00",
+      "pub_date_utc": "2026-06-29T02:15:00+00:00",
+      "description": "米下院金融サービス委員会の民主党筆頭委員であるMaxine Waters（マキシン・ウォーターズ）議員は6月26日、労働省（DOL）のKeith Sonderl The post 米民主党下院議員、401kでの暗号資産投資を解禁する規則案の撤回要求 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米民主党下院議員、401kでの暗号資産投資を解禁する規則案の撤回要求 By 廣瀬 優香 2026年6月29日11:15 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米下院金融サービス委員会の民主党筆頭委員であるMaxine Waters（マキシン・ウォーターズ）議員は6月26日、労働省（DOL）のKeith Sonderling（キース・ソンダーリング）長官代行に書簡を送付し、確定拠出年金制度（401k）において暗号資産（仮想通貨）を含む代替資産への投資を解禁する規則案を撤回するよう求めた。 労働省は3月、401k口座でプライベートエクイティ、プライベートクレジット、不動産、コモディティ、暗号資産に投資することを可能にする規則案を公表した。 規則案は、ト",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SBI Holdings",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "バイナンス終了カウントダウン？EUの暗号資産規制MiCAで「7月1日までに免許なしならアウト」",
+      "link": "https://cointelegraph.jp/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-29T11:00:00+09:00",
+      "pub_date_utc": "2026-06-29T02:00:00+00:00",
+      "description": "カルロス・サン・バシリオ氏は、EU域内ユーザーにサービスを提供する暗号資産取引所にライセンス取得を義務づけるMiCAの期限について、「例外も延長もない」と明言した。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "カルロス・サン・バシリオ氏は、EU域内ユーザーにサービスを提供する暗号資産取引所にライセンス取得を義務づけるMiCAの期限について、「例外も延長もない」と明言した。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [
+        "Binance"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "ストラテジーのmNAVが1倍割れ、企業価値が保有BTC価値下回る評価に",
+      "link": "https://www.neweconomy.jp/posts/587404",
+      "pub_date": "2026-06-29T10:56:41+09:00",
+      "pub_date_utc": "2026-06-29T01:56:41+00:00",
+      "description": "mNAVが1倍割れ 米ナスダック上場のビットコイントレジャリー企業ストラテジー（Strategy）の企業価値指標「mNAV」が1.0を下回った。ストラテジー公式サイトのダッシュボードで6月27日時点に確認できる。 ダッシ",
+      "category_raw": "ニュース",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "mNAVが1倍割れ 米ナスダック上場のビットコイントレジャリー企業ストラテジー（Strategy）の企業価値指標「mNAV」が1.0を下回った。ストラテジー公式サイトのダッシュボードで6月27日時点に確認できる。 ダッシュボードによると、同社のmNAVは0.99となった。また、普通株「MSTR」は直近価格が82.31ドル（約1.3万円）、日中安値が81.15ドル（約1.3万円）となっている。 ストラテジーは今年、永久優先株「STRC」などを活用した資金調達を本格化させ、その資金でビットコインの購入を続けてきた。これにより同社の資本構成は、普通株に加え、優先株や負債を組み込む形に拡大している。 同社が公開している「Notes」によると、現在ダッシュボードで公表しているmNAVは、時価総額ではなく企業価値（Enterprise Value）を基準に算出されている。企業価値には時価総額に加え、負",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "暗号資産デリバティブに追い風か　SECとCFTC、証拠金の“二重取り”解消へ動く",
+      "link": "https://cointelegraph.jp/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-29T10:45:00+09:00",
+      "pub_date_utc": "2026-06-29T01:45:00+00:00",
+      "description": "暗号資産デリバティブと複数資産にまたがる取引が拡大するなか、米規制当局はクロス・マージン、担保、リスク管理をめぐり、市場関係者から意見を募っている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "暗号資産デリバティブと複数資産にまたがる取引が拡大するなか、米規制当局はクロス・マージン、担保、リスク管理をめぐり、市場関係者から意見を募っている。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "BIS年次報告、ステーブルコインは「貨幣の要件を満たさず」",
+      "link": "https://coinpost.jp/?p=720563",
+      "pub_date": "2026-06-29T10:40:30+09:00",
+      "pub_date_utc": "2026-06-29T01:40:30+00:00",
+      "description": "BISが2026年版年次経済報告書でステーブルコインの構造的課題を指摘。貨幣の等価交換性の欠如や金融安定リスクを分析し、中央銀行主導の統合台帳構想を次世代通貨システムの道筋として提言した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/26）｜BTC年初来安値更新・キヨサキの投資方針・クラリティー法恩恵銘柄分析の動向まとめ メタプラネット奥野氏、Project NovaとWebXブース展示の全貌を語る ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googleta",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "BIS"
+      ],
+      "main_entities": [
+        "BIS"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "「タダで儲かる」は本当か　ポリマーケットの偽広告疑惑に米上院議員がCFTC調査要求",
+      "link": "https://cointelegraph.jp/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-29T10:30:00+09:00",
+      "pub_date_utc": "2026-06-29T01:30:00+00:00",
+      "description": "ポリマーケットの広告手法をめぐる「憂慮すべき」報道を受け、ジョン・カーティス、アダム・シフ両上院議員は、CFTCの取り締まり能力に疑念を向けている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ポリマーケットの広告手法をめぐる「憂慮すべき」報道を受け、ジョン・カーティス、アダム・シフ両上院議員は、CFTCの取り締まり能力に疑念を向けている。",
+      "summary_error": true,
+      "category": "規制・法律",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "ハイパーリキッド、USDH運用終了に伴い　総額16億円の移行助成金を支給",
+      "link": "https://coinpost.jp/?p=720533",
+      "pub_date": "2026-06-29T10:00:43+09:00",
+      "pub_date_utc": "2026-06-29T01:00:43+00:00",
+      "description": "仮想通貨ハイパーリキッドを支援するハイプ財団が、ステーブルコインUSDH運用終了とUSDCへの移行に対応するため総額約1,000万ドルの助成金を提供すると発表した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/26）｜BTC年初来安値更新・キヨサキの投資方針・クラリティー法恩恵銘柄分析の動向まとめ メタプラネット奥野氏、Project NovaとWebXブース展示の全貌を語る ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googleta",
+      "summary_error": true,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Coinbase",
+        "Hyperliquid"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "カルダノウォレットで約3.9億円流出 セカンドファイ「2週間で返す」と表明、秘密鍵漏洩の深刻度",
+      "link": "https://cointelegraph.jp/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-29T10:00:00+09:00",
+      "pub_date_utc": "2026-06-29T01:00:00+00:00",
+      "description": "セカンドファイは、フォレンジック調査を完了し、最終的な残高スナップショットを取得したうえで、資産返還の準備を進めていると明らかにした。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "セカンドファイは、フォレンジック調査を完了し、最終的な残高スナップショットを取得したうえで、資産返還の準備を進めていると明らかにした。",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Cardano"
+      ],
+      "main_entities": [
+        "Cardano"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "DeFiもNFTもステーキングも逃げられない？EU議会が暗号資産規制の次なる標的を提示",
+      "link": "https://cointelegraph.jp/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-29T09:41:13+09:00",
+      "pub_date_utc": "2026-06-29T00:41:13+00:00",
+      "description": "法的拘束力のない報告書は、EUの将来的な暗号資産規制をめぐる欧州議会の青写真を示すとともに、各国がMiCAに独自ルールを上乗せする動きに警鐘を鳴らしている。",
+      "category_raw": "最新ニュース",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "法的拘束力のない報告書は、EUの将来的な暗号資産規制をめぐる欧州議会の青写真を示すとともに、各国がMiCAに独自ルールを上乗せする動きに警鐘を鳴らしている。",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "ビットコイン、損切り売りが急拡大　アナリストが降参局面と指摘",
+      "link": "https://coinpost.jp/?p=720539",
+      "pub_date": "2026-06-29T09:31:06+09:00",
+      "pub_date_utc": "2026-06-29T00:31:06+00:00",
+      "description": "CryptoQuantのオンチェーンデータを分析するDarkfost氏が、ビットコインのUTXO損益比率が過去の弱気相場底値圏に匹敵する水準へ低下したと指摘。損切り売りの急拡大が降参局面の始まりを示すとした。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/26）｜BTC年初来安値更新・キヨサキの投資方針・クラリティー法恩恵銘柄分析の動向まとめ メタプラネット奥野氏、Project NovaとWebXブース展示の全貌を語る ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googleta",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "ソラナは本当に復活したのか？ SOL72ドル回復の裏でTVLとDEX取引高が急減",
+      "link": "https://cointelegraph.jp/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pub_date": "2026-06-29T09:26:33+09:00",
+      "pub_date_utc": "2026-06-29T00:26:33+00:00",
+      "description": "ソラナはネットワーク上のトークン化株式取引を追い風に底堅さを見せた。だが、TVLとDEX取引高の低下は、勢いの陰りを映し出している。",
+      "category_raw": "マーケット",
+      "source_name": "CoinTelegraph JP",
+      "source_url": "https://cointelegraph.jp/",
+      "source_color": "#b45309",
+      "summary": "ソラナはネットワーク上のトークン化株式取引を追い風に底堅さを見せた。だが、TVLとDEX取引高の低下は、勢いの陰りを映し出している。",
+      "summary_error": true,
+      "category": "DeFi",
+      "all_entities": [
+        "Solana"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "Securitize、SPAC合併で約4億ドルを調達──7月2日にNYSE上場へ",
+      "link": "https://www.nadanews.com/357334/",
+      "pub_date": "2026-06-29T09:00:00+09:00",
+      "pub_date_utc": "2026-06-29T00:00:00+00:00",
+      "description": "RWA（現実資産）トークン化プラットフォームのSecuritize（セキュリタイズ）は6月26日、Cantor Fitzgerald（キャンター・フィッツジェラ The post Securitize、SPAC合併で約4億ドルを調達──7月2日にNYSE上場へ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Finance",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Finance Securitize、SPAC合併で約4億ドルを調達──7月2日にNYSE上場へ By 井上 俊彦 2026年6月29日09:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); RWA（現実資産）トークン化プラットフォームのSecuritize（セキュリタイズ）は6月26日、Cantor Fitzgerald（キャンター・フィッツジェラルド）系のSPAC（特別目的買収会社）であるCantor Equity Partners II（CEPT）との合併を通じて約4億ドル（約640億円、1ドル=160円換算）を調達する見込みだと発表した。 CEPT株主のうちクラスA株の30%未満しか償還を選択しなかった結果、関連するPIPE（上場企業への私募）を含む合併によ",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "BlackRock",
+        "SBI Holdings",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "サムソン・モウ「ビットコインの底は付いた」、サイクル加速論　見方は割れる",
+      "link": "https://coinpost.jp/?p=720523",
+      "pub_date": "2026-06-29T08:39:46+09:00",
+      "pub_date_utc": "2026-06-28T23:39:46+00:00",
+      "description": "JAN3のサムソン・モウCEOが「ビットコインの底値はすでに確認された」と主張。2024年半減期の37日前にATHを更新した事実を根拠に、4年サイクルの加速を指摘。追加下落を見込むアナリストとの見方の相違を解説する。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/26）｜BTC年初来安値更新・キヨサキの投資方針・クラリティー法恩恵銘柄分析の動向まとめ メタプラネット奥野氏、Project NovaとWebXブース展示の全貌を語る ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googleta",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "Base、相次ぐ障害の原因はシーケンサーのバグ",
+      "link": "https://www.nadanews.com/357321/",
+      "pub_date": "2026-06-29T08:30:00+09:00",
+      "pub_date_utc": "2026-06-28T23:30:00+00:00",
+      "description": "Coinbase（コインベース）のレイヤー2ネットワークBaseで6月25日と26日、相次いで発生したブロック生成が停止する障害はシーケンサーのバグが原因だった The post Base、相次ぐ障害の原因はシーケンサーのバグ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "Technology",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "Technology Base、相次ぐ障害の原因はシーケンサーのバグ By 井上 俊彦 2026年6月29日08:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Coinbase（コインベース）のレイヤー2ネットワークBaseで6月25日と26日、相次いで発生したブロック生成が停止する障害はシーケンサーのバグが原因だった。 Baseエンジニアリングチームが6月27日（現地時間）に公開した報告で明らかにした。 原因はシーケンサーのブロック構築ロジックのバグで、無効なトランザクション実行失敗後にジャーナル状態が正しくクリアされず、後続の有効なトランザクションが誤った状態で処理された。 その結果、バリデーターノードが不正なブロックを拒否し、チェーン全体が停止した。1回目",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase",
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SBI Holdings",
+        "MicroStrategy",
+        "Chainalysis"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "キャシー・ウッド、不安定国の資本流出がビットコイン押し上げると予測　AIとの役割差異を強調",
+      "link": "https://coinpost.jp/?p=720518",
+      "pub_date": "2026-06-29T08:09:35+09:00",
+      "pub_date_utc": "2026-06-28T23:09:35+00:00",
+      "description": "アーク・インベストのキャシー・ウッドが27日、政治・経済的に不安定な国からの資本流出がビットコインを押し上げる次の材料になると指摘。AIは技術革命をもたらすが、資産保全の保険機能は担えないと強調した。",
+      "category_raw": "仮想通貨情報",
+      "source_name": "CoinPost",
+      "source_url": "https://coinpost.jp/",
+      "source_color": "#1d4ed8",
+      "summary": "$( document ).ready(function( $ ) { jQuery('#nrb-slide').sliderPro({ width: 480, height: 111, autoplayDelay:7500, arrows: true, fadeArrows:false, buttons: false, slideDistance:22, visibleSize: '100%' }); }); CoinPostで今最も読まれています 週刊仮想通貨ニュース（6/26）｜BTC年初来安値更新・キヨサキの投資方針・クラリティー法恩恵銘柄分析の動向まとめ メタプラネット奥野氏、Project NovaとWebXブース展示の全貌を語る ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ googletag.cmd.push(function() { googleta",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Solana",
+        "ARK Invest"
+      ],
+      "main_entities": [
+        "Solana"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "Binance、EUのライセンス移行を前に4億ドルを超える流出",
+      "link": "https://www.nadanews.com/357315/",
+      "pub_date": "2026-06-29T08:00:00+09:00",
+      "pub_date_utc": "2026-06-28T23:00:00+00:00",
+      "description": "DefiLlamaのデータによると、先週、Binance（バイナンス）の週間純流出額は約4億ドル（約640億円、1ドル=160円換算）に達した。ただし、バイナン The post Binance、EUのライセンス移行を前に4億ドルを超える流出 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 Binance、EUのライセンス移行を前に4億ドルを超える流出 By 井上 俊彦 2026年6月29日08:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); DefiLlamaのデータによると、先週、Binance（バイナンス）の週間純流出額は約4億ドル（約640億円、1ドル=160円換算）に達した。ただし、バイナンスは日常的に数十億ドル規模の資金移動があり、この水準は同社にとってそれほど特異なものではない。 Binanceは6月24日、ギリシャの金融市場委員会（HCMC）へのMiCA（暗号資産市場規制）ライセンス申請を取り下げ、別のEU加盟国での認可取得を目指すと発表していた。 しかし、7月1日の移行期限までに認可を得られない見込みで、EU域内ユーザー",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "Ripple",
+        "SBI Holdings",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "クジラは本当に買い集めているのか──蓄積と売り圧が同時に進むビットコイン市場【エックスウィン】",
+      "link": "https://www.nadanews.com/357319/",
+      "pub_date": "2026-06-29T07:45:00+09:00",
+      "pub_date_utc": "2026-06-28T22:45:00+00:00",
+      "description": "● CryptoQuantのクジラ蓄積指標を見ると、大口投資家によるビットコインの蓄積は継続している可能性がある。● 一方で、Exchange Whale Ra The post クジラは本当に買い集めているのか──蓄積と売り圧が同時に進むビットコイン市場【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビットコイン",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビットコイン クジラは本当に買い集めているのか──蓄積と売り圧が同時に進むビットコイン市場【エックスウィン】 By エックスウィン 2026年6月29日07:45 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); ● CryptoQuantのクジラ蓄積指標を見ると、大口投資家によるビットコインの蓄積は継続している可能性がある。● 一方で、Exchange Whale Ratioも高めに推移しており、クジラによる取引所入金、つまり売り圧力の可能性も残っている。● エックスウィンでは、現在の市場は「クジラが買っている」と単純に言い切る局面ではなく、「蓄積と売り準備が同時に進む複雑な局面」と見ている。 ビットコインが急落する中で、市場では「クジラは買い集めているのか」という点に",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Coinbase"
+      ],
+      "main_entities": [
+        "Coinbase"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "ステーブルコインには世界の金融システムを分断するリスクがある＝国際決済銀行が警告",
+      "link": "https://www.nadanews.com/357308/",
+      "pub_date": "2026-06-29T07:30:00+09:00",
+      "pub_date_utc": "2026-06-28T22:30:00+00:00",
+      "description": "国際決済銀行（BIS）は6月28日、2026年版の年次経済報告書を公開し、約3200億ドル（約5兆1200億円、1ドル=160円換算）規模のステーブルコイン市場 The post ステーブルコインには世界の金融システムを分断するリスクがある＝国際決済銀行が警告 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "stablecoin",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "stablecoin ステーブルコインには世界の金融システムを分断するリスクがある＝国際決済銀行が警告 By 井上 俊彦 2026年6月29日07:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 国際決済銀行（BIS）は6月28日、2026年版の年次経済報告書を公開し、約3200億ドル（約5兆1200億円、1ドル=160円換算）規模のステーブルコイン市場に厳しい評価を下した。 報告書は、法定通貨に連動するトークンが大規模に安全で信頼できる通貨として機能するために必要な制度的特徴を欠くと主張している。 準備資産管理における構造的な脆弱性を指摘し、商業銀行の預金から民間デジタルトークンへの大規模な移行が銀行の資金調達を減少させ、実体経済への信用供与を制約する恐れがある",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SBI Holdings",
+        "MicroStrategy",
+        "BIS"
+      ],
+      "main_entities": [
+        "BIS"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "Strategy、再びビットコイン購入示唆",
+      "link": "https://www.nadanews.com/357307/",
+      "pub_date": "2026-06-29T07:00:00+09:00",
+      "pub_date_utc": "2026-06-28T22:00:00+00:00",
+      "description": "Strategy（ストラテジー）の共同創業者で会長を務めるMichael Saylor（マイケル・セイラー）氏が、再びビットコイン（BTC）購入を示唆した。 セ The post Strategy、再びビットコイン購入示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス Strategy、再びビットコイン購入示唆 By Shoko Galaviz 2026年6月29日07:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); Strategy（ストラテジー）の共同創業者で会長を務めるMichael Saylor（マイケル・セイラー）氏が、再びビットコイン（BTC）購入を示唆した。 セイラー氏は6月28日朝、同社のビットコイン取得状況を示すチャートをXに投稿し、「もっとチャートが必要になりそうだ」とコメントした。 同氏がオレンジ色の点で表示される取得チャートを投稿することは、ストラテジーが翌週に新たなBTC購入を開示する可能性を示す恒例のシグナルとされている。過去にも6月7日と6月21日に同様の投稿を行い、その後、月曜日の8-K",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SBI Holdings",
+        "MicroStrategy"
+      ],
+      "main_entities": [
+        "MicroStrategy"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "DraftKings、独自予測市場取引所DKeXをローンチ",
+      "link": "https://www.nadanews.com/357304/",
+      "pub_date": "2026-06-29T06:30:00+09:00",
+      "pub_date_utc": "2026-06-28T21:30:00+00:00",
+      "description": "米スポーツベッティング大手DraftKings（ドラフトキングス）は、独自の予測市場取引所「DKeX」を立ち上げた。 DKeXは、同社の「DraftKings: The post DraftKings、独自予測市場取引所DKeXをローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "ビジネス",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "ビジネス DraftKings、独自予測市場取引所DKeXをローンチ By Shoko Galaviz 2026年6月29日06:30 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米スポーツベッティング大手DraftKings（ドラフトキングス）は、独自の予測市場取引所「DKeX」を立ち上げた。 DKeXは、同社の「DraftKings: Sports & Casino」アプリに統合され、利用者がスポーツ関連イベントの結果に基づく契約を取引できる予測市場サービス「DraftKings Predictions」の体験をさらに拡張する位置づけとなる。 DraftKingsは発表で、DKeXの導入により、提供コンテンツの深さ、運営上の経済性、顧客体験全体に対する管理を強め",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SBI Holdings",
+        "MicroStrategy",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "米議員、Polymarketの調査をCFTCに要請──偽の賭け宣伝報道を問題視",
+      "link": "https://www.nadanews.com/357301/",
+      "pub_date": "2026-06-29T06:00:00+09:00",
+      "pub_date_utc": "2026-06-28T21:00:00+00:00",
+      "description": "米国の超党派上院議員2人が、予測市場プラットフォームPolymarket（ポリマーケット）をめぐり、米商品先物取引委員会（CFTC）に調査を求めた。 John The post 米議員、Polymarketの調査をCFTCに要請──偽の賭け宣伝報道を問題視 first appeared on NADA NEWS（ナダ・ニュース）.",
+      "category_raw": "政策・規制",
+      "source_name": "NADA NEWS",
+      "source_url": "https://www.nadanews.com/",
+      "source_color": "#0f6e56",
+      "summary": "政策・規制 米議員、Polymarketの調査をCFTCに要請──偽の賭け宣伝報道を問題視 By Shoko Galaviz 2026年6月29日06:00 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1684808382180-0'); }); 米国の超党派上院議員2人が、予測市場プラットフォームPolymarket（ポリマーケット）をめぐり、米商品先物取引委員会（CFTC）に調査を求めた。 John Curtis（ジョン・カーティス）上院議員とAdam Schiff（アダム・シフ）上院議員は、CFTCのMichael S. Selig（マイケル・S・セリグ）委員長宛ての書簡で、ポリマーケットが偽の取引や勝利の演出を使った宣伝を行っていたとの報道について懸念を示した。 書簡は、Wall Street Jour",
+      "summary_error": true,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Binance",
+        "bitFlyer",
+        "bitbank",
+        "SBI Holdings",
+        "MicroStrategy",
+        "CFTC"
+      ],
+      "main_entities": [
+        "Binance"
+      ],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
+      "title": "金融スーパーアプリの勝者は誰に？ ロボティクスとAIの可能性（月刊 Web3 Buisness Hub 2026年6月号）",
+      "link": "https://www.neweconomy.jp/features/wbh/587386",
+      "pub_date": "2026-06-28T21:52:44+09:00",
+      "pub_date_utc": "2026-06-28T12:52:44+00:00",
+      "description": "金融スーパーアプリの勝者は誰に？ ロボティクスとAIの可能性 暗号資産/ブロックチェーンなどWeb3領域に特化した企業向けコミュニティ「Web3 Business Hub」を共同運営する、幻冬舎 あたらしい経済編集長 設",
+      "category_raw": "",
+      "source_name": "あたらしい経済",
+      "source_url": "https://www.neweconomy.jp/",
+      "source_color": "#7c3aed",
+      "summary": "金融スーパーアプリの勝者は誰に？ ロボティクスとAIの可能性 暗号資産/ブロックチェーンなどWeb3領域に特化した企業向けコミュニティ「Web3 Business Hub」を共同運営する、幻冬舎 あたらしい経済編集長 設楽悠介と、Kudasai 取締役 の Dr. Pudding こと 脇田洋平が、最新のトレンドやトピックスを語るビデオポットキャスト番組です。 今回2026年6月号は、スペースX株のIPOとxStocks、株式トークン化と日本、金融スーパーアプリの勝者は誰に？、ロボティ クスとAIの可能性などをテーマにお届けします。ポッドキャスト版は「あたらしい経済」のポッドキャストチャンネルで、ビデオポッドキャスト版は「WebX Studio」で配信中です。ぜひお楽しみください。 →番組で紹介したイベント「Enterprise Vision Summit 2026 Summer」はこちら",
+      "summary_error": true,
+      "category": "Security Token",
+      "all_entities": [],
+      "main_entities": [],
+      "manually_edited": false,
+      "fetched_at": "2026-06-29T11:29:36.859000+09:00"
+    },
+    {
       "title": "ステーブルコインの先にあるもの──野村×Circleが示した「オンチェーン金融」【編集長コラム】",
       "link": "https://www.nadanews.com/357277/",
       "pub_date": "2026-06-28T10:00:00+09:00",
@@ -50482,8 +51029,8 @@
       "fetched_at": "2026-04-22T20:48:05.179155+09:00"
     }
   ],
-  "last_updated": "2026-06-28T11:28:53.959684+09:00",
-  "total_count": 2404,
+  "last_updated": "2026-06-29T11:29:36.859000+09:00",
+  "total_count": 2428,
   "sources": [
     "NADA NEWS",
     "CoinPost",
